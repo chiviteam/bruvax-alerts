@@ -1,0 +1,48 @@
+name: Scrape latest vgc data
+
+on:
+  workflow_dispatch:
+  schedule:
+    - cron: '42 6-22 * * *'
+
+jobs:
+  scheduled:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Check out this repo
+        uses: actions/checkout@v2
+      - uses: actions/setup-node@v1
+      - uses: microsoft/playwright-github-action@v1
+      - name: Install dependencies and scrape vgc
+        run: npm install && npm run vgc
+      - name: Commit and push if changes occured
+        id: try-commit-push
+        # multiline 'additions' are escaped according to https://github.community/t/set-output-truncates-multiline-strings/16852/2
+        run: |-
+          git config user.name "Automated"
+          git config user.email "actions@users.noreply.github.com"
+          git add -A
+          timestamp=$(date -u)
+          git commit -m "Latest vgc data: ${timestamp}" || exit 0
+          git push
+          additions="$(git diff HEAD^ HEAD --name-only --diff-filter=A --exit-code ':*.md' | sed -r 's/(\w+)\/(.*)\.md$/[GC \1 activiteit: \2]\(https\:\/\/github\.com\/chiviteam\/vgc-alerts\/blob\/main\/\1\/\2\.md\)/')"
+          additions="${additions//'%'/'%25'}"
+          additions="${additions//$'\n'/'%0A'}"
+          additions="${additions//$'\r'/'%0D'}"
+          echo "::set-output name=vgc-additions::$additions"
+      - name: Notify if a step failure occured
+        uses: wireapp/github-action-wire-messenger@v1
+        if: ${{ failure() }}
+        with:
+          email: ${{secrets.WIRE_EMAIL}}
+          password: ${{secrets.WIRE_PASSWORD}}
+          conversation: ${{secrets.WIRE_CONVERSATION}}
+          text: "Vgc alert - something went wrong: [Check this](https://github.com/chiviteam/vgc-alerts/actions)"
+      - name: Notify if additions occured with regards to the markdown files
+        uses: wireapp/github-action-wire-messenger@v1
+        if: ${{ success() && steps.try-commit-push.outputs.vgc-additions != ''}}
+        with:
+          email: ${{secrets.WIRE_EMAIL}}
+          password: ${{secrets.WIRE_PASSWORD}}
+          conversation: ${{secrets.WIRE_CONVERSATION}}
+          text: "Vgc alert - new additions: \n${{steps.try-commit-push.outputs.vgc-additions}}"
