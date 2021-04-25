@@ -14,10 +14,10 @@ async function grab(turndownService, context, page) {
     await page.goto(searchUrl);
 
     const article = page.$$('section article')
-    await article.screenshot({path: 'bruvax/screenshot.png'});
+    //await article.screenshot({path: 'bruvax/screenshot.png'});
 
     let innerHtml = await article.innerHTML();
-    fs.writeFileSync('bruvax/article.md', turndownService.turndown(`<div><div>${innerHtml}</div><img src="screenshot.png"><p><a href="${searchUrl}">Based on this search</a></p></div>`));
+    fs.writeFileSync('bruvax/article.md', turndownService.turndown(`<div><div>${innerHtml}</div><p><a href="${searchUrl}">Based on this search</a></p></div>`));
 }
 
 // because we're using an old node version on github actions...
