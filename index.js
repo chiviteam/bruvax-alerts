@@ -9,14 +9,13 @@ async function grab(turndownService, context, page) {
         deleteFolderRecursive('bruvax');
     }
 
-    var searchUrl = `https://bruvax.brussels.doctena.be/`;
+    var searchUrl = 'https://bruvax.brussels.doctena.be/';
 
     await page.goto(searchUrl);
 
-    const article = page.$$('section article')
-    //await article.screenshot({path: 'bruvax/screenshot.png'});
+    await page.screenshot({path: 'bruvax/screenshot.png'});
 
-    let innerHtml = await article.innerHTML();
+    let innerHtml = await page.textContent('article');
     fs.writeFileSync('bruvax/article.md', turndownService.turndown(`<div><div>${innerHtml}</div><p><a href="${searchUrl}">Based on this search</a></p></div>`));
 }
 

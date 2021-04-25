@@ -23,7 +23,7 @@ jobs:
           git config user.email "actions@users.noreply.github.com"
           git add -A
           timestamp=$(date -u)
-          git commit -m "Latest vgc data: ${timestamp}" || exit 0
+          git commit -m "Latest bruvax data: ${timestamp}" || exit 0
           git push
           additions="$(git diff HEAD^ HEAD --name-only --diff-filter=A --exit-code ':*.md')"
           additions="${additions//'%'/'%25'}"
@@ -37,7 +37,7 @@ jobs:
           email: ${{secrets.WIRE_EMAIL}}
           password: ${{secrets.WIRE_PASSWORD}}
           conversation: ${{secrets.WIRE_CONVERSATION}}
-          text: "Vgc alert - something went wrong: [Check this](https://github.com/chiviteam/bruvax-alerts/actions)"
+          text: "bruvax alert - something went wrong: [Check this](https://github.com/chiviteam/bruvax-alerts/actions)"
       - name: Notify if additions occured with regards to the markdown files
         uses: wireapp/github-action-wire-messenger@v1
         if: ${{ success() && steps.try-commit-push.outputs.bruvax-changes != ''}}
@@ -45,4 +45,4 @@ jobs:
           email: ${{secrets.WIRE_EMAIL}}
           password: ${{secrets.WIRE_PASSWORD}}
           conversation: ${{secrets.WIRE_CONVERSATION}}
-          text: "Vgc alert - new additions: \n${{steps.try-commit-push.outputs.bruvax-changes}}"
+          text: "bruvax alert - new additions: \n${{steps.try-commit-push.outputs.bruvax-changes}}"
