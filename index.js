@@ -5,15 +5,9 @@ var TurndownService = require('turndown');
 
 async function grab(turndownService, context, page) {
 
-    if (fs.existsSync('bruvax')) {
-        deleteFolderRecursive('bruvax');
-    }
-
     var searchUrl = 'https://bruvax.brussels.doctena.be/';
 
     await page.goto(searchUrl);
-
-    await page.screenshot({path: 'bruvax/screenshot.png'});
 
     let innerHtml = await page.textContent('article');
     fs.writeFileSync('bruvax/article.md', turndownService.turndown(`<div><div>${innerHtml}</div><p><a href="${searchUrl}">Based on this search</a></p></div>`));
