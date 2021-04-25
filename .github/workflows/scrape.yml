@@ -3,7 +3,7 @@ name: Scrape latest bruvax data
 on:
   workflow_dispatch:
   schedule:
-    - cron: '5/15 6-23 * * *'
+    - cron: "*/15 * * * *"
 
 jobs:
   scheduled:
