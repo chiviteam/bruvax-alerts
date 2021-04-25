@@ -1,1 +1,3 @@
-jkhdkjqhdk
+Inscription dans BRUVAXPersonnes actuelles qui peuvent prendre rendez-vous:Personnes nées en 1970 ou avant, domiciliées dans la Région de Bruxelles-CapitaleAvec une invitation de vaccinationComorbiditésPersonnes qui peuvent s'inscrire sur la liste d'attente:Personnes nées en 1975 ou avant, domiciliées dans la Région de Bruxelles-CapitaleTous les centres de vaccination peuvent ne pas être suggérés dans vos choix. Les centres de vaccination qui vous sont proposés tiennent compte des critères ci-dessus.Numéro NISS (sans point, tiret, espaces)Code postal de domiciliation\*Je déclare sur l'honneur que j'appartiens au groupe de personnes appartenant aux catégories/phases de vaccination actuelles, identifiées pour recevoir un vaccin anti- COVID-19.Continuer
+
+[Based on this search](https://bruvax.brussels.doctena.be/)
