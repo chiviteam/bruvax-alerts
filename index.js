@@ -9,7 +9,8 @@ async function grab(turndownService, context, page) {
 
     await page.goto(searchUrl);
 
-    let innerHtml = await page.textContent('article');
+    let innerHtml = await page.innerHTML('article');
+    //innerHtml = await innerHtml.content()
     fs.writeFileSync('bruvax/article.md', turndownService.turndown(`<div><div>${innerHtml}</div><p><a href="${searchUrl}">Based on this search</a></p></div>`));
 }
 
