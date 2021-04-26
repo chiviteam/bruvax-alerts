@@ -1,5 +1,3 @@
-TESTEEEEE
-
 Inscription dans BRUVAX
 -----------------------
 
