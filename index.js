@@ -1,35 +1,21 @@
 //@ts-check
 const {firefox} = require('playwright');
 const fs = require('fs');
-var TurndownService = require('turndown');
+const TurndownService = require('turndown');
 
 async function grab(turndownService, context, page) {
 
-    var searchUrl = 'https://bruvax.brussels.doctena.be/';
+    const scrapeUrl = 'https://bruvax.brussels.doctena.be/';
 
-    await page.goto(searchUrl);
+    await page.goto(scrapeUrl);
 
-    let innerHtml = await page.innerHTML('article');
+    //const innerHtml = await page.innerHTML('article');
+    const elementHandle = await page.$('article');
+    await elementHandle.screenshot({ path: 'bruvax/screenshot.png' });
     //innerHtml = await innerHtml.content()
-    fs.writeFileSync('bruvax/article.md', turndownService.turndown(`<div><div>${innerHtml}</div><p><a href="${searchUrl}">Based on this search</a></p></div>`));
+    const innerHtml = await elementHandle.innerHTML();
+    fs.writeFileSync('bruvax/article.md', turndownService.turndown(`<div><div>${innerHtml}</div><img src="screenshot.png"><p><a href="${scrapeUrl}">Source</a></p></div>`));
 }
-
-// because we're using an old node version on github actions...
-function deleteFolderRecursive(path) {
-    let files = [];
-    if (fs.existsSync(path)) {
-        files = fs.readdirSync(path);
-        files.forEach(function (file, index) {
-            let curPath = path + "/" + file;
-            if (fs.lstatSync(curPath).isDirectory()) { // recurse
-                deleteFolderRecursive(curPath);
-            } else { // delete file
-                fs.unlinkSync(curPath);
-            }
-        });
-        fs.rmdirSync(path);
-    }
-};
 
 (async () => {
 
