@@ -29,6 +29,16 @@ async function grab(turndownService, context, page, scrapeUrl, selector, folder)
             scrapeUrl: "https://www.circuszonderhanden.be/inschrijven",
             selector: ".page-content",
             folder: "circus"
+        },
+        {
+            scrapeUrl: "https://www.splashbrussel.be/inschrijving",
+            selector: "main",
+            folder: "splash"
+        },
+        {
+            scrapeUrl: "https://www.eendjesschaarbeek.be/practice_areas",
+            selector: 'main',
+            folder: "eendjes"
         }
     ]
 
