@@ -19,6 +19,14 @@ async function grab(turndownService, context, page, scrapeUrl, selector, folder)
 
     console.log("Starting...")
 
+    const checks = [
+        {
+            scrapeUrl: "https://bruvax.brussels.doctena.be/",
+            selector: "article",
+            folder: "bruvax"
+        }
+    ]
+
     var turndownService = new TurndownService({emDelimiter: '*'}).remove('script');
 
     let browser = null;
@@ -26,12 +34,19 @@ async function grab(turndownService, context, page, scrapeUrl, selector, folder)
         browser = await firefox.launch();
         const context = await browser.newContext();
         const page = await context.newPage();
+        let failed = false;
 
-        await grab(turndownService, context, page, 'https://bruvax.brussels.doctena.be/', 'article', 'bruvax');
-
-    } catch (e) {
-        console.error("Something failed", e);
-        return process.exit(1);
+        for (const check of checks) {
+            try {
+                await grab(turndownService, context, page, check.scrapeUrl, check.selector, check.folder);   
+            } catch (e) {
+                failed = true;
+                console.error("Something failed", e);
+            }
+        }
+        if (failed) {
+            return process.exit(1);
+        }
     } finally {
         if (browser != null) {
             await browser.close();
