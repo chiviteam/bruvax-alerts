@@ -24,6 +24,11 @@ async function grab(turndownService, context, page, scrapeUrl, selector, folder)
             scrapeUrl: "https://bruvax.brussels.doctena.be/",
             selector: "article",
             folder: "bruvax"
+        },
+        {
+            scrapeUrl: "https://www.circuszonderhanden.be/inschrijven",
+            selector: ".page-content",
+            folder: "circus"
         }
     ]
 
