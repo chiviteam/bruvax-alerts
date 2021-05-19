@@ -33,7 +33,7 @@ Inschrijving wachtlijst sport-en zwemlessen
 Inschrijvingsprocedure
 ----------------------
 
-Omwille van de grote vraag naar zwemlessen, geven wij in eerste instantie 1 abonnement per persoon. Indien er na de inschrijvingen nog plaatsen vrij zijn kunnen onze leden zich voor een 2de les inschrijven indien gewenst.
+GREG TESTING IGNORE PLS van de grote vraag naar zwemlessen, geven wij in eerste instantie 1 abonnement per persoon. Indien er na de inschrijvingen nog plaatsen vrij zijn kunnen onze leden zich voor een 2de les inschrijven indien gewenst.
 
 ​
 
