@@ -30,7 +30,7 @@ jobs:
           additions="${additions//$'\n'/'%0A'}"
           additions="${additions//$'\r'/'%0D'}"
           echo "::set-output name=bruvax-changes::$additions"
-          echo "::set-output name=check-url::${GITHUB_SERVER_URL}/${env.GITHUB_REPOSITORY}"
+          echo "::set-output name=check-url::$GITHUB_SERVER_URL/$GITHUB_REPOSITORY"
       - name: Notify if additions occured with regards to the markdown files
         uses: wireapp/github-action-wire-messenger@v1
         if: ${{ success() && steps.try-commit-push.outputs.bruvax-changes != ''}}
