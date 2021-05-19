@@ -25,7 +25,7 @@ jobs:
           timestamp=$(date -u)
           git commit -m "Latest checks data: ${timestamp}" || exit 0
           git push
-          additions="$(git diff HEAD^ HEAD ':*.md')"
+          additions="$(git diff -w HEAD^ HEAD ':*.md')"
           additions="${additions//'%'/'%25'}"
           additions="${additions//$'\n'/'%0A'}"
           additions="${additions//$'\r'/'%0D'}"
