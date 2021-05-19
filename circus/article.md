@@ -1,7 +1,7 @@
 Lessen (schooljaar 2020-2021)
 =============================
 
-GREG TESTING NICER DIFF IN WIRE al circusles bij ons? **De voorinschrijvingen starten op donderdag 11 juni om 17u**. Ook broers en zussen kunnen zich inschrijven!  
+Volg jij al circusles bij ons? **De voorinschrijvingen starten op donderdag 11 juni om 17u**. Ook broers en zussen kunnen zich inschrijven!  
   
 Volg jij nog geen circusles bij ons? **De inschrijvingen starten op donderdag 25 juni om 17u.**    
   
