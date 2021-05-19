@@ -37,4 +37,4 @@ jobs:
           email: ${{secrets.WIRE_EMAIL}}
           password: ${{secrets.WIRE_PASSWORD}}
           conversation: ${{secrets.WIRE_CONVERSATION}}
-          text: "Check alert - changes:\n```diff\n${{steps.try-commit-push.outputs.bruvax-changes}}\n```\n${{env.GITHUB_SERVER_URL}}/${{env.GITHUB_REPOSITORY}}"
+          text: "Check alert - changes:\n```diff\n${{steps.try-commit-push.outputs.bruvax-changes}}\n```"
