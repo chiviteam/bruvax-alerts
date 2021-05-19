@@ -14,7 +14,7 @@ jobs:
       - uses: actions/setup-node@v1
       - uses: microsoft/playwright-github-action@v1
       - name: Install dependencies and scrape checks
-        run: npm install && npm run bruvax
+        run: npm install && npm run checks
       - name: Commit and push if changes occured
         id: try-commit-push
         # multiline 'additions' are escaped according to https://github.community/t/set-output-truncates-multiline-strings/16852/2
@@ -29,13 +29,13 @@ jobs:
           additions="${additions//'%'/'%25'}"
           additions="${additions//$'\n'/'%0A'}"
           additions="${additions//$'\r'/'%0D'}"
-          echo "::set-output name=bruvax-changes::$additions"
-          echo "::set-output name=check-url::$GITHUB_SERVER_URL/$GITHUB_REPOSITORY"
+          echo "::set-output name=checks-changes::$additions"
+          echo "::set-output name=checks-url::$GITHUB_SERVER_URL/$GITHUB_REPOSITORY"
       - name: Notify if additions occured with regards to the markdown files
         uses: wireapp/github-action-wire-messenger@v1
-        if: ${{ success() && steps.try-commit-push.outputs.bruvax-changes != ''}}
+        if: ${{ success() && steps.try-commit-push.outputs.checks-changes != ''}}
         with:
           email: ${{secrets.WIRE_EMAIL}}
           password: ${{secrets.WIRE_PASSWORD}}
           conversation: ${{secrets.WIRE_CONVERSATION}}
-          text: "Check alert - changes:\n```diff\n${{steps.try-commit-push.outputs.bruvax-changes}}\n```\n${{steps.try-commit-push.outputs.check-url}}"
+          text: "Check alert - changes:\n```diff\n${{steps.try-commit-push.outputs.checks-changes}}\n```\n${{steps.try-commit-push.outputs.checks-url}}"
