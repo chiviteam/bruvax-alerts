@@ -1,6 +1,6 @@
 ##### ZWEMBADEN
 
-test greg  zwemmen normaal in het Neptuniumzwembad in Schaarbeek. Het zwembad is echter gesloten voor een grondige renovatie. 
+De Eendjes zwemmen normaal in het Neptuniumzwembad in Schaarbeek. Het zwembad is echter gesloten voor een grondige renovatie. 
 
 Sinds september 2017 zwemmen wij daarom in het zwembad van Laken, sinds januari 2020 in het zwembad van Sint-Joost-ten-Node en vanaf het schooljaar 2020-2021 komt daar het zwembad van Sint-Gillis bij.
 
