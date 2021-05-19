@@ -95,6 +95,4 @@ De club zal de ouders contacteren indien er veel afwezigheden worden vastgesteld
 
 Na enkele ongewettigde afwezigheden behoudt de club het recht het kind uit te schrijven zonder terugbetaling van het lidgeld.
 
-![](screenshot.png)
-
 [Source](https://www.eendjesschaarbeek.be/practice_areas)

@@ -86,6 +86,4 @@ Stuur ons een mailtje: [splashbrussel@gmail.com](mailto:splashbrussel@gmail.com)
 
 [HULP ONLINE BETALEN](https://www.splashbrussel.be/hulp-online-betalen)
 
-![](screenshot.png)
-
 [Source](https://www.splashbrussel.be/inschrijving)

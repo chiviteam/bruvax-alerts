@@ -51,7 +51,7 @@ Helaas kunnen we dit jaar wel geen zomerspeelplein aanbieden in Molenbeek. Er zu
 
 *   [Kampen & speelpleinen](https://www.circuszonderhanden.be/kampen)
 
-![](https://www.circuszonderhanden.be//files/kleuters.gif)
+![](https://www.circuszonderhanden.be/img/placeholder.png)
 
 Uitschrijvingsvoorwaarden
 =========================
@@ -73,7 +73,5 @@ FR
 \> Après, l'annulation est possible uniquement pour des raisons médicales. Vous payez aussi les frais administratifs de 15,00€ pour la désinscription et le coût par cours écoulé, le solde du montant d’inscription déjà acquitté sera remboursé.
 
 Une annulation ou une désinscription n’est possible que par écrit; par e-mail  (niki@zonderhanden.be) ou par la poste (Chaussée de Merchtem 9 1080 Molenbeek-Saint-Jean). La désinscription commence à la date de cette écriture.
-
-![](screenshot.png)
 
 [Source](https://www.circuszonderhanden.be/inschrijven)

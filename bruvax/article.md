@@ -23,6 +23,4 @@ Code postal du domicile\*
 
 Je déclare sur l'honneur que je fais partie du groupe de personnes appartenant aux catégories / phases de vaccination actuelles, identifiées pour recevoir un vaccin anti- COVID-19.Continuer
 
-![](screenshot.png)
-
 [Source](https://bruvax.brussels.doctena.be/)
