@@ -37,4 +37,4 @@ jobs:
           email: ${{secrets.WIRE_EMAIL}}
           password: ${{secrets.WIRE_PASSWORD}}
           conversation: ${{secrets.WIRE_CONVERSATION}}
-          text: "Check alert - changes: \n${{steps.try-commit-push.outputs.bruvax-changes}}"
+          text: "Check alert - changes: \n```diff\n${{steps.try-commit-push.outputs.bruvax-changes}}\n```"
