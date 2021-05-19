@@ -9,10 +9,11 @@ async function grab(turndownService, context, page, scrapeUrl, selector, folder)
     await page.goto(scrapeUrl);
 
     const elementHandle = await page.$(selector);
-    await elementHandle.screenshot({ path: `${folder}/screenshot.png` });
+    //await elementHandle.screenshot({ path: `${folder}/screenshot.png` });
     const innerHtml = await elementHandle.innerHTML();
     
-    fs.writeFileSync(`${folder}/article.md`, turndownService.turndown(`<div><div>${innerHtml}</div><img src="screenshot.png"><p><a href="${scrapeUrl}">Source</a></p></div>`));
+    //fs.writeFileSync(`${folder}/article.md`, turndownService.turndown(`<div><div>${innerHtml}</div><img src="screenshot.png"><p><a href="${scrapeUrl}">Source</a></p></div>`));
+    fs.writeFileSync(`${folder}/article.md`, turndownService.turndown(`<div><div>${innerHtml}</div><p><a href="${scrapeUrl}">Source</a></p></div>`));
 }
 
 (async () => {

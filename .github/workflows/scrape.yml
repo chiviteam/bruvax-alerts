@@ -3,7 +3,7 @@ name: Scrape latest checks
 on:
   workflow_dispatch:
   schedule:
-    - cron: "15,45 6-22 * * *"
+    - cron: "15,30,45 6-22 * * *"
 
 jobs:
   scheduled:
@@ -23,21 +23,13 @@ jobs:
           git config user.email "actions@users.noreply.github.com"
           git add -A
           timestamp=$(date -u)
-          git commit -m "Latest bruvax data: ${timestamp}" || exit 0
+          git commit -m "Latest checks data: ${timestamp}" || exit 0
           git push
           additions="$(git diff HEAD^ HEAD ':*.md')"
           additions="${additions//'%'/'%25'}"
           additions="${additions//$'\n'/'%0A'}"
           additions="${additions//$'\r'/'%0D'}"
           echo "::set-output name=bruvax-changes::$additions"
-      - name: Notify if a step failure occured
-        uses: wireapp/github-action-wire-messenger@v1
-        if: ${{ failure() }}
-        with:
-          email: ${{secrets.WIRE_EMAIL}}
-          password: ${{secrets.WIRE_PASSWORD}}
-          conversation: ${{secrets.WIRE_CONVERSATION}}
-          text: "bruvax alert - something went wrong: [Check this](https://github.com/chiviteam/bruvax-alerts/actions)"
       - name: Notify if additions occured with regards to the markdown files
         uses: wireapp/github-action-wire-messenger@v1
         if: ${{ success() && steps.try-commit-push.outputs.bruvax-changes != ''}}
@@ -45,4 +37,4 @@ jobs:
           email: ${{secrets.WIRE_EMAIL}}
           password: ${{secrets.WIRE_PASSWORD}}
           conversation: ${{secrets.WIRE_CONVERSATION}}
-          text: "bruvax alert - new additions: \n${{steps.try-commit-push.outputs.bruvax-changes}}"
+          text: "Check alert - changes: \n${{steps.try-commit-push.outputs.bruvax-changes}}"
