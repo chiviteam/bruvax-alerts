@@ -3,7 +3,7 @@ Inscription dans BRUVAX
 
 ### Personnes qui peuvent prendre un rendez-vous actuellement :
 
-*   Toutes les personnes nées en 1975 ou avant, domiciliées en Région de Bruxelles-Capitale
+*   Toutes les personnes nées en 1980 ou avant, domiciliées en Région de Bruxelles-Capitale
     
 *   Toutes les personnes ayant reçu une invitation officielle à la vaccination
     
@@ -12,7 +12,7 @@ Inscription dans BRUVAX
 
 ### Personnes qui peuvent s'inscrire sur liste d'attente, en fonction de l'âge et en cas de vaccins résiduaires disponibles :
 
-*   Toutes les personnes nées en 1980 ou avant, domiciliées en Région de Bruxelles-Capitale
+*   Toutes les personnes nées en 1985 ou avant, domiciliées en Région de Bruxelles-Capitale
     
 
 * * *
