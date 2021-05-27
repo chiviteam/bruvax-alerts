@@ -40,6 +40,11 @@ async function grab(turndownService, context, page, scrapeUrl, selector, folder)
             scrapeUrl: "https://www.eendjesschaarbeek.be/practice_areas",
             selector: 'main',
             folder: "eendjes"
+        },
+        {
+            scrapeUrl: "http://fermedejette.be/nl/de-stages/",
+            selector: 'main',
+            folder: "ferme"
         }
     ]
 
