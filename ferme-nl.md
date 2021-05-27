@@ -534,6 +534,20 @@ Du lundi 2 août au vendredi 6 août 2021
 
 franstalige stage : opgelet, het kind moet GOED de taal spreken en begrijpen, het is geen taalstage!
 
+Nederlandstalige stage van maandag 23 augustus tot 27 juli
+
+Van lundi 23 août tot vendredi 27 août 2021
+
+**Prijs : 110 €**
+
+**Datum van inschrijving :** inschrijvingsformulier beschikbaar OP vendredi 28 mai 2021 vanaf 20:00
+
+**Leeftijdsgroep :** 4 - 6 jaar
+
+**BESCHIKBARE PLAATSEN :** 16/16
+
+Stage néerlandophone : Attention, l'enfant doit BIEN parler la langue, nous ne faisons pas d'immersion !
+
 KERSTVAKANTIE
 =============
 
