@@ -22,11 +22,6 @@ async function grab(turndownService, context, page, scrapeUrl, selector, id) {
 
     const checks = [
         {
-            scrapeUrl: "https://bruvax.brussels.doctena.be/",
-            selector: "article",
-            id: "bruvax"
-        },
-        {
             scrapeUrl: "https://www.circuszonderhanden.be/inschrijven",
             selector: ".page-content",
             id: "circus"
@@ -53,7 +48,7 @@ async function grab(turndownService, context, page, scrapeUrl, selector, id) {
         }
     ]
 
-    var turndownService = new TurndownService({emDelimiter: '*'}).remove('script');
+    const turndownService = new TurndownService({emDelimiter: '*'}).remove('script');
 
     let browser = null;
     try {
