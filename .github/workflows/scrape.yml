@@ -12,10 +12,7 @@ jobs:
       - name: Check out this repo
         uses: actions/checkout@v2
       - uses: actions/setup-node@v1
-      - uses: maxmilton/action-setup-playwright@v1
-        with:
-          browsers: firefox
-          headless: true # optional
+      - uses: microsoft/playwright-github-action@v1
       - name: Install dependencies and scrape checks
         run: npm install && npm run checks
       - name: Commit and push if changes occured
