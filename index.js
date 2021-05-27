@@ -44,7 +44,12 @@ async function grab(turndownService, context, page, scrapeUrl, selector, folder)
         {
             scrapeUrl: "http://fermedejette.be/nl/de-stages/",
             selector: 'main',
-            folder: "ferme"
+            folder: "ferme-nl"
+        },
+        {
+            scrapeUrl: "https://fermedejette.be/stages/",
+            selector: 'main',
+            folder: "ferme-fr"
         }
     ]
 
