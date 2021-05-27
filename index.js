@@ -3,17 +3,17 @@ const {firefox} = require('playwright');
 const fs = require('fs');
 const TurndownService = require('turndown');
 
-async function grab(turndownService, context, page, scrapeUrl, selector, folder) {
+async function grab(turndownService, context, page, scrapeUrl, selector, id) {
     
     await context.clearCookies();
     await page.goto(scrapeUrl);
 
     const elementHandle = await page.$(selector);
-    //await elementHandle.screenshot({ path: `${folder}/screenshot.png` });
+    //await elementHandle.screenshot({ path: `${id}.png` });
     const innerHtml = await elementHandle.innerHTML();
     
-    //fs.writeFileSync(`${folder}/article.md`, turndownService.turndown(`<div><div>${innerHtml}</div><img src="screenshot.png"><p><a href="${scrapeUrl}">Source</a></p></div>`));
-    fs.writeFileSync(`${folder}/article.md`, turndownService.turndown(`<div><div>${innerHtml}</div><p><a href="${scrapeUrl}">Source</a></p></div>`));
+    //fs.writeFileSync(`${id}.md`, turndownService.turndown(`<div><div>${innerHtml}</div><img src="${id}.png"><p><a href="${scrapeUrl}">Source</a></p></div>`));
+    fs.writeFileSync(`${id}.md`, turndownService.turndown(`<div><div>${innerHtml}</div><p><a href="${scrapeUrl}">Source</a></p></div>`));
 }
 
 (async () => {
@@ -24,32 +24,32 @@ async function grab(turndownService, context, page, scrapeUrl, selector, folder)
         {
             scrapeUrl: "https://bruvax.brussels.doctena.be/",
             selector: "article",
-            folder: "bruvax"
+            id: "bruvax"
         },
         {
             scrapeUrl: "https://www.circuszonderhanden.be/inschrijven",
             selector: ".page-content",
-            folder: "circus"
+            id: "circus"
         },
         {
             scrapeUrl: "https://www.splashbrussel.be/inschrijving",
             selector: "main",
-            folder: "splash"
+            id: "splash"
         },
         {
             scrapeUrl: "https://www.eendjesschaarbeek.be/practice_areas",
             selector: 'main',
-            folder: "eendjes"
+            id: "eendjes"
         },
         {
             scrapeUrl: "http://fermedejette.be/nl/de-stages/",
             selector: 'main',
-            folder: "ferme-nl"
+            id: "ferme-nl"
         },
         {
             scrapeUrl: "https://fermedejette.be/stages/",
             selector: 'main',
-            folder: "ferme-fr"
+            id: "ferme-fr"
         }
     ]
 
@@ -64,7 +64,7 @@ async function grab(turndownService, context, page, scrapeUrl, selector, folder)
 
         for (const check of checks) {
             try {
-                await grab(turndownService, context, page, check.scrapeUrl, check.selector, check.folder);   
+                await grab(turndownService, context, page, check.scrapeUrl, check.selector, check.id);   
             } catch (e) {
                 failed = true;
                 console.error("Something failed", e);
