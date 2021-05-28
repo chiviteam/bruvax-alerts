@@ -8,7 +8,7 @@ do
     echo "$timestamp"
     git commit -m "Oneshot: ${timestamp}" || continue
     echo "something changed"
-    kdeconnect-cli -d $(kdeconnect-cli -a --id-only)  --ping-msg "something changed"
+    kdeconnect-cli -n H4113 --ping-msg "something changed"
     sleep 5
-    kdeconnect-cli -d $(kdeconnect-cli -a --id-only)  --ping-msg "something changed man!!!"
+    kdeconnect-cli -n H4113 --ping-msg "something changed man!!!"
 done
