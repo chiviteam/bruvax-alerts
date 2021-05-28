@@ -6,8 +6,8 @@ do
     git add -A
     timestamp=$(date -u)
     git commit -m "Oneshot: ${timestamp}" || continue
-    echo "soemthing changed"
+    echo "something changed"
     kdeconnect-cli -d $(kdeconnect-cli -a --id-only)  --ping-msg "something changed"
-    git reset --hard
-    sleep 10
+    sleep 5
+    kdeconnect-cli -d $(kdeconnect-cli -a --id-only)  --ping-msg "something changed man!!!"
 done
