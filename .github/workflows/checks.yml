@@ -1,4 +1,4 @@
-name: Scrape latest checks
+name: Latest web checks
 
 on:
   workflow_dispatch:
