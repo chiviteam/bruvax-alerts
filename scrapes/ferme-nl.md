@@ -474,9 +474,11 @@ Du lundi 5 juillet au vendredi 9 juillet 2021
 
 **Tranche d'age :** 4 - 6 ans
 
-**Places disponibles :** 14/14
+**Places disponibles :** 13/14
 
 franstalige stage : opgelet, het kind moet GOED de taal spreken en begrijpen, het is geen taalstage!
+
+[Formulaire d'inscription](javascript:select_activite_stage(43,"Stage francophone du lundi 5 juillet au 9 juillet ","4","6","2021-07-05");)
 
 Stage francophone du lundi 12 juillet au 16 juillet
 
@@ -488,9 +490,11 @@ Du lundi 12 juillet au vendredi 16 juillet 2021
 
 **Tranche d'age :** 4 - 6 ans
 
-**Places disponibles :** 16/16
+**Places disponibles :** 15/16
 
 franstalige stage : opgelet, het kind moet GOED de taal spreken en begrijpen, het is geen taalstage!
+
+[Formulaire d'inscription](javascript:select_activite_stage(44,"Stage francophone du lundi 12 juillet au 16 juillet ","4","6","2021-07-12");)
 
 Nederlandstalige stage van maandag 19 juli tot 23 juli
 
@@ -502,9 +506,11 @@ Van lundi 19 juillet tot vendredi 23 juillet 2021
 
 **Leeftijdsgroep :** 4 - 6 jaar
 
-**BESCHIKBARE PLAATSEN :** 15/15
+**BESCHIKBARE PLAATSEN :** 14/15
 
 Stage néerlandophone : Attention, l'enfant doit BIEN parler la langue, nous ne faisons pas d'immersion !
+
+[Inschrijvingsformulier](javascript:select_activite_stage(45,"Nederlandstalige stage van maandag 19 juli tot 23 juli ","4","6","2021-07-19");)
 
 Nederlandstalige stage van maandag 26 juli tot 30 juli
 
@@ -520,6 +526,8 @@ Van jeudi 26 août tot lundi 30 août 2021
 
 Stage néerlandophone : attention, l'enfant doit BIEN parler néerlandais, nous ne faisons pas d'immersion !
 
+[Inschrijvingsformulier](javascript:select_activite_stage(46,"Nederlandstalige stage van maandag 26 juli tot 30 juli ","4","6","2021-08-26");)
+
 Stage francophone du lundi 2 août au 6 août
 
 Du lundi 2 août au vendredi 6 août 2021
@@ -530,9 +538,11 @@ Du lundi 2 août au vendredi 6 août 2021
 
 **Tranche d'age :** 4 - 6 ans
 
-**Places disponibles :** 15/15
+**Places disponibles :** 14/15
 
 franstalige stage : opgelet, het kind moet GOED de taal spreken en begrijpen, het is geen taalstage!
+
+[Formulaire d'inscription](javascript:select_activite_stage(47,"Stage francophone du lundi 2 août au 6 août ","4","6","2021-08-02");)
 
 Nederlandstalige stage van maandag 23 augustus tot 27 augustus
 
@@ -544,9 +554,11 @@ Van lundi 23 août tot vendredi 27 août 2021
 
 **Leeftijdsgroep :** 4 - 6 jaar
 
-**BESCHIKBARE PLAATSEN :** 16/16
+**BESCHIKBARE PLAATSEN :** 12/16
 
 Stage néerlandophone : Attention, l'enfant doit BIEN parler la langue, nous ne faisons pas d'immersion !
+
+[Inschrijvingsformulier](javascript:select_activite_stage(49,"Nederlandstalige stage van maandag 23 augustus tot 27 augustus ","4","6","2021-08-23");)
 
 Nederlandstalige stage van maandag 9 augustus tot 13 augustus
 
@@ -558,9 +570,11 @@ Van lundi 9 août tot vendredi 13 août 2021
 
 **Leeftijdsgroep :** 4 - 6 jaar
 
-**BESCHIKBARE PLAATSEN :** 15/15
+**BESCHIKBARE PLAATSEN :** 12/15
 
 Stage néerlandophone : Attention, l'enfant doit BIEN parler la langue, nous ne faisons pas d'immersion !
+
+[Inschrijvingsformulier](javascript:select_activite_stage(50,"Nederlandstalige stage van maandag 9 augustus tot 13 augustus","4","6","2021-08-09");)
 
 Stage francophone du lundi 16 août au 20 août
 
@@ -575,6 +589,8 @@ Du lundi 16 août au vendredi 20 août 2021
 **Places disponibles :** 16/16
 
 franstalige stage : opgelet, het kind moet GOED de taal spreken en begrijpen, het is geen taalstage!
+
+[Formulaire d'inscription](javascript:select_activite_stage(51,"Stage francophone du lundi 16 août au 20 août ","4","6","2021-08-16");)
 
 KERSTVAKANTIE
 =============
