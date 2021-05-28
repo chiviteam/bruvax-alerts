@@ -502,7 +502,7 @@ Van lundi 19 juillet tot vendredi 23 juillet 2021
 
 **Leeftijdsgroep :** 4 - 6 jaar
 
-**BESCHIKBARE PLAATSEN :** 16/16
+**BESCHIKBARE PLAATSEN :** 15/15
 
 Stage néerlandophone : Attention, l'enfant doit BIEN parler la langue, nous ne faisons pas d'immersion !
 
@@ -530,7 +530,7 @@ Du lundi 2 août au vendredi 6 août 2021
 
 **Tranche d'age :** 4 - 6 ans
 
-**Places disponibles :** 16/16
+**Places disponibles :** 15/15
 
 franstalige stage : opgelet, het kind moet GOED de taal spreken en begrijpen, het is geen taalstage!
 
@@ -558,7 +558,7 @@ Van lundi 9 août tot vendredi 13 août 2021
 
 **Leeftijdsgroep :** 4 - 6 jaar
 
-**BESCHIKBARE PLAATSEN :** 16/16
+**BESCHIKBARE PLAATSEN :** 15/15
 
 Stage néerlandophone : Attention, l'enfant doit BIEN parler la langue, nous ne faisons pas d'immersion !
 
