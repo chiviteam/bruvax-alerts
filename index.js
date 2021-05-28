@@ -1,20 +1,4 @@
-//@ts-check
-const {firefox} = require('playwright');
-const fs = require('fs');
-const TurndownService = require('turndown');
-
-async function grab(turndownService, context, page, scrapeUrl, selector, id) {
-    
-    await context.clearCookies();
-    await page.goto(scrapeUrl);
-
-    const elementHandle = await page.$(selector);
-    //await elementHandle.screenshot({ path: `scrapes/${id}.png` });
-    const innerHtml = await elementHandle.innerHTML();
-    
-    //fs.writeFileSync(`scrapes/${id}.md`, turndownService.turndown(`<div><div>${innerHtml}</div><img src="scrapes/${id}.png"><p><a href="${scrapeUrl}">Source</a></p></div>`));
-    fs.writeFileSync(`scrapes/${id}.md`, turndownService.turndown(`<div><div>${innerHtml}</div><p><a href="${scrapeUrl}">Source</a></p></div>`));
-}
+const lib = require("./lib");
 
 (async () => {
 
@@ -48,30 +32,6 @@ async function grab(turndownService, context, page, scrapeUrl, selector, id) {
         }
     ]
 
-    const turndownService = new TurndownService({emDelimiter: '*'}).remove('script');
-
-    let browser = null;
-    try {
-        browser = await firefox.launch();
-        const context = await browser.newContext();
-        const page = await context.newPage();
-        let failed = false;
-
-        for (const check of checks) {
-            try {
-                await grab(turndownService, context, page, check.scrapeUrl, check.selector, check.id);   
-            } catch (e) {
-                failed = true;
-                console.error("Something failed", e);
-            }
-        }
-        if (failed) {
-            return process.exit(1);
-        }
-    } finally {
-        if (browser != null) {
-            await browser.close();
-        }
-        console.log("Finished.");
-    }
+    lib.grabAll(checks);
+    
 })();
