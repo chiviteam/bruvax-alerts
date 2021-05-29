@@ -24,11 +24,6 @@ const lib = require("./lib");
             scrapeUrl: "http://fermedejette.be/nl/de-stages/",
             selector: 'main',
             id: "ferme-nl"
-        },
-        {
-            scrapeUrl: "https://fermedejette.be/stages/",
-            selector: 'main',
-            id: "ferme-fr"
         }
     ]
 
