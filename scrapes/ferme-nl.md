@@ -554,11 +554,11 @@ Van lundi 23 août tot vendredi 27 août 2021
 
 **Leeftijdsgroep :** 4 - 6 jaar
 
-**BESCHIKBARE PLAATSEN :** 1/16
+**BESCHIKBARE PLAATSEN :** 0/16
 
 Stage néerlandophone : Attention, l'enfant doit BIEN parler la langue, nous ne faisons pas d'immersion !
 
-[Inschrijvingsformulier](javascript:select_activite_stage(49,"Nederlandstalige stage van maandag 23 augustus tot 27 augustus ","4","6","2021-08-23");)
+Jammer genoeg, deze stage is volzet
 
 Nederlandstalige stage van maandag 9 augustus tot 13 augustus
 
