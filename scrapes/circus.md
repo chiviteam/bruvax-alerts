@@ -1,7 +1,83 @@
-Lessen (schooljaar 2020-2021)
-=============================
+Inschrijvingen lesjaar 2021-2022
+================================
 
-Alle info over de inschrijvingen van 2021-2022 volgt begin juni. Momenteel werken wij nog aan het nieuwe lessenrooster.
+**JE VOLGT AL LES BIJ CZH:**
+
+*   De voorinschrijvingen starten op **donderdag 10 juni om 17u**   
+    *voor jou + jouw broers en zussen!*
+
+**JE VOLGT NOG GEEN LES BIJ CZH:**
+
+*   Onze algemene inschrijvingen starten op **donderdag 24 juni om 17u**.  
+
+**WAAR INSCHRIJVEN?**
+
+*   Via ons 'ONLINE INSCHRIJVINGSFORMULIER'
+
+**HULP NODIG?**
+
+Vraag telefonische assistentie via 0471 45 47 94 of kom langs op het onthaal van Circus Zonder Handen, dan doen we het samen!
+
+*   adres: Steenweg Op Merchtem 9, 1080 Molenbeek
+*   tijdens onze [onthaaluren](https://www.circuszonderhanden.be/contact) OF
+*   donderdag 10 juni of 24 juni tussen 17u en 19u
+
+**CORONA:**
+
+Let op! Wij organiseren onze circuslessen op een veilige manier. We volgen dus de geldende COVID-19-maatregelen. Daardoor kunnen er veranderingen in het lessenrooster zijn. 
+
+***FR**  
+Toute l’information sur notre site web est en Néerlandais. N'hésitez pas à nous contacter si vous rencontrez des difficultés à consulter notre site web. Nous nous ferons un plaisir de vous aider par téléphone: 0471 45 47 94*
+
+***EN**  
+All the information on our website is in Dutch. Do not hesitate to contact us if you encounter any difficulties in consulting our website. We will be happy to help you by phone: 0471 45 47 94*
+
+Hoe inschrijven?
+================
+
+**STAP 1 -  MAAK JE KEUZE**  
+  
+Open de  pagina 'LESSEN' en kies de les(sen) waar je voor wilt inschrijven. 
+
+      [LESSEN](https://www.circuszonderhanden.be/lessen)
+
+**STAP 2 - VUL ONS INSCHRIJVINGSFORMULIER IN**
+
+*! LET OP:*
+
+*   Elke inschrijving heeft een tijdscode, als je op de eerste dag van de inschrijving te vroeg probeert in te schrijven *(voor 17u)*, is je inschrijving **niet geldig**
+*   De inschrijvingen voor wie nog geen les volgt bij Circus Zonder Handen starten op een latere datum dan de voorinschrijvingen!
+*   **Klik op de laatste pagina van het formulier op de knop 'Verzenden'!**
+
+*! ATTENTION:*
+
+*   Toutes inscriptions sont enregistrées sur base d'un code temporel, chaque inscription avant l'heure à laquelle les inscriptions commencent (17h), ne sont **pas valables**!
+*   Les inscriptions pour ceux qui ne suivent pas encore des cours chez Circus Zonder Handen commencent à une date ultérieure à celle des préinscriptions!
+*   **N'oubliez pas de cliquer sur 'Verzenden' sur la dernière page du formulaire!**
+
+      [INSCHRIJVINGSFORMULIER](https://forms.gle/pbHwdjs3Cry3bt5u8) 
+
+**STAP 3 - JE KRIJGT EEN INFOMAIL**
+
+Je krijgt een mail met de info van je registratie. **Dit is nog geen bevestigingsmail!**  
+Niet alle plaatsen zijn voor alle tarieven beschikbaar, dus wij moeten eerst even puzzelen!
+
+**STAP 4 - JE KRIJGT EEN BEVESTIGINGSMAL**
+
+Binnen de maand krijg je een bevestigingsmail (of een wachtlijst-mail). In deze mail staat ook je **betaalinformatie**.
+
+**STAP 5 - BETAAL VOOR JE INSCHRIJVING**
+
+Betaal het inschrijvingsgeld (of een eerste schijf ervan). **Pas na ontvangst van je betaling is je inschrijving definitief!** 
+
+Kampen en speelpleinen
+======================
+
+Voor alle info over onze kampen en speelpleinen, klik je op de witte knop.
+
+*   [Kampen & speelpleinen](https://www.circuszonderhanden.be/kampen)
+
+![](https://www.circuszonderhanden.be/img/placeholder.png)
 
 Uitschrijvingsvoorwaarden
 =========================
