@@ -32,7 +32,7 @@ async function grabAll(checks) {
                 await grab(turndownService, context, page, check.scrapeUrl, check.selector, check.id);   
             } catch (e) {
                 failed = true;
-                console.error("Something failed", e);
+                console.error(`Something failed for check ${check.id}`, e);
             }
         }
         if (failed) {
