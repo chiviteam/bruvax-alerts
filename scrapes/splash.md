@@ -11,24 +11,19 @@ Inschrijving
 
 ](https://www.splashbrussel.be)
 
+Inschrijving
+------------
+
+Nieuwe inschrijvingen zijn mogelijk vanaf 12/07/2021.
+
 Inschrijving wachtlijst
 -----------------------
 
-Inschrijven kan via onze wachtlijst hieronder. 
+Momenteel is er geen mogelijkheid om u in te schrijven.
 
 Blijf ook steeds op de hoogte via onze facebookpagina hieronder. 
 
-[
-
-Ga naar facebook
-
-](http://www.facebook.com/splashbrusselvzw)
-
-[
-
-Inschrijving wachtlijst sport-en zwemlessen
-
-](https://www.mijnassist.be/NL/57b5cc89-1e2b-4c71-87f2-84b02f53ac97/waitinglist/subscribe)
+[Volg ons via onze FB-pagina](http://www.facebook.com/splashbrusselvzw)
 
 Inschrijvingsprocedure
 ----------------------
@@ -65,11 +60,7 @@ Voor de betaling voor het schooljaar 2020-2021 zal de betaling online verlopen. 
 
 ​
 
-Opmerking: Indien je gespreid wil betalen, laat ons dit zeker tijdig weten!
-
-Je betaling moet ten laatste op 01/07/2020 betaald zijn!   
-  
-Deadline = 01/07/2020
+Opmerking: Indien je gespreid wil betalen, laat ons dit zeker tijdig weten via [splashbrussel@gmail.com](mailto:splashbrussel@gmail.com) !
 
 ​
 
