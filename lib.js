@@ -8,6 +8,13 @@ async function grab(turndownService, context, page, scrapeUrl, selector, id) {
     await context.clearCookies();
     await page.goto(scrapeUrl);
 
+    // make all relative urls absolute
+    await page.$$eval('a', (links) => {
+        links.forEach(link => {
+            link.href = link.href
+        })
+    });
+
     const elementHandle = await page.$(selector);
     //await elementHandle.screenshot({ path: `scrapes/${id}.png` });
     const innerHtml = await elementHandle.innerHTML();

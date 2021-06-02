@@ -174,7 +174,7 @@ Van lundi 9 août tot vendredi 13 août 2021
 
 \[ Tweetalige stage - Stage bilingue - FR/NL \]
 
-[Inschrijvingsformulier](javascript:select_activite_stage(36,"Van 9 tot 13 augustus 2021 / Du 9 au 13 août 2021 - tweetalige stage / stage bilingue - 10-12 ans jaar / 10-12 ans (110€)","10","12","2021-08-09");)
+[Inschrijvingsformulier](javascript:select_activite_stage(36,"Van 9 tot 13 augustus 2021 / Du 9 au 13 ao%C3%BBt 2021 - tweetalige stage / stage bilingue - 10-12 ans jaar / 10-12 ans (110%E2%82%AC)","10","12","2021-08-09");)
 
 Du 23 au 27 août 2021 - stage 10-12 francophone (110€)
 
@@ -270,7 +270,7 @@ Du lundi 2 août au vendredi 6 août 2021
 
 franstalige stage : opgelet, het kind moet GOED de taal spreken en begrijpen, het is geen taalstage!
 
-[Formulaire d'inscription](javascript:select_activite_stage(47,"Stage francophone du lundi 2 août au 6 août ","4","6","2021-08-02");)
+[Formulaire d'inscription](javascript:select_activite_stage(47,"Stage francophone du lundi 2 ao%C3%BBt au 6 ao%C3%BBt ","4","6","2021-08-02");)
 
 Nederlandstalige stage van maandag 23 augustus tot 27 augustus
 
@@ -318,7 +318,7 @@ Du lundi 16 août au vendredi 20 août 2021
 
 franstalige stage : opgelet, het kind moet GOED de taal spreken en begrijpen, het is geen taalstage!
 
-[Formulaire d'inscription](javascript:select_activite_stage(51,"Stage francophone du lundi 16 août au 20 août ","4","6","2021-08-16");)
+[Formulaire d'inscription](javascript:select_activite_stage(51,"Stage francophone du lundi 16 ao%C3%BBt au 20 ao%C3%BBt ","4","6","2021-08-16");)
 
 KERSTVAKANTIE
 =============

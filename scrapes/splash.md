@@ -9,7 +9,7 @@ Inschrijving
 
 [
 
-](https://www.splashbrussel.be)
+](https://www.splashbrussel.be/)
 
 Inschrijving
 ------------
