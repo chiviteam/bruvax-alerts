@@ -253,11 +253,11 @@ Educatief
 
 ![uit met vlieg](/sites/all/themes/gc/t_vgc_gc_v2/images/de-vlieg.png "uit met vlieg")
 
-[![TheaterLAB 6 tot 9 jarigen](https://www.n22.brussels/sites/www.cultuurcentrumbrussel.be/files/styles/activiteit_overzicht/public/F172518a6547f4e068f326e30c5ed4593.png?itok=XPdtLdsn "© /")](https://www.n22.brussels/cursus/theaterlab-6-tot-9-jarigen)
+[![TheaterLAB 6 tot 9 jarigen](https://www.n22.brussels/sites/www.cultuurcentrumbrussel.be/files/styles/activiteit_overzicht/public/F017e751d47c143c8ab39ed7fcdaf680f.png?itok=JviOBSQc "© /")](https://www.n22.brussels/cursus/theaterlab-6-tot-9-jarigen)
 
 ### [TheaterLAB 6 tot 9 jarigen](https://www.n22.brussels/cursus/theaterlab-6-tot-9-jarigen)
 
-3.11.2021 - 22.12.2021
+10.11.2021 - 22.12.2021
 
 Heb jij altijd stiekem gedroomd om acteur/actrice te worden? Heb jij altijd al op een podium willen staan?
 
