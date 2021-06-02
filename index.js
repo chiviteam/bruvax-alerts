@@ -26,9 +26,24 @@ const lib = require("./lib");
             id: "ferme-nl"
         },
         {
-            scrapeUrl: "https://www.n22.brussels/activiteiten-zoeken?field_type_activiteit=All&field_activiteit_datum_value2%5Bdate%5D=&field_activiteit_datum_value%5Bdate%5D=&f%5B0%5D=field_activiteit_doelgroep%3A1347&f%5B1%5D=gc_gemeente_gc%3AGC%20Essegem%20%23%23%23%20Jette",
+            scrapeUrl: "https://www.n22.brussels/activiteiten-zoeken?f%5B0%5D=field_activiteit_doelgroep%3A1347&f%5B1%5D=gc_gemeente_gc%3AGC%20Essegem%20%23%23%23%20Jette",
             selector: '#block-system-main',
             id: "essegem-kleuters"
+        },
+        {
+            scrapeUrl: "https://www.n22.brussels/activiteiten-zoeken?f%5B0%5D=field_activiteit_doelgroep%3A1347&f%5B1%5D=gc_gemeente_gc%3AGC%20De%20Zeyp%20%23%23%23%20Ganshoren",
+            selector: '#block-system-main',
+            id: "dezeyp-kleuters"
+        },
+        {
+            scrapeUrl: "https://www.n22.brussels/activiteiten-zoeken?f%5B0%5D=field_activiteit_doelgroep%3A1347&f%5B1%5D=gc_gemeente_gc%3AGC%20Nekkersdal%20%23%23%23%20Laken",
+            selector: '#block-system-main',
+            id: "nekkersdal-kleuters"
+        },
+        {
+            scrapeUrl: "https://www.n22.brussels/activiteiten-zoeken?f%5B0%5D=field_activiteit_doelgroep%3A1347&f%5B1%5D=gc_gemeente_gc%3AGC%20De%20Platoo%20%23%23%23%20Koekelberg",
+            selector: '#block-system-main',
+            id: "deplatoo-kleuters"
         }
     ]
 

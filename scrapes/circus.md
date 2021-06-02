@@ -77,7 +77,7 @@ Voor alle info over onze kampen en speelpleinen, klik je op de witte knop.
 
 *   [Kampen & speelpleinen](https://www.circuszonderhanden.be/kampen)
 
-![](https://www.circuszonderhanden.be//files/kleuters.gif)
+![](https://www.circuszonderhanden.be/img/placeholder.png)
 
 Uitschrijvingsvoorwaarden
 =========================
