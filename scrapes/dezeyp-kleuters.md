@@ -1,23 +1,5 @@
-Activiteiten: 7
+Activiteiten: 6
 ---------------
-
-[![Taalkriebels: Voorlezen (3-6 jaar)](https://www.n22.brussels/sites/www.cultuurcentrumbrussel.be/files/styles/activiteit_overzicht/public/Fad2f866b3781417ca8dd7f98b15fa8d4.png?itok=En7snqeq)](https://www.n22.brussels/activiteit/taalkriebels-voorlezen-3-6-jaar)
-
-### [Taalkriebels: Voorlezen (3-6 jaar)](https://www.n22.brussels/activiteit/taalkriebels-voorlezen-3-6-jaar)
-
-6.1.2021 - 2.6.2021
-
-In samenwerking met de Nederlandstalige bibliotheek organiseren we een voorleesuurtje voor kleuters, elke eerste woensdag van de maand.
-
-[Lees meer](https://www.n22.brussels/activiteit/taalkriebels-voorlezen-3-6-jaar)
-
-GC De Zeyp
-
-Ganshoren
-
-Educatief
-
-![uit met vlieg](/sites/all/themes/gc/t_vgc_gc_v2/images/de-vlieg.png "uit met vlieg")
 
 [![Taalkriebels: Spelen met Nederlands (6-8 jaar)](https://www.n22.brussels/sites/www.cultuurcentrumbrussel.be/files/styles/activiteit_overzicht/public/F23fde58f27ec43399b9c1ad1e89989b9_0.png?itok=sqkS0jV_)](https://www.n22.brussels/cursus/taalkriebels-spelen-met-nederlands-6-8-jaar)
 

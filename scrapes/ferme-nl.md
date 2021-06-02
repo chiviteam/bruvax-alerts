@@ -202,7 +202,7 @@ Du lundi 5 juillet au vendredi 9 juillet 2021
 
 **Tranche d'age :** 4 - 6 ans
 
-**Places disponibles :** 4/13
+**Places disponibles :** 3/13
 
 franstalige stage : opgelet, het kind moet GOED de taal spreken en begrijpen, het is geen taalstage!
 
@@ -314,7 +314,7 @@ Du lundi 16 août au vendredi 20 août 2021
 
 **Tranche d'age :** 4 - 6 ans
 
-**Places disponibles :** 10/16
+**Places disponibles :** 8/16
 
 franstalige stage : opgelet, het kind moet GOED de taal spreken en begrijpen, het is geen taalstage!
 
