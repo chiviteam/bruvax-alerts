@@ -16,11 +16,7 @@ Inschrijvingen lesjaar 2021-2022
 
 **HULP NODIG?**
 
-Vraag telefonische assistentie via 0471 45 47 94 of kom langs op het onthaal van Circus Zonder Handen, dan doen we het samen!
-
-*   adres: Steenweg Op Merchtem 9, 1080 Molenbeek
-*   tijdens onze [onthaaluren](https://www.circuszonderhanden.be/contact) OF
-*   donderdag 10 juni of 24 juni tussen 17u en 19u
+Vraag [tijdens onze openingsuren](https://www.circuszonderhanden.be/contact) telefonische assistentie via 0471 45 47 94 of kom langs op het onthaal van Circus Zonder Handen, dan doen we het samen!
 
 **CORONA:**
 
@@ -85,19 +81,53 @@ Uitschrijvingsvoorwaarden
 NL
 --
 
-\> Uitschrijven voor een wekelijkse les kan tot vlak na de tweede les. Je betaalt wel een administratieve kost van 15,00€ voor de uitschrijving én de kost per les die gepasseerd is, het overige deel van het reeds betaalde inschrijvingsgeld wordt teruggestort. 
+**Uitschrijven voor een wekelijkse les**
 
-\> Daarna kan er enkel nog geannuleerd worden om medische redenen. Je betaalt dan ook een administratiekost van 15,00€ en de kost per les die al gepasseerd is. De rest van het reeds betaalde inschrijvingsgeld wordt teruggestort. 
+*   **kan tot vlak na de tweede les**
+*   administratieve kost: € 15,00
+*   **\+ de kost per les die al voorbij is** 
 
-Een annulatie of uitschrijving kan enkel schriftelijk; via e-mail (niki@zonderhanden.be) of per post (Steenweg op Merchtem 9 1080 Sint-Jans-Molenbeek). De uitschrijving gaat in op datum van dit schrijven. 
+De rest van het betaalde inschrijvingsgeld wordt teruggestort. 
+
+**Annuleren om medische redenen**.
+
+*   kan zo lang het lesjaar duurt
+*   administratieve kost: € 15,00
+*   **\+ de kost per les die al voorbij is** 
+
+De rest van het betaalde inschrijvingsgeld wordt teruggestort. 
+
+**Een annuleren of uitschrijven kan enkel schriftelijk:**
+
+*   via e-mail ([niki@zonderhanden.be](mailto:niki@zonderhanden.be))
+*   per post (Steenweg op Merchtem 9 1080 Sint-Jans-Molenbeek). 
+
+De uitschrijving gaat in op **datum** van dit schrijven. 
 
 FR
 --
 
-\> Vous pouvez vous désinscrire pour un cours hebdomadaire jusque juste après la deuxième leçon. Vous payez les frais administratifs de 15,00€ pour la désinscription et le coût par cours écoulé, le solde du montant d’inscription déjà acquitté sera remboursé. 
+**Se désinscrire pour un cours hebdomadaire**
 
-\> Après, l'annulation est possible uniquement pour des raisons médicales. Vous payez aussi les frais administratifs de 15,00€ pour la désinscription et le coût par cours écoulé, le solde du montant d’inscription déjà acquitté sera remboursé.
+*   **possible jusque juste après la deuxième leçon**
+*   frais administratif de € 15,00
+*   **\+ le coût par cours écoulé**
 
-Une annulation ou une désinscription n’est possible que par écrit; par e-mail  (niki@zonderhanden.be) ou par la poste (Chaussée de Merchtem 9 1080 Molenbeek-Saint-Jean). La désinscription commence à la date de cette écriture.
+Le solde du montant d’inscription déjà acquitté sera remboursé. 
+
+**Annulation pour des raisons médicales**
+
+*   possible pendant toute l'année
+*   frais administratif de € 15,00
+*   **\+ le coût par cours écoulé**
+
+Le solde du montant d’inscription déjà acquitté sera remboursé.
+
+**Une annulation ou une désinscription n’est possible que par écrit**
+
+*   par e-mail  ([niki@zonderhanden.be](mailto:niki@zonderhanden.be))
+*   par la poste (Chaussée de Merchtem 9 1080 Molenbeek-Saint-Jean). 
+
+La désinscription commence à la **date** de cette écriture. 
 
 [Source](https://www.circuszonderhanden.be/inschrijven)
