@@ -1,4 +1,4 @@
-Activiteiten: 24
+Activiteiten: 30
 ----------------
 
 Pages
