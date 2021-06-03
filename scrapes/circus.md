@@ -35,13 +35,13 @@ All the information on our website is in Dutch. Do not hesitate to contact us if
 Hoe inschrijven?
 ================
 
-**STAP 1 -  MAAK JE KEUZE**  
+**STAP 1 -  MAAK JE KEUZE */ CHOISIR***  
   
 Open de  pagina 'LESSEN' en kies de les(sen) waar je voor wilt inschrijven. 
 
       [LESSEN](https://www.circuszonderhanden.be/lessen)
 
-**STAP 2 - VUL ONS INSCHRIJVINGSFORMULIER IN**
+**STAP 2 - VUL ONS INSCHRIJVINGSFORMULIER IN */ REMPLISSEZ LE FORMULAIRE***
 
 *! LET OP:*
 
@@ -57,25 +57,25 @@ Open de  pagina 'LESSEN' en kies de les(sen) waar je voor wilt inschrijven. 
 
       [INSCHRIJVINGSFORMULIER](https://forms.gle/pbHwdjs3Cry3bt5u8) 
 
-**STAP 3 - JE KRIJGT EEN INFOMAIL**
+**STAP 3 - JE KRIJGT EEN INFOMAIL */  INFOS VIA MAIL***
 
-Je krijgt een mail met de info van je registratie. **Dit is nog geen bevestigingsmail!**  
+Je krijgt een mail met de info van je registratie. **Dit is nog geen bevestigingsmail! *Cette e-mail n'est pas encore votre confirmation!***  
 Niet alle plaatsen zijn voor alle tarieven beschikbaar, dus wij moeten eerst even puzzelen!
 
-**STAP 4 - JE KRIJGT EEN BEVESTIGINGSMAL**
+**STAP 4 - JE KRIJGT EEN BEVESTIGINGSMAIL */ CONFIRMATION VIA MAIL***
 
-Binnen de maand krijg je een bevestigingsmail (of een wachtlijst-mail). In deze mail staat ook je **betaalinformatie**.
+In de maand juli krijg je een bevestigingsmail (of een wachtlijst-mail). In deze mail staat ook je **betaalinformatie**. *Cette e-mail contient vos **instructions de paiement**.*
 
-**STAP 5 - BETAAL VOOR JE INSCHRIJVING**
+**STAP 5 - BETAAL VOOR JE INSCHRIJVING */ PAIEMENT***
 
 Betaal het inschrijvingsgeld (of een eerste schijf ervan). **Pas na ontvangst van je betaling is je inschrijving definitief!** 
 
 Kampen en speelpleinen
 ======================
 
-Voor alle info over onze kampen en speelpleinen, klik je op de witte knop.
+Circus Zonder Handen organiseert kampen en speelpleinen tijdens de schoolvakanties, vaak in samenwerking met externe partners.
 
-*   [Kampen & speelpleinen](https://www.circuszonderhanden.be/kampen)
+Voor alle info over onze kampen en speelpleinen, klik [HIER](https://www.circuszonderhanden.be/kampen)
 
 ![](https://www.circuszonderhanden.be/img/placeholder.png)
 
