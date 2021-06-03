@@ -202,11 +202,11 @@ Du lundi 5 juillet au vendredi 9 juillet 2021
 
 **Tranche d'age :** 4 - 6 ans
 
-**Places disponibles :** 3/13
+**Places disponibles :** 0/13
 
 franstalige stage : opgelet, het kind moet GOED de taal spreken en begrijpen, het is geen taalstage!
 
-[Formulaire d'inscription](javascript:select_activite_stage(43,"Stage francophone du lundi 5 juillet au 9 juillet ","4","6","2021-07-05");)
+Désolé, le stage est complet.
 
 Stage francophone du lundi 12 juillet au 16 juillet
 
