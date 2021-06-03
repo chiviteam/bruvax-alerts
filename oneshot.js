@@ -6,9 +6,9 @@ const lib = require("./lib");
 
     const checks = [
         {
-            scrapeUrl: "http://fermedejette.be/nl/de-stages/",
-            selector: 'main',
-            id: "ferme-nl"
+            scrapeUrl: "http://www.covidsafe.be/",
+            selector: 'body',
+            id: "covidsafe"
         }
     ]
 

@@ -44,6 +44,11 @@ const lib = require("./lib");
             scrapeUrl: "https://www.n22.brussels/activiteiten-zoeken?f%5B0%5D=field_activiteit_doelgroep%3A1347&f%5B1%5D=gc_gemeente_gc%3AGC%20De%20Platoo%20%23%23%23%20Koekelberg",
             selector: '#block-system-main',
             id: "deplatoo-kleuters"
+        },
+        {
+            scrapeUrl: "http://www.covidsafe.be/",
+            selector: 'body',
+            id: "covidsafe"
         }
     ]
 
