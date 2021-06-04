@@ -12,11 +12,15 @@ Inschrijvingen lesjaar 2021-2022
 
 **WAAR INSCHRIJVEN?**
 
-*   Via ons 'ONLINE INSCHRIJVINGSFORMULIER'
+*   Via het 'ONLINE INSCHRIJVINGSFORMULIER' onder de titel 'HOE INSCHRIJVEN', op deze pagina.
 
 **HULP NODIG?**
 
 Vraag [tijdens onze openingsuren](https://www.circuszonderhanden.be/contact) telefonische assistentie via 0471 45 47 94 of kom langs op het onthaal van Circus Zonder Handen, dan doen we het samen!
+
+**PRIJZEN EN KORTING**
+
+Meer weten over onze **prijzen en kortingen**? Bekijk dan [ONZE TARIEVEN](https://www.circuszonderhanden.be/prijzen-1)
 
 **CORONA:**
 
