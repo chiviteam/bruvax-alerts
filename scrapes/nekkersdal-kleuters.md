@@ -1,4 +1,4 @@
-Activiteiten: 30
+Activiteiten: 29
 ----------------
 
 Pages
@@ -8,24 +8,6 @@ Pages
 *   [2](https://www.n22.brussels/activiteiten-zoeken?f%5B0%5D=field_activiteit_doelgroep%3A1347&f%5B1%5D=gc_gemeente_gc%3AGC%20Nekkersdal%20%23%23%23%20Laken&page=1 "Pagina 2")
 *   [volgende ›](https://www.n22.brussels/activiteiten-zoeken?f%5B0%5D=field_activiteit_doelgroep%3A1347&f%5B1%5D=gc_gemeente_gc%3AGC%20Nekkersdal%20%23%23%23%20Laken&page=1 "Volgende pagina")
 *   [laatste »](https://www.n22.brussels/activiteiten-zoeken?f%5B0%5D=field_activiteit_doelgroep%3A1347&f%5B1%5D=gc_gemeente_gc%3AGC%20Nekkersdal%20%23%23%23%20Laken&page=1 "Naar laatste pagina")
-
-[![Reparaties Fietsen](https://www.n22.brussels/sites/www.cultuurcentrumbrussel.be/files/styles/activiteit_overzicht/public/Fa5b7d20054444877bd81705cf0feffca.png?itok=w30NKwGS)](https://www.n22.brussels/activiteit/reparaties-fietsen-5)
-
-### [Reparaties Fietsen](https://www.n22.brussels/activiteit/reparaties-fietsen-5)
-
-4.6.2021
-
-De Lakense Fietsbieb leent fietsjes uit tegen een lage prijs aan gezinnen met jonge kinderen.
-
-[Lees meer](https://www.n22.brussels/activiteit/reparaties-fietsen-5)
-
-GC Nekkersdal
-
-Laken
-
-Ander
-
-![uit met vlieg](/sites/all/themes/gc/t_vgc_gc_v2/images/de-vlieg.png "uit met vlieg")
 
 [![Creatief lab maxi](https://www.n22.brussels/sites/www.cultuurcentrumbrussel.be/files/styles/activiteit_overzicht/public/F9bb6eec4c5f940718374190bf551d618_2.png?itok=29yx8ecl)](https://www.n22.brussels/cursus/creatief-lab-maxi)
 
@@ -270,6 +252,24 @@ Educatief
 Circustricks in the mix! Steltlopen, eenwieleren, ballopen, tonlopen, koorddansen, jongleren met sjaaltjes en balletjes, diabolo, bordjes draaien, acrobatie ... In welk circusnummer ben jij het sterkst?
 
 [Lees meer](https://www.n22.brussels/cursus/circus-1)
+
+GC Nekkersdal
+
+Laken
+
+Educatief
+
+![uit met vlieg](/sites/all/themes/gc/t_vgc_gc_v2/images/de-vlieg.png "uit met vlieg")
+
+[![Circus 1](https://www.n22.brussels/sites/www.cultuurcentrumbrussel.be/files/styles/activiteit_overzicht/public/F18f8f7b00fa34ba0827f3f78bfc935e0.png?itok=aliT0h57)](https://www.n22.brussels/cursus/circus-1-0)
+
+### [Circus 1](https://www.n22.brussels/cursus/circus-1-0)
+
+4.9.2020 - 25.6.2021
+
+Circustricks in the mix! Steltlopen, eenwieleren, ballopen, tonlopen, koorddansen, jongleren met sjaaltjes en balletjes, diabolo, bordjes draaien, acrobatie ... In welk circusnummer ben jij het sterkst?
+
+[Lees meer](https://www.n22.brussels/cursus/circus-1-0)
 
 GC Nekkersdal
 
