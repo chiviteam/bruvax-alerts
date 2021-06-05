@@ -1,4 +1,4 @@
-Activiteiten: 29
+Activiteiten: 22
 ----------------
 
 Pages
@@ -8,132 +8,6 @@ Pages
 *   [2](https://www.n22.brussels/activiteiten-zoeken?f%5B0%5D=field_activiteit_doelgroep%3A1347&f%5B1%5D=gc_gemeente_gc%3AGC%20Nekkersdal%20%23%23%23%20Laken&page=1 "Pagina 2")
 *   [volgende ›](https://www.n22.brussels/activiteiten-zoeken?f%5B0%5D=field_activiteit_doelgroep%3A1347&f%5B1%5D=gc_gemeente_gc%3AGC%20Nekkersdal%20%23%23%23%20Laken&page=1 "Volgende pagina")
 *   [laatste »](https://www.n22.brussels/activiteiten-zoeken?f%5B0%5D=field_activiteit_doelgroep%3A1347&f%5B1%5D=gc_gemeente_gc%3AGC%20Nekkersdal%20%23%23%23%20Laken&page=1 "Naar laatste pagina")
-
-[![Creatief lab maxi](https://www.n22.brussels/sites/www.cultuurcentrumbrussel.be/files/styles/activiteit_overzicht/public/F9bb6eec4c5f940718374190bf551d618_2.png?itok=29yx8ecl)](https://www.n22.brussels/cursus/creatief-lab-maxi)
-
-### [Creatief lab maxi](https://www.n22.brussels/cursus/creatief-lab-maxi)
-
-26.9.2020 - 5.6.2021
-
-Kliederen en kladderen, plakken en knippen. Jouw kleuter exploreert zijn of haar creativiteit en ontdekt hoe je al dansend kan schilderen of muziek maakt met potloden.
-
-[Lees meer](https://www.n22.brussels/cursus/creatief-lab-maxi)
-
-GC Nekkersdal
-
-Laken
-
-Educatief
-
-![uit met vlieg](/sites/all/themes/gc/t_vgc_gc_v2/images/de-vlieg.png "uit met vlieg")
-
-[![Creatief lab mini](https://www.n22.brussels/sites/www.cultuurcentrumbrussel.be/files/styles/activiteit_overzicht/public/F74391d424ebf4411b347ef49a5939d5e_2.png?itok=t5DDuGuL)](https://www.n22.brussels/cursus/creatief-lab-mini)
-
-### [Creatief lab mini](https://www.n22.brussels/cursus/creatief-lab-mini)
-
-26.9.2020 - 5.6.2021
-
-Kliederen en kladderen, plakken en knippen. Jouw kleuter exploreert zijn of haar creativiteit botvieren en ontdekt hoe je al dansend kunt schilderen of muziek kan maken met potloden.
-
-[Lees meer](https://www.n22.brussels/cursus/creatief-lab-mini)
-
-GC Nekkersdal
-
-Laken
-
-Educatief
-
-![uit met vlieg](/sites/all/themes/gc/t_vgc_gc_v2/images/de-vlieg.png "uit met vlieg")
-
-[![Multisport](https://www.n22.brussels/sites/www.cultuurcentrumbrussel.be/files/styles/activiteit_overzicht/public/F7541fd8d44544cb5a9c3e0642cfe67ec_2.png?itok=_bZbCN1o)](https://www.n22.brussels/cursus/multisport-0)
-
-### [Multisport](https://www.n22.brussels/cursus/multisport-0)
-
-3.10.2020 - 5.6.2021
-
-Elke maand een andere sport!
-
-[Lees meer](https://www.n22.brussels/cursus/multisport-0)
-
-GC Nekkersdal
-
-Laken
-
-Educatief
-
-![uit met vlieg](/sites/all/themes/gc/t_vgc_gc_v2/images/de-vlieg.png "uit met vlieg")
-
-[![Mini's Spelen met Frans](https://www.n22.brussels/sites/www.cultuurcentrumbrussel.be/files/styles/activiteit_overzicht/public/Fc3ba49ad9eb047b1af027a38b302a499_2.png?itok=Xm72b0yc)](https://www.n22.brussels/cursus/minis-spelen-met-frans)
-
-### [Mini's Spelen met Frans](https://www.n22.brussels/cursus/minis-spelen-met-frans)
-
-3.10.2020 - 5.6.2021
-
-Jouw kind wordt ondergedompeld in een speels taalbad. Voor je het weet heeft hij of zij weer enkele Franse woorden bijgeleerd.
-
-[Lees meer](https://www.n22.brussels/cursus/minis-spelen-met-frans)
-
-GC Nekkersdal
-
-Laken
-
-Educatief
-
-![uit met vlieg](/sites/all/themes/gc/t_vgc_gc_v2/images/de-vlieg.png "uit met vlieg")
-
-[![Kleuters spelen met Frans](https://www.n22.brussels/sites/www.cultuurcentrumbrussel.be/files/styles/activiteit_overzicht/public/F236df99860dc4858931c1c9081d4da00_2.png?itok=rbaYvQT3)](https://www.n22.brussels/cursus/kleuters-spelen-met-frans)
-
-### [Kleuters spelen met Frans](https://www.n22.brussels/cursus/kleuters-spelen-met-frans)
-
-3.10.2020 - 5.6.2021
-
-Aan de hand van spelletjes, liedjes en creatieve opdrachten komt jouw kleuter in contact met de Franse taal.
-
-[Lees meer](https://www.n22.brussels/cursus/kleuters-spelen-met-frans)
-
-GC Nekkersdal
-
-Laken
-
-Educatief
-
-![uit met vlieg](/sites/all/themes/gc/t_vgc_gc_v2/images/de-vlieg.png "uit met vlieg")
-
-[![Spelen met Frans](https://www.n22.brussels/sites/www.cultuurcentrumbrussel.be/files/styles/activiteit_overzicht/public/Fb7bf40c964094680b1b8cd197216809f_2.png?itok=25SoPgys)](https://www.n22.brussels/cursus/spelen-met-frans)
-
-### [Spelen met Frans](https://www.n22.brussels/cursus/spelen-met-frans)
-
-3.10.2020 - 5.6.2021
-
-Laat je onderdompelen in een speels taalbad. Haast zonder het te merken heb je elke keer weer enkele Franse woorden bijgeleerd.
-
-[Lees meer](https://www.n22.brussels/cursus/spelen-met-frans)
-
-GC Nekkersdal
-
-Laken
-
-Educatief
-
-![uit met vlieg](/sites/all/themes/gc/t_vgc_gc_v2/images/de-vlieg.png "uit met vlieg")
-
-[![Multisport](https://www.n22.brussels/sites/www.cultuurcentrumbrussel.be/files/styles/activiteit_overzicht/public/F13019a47e12e423091a89082e27bcf29_0.png?itok=JQ72sOI-)](https://www.n22.brussels/cursus/multisport-1)
-
-### [Multisport](https://www.n22.brussels/cursus/multisport-1)
-
-3.10.2020 - 5.6.2021
-
-Elke maand een andere sport!
-
-[Lees meer](https://www.n22.brussels/cursus/multisport-1)
-
-GC Nekkersdal
-
-Laken
-
-Educatief
-
-![uit met vlieg](/sites/all/themes/gc/t_vgc_gc_v2/images/de-vlieg.png "uit met vlieg")
 
 [![Reparaties Fietsen](https://www.n22.brussels/sites/www.cultuurcentrumbrussel.be/files/styles/activiteit_overzicht/public/F34aa6e2c74534e46af8add91c04b8ded.png?itok=Ip9kkzoc)](https://www.n22.brussels/activiteit/reparaties-fietsen-4)
 
@@ -276,6 +150,132 @@ GC Nekkersdal
 Laken
 
 Educatief
+
+![uit met vlieg](/sites/all/themes/gc/t_vgc_gc_v2/images/de-vlieg.png "uit met vlieg")
+
+[![Reparaties Fietsen](https://www.n22.brussels/sites/www.cultuurcentrumbrussel.be/files/styles/activiteit_overzicht/public/F6845f8f0b7944244ab244a446ab82db6.png?itok=ucYTgbbd)](https://www.n22.brussels/activiteit/reparaties-fietsen)
+
+### [Reparaties Fietsen](https://www.n22.brussels/activiteit/reparaties-fietsen)
+
+25.6.2021
+
+De Lakense Fietsbieb leent fietsjes uit tegen een lage prijs aan gezinnen met jonge kinderen.
+
+[Lees meer](https://www.n22.brussels/activiteit/reparaties-fietsen)
+
+GC Nekkersdal
+
+Laken
+
+Ander
+
+![uit met vlieg](/sites/all/themes/gc/t_vgc_gc_v2/images/de-vlieg.png "uit met vlieg")
+
+[![De Fietsbieb](https://www.n22.brussels/sites/www.cultuurcentrumbrussel.be/files/styles/activiteit_overzicht/public/F8cc04c210ff14c459787fbb505eb9c4b_1.png?itok=im-J1AkV)](https://www.n22.brussels/activiteit/de-fietsbieb)
+
+### [De Fietsbieb](https://www.n22.brussels/activiteit/de-fietsbieb)
+
+27.6.2020 - 26.6.2021
+
+De Fietsbieb
+
+[Lees meer](https://www.n22.brussels/activiteit/de-fietsbieb)
+
+GC Nekkersdal
+
+Laken
+
+Ander
+
+![uit met vlieg](/sites/all/themes/gc/t_vgc_gc_v2/images/de-vlieg.png "uit met vlieg")
+
+[![Klankkleuren](https://www.n22.brussels/sites/www.cultuurcentrumbrussel.be/files/styles/activiteit_overzicht/public/F589a19580ee5406ab643a76c4576ae3e_1.png?itok=GjmW_PZ4)](https://www.n22.brussels/cursus/klankkleuren)
+
+### [Klankkleuren](https://www.n22.brussels/cursus/klankkleuren)
+
+26.9.2020 - 26.6.2021
+
+Ga met leeftijdsgenootjes op muzikaal avontuur. Rond thema's als kleur, oerwoud, stad, reizen ... Musiceer en experimenteer je op ukelele, gitaar, viool en trommels en trompetten.
+
+[Lees meer](https://www.n22.brussels/cursus/klankkleuren)
+
+GC Nekkersdal
+
+Laken
+
+Educatief
+
+![uit met vlieg](/sites/all/themes/gc/t_vgc_gc_v2/images/de-vlieg.png "uit met vlieg")
+
+[![Spelen met Frans](https://www.n22.brussels/sites/www.cultuurcentrumbrussel.be/files/styles/activiteit_overzicht/public/Fc1f1f96309cf4674b68ee15e4ecdd3fd.png?itok=aD40NKBD)](https://www.n22.brussels/cursus/spelen-met-frans-0)
+
+### [Spelen met Frans](https://www.n22.brussels/cursus/spelen-met-frans-0)
+
+3.10.2020 - 26.6.2021
+
+Laat je onderdompelen in een speels taalbad. Haast zonder het te merken heb je elke keer weer enkele Franse woorden bijgeleerd.
+
+[Lees meer](https://www.n22.brussels/cursus/spelen-met-frans-0)
+
+GC Nekkersdal
+
+Laken
+
+Educatief
+
+![uit met vlieg](/sites/all/themes/gc/t_vgc_gc_v2/images/de-vlieg.png "uit met vlieg")
+
+[![Mini's Spelen met Frans](https://www.n22.brussels/sites/www.cultuurcentrumbrussel.be/files/styles/activiteit_overzicht/public/Fe1fd845baf1f410d93128ed262026d2c.png?itok=MTAZdgU9)](https://www.n22.brussels/cursus/minis-spelen-met-frans-0)
+
+### [Mini's Spelen met Frans](https://www.n22.brussels/cursus/minis-spelen-met-frans-0)
+
+3.10.2020 - 26.6.2021
+
+Jouw kind wordt ondergedompeld in een speels taalbad. Voor je het weet heeft hij of zij weer enkele Franse woorden bijgeleerd.
+
+[Lees meer](https://www.n22.brussels/cursus/minis-spelen-met-frans-0)
+
+GC Nekkersdal
+
+Laken
+
+Educatief
+
+![uit met vlieg](/sites/all/themes/gc/t_vgc_gc_v2/images/de-vlieg.png "uit met vlieg")
+
+[![Kleuters spelen met Frans](https://www.n22.brussels/sites/www.cultuurcentrumbrussel.be/files/styles/activiteit_overzicht/public/Ff1de4170a5394e49a7b0fa343ca153ce.png?itok=nEX0Hr9e)](https://www.n22.brussels/cursus/kleuters-spelen-met-frans-0)
+
+### [Kleuters spelen met Frans](https://www.n22.brussels/cursus/kleuters-spelen-met-frans-0)
+
+3.10.2020 - 26.6.2021
+
+Aan de hand van spelletjes, liedjes en creatieve opdrachten komt jouw kleuter in contact met de Franse taal.
+
+[Lees meer](https://www.n22.brussels/cursus/kleuters-spelen-met-frans-0)
+
+GC Nekkersdal
+
+Laken
+
+Educatief
+
+![uit met vlieg](/sites/all/themes/gc/t_vgc_gc_v2/images/de-vlieg.png "uit met vlieg")
+
+[![Fietsbieb](https://www.n22.brussels/sites/www.cultuurcentrumbrussel.be/files/styles/activiteit_overzicht/public/F303216241a7b4473a93c9fadb17260e2.png?itok=GDuMdcV1)](https://www.n22.brussels/activiteit/fietsbieb)
+
+### [Fietsbieb](https://www.n22.brussels/activiteit/fietsbieb)
+
+26.6.2021
+
+De Lakense Fietsbieb leent fietsjes uit tegen een lage prijs aan gezinnen met jonge kinderen.
+
+[Lees meer](https://www.n22.brussels/activiteit/fietsbieb)
+
+GC Nekkersdal
+
+Laken
+
+Ander
 
 ![uit met vlieg](/sites/all/themes/gc/t_vgc_gc_v2/images/de-vlieg.png "uit met vlieg")
 
