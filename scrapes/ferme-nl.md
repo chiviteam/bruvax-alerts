@@ -170,7 +170,7 @@ Van lundi 9 août tot vendredi 13 août 2021
 
 **Leeftijdsgroep :** 10 - 12 jaar
 
-**BESCHIKBARE PLAATSEN :** 3/10
+**BESCHIKBARE PLAATSEN :** 1/10
 
 \[ Tweetalige stage - Stage bilingue - FR/NL \]
 
