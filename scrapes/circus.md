@@ -55,7 +55,7 @@ Open de  pagina 'LESSEN' en kies de les(sen) waar je voor wilt inschrijven. 
 *   Les inscriptions pour ceux qui ne suivent pas encore des cours chez Circus Zonder Handen commencent à une date ultérieure à celle des préinscriptions!
 *   **N'oubliez pas de cliquer sur 'Verzenden'/ 'Envoyer'/'Submit' sur la dernière page du formulaire!**
 
-      [INSCHRIJVINGSFORMULIER](https://forms.gle/pbHwdjs3Cry3bt5u8) 
+      [INSCHRIJVINGSFORMULIER](https://forms.gle/gJAkhJYjyiEQaF527) 
 
 **STAP 3 - JE KRIJGT EEN INFOMAIL */  INFOS VIA MAIL***
 
