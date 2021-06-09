@@ -218,11 +218,11 @@ Du lundi 12 juillet au vendredi 16 juillet 2021
 
 **Tranche d'age :** 4 - 6 ans
 
-**Places disponibles :** 1/16
+**Places disponibles :** 0/16
 
 franstalige stage : opgelet, het kind moet GOED de taal spreken en begrijpen, het is geen taalstage!
 
-[Formulaire d'inscription](javascript:select_activite_stage(44,"Stage francophone du lundi 12 juillet au 16 juillet ","4","6","2021-07-12");)
+Désolé, le stage est complet.
 
 Nederlandstalige stage van maandag 19 juli tot 23 juli
 
