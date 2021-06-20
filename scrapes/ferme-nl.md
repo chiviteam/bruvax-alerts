@@ -170,11 +170,11 @@ Van lundi 9 août tot vendredi 13 août 2021
 
 **Leeftijdsgroep :** 10 - 12 jaar
 
-**BESCHIKBARE PLAATSEN :** 1/10
+**BESCHIKBARE PLAATSEN :** 0/10
 
 \[ Tweetalige stage - Stage bilingue - FR/NL \]
 
-[Inschrijvingsformulier](javascript:select_activite_stage(36,"Van 9 tot 13 augustus 2021 / Du 9 au 13 ao%C3%BBt 2021 - tweetalige stage / stage bilingue - 10-12 ans jaar / 10-12 ans (110%E2%82%AC)","10","12","2021-08-09");)
+Jammer genoeg, deze stage is volzet
 
 Du 23 au 27 août 2021 - stage 10-12 francophone (110€)
 
