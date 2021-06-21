@@ -24,6 +24,11 @@ const lib = require("./lib");
             scrapeUrl: "http://fermedejette.be/nl/de-stages/",
             selector: 'main',
             id: "ferme-nl"
+        },
+        {
+            scrapeUrl: "https://www.guppies.be/",
+            selector: '.template',
+            id: "guppies"
         }/*,
         {
             scrapeUrl: "https://www.n22.brussels/activiteiten-zoeken?f%5B0%5D=field_activiteit_doelgroep%3A1347&f%5B1%5D=gc_gemeente_gc%3AGC%20Essegem%20%23%23%23%20Jette",
