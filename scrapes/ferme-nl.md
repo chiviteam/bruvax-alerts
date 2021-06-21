@@ -314,11 +314,11 @@ Du lundi 16 août au vendredi 20 août 2021
 
 **Tranche d'age :** 4 - 6 ans
 
-**Places disponibles :** 1/16
+**Places disponibles :** 0/16
 
 franstalige stage : opgelet, het kind moet GOED de taal spreken en begrijpen, het is geen taalstage!
 
-[Formulaire d'inscription](javascript:select_activite_stage(51,"Stage francophone du lundi 16 ao%C3%BBt au 20 ao%C3%BBt ","4","6","2021-08-16");)
+Désolé, le stage est complet.
 
 KERSTVAKANTIE
 =============
