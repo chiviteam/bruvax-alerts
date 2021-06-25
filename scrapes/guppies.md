@@ -38,6 +38,22 @@ Ganshoren
     
 *   [testjes](https://guppies.be/testjes.html)
 
+Mogelijkheid inschrijving nieuwe leden zwemseizoen 2021-2022
+
+  
+
+Beste mensen, vanavond, vrijdag 25/06 vanaf 20u, na de zwemlessen, zal er hier een link verschijnen waarbij je je kan aanmelden voor de testmomenten komende maandag 28/06. Let op dit geeft geen zekerheid van inschrijving. Afhankelijk van het resultaat van het testmoment bekijken we of er nog plaatsjes vrij zijn in de desbetreffende zwemgroep.
+
+  
+
+Vriendelijke groeten
+
+Zwemclub Guppies Ganshoren
+
+  
+
+  
+
 REGELING EINDE ZWEMJAAR EN HERINSCHRIJVINGEN!
 
   
