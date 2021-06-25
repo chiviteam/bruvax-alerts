@@ -38,6 +38,32 @@ Ganshoren
     
 *   [testjes](https://guppies.be/testjes.html)
 
+Beste mensen
+
+  
+
+U kan inschrijven voor de nieuwe inschrijvingen en eventueel gekoppelde testmomenten van maandag 28/06 door volgende link in je browser te kopiëren en vervolgens de nodige stappen te volgen:
+
+  
+
+https://cally.com/afspraak/inschrijven/p6x9pfmy2aj98nuu
+
+  
+
+Vriendelijke groeten
+
+  
+
+team Guppies
+
+  
+
+  
+
+  
+
+  
+
 Mogelijkheid inschrijving nieuwe leden zwemseizoen 2021-2022
 
   
