@@ -7,12 +7,16 @@
 Inschrijving
 ------------
 
+[Initiatiezwemmen & turbozwemmen](https://www.splashbrussel.be/kopie-van-staycation)
+
+[Staycation 2021](https://www.splashbrussel.be/staycation)
+
 [
 
 ](https://www.splashbrussel.be/)
 
-Inschrijving
-------------
+Inschrijving zwemlessen
+-----------------------
 
 Nieuwe inschrijvingen zijn mogelijk vanaf 12/07/2021.
 
