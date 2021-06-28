@@ -7,7 +7,7 @@
 Inschrijving
 ------------
 
-[Initiatiezwemmen & turbozwemmen](https://www.splashbrussel.be/kopie-van-staycation)
+[Initiatiezwemmen & turbozwemmen](https://www.splashbrussel.be/initiatiezwemmen-turbozwemmen)
 
 [Staycation 2021](https://www.splashbrussel.be/staycation)
 
