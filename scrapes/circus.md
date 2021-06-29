@@ -45,15 +45,11 @@ Open de  pagina 'LESSEN' en kies de les(sen) waar je voor wilt inschrijven. 
 
 *! LET OP:*
 
-*   Elke inschrijving heeft een tijdscode, als je op de eerste dag van de inschrijving te vroeg probeert in te schrijven *(voor 17u)*, is je inschrijving **niet geldig**
-*   De inschrijvingen voor wie nog geen les volgt bij Circus Zonder Handen starten op een latere datum dan de voorinschrijvingen!
-*   **Klik op de laatste pagina van het formulier op de knop 'Verzenden'/ 'Envoyer'/'Submit'!**
+*   Klik op de laatste pagina van het formulier op de knop 'Verzenden'/ 'Envoyer'/'Submit'!
 
 *! ATTENTION:*
 
-*   Toutes inscriptions sont enregistrées sur base d'un code temporel, chaque inscription avant l'heure à laquelle les inscriptions commencent (17h), ne sont **pas valables**!
-*   Les inscriptions pour ceux qui ne suivent pas encore des cours chez Circus Zonder Handen commencent à une date ultérieure à celle des préinscriptions!
-*   **N'oubliez pas de cliquer sur 'Verzenden'/ 'Envoyer'/'Submit' sur la dernière page du formulaire!**
+*   N'oubliez pas de cliquer sur 'Verzenden'/ 'Envoyer'/'Submit' sur la dernière page du formulaire!
 
       [INSCHRIJVINGSFORMULIER](https://forms.gle/gJAkhJYjyiEQaF527) 
 
