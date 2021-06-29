@@ -16,6 +16,11 @@ const lib = require("./lib");
             id: "splash"
         },
         {
+            scrapeUrl: "https://www.splashbrussel.be/uurrooster-activiteiten",
+            selector: "main",
+            id: "splash-uurrooster"
+        },
+        {
             scrapeUrl: "https://www.eendjesschaarbeek.be/practice_areas",
             selector: 'main',
             id: "eendjes"
