@@ -134,7 +134,7 @@ Du lundi 2 août au vendredi 6 août 2021
 
 **Prix : 110 €**
 
-**Dates d'inscription :** le vendredi 12 mars 2021 à 20:00
+**Dates d'inscription :** la date d'inscription sera communiquée ultérieurement.
 
 **Tranche d'age :** 7 - 9 ans
 
@@ -166,7 +166,7 @@ Van lundi 9 août tot vendredi 13 août 2021
 
 **Prijs : 110 €**
 
-**Datum van inschrijving :** inschrijvingsformulier beschikbaar OP vendredi 12 mars 2021 vanaf 20:00
+**inschrijvingsdatum:** de datum zal op voorhand gecommuniceerd worden.
 
 **Leeftijdsgroep :** 10 - 12 jaar
 
