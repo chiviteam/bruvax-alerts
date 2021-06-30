@@ -182,7 +182,7 @@ Du lundi 23 août au jeudi 26 août 2021
 
 **Prix : 110 €**
 
-**Dates d'inscription :** le vendredi 12 mars 2021 à 20:00
+**Dates d'inscription :** la date d'inscription sera communiquée ultérieurement.
 
 **Tranche d'age :** 10 - 12 ans
 
