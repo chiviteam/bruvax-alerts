@@ -86,15 +86,31 @@ Van lundi 12 juillet tot vendredi 16 juillet 2021
 
 **Prijs : 110 €**
 
-**inschrijvingsdatum:** de datum zal op voorhand gecommuniceerd worden.
+**Datum van inschrijving :** inschrijvingsformulier beschikbaar OP vendredi 12 mars 2021 vanaf 20:00
 
 **Leeftijdsgroep :** 10 - 12 jaar
 
-**BESCHIKBARE PLAATSEN :** 0/13
+**BESCHIKBARE PLAATSEN :** 2/15
 
 \[ Tweetalige stage - Stage bilingue - FR/NL \]
 
-Jammer genoeg, deze stage is volzet
+[Inschrijvingsformulier](javascript:select_activite_stage(23,"Van 12 tot 16 juli 2021 / Du 12 au 16 juillet 2021 - tweetalige stage / stage bilingue - 10-12 ans jaar / 10-12 ans (110%E2%82%AC) ","10","12","2021-07-12");)
+
+Du 19 au 23 juillet 2021 (4 jours !) - stage 7-9 francophone (88€)
+
+Du lundi 19 juillet au vendredi 23 juillet 2021
+
+**Prix : 88 €**
+
+**Dates d'inscription :** le vendredi 12 mars 2021 à 20:00
+
+**Tranche d'age :** 7 - 9 ans
+
+**Places disponibles :** 2/17
+
+\[Franstalige stage : opgelet, het kind moet GOED de taal spreken en begrijpen, het is geen taalstage!\] \[21 juillet : jour férié, pas de stage\]
+
+[Formulaire d'inscription](javascript:select_activite_stage(26,"Du 19 au 23 juillet 2021 (4 jours !) - stage 7-9 francophone (88%E2%82%AC)","7","9","2021-07-19");)
 
 Van 19 tot 23 juli 2021 (4 dagen) / Du 19 au 23 juillet 2021 (4 jours) - Tweetalige stage / stage bilingue - 10 tot 12 jaar / 10 à 12 ans (88€)
 
@@ -102,27 +118,43 @@ Van lundi 19 juillet tot vendredi 23 juillet 2021
 
 **Prijs : 88 €**
 
-**inschrijvingsdatum:** de datum zal op voorhand gecommuniceerd worden.
+**Datum van inschrijving :** inschrijvingsformulier beschikbaar OP vendredi 12 mars 2021 vanaf 20:00
 
 **Leeftijdsgroep :** 10 - 12 jaar
 
-**BESCHIKBARE PLAATSEN :** 0/13
+**BESCHIKBARE PLAATSEN :** 1/14
 
 \[ Tweetalige stage - Stage bilingue - FR/NL \] \[ 21 juillet : jour férié pas de stage \] \[ 21 july : geen stage \]
 
-Jammer genoeg, deze stage is volzet
+[Inschrijvingsformulier](javascript:select_activite_stage(27,"Van 19 tot 23 juli 2021 (4 dagen) / Du 19 au 23 juillet 2021 (4 jours) - Tweetalige stage / stage bilingue - 10 tot 12 jaar / 10 %C3%A0 12 ans (88%E2%82%AC)","10","12","2021-07-19");)
 
-Du 26 au 30 juillet 2021 - stage 7-9 francophone (110€)
+Du 26 au 30 juillet 2021 - stage 4-6 francophone (110€)
 
 Du lundi 26 juillet au vendredi 30 juillet 2021
 
 **Prix : 110 €**
 
-**Dates d'inscription :** la date d'inscription sera communiquée ultérieurement.
+**Dates d'inscription :** le vendredi 12 mars 2021 à 20:00
 
-**Tranche d'age :** 7 - 9 ans
+**Tranche d'age :** 4 - 6 ans
 
-**Places disponibles :** 0/16
+**Places disponibles :** 2/18
+
+\[Franstalige stage : opgelet, het kind moet GOED de taal spreken en begrijpen, het is geen taalstage!\]
+
+[Formulaire d'inscription](javascript:select_activite_stage(28,"Du 26 au 30 juillet 2021 - stage 4-6 francophone (110%E2%82%AC)","4","6","2021-07-26");)
+
+Du 2 au 6 août 2021 - stage 4-6 francophone (110€)
+
+Du lundi 2 août au vendredi 6 août 2021
+
+**Prix : 110 €**
+
+**Dates d'inscription :** le vendredi 12 mars 2021 à 20:00
+
+**Tranche d'age :** 4 - 6 ans
+
+**Places disponibles :** 0/17
 
 \[Franstalige stage : opgelet, het kind moet GOED de taal spreken en begrijpen, het is geen taalstage!\]
 
@@ -134,31 +166,31 @@ Du lundi 2 août au vendredi 6 août 2021
 
 **Prix : 110 €**
 
-**Dates d'inscription :** la date d'inscription sera communiquée ultérieurement.
+**Dates d'inscription :** le vendredi 12 mars 2021 à 20:00
 
 **Tranche d'age :** 7 - 9 ans
 
-**Places disponibles :** 0/9
+**Places disponibles :** 1/10
 
 \[Franstalige stage : opgelet, het kind moet GOED de taal spreken en begrijpen, het is geen taalstage!\]
 
-Désolé, le stage est complet.
+[Formulaire d'inscription](javascript:select_activite_stage(32,"Du 2 au 6 ao%C3%BBt 2021 - stage 7-9 francophone (110%E2%82%AC)","7","9","2021-08-02");)
 
-Du 9 au 13 août 2021 - stage 7-9 francophone (110€)
+Van 2 tot 6 augustus 2021 - nederlandstalige stage 4-6 jaar (110€)
 
-Du lundi 9 août au vendredi 13 août 2021
+Van lundi 2 août tot vendredi 6 août 2021
 
-**Prix : 110 €**
+**Prijs : 110 €**
 
-**Dates d'inscription :** la date d'inscription sera communiquée ultérieurement.
+**Datum van inschrijving :** inschrijvingsformulier beschikbaar OP vendredi 12 mars 2021 vanaf 20:00
 
-**Tranche d'age :** 7 - 9 ans
+**Leeftijdsgroep :** 4 - 6 jaar
 
-**Places disponibles :** 0/15
+**BESCHIKBARE PLAATSEN :** 1/17
 
-\[Franstalige stage : opgelet, het kind moet GOED de taal spreken en begrijpen, het is geen taalstage!\]
+\[Stage néerlandophone : Attention, l'enfant doit BIEN parler néerlandais, nous ne faisons pas d'immersion !\]
 
-Désolé, le stage est complet.
+[Inschrijvingsformulier](javascript:select_activite_stage(33,"Van 2 tot 6 augustus 2021 - nederlandstalige stage 4-6 jaar (110%E2%82%AC)","4","6","2021-08-02");)
 
 Van 9 tot 13 augustus 2021 / Du 9 au 13 août 2021 - tweetalige stage / stage bilingue - 10-12 ans jaar / 10-12 ans (110€)
 
@@ -166,15 +198,31 @@ Van lundi 9 août tot vendredi 13 août 2021
 
 **Prijs : 110 €**
 
-**inschrijvingsdatum:** de datum zal op voorhand gecommuniceerd worden.
+**Datum van inschrijving :** inschrijvingsformulier beschikbaar OP vendredi 12 mars 2021 vanaf 20:00
 
 **Leeftijdsgroep :** 10 - 12 jaar
 
-**BESCHIKBARE PLAATSEN :** 0/10
+**BESCHIKBARE PLAATSEN :** 0/11
 
 \[ Tweetalige stage - Stage bilingue - FR/NL \]
 
 Jammer genoeg, deze stage is volzet
+
+Du 16 au 20 août 2021 - stage 10-12 francophone (110€)
+
+Du lundi 16 août au vendredi 20 août 2021
+
+**Prix : 110 €**
+
+**Dates d'inscription :** le vendredi 12 mars 2021 à 20:00
+
+**Tranche d'age :** 10 - 12 ans
+
+**Places disponibles :** 2/14
+
+\[Franstalige stage : opgelet, het kind moet GOED de taal spreken en begrijpen, het is geen taalstage!\]
+
+[Formulaire d'inscription](javascript:select_activite_stage(39,"Du 16 au 20 ao%C3%BBt 2021 - stage 10-12 francophone (110%E2%82%AC) ","10","12","2021-08-16");)
 
 Du 23 au 27 août 2021 - stage 10-12 francophone (110€)
 
@@ -182,17 +230,17 @@ Du lundi 23 août au jeudi 26 août 2021
 
 **Prix : 110 €**
 
-**Dates d'inscription :** la date d'inscription sera communiquée ultérieurement.
+**Dates d'inscription :** le vendredi 12 mars 2021 à 20:00
 
 **Tranche d'age :** 10 - 12 ans
 
-**Places disponibles :** 0/11
+**Places disponibles :** 1/12
 
 \[Franstalige stage : opgelet, het kind moet GOED de taal spreken en begrijpen, het is geen taalstage!\]
 
-Désolé, le stage est complet.
+[Formulaire d'inscription](javascript:select_activite_stage(42,"Du 23 au 27 ao%C3%BBt 2021 - stage 10-12 francophone (110%E2%82%AC)","10","12","2021-08-23");)
 
-Stage francophone du lundi 5 juillet au 9 juillet
+Stage francophone du lundi 5 juillet au 9 juillet - 4-6 ans FR
 
 Du lundi 5 juillet au vendredi 9 juillet 2021
 
@@ -202,29 +250,13 @@ Du lundi 5 juillet au vendredi 9 juillet 2021
 
 **Tranche d'age :** 4 - 6 ans
 
-**Places disponibles :** 0/13
+**Places disponibles :** 2/14
 
 franstalige stage : opgelet, het kind moet GOED de taal spreken en begrijpen, het is geen taalstage!
 
-Désolé, le stage est complet.
+[Formulaire d'inscription](javascript:select_activite_stage(43,"Stage francophone du lundi 5 juillet au 9 juillet - 4-6 ans FR","4","6","2021-07-05");)
 
-Stage francophone du lundi 12 juillet au 16 juillet
-
-Du lundi 12 juillet au vendredi 16 juillet 2021
-
-**Prix : 110 €**
-
-**Dates d'inscription :** le vendredi 28 mai 2021 à 20:00
-
-**Tranche d'age :** 4 - 6 ans
-
-**Places disponibles :** 0/16
-
-franstalige stage : opgelet, het kind moet GOED de taal spreken en begrijpen, het is geen taalstage!
-
-Désolé, le stage est complet.
-
-Nederlandstalige stage van maandag 19 juli tot 23 juli
+Nederlandstalige stage van maandag 19 juli tot 23 juli - 4-6 jaar
 
 Van lundi 19 juillet tot vendredi 23 juillet 2021
 
@@ -234,13 +266,13 @@ Van lundi 19 juillet tot vendredi 23 juillet 2021
 
 **Leeftijdsgroep :** 4 - 6 jaar
 
-**BESCHIKBARE PLAATSEN :** 4/13
+**BESCHIKBARE PLAATSEN :** 7/16
 
 Stage néerlandophone : Attention, l'enfant doit BIEN parler la langue, nous ne faisons pas d'immersion !
 
-[Inschrijvingsformulier](javascript:select_activite_stage(45,"Nederlandstalige stage van maandag 19 juli tot 23 juli ","4","6","2021-07-19");)
+[Inschrijvingsformulier](javascript:select_activite_stage(45,"Nederlandstalige stage van maandag 19 juli tot 23 juli - 4-6 jaar","4","6","2021-07-19");)
 
-Nederlandstalige stage van maandag 26 juli tot 30 juli
+Nederlandstalige stage van maandag 26 juli tot 30 juli - 4-6 jaar
 
 Van jeudi 26 août tot lundi 30 août 2021
 
@@ -250,13 +282,13 @@ Van jeudi 26 août tot lundi 30 août 2021
 
 **Leeftijdsgroep :** 4 - 6 jaar
 
-**BESCHIKBARE PLAATSEN :** 2/12
+**BESCHIKBARE PLAATSEN :** 6/16
 
 Stage néerlandophone : attention, l'enfant doit BIEN parler néerlandais, nous ne faisons pas d'immersion !
 
-[Inschrijvingsformulier](javascript:select_activite_stage(46,"Nederlandstalige stage van maandag 26 juli tot 30 juli ","4","6","2021-08-26");)
+[Inschrijvingsformulier](javascript:select_activite_stage(46,"Nederlandstalige stage van maandag 26 juli tot 30 juli - 4-6 jaar","4","6","2021-08-26");)
 
-Stage francophone du lundi 2 août au 6 août
+Stage francophone du lundi 2 août au 6 août - 4-6 ans
 
 Du lundi 2 août au vendredi 6 août 2021
 
@@ -266,29 +298,13 @@ Du lundi 2 août au vendredi 6 août 2021
 
 **Tranche d'age :** 4 - 6 ans
 
-**Places disponibles :** 0/4
+**Places disponibles :** 2/16
 
 franstalige stage : opgelet, het kind moet GOED de taal spreken en begrijpen, het is geen taalstage!
 
-Désolé, le stage est complet.
+[Formulaire d'inscription](javascript:select_activite_stage(47,"Stage francophone du lundi 2 ao%C3%BBt au 6 ao%C3%BBt - 4-6 ans","4","6","2021-08-02");)
 
-Nederlandstalige stage van maandag 23 augustus tot 27 augustus
-
-Van lundi 23 août tot vendredi 27 août 2021
-
-**Prijs : 110 €**
-
-**Datum van inschrijving :** inschrijvingsformulier beschikbaar OP vendredi 28 mai 2021 vanaf 20:00
-
-**Leeftijdsgroep :** 4 - 6 jaar
-
-**BESCHIKBARE PLAATSEN :** 0/16
-
-Stage néerlandophone : Attention, l'enfant doit BIEN parler la langue, nous ne faisons pas d'immersion !
-
-Jammer genoeg, deze stage is volzet
-
-Nederlandstalige stage van maandag 9 augustus tot 13 augustus
+Nederlandstalige stage van maandag 9 augustus tot 13 augustus - 4-6 jaar
 
 Van lundi 9 août tot vendredi 13 août 2021
 
@@ -298,27 +314,11 @@ Van lundi 9 août tot vendredi 13 août 2021
 
 **Leeftijdsgroep :** 4 - 6 jaar
 
-**BESCHIKBARE PLAATSEN :** 2/12
+**BESCHIKBARE PLAATSEN :** 5/16
 
 Stage néerlandophone : Attention, l'enfant doit BIEN parler la langue, nous ne faisons pas d'immersion !
 
-[Inschrijvingsformulier](javascript:select_activite_stage(50,"Nederlandstalige stage van maandag 9 augustus tot 13 augustus","4","6","2021-08-09");)
-
-Stage francophone du lundi 16 août au 20 août
-
-Du lundi 16 août au vendredi 20 août 2021
-
-**Prix : 110 €**
-
-**Dates d'inscription :** le vendredi 28 mai 2021 à 20:00
-
-**Tranche d'age :** 4 - 6 ans
-
-**Places disponibles :** 0/16
-
-franstalige stage : opgelet, het kind moet GOED de taal spreken en begrijpen, het is geen taalstage!
-
-Désolé, le stage est complet.
+[Inschrijvingsformulier](javascript:select_activite_stage(50,"Nederlandstalige stage van maandag 9 augustus tot 13 augustus - 4-6 jaar","4","6","2021-08-09");)
 
 KERSTVAKANTIE
 =============
