@@ -18,7 +18,9 @@ Inschrijving
 Inschrijving zwemlessen
 -----------------------
 
-Nieuwe inschrijvingen zijn mogelijk vanaf 12/07/2021.
+Nieuwe inschrijvingen zijn mogelijk vanaf 12/07/2021 - 12u via onderstaande knop.
+
+[Schrijf je hier in voor 2021-2022](https://www.mijnassist.be/NL/57b5cc89-1e2b-4c71-87f2-84b02f53ac97/waitinglist/subscribe)
 
 Inschrijving wachtlijst
 -----------------------
