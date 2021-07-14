@@ -298,11 +298,11 @@ Du lundi 2 août au vendredi 6 août 2021
 
 **Tranche d'age :** 4 - 6 ans
 
-**Places disponibles :** 1/16
+**Places disponibles :** 0/16
 
 franstalige stage : opgelet, het kind moet GOED de taal spreken en begrijpen, het is geen taalstage!
 
-[Formulaire d'inscription](javascript:select_activite_stage(47,"Stage francophone du lundi 2 ao%C3%BBt au 6 ao%C3%BBt - 4-6 ans","4","6","2021-08-02");)
+Désolé, le stage est complet.
 
 Nederlandstalige stage van maandag 9 augustus tot 13 augustus - 4-6 jaar
 
