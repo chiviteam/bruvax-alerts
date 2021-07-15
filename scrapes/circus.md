@@ -60,7 +60,7 @@ Niet alle plaatsen zijn voor alle tarieven beschikbaar, dus wij moeten eerst eve
 
 **STAP 4 - JE KRIJGT EEN BEVESTIGINGSMAIL */ CONFIRMATION VIA MAIL***
 
-In de maand juli krijg je een bevestigingsmail (of een wachtlijst-mail). In deze mail staat ook je **betaalinformatie**. *Cet e-mail contient vos **instructions de paiement**.*
+Binnen de maand krijg je een bevestigingsmail (of een wachtlijst-mail). In deze mail staat ook je **betaalinformatie**. *Cet e-mail contient vos **instructions de paiement**.*
 
 **STAP 5 - BETAAL VOOR JE INSCHRIJVING */ PAIEMENT***
 
