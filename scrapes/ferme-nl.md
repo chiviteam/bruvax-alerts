@@ -138,11 +138,11 @@ Du lundi 26 juillet au vendredi 30 juillet 2021
 
 **Tranche d'age :** 4 - 6 ans
 
-**Places disponibles :** 1/18
+**Places disponibles :** 0/18
 
 \[Franstalige stage : opgelet, het kind moet GOED de taal spreken en begrijpen, het is geen taalstage!\]
 
-[Formulaire d'inscription](javascript:select_activite_stage(28,"Du 26 au 30 juillet 2021 - stage 4-6 francophone (110%E2%82%AC)","4","6","2021-07-26");)
+Désolé, le stage est complet.
 
 Du 2 au 6 août 2021 - stage 4-6 francophone (110€)
 
@@ -282,7 +282,7 @@ Van jeudi 26 août tot lundi 30 août 2021
 
 **Leeftijdsgroep :** 4 - 6 jaar
 
-**BESCHIKBARE PLAATSEN :** 6/16
+**BESCHIKBARE PLAATSEN :** 5/16
 
 Stage néerlandophone : attention, l'enfant doit BIEN parler néerlandais, nous ne faisons pas d'immersion !
 
