@@ -96,22 +96,6 @@ Van lundi 12 juillet tot vendredi 16 juillet 2021
 
 [Inschrijvingsformulier](javascript:select_activite_stage(23,"Van 12 tot 16 juli 2021 / Du 12 au 16 juillet 2021 - tweetalige stage / stage bilingue - 10-12 ans jaar / 10-12 ans (110%E2%82%AC) ","10","12","2021-07-12");)
 
-Du 19 au 23 juillet 2021 (4 jours !) - stage 7-9 francophone (88€)
-
-Du lundi 19 juillet au vendredi 23 juillet 2021
-
-**Prix : 88 €**
-
-**Dates d'inscription :** la date d'inscription sera communiquée ultérieurement.
-
-**Tranche d'age :** 7 - 9 ans
-
-**Places disponibles :** 2/17
-
-\[Franstalige stage : opgelet, het kind moet GOED de taal spreken en begrijpen, het is geen taalstage!\] \[21 juillet : jour férié, pas de stage\]
-
-[Formulaire d'inscription](javascript:select_activite_stage(26,"Du 19 au 23 juillet 2021 (4 jours !) - stage 7-9 francophone (88%E2%82%AC)","7","9","2021-07-19");)
-
 Van 19 tot 23 juli 2021 (4 dagen) / Du 19 au 23 juillet 2021 (4 jours) - Tweetalige stage / stage bilingue - 10 tot 12 jaar / 10 à 12 ans (88€)
 
 Van lundi 19 juillet tot vendredi 23 juillet 2021
