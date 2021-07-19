@@ -102,7 +102,7 @@ Du lundi 19 juillet au vendredi 23 juillet 2021
 
 **Prix : 88 €**
 
-**Dates d'inscription :** le vendredi 12 mars 2021 à 20:00
+**Dates d'inscription :** la date d'inscription sera communiquée ultérieurement.
 
 **Tranche d'age :** 7 - 9 ans
 
