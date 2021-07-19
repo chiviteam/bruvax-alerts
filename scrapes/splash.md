@@ -7,29 +7,30 @@
 Inschrijving
 ------------
 
+[
+
+](https://www.splashbrussel.be/)
+
 [Initiatiezwemmen & turbozwemmen](https://www.splashbrussel.be/initiatiezwemmen-turbozwemmen)
 
 [Staycation 2021](https://www.splashbrussel.be/staycation)
 
-[
-
-](https://www.splashbrussel.be/)
+[Lessenreeks Float Fit](https://www.mijnassist.be/NL/57b5cc89-1e2b-4c71-87f2-84b02f53ac97/waitinglist/subscribe)
 
 Inschrijving zwemlessen
 -----------------------
 
 Nieuwe inschrijvingen zijn mogelijk vanaf 12/07/2021 - 12u via onderstaande knop.
 
+​
+
+U komt eerst om een algemene wachtlijst. Van daaruit krijgt u een uitnodiging om u in te schrijven. U krijgt enkel de activiteiten te zien voor de trainingsgroep waarvoor in ingeschreven bent. 
+
+​
+
+Indien u recht hebt op sociaal tarief, dient u dit aan te duiden in uw persoonsgegevens. Zodra dit gevalideerd werd door ons, kan u inschrijven aan het kortingstarief. 
+
 [Schrijf je hier in voor 2021-2022](https://www.mijnassist.be/NL/57b5cc89-1e2b-4c71-87f2-84b02f53ac97/waitinglist/subscribe)
-
-Inschrijving wachtlijst
------------------------
-
-Momenteel is er geen mogelijkheid om u in te schrijven.
-
-Blijf ook steeds op de hoogte via onze facebookpagina hieronder. 
-
-[Volg ons via onze FB-pagina](http://www.facebook.com/splashbrusselvzw)
 
 Inschrijvingsprocedure
 ----------------------
@@ -48,13 +49,9 @@ Omwille van de grote vraag naar zwemlessen, geven wij in eerste instantie 1 abon
 
 ​
 
-Indien u instapt na de start van het schooljaar zal het inschrijvingsgeld via pro rata (periode) berekend worden.
-
-​
-
 Als u zich inschrijft gaat u automatisch akkoord met het reglement van Splash Brussel vzw.
 
-U zal begin juni nieuws krijgen omtrent uw inschrijving.   
+1 Week voor de start van de activiteit ontvangt u een email met praktische informatie.  
  
 
 [Huishoudelijk reglement Splash](https://dcdde5ee-49b8-4d91-86e4-7e78718b2672.filesusr.com/ugd/71aa3a_eea5adfa982f40deb50d6a6d03e4e86d.pdf)
