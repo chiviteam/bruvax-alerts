@@ -24,11 +24,27 @@ Nieuwe inschrijvingen zijn mogelijk vanaf 12/07/2021 - 12u via onderstaande knop
 
 ​
 
-U komt eerst om een algemene wachtlijst. Van daaruit krijgt u een uitnodiging om u in te schrijven. U krijgt enkel de activiteiten te zien voor de trainingsgroep waarvoor in ingeschreven bent. 
+Volg onderstaande stappen om jouw inschrijving zo vlot mogelijk te laten verlopen:
 
 ​
 
-Indien u recht hebt op sociaal tarief, dient u dit aan te duiden in uw persoonsgegevens. Zodra dit gevalideerd werd door ons, kan u inschrijven aan het kortingstarief. 
+1) Bekijk het uurrooster en zoek jouw les
+
+2) Schrijf jezelf in via onze wachtlijst en kies een van deze trainingsgroepen:
+
+\- Volwassenen (gemengd 18+)
+
+\- Vrouwenzwemmen (activiteiten exclusief voor vrouwen)
+
+\- Zwemschool kinderen (activiteiten vanaf 3,5j > 16j)
+
+​
+
+Indien u recht hebt op sociaal tarief, dient u dit aan te duiden in uw persoonsgegevens. Dit kan u zelfstandig doen via de link naar activiteiten. Bovenaan rechts ziet u 'persoonsgegevens'. Klik hierop en pas uw gegevens aan indien nodig. Zodra uw aanpassing van gegevens door ons werd gevalideerd werd, kan u inschrijven aan het kortingstarief. 
+
+​
+
+3) U ontvangt een mail met een link tot inschrijving. Daar vindt u alle beschikbare zwemactiviteiten voor u.
 
 [Schrijf je hier in voor 2021-2022](https://www.mijnassist.be/NL/57b5cc89-1e2b-4c71-87f2-84b02f53ac97/waitinglist/subscribe)
 
