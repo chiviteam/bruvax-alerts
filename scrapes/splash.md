@@ -1,4 +1,4 @@
-[Wachtlijst](https://www.splashbrussel.be/inschrijving)
+[Inschrijving zwemlessen](https://www.splashbrussel.be/inschrijving)
 
 [Procedure](https://www.splashbrussel.be/inschrijving)
 
@@ -15,8 +15,6 @@ Inschrijving
 
 [Staycation 2021](https://www.splashbrussel.be/staycation)
 
-[Lessenreeks Float Fit](https://www.mijnassist.be/NL/57b5cc89-1e2b-4c71-87f2-84b02f53ac97/waitinglist/subscribe)
-
 Inschrijving zwemlessen
 -----------------------
 
@@ -29,6 +27,14 @@ Volg onderstaande stappen om jouw inschrijving zo vlot mogelijk te laten verlope
 ​
 
 1) Bekijk het uurrooster en zoek jouw les
+
+​
+
+​
+
+​
+
+​
 
 2) Schrijf jezelf in via onze wachtlijst en kies een van deze trainingsgroepen:
 
@@ -45,6 +51,8 @@ Indien u recht hebt op sociaal tarief, dient u dit aan te duiden in uw persoonsg
 ​
 
 3) U ontvangt een mail met een link tot inschrijving. Daar vindt u alle beschikbare zwemactiviteiten voor u.
+
+[Uurrooster 2021-2022](https://www.splashbrussel.be/uurrooster)
 
 [Schrijf je hier in voor 2021-2022](https://www.mijnassist.be/NL/57b5cc89-1e2b-4c71-87f2-84b02f53ac97/waitinglist/subscribe)
 
