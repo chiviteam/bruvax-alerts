@@ -102,7 +102,7 @@ Van lundi 19 juillet tot vendredi 23 juillet 2021
 
 **Prijs : 88 €**
 
-**Datum van inschrijving :** inschrijvingsformulier beschikbaar OP vendredi 12 mars 2021 vanaf 20:00
+**inschrijvingsdatum:** de datum zal op voorhand gecommuniceerd worden.
 
 **Leeftijdsgroep :** 10 - 12 jaar
 
@@ -166,7 +166,7 @@ Van lundi 2 août tot vendredi 6 août 2021
 
 **Prijs : 110 €**
 
-**Datum van inschrijving :** inschrijvingsformulier beschikbaar OP vendredi 12 mars 2021 vanaf 20:00
+**inschrijvingsdatum:** de datum zal op voorhand gecommuniceerd worden.
 
 **Leeftijdsgroep :** 4 - 6 jaar
 
