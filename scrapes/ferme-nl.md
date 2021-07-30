@@ -118,7 +118,7 @@ Du lundi 26 juillet au vendredi 30 juillet 2021
 
 **Prix : 110 €**
 
-**Dates d'inscription :** le vendredi 12 mars 2021 à 20:00
+**Dates d'inscription :** la date d'inscription sera communiquée ultérieurement.
 
 **Tranche d'age :** 4 - 6 ans
 
@@ -198,7 +198,7 @@ Du lundi 16 août au vendredi 20 août 2021
 
 **Prix : 110 €**
 
-**Dates d'inscription :** le vendredi 12 mars 2021 à 20:00
+**Dates d'inscription :** la date d'inscription sera communiquée ultérieurement.
 
 **Tranche d'age :** 10 - 12 ans
 
@@ -206,23 +206,19 @@ Du lundi 16 août au vendredi 20 août 2021
 
 \[Franstalige stage : opgelet, het kind moet GOED de taal spreken en begrijpen, het is geen taalstage!\]
 
-[Formulaire d'inscription](javascript:select_activite_stage(39,"Du 16 au 20 ao%C3%BBt 2021 - stage 10-12 francophone (110%E2%82%AC) ","10","12","2021-08-16");)
-
 Du 23 au 27 août 2021 - stage 10-12 francophone (110€)
 
 Du lundi 23 août au jeudi 26 août 2021
 
 **Prix : 110 €**
 
-**Dates d'inscription :** le vendredi 12 mars 2021 à 20:00
+**Dates d'inscription :** la date d'inscription sera communiquée ultérieurement.
 
 **Tranche d'age :** 10 - 12 ans
 
 **Places disponibles :** 1/12
 
 \[Franstalige stage : opgelet, het kind moet GOED de taal spreken en begrijpen, het is geen taalstage!\]
-
-[Formulaire d'inscription](javascript:select_activite_stage(42,"Du 23 au 27 ao%C3%BBt 2021 - stage 10-12 francophone (110%E2%82%AC)","10","12","2021-08-23");)
 
 Stage francophone du lundi 5 juillet au 9 juillet - 4-6 ans FR
 
