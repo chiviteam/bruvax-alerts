@@ -87,13 +87,21 @@ Voor de betaling voor het schooljaar 2020-2021 zal de betaling online verlopen. 
 
 ​
 
+Heb je sportcheques? Dan betaal je eerst online zodat jouw inschrijving geregistreerd is. Bij de 1ste zwemles geef je jouw sportcheques af in een enveloppe aan ons onthaal:
+
+\-noteer de naam van jouw kind op de enveloppe
+
+\-noteer jouw rekeningnummer op de enveloppe
+
+​
+
 Opmerking: Indien je gespreid wil betalen, laat ons dit zeker tijdig weten via [splashbrussel@gmail.com](mailto:splashbrussel@gmail.com) !
 
 ​
 
 Onder "praktisch" en in ons huishoudelijke reglement vind u meer informatie omtrent de betaling, prijzen en kortingen.
 
-[Prijzen](https://www.splashbrussel.be/praktisch)
+[Prijzen](https://www.splashbrussel.be/prijzen-en-kortingen)
 
 Hebt u nog vragen?  
 Stuur ons een mailtje: [splashbrussel@gmail.com](mailto:splashbrussel@gmail.com).
