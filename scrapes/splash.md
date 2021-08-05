@@ -11,8 +11,6 @@ Inschrijving
 
 ](https://www.splashbrussel.be/)
 
-[Inschrijving lessenreeks 2021-2022](https://www.mijnassist.be/NL/57b5cc89-1e2b-4c71-87f2-84b02f53ac97/waitinglist/subscribe)
-
 [Staycation 2021](https://www.splashbrussel.be/staycation)
 
 Inschrijving zwemlessen
