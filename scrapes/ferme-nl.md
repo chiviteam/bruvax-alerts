@@ -154,7 +154,7 @@ Van lundi 9 août tot vendredi 13 août 2021
 
 **Leeftijdsgroep :** 4 - 6 jaar
 
-**BESCHIKBARE PLAATSEN :** 4/16
+**BESCHIKBARE PLAATSEN :** 3/16
 
 Stage néerlandophone : Attention, l'enfant doit BIEN parler la langue, nous ne faisons pas d'immersion !
 
