@@ -54,6 +54,11 @@ const lib = require("./lib");
             scrapeUrl: "https://diplomatie.belgium.be/fr/Services/voyager_a_letranger/conseils_par_destination/costa_rica",
             selector: "#block-system-main .field-name-body .field-item table",
             id: "diplo-costa-rica"
+        },
+        {
+            scrapeUrl: "https://diplomatie.belgium.be/fr/Services/voyager_a_letranger/conseils_par_destination/jordanie",
+            selector: "#block-system-main .field-name-body .field-item table",
+            id: "diplo-jordania"
         }
     ]
 
