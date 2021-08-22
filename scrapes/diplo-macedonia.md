@@ -16,6 +16,11 @@ Si vous vous trouvez en Macédoine du Nord nous vous conseillons vivement de sui
 
 Les mesures COVID-19 en Macédoine du Nord sont régulièrement mises à jour. Pour l'état actuel des choses, vous pouvez consulter le site suivant: [https://koronavirus.gov.mk/en (link is external)](https://koronavirus.gov.mk/en) (en anglais).
 
+Voyager en Belgique
+-------------------
+
+Le certificat de vaccination de la Macédoine du Nord est reconnu par la Commission Européenne. Il est donc équivalent à un certificat COVID numérique de l'UE et peut être utilisé pour voyager en Belgique. Les mesures applicables aux voyages en Belgique pour les personnes entièrement vaccinées peuvent être consultées [ici (link is external)](https://www.info-coronavirus.be/fr/).
+
 Le SPF Santé publique en Belgique a mis en ligne un site consacré au coronavirus: [www.info-coronavirus.be/fr (link is external)](http://www.info-coronavirus.be/fr)    
 
 [Source](https://diplomatie.belgium.be/fr/Services/voyager_a_letranger/conseils_par_destination/macedoine_du_nord)
