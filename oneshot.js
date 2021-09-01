@@ -6,9 +6,9 @@ const lib = require("./lib");
 
     const checks = [
         {
-            scrapeUrl: "http://www.covidsafe.be/",
-            selector: 'body',
-            id: "covidsafe"
+            scrapeUrl: "https://tickets.vgc.be/activity/subscribe/ESS2122_kleuteratelier",
+            selector: '#subscribeActivity',
+            id: "kleuteratelier"
         }
     ]
 
