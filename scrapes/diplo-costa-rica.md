@@ -7,14 +7,14 @@ Le Costa Rica autorise tous les pays du monde à entrer par voie aérienne et te
 
 Il est demandé aux voyageurs d'appliquer les protocoles sanitaires mis en place pour le bon déroulement de toutes les activités touristiques du pays. Cette entrée est conditionnée par 2 éléments :
 
-1.  Compléter le formulaire numérique PASE DE SALUD disponible sur : [https://salud.go.cr (link is external)](https://salud.go.cr/)  Ce formulaire sera disponible 48 heures avant d'embarquer. Il est accessible sur tous les navigateurs de recherche actualisés, sauf Internet Explorer. Le formulaire est nominatif et il concerne chaque passager, y compris les mineurs.
-2.  Souscrire à une assurance médicale internationale ou nationale. Dans le cas d'une assurance internationale, le voyageur doit demander à son assureur une certification délivrée en anglais ou en espagnol, énonçant au moins trois conditions :
+1.  **Pour tous les voyageurs :** compléter le formulaire numérique PASE DE SALUD disponible sur : [https://salud.go.cr (link is external)](https://salud.go.cr/)  Ce formulaire sera disponible 48 heures avant d'embarquer. Il est accessible sur tous les navigateurs de recherche actualisés, sauf Internet Explorer. Le formulaire est nominatif et il concerne chaque passager, y compris les mineurs.
+2.  **Pour les voyageurs non-vaccinés** : souscrire à une assurance médicale internationale ou nationale. Dans le cas d'une assurance internationale, le voyageur doit demander à son assureur une certification délivrée en anglais ou en espagnol, énonçant au moins trois conditions :
 
-*   Validité de la politique en vigueur lors de la visite au Costa Rica.
+*   Une police qui couvre la durée du séjour au Costa Rica ;
 *   Garantie de la couverture des frais médicaux en cas de maladie pandémique COVID 19 au Costa Rica, pour au moins 50 000 dollars EU (cinquante mille dollars des Etats-Unis d'Amérique).
 *   Couverture minimale de 2 000$ US pour les frais d'hébergement prolongés dus à une pandémie de maladie.
 
-Toutefois, **à partir du 1er août 2021, le Costa Rica autorise l’entrée de touristes sans assurance voyage mais dès lors que le schéma de vaccination est complet, ainsi qu’aux personnes de moins de 18 ans.**
+**Pour les voyageurs vaccinés,** **à partir du 1er août 2021, le Costa Rica autorise l’entrée de touristes sans assurance voyage mais dès lors que le schéma de vaccination est complet, ainsi qu’aux personnes de moins de 18 ans.**
 
 Cela concerne les vaccins Moderna, Pfizer-BioNTech, AstraZeneca et Johnson & Johnson uniquement. La dernière dose du vaccin doit avoir été appliquée au moins 14 jours avant l’arrivée au Costa Rica.
 
@@ -40,22 +40,16 @@ En plus des mesures évoquées ci-dessus, les voyageurs en provenance de yachts
 
 **Restrictions véhiculaires :**
 
-Aucun véhicule ne sera autorisé à circuler entre 21 heures et 5 heures, à quelques exceptions près. Les véhicules sont actuellement autorisés à circuler, en fonction du dernier chiffre du numéro de plaque – Voir [https://sites.google.com/presidencia.go.cr/alertas (link is external)](https://sites.google.com/presidencia.go.cr/alertas)
+Aucun véhicule ne sera autorisé à circuler entre 22 heures et 5 heures, à quelques exceptions près. Les véhicules sont actuellement autorisés à circuler, en fonction du dernier chiffre du numéro de plaque – Voir [https://sites.google.com/presidencia.go.cr/alertas (link is external)](https://sites.google.com/presidencia.go.cr/alertas)
 
-\* Si vous vous déplacez avec une réservation (en papier ou numérique), vous pouvez circuler tous les jours de 5 heures à 21 heures pour aller ou revenir de votre hôtel.
+\* Si vous vous déplacez avec une réservation (en papier ou numérique), vous pouvez circuler tous les jours de 5 heures à 22 heures pour aller ou revenir de votre hôtel.
 
-\* Les véhicules de location peuvent circuler tous les jours de 5 heures à 21 heures.
-
-**Commerces**
-
-*   Magasins, restaurants, centres commerciaux et commerces recevant du public : autorisés à fonctionner à 50% de capacité et avec protocoles stricts, de 5h à 21h.
-*   Bars : capacité à 25%.
+\* Les véhicules de location peuvent circuler tous les jours de 5 heures à 22 heures.
 
 **Tourisme**
 
-*   Grands hôtels (plus de 100 chambres) : capacité à 75%.
-*   Parc nationaux : capacité à 50%.
-*   Plages : peuvent être visitées de 5 heures à 18 heures.
+*   Parc nationaux : capacité à 100%.
+*   Plages : peuvent être visitées de 5 heures à 20 heures.
 
 Concernant les restrictions sanitaires de circulation et autres, nous vous invitons à consulter le site de la présidence costaricaine - [https://sites.google.com/presidencia.go.cr/alertas  (link is external)](https://sites.google.com/presidencia.go.cr/alertas%C2%A0)– pour des actualisations régulières de la situation – ainsi que celui du  Ministerio de Salud (en espagnol)  - [https://www.ministeriodesalud.go.cr (link is external)](https://www.ministeriodesalud.go.cr/index.php/centro-de-prensa/noticias/741-noticias-2020/1688-a-partir-del-1-de-junio-costa-rica-inicia-su-fase-3-de-medidas-sanitarias)
 
