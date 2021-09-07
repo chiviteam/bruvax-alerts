@@ -11,8 +11,6 @@ Inschrijving
 
 ](https://www.splashbrussel.be/)
 
-[Staycation 2021](https://www.splashbrussel.be/staycation)
-
 Inschrijving zwemlessen
 -----------------------
 
