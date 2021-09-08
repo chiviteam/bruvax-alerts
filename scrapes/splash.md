@@ -2,7 +2,7 @@
 
 [Procedure](https://www.splashbrussel.be/inschrijving)
 
-[Betaling](https://www.splashbrussel.be/inschrijving)
+[Instructies online betalen](https://www.splashbrussel.be/inschrijving)
 
 Inschrijving
 ------------
@@ -106,6 +106,7 @@ Stuur ons een mailtje: [splashbrussel@gmail.com](mailto:splashbrussel@gmail.com)
 
 ](https://www.splashbrussel.be/inschrijving)
 
-[HULP ONLINE BETALEN](https://www.splashbrussel.be/hulp-online-betalen)
+Instructies online betalen
+--------------------------
 
 [Source](https://www.splashbrussel.be/inschrijving)
