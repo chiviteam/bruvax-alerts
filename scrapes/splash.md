@@ -50,7 +50,7 @@ Indien u recht hebt op sociaal tarief, dient u dit aan te duiden in uw persoonsg
 
 [Uurrooster 2021-2022](https://www.splashbrussel.be/uurrooster)
 
-[Schrijf je hier in voor 2021-2022](https://www.mijnassist.be/NL/57b5cc89-1e2b-4c71-87f2-84b02f53ac97/waitinglist/subscribe)
+[Schrijf u hier in!](https://www.mijnassist.be/NL/57b5cc89-1e2b-4c71-87f2-84b02f53ac97/waitinglist/subscribe)
 
 Inschrijvingsprocedure
 ----------------------
