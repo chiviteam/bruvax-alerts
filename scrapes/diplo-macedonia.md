@@ -12,8 +12,8 @@ Les mesures COVID-19 en Macédoine du Nord sont régulièrement mises à jour. P
 
 Voyager en Belgique
 
-A partir du 1er septembre 2021, le statut de la République de Macédoine du Nord en matière d’accès à l’UE dans le cadre de la lutte contre le Coronavirus a été modifié et les conditions pour le retour ou l’accès au territoire belge sont dorénavant alignées sur celles qui s’appliquent pour des pays en zone rouge qui se trouvent en dehors de l’UE. Merci de se référer au site web [https://www.info-coronavirus.be/fr/voyages/ (link is external)](https://www.info-coronavirus.be/fr/voyages/) pour les conditions de retour/entrée en Belgique depuis la Macédoine du Nord, selon que vous habitez ou non en Belgique.
+A partir du 1er septembre 2021, le statut de la République de Macédoine du Nord en matière d’accès à l’UE dans le cadre de la lutte contre le Coronavirus a été modifié et les conditions pour le retour ou l’accès au territoire belge sont dorénavant alignées sur celles qui s’appliquent pour des pays en zone rouge qui se trouvent en dehors de l’UE. Merci de se référer au site web [https://www.info-coronavirus.be/fr/voyages (link is external)](https://www.info-coronavirus.be/fr/voyages/) pour les conditions de retour/entrée en Belgique depuis la Macédoine du Nord, selon que vous habitez ou non en Belgique.
 
-Le certificat de vaccination de la Macédoine du Nord est reconnu par la Commission Européenne. Il est donc équivalent à un certificat COVID numérique de l'UE et peut être utilisé pour voyager en Belgique. 
+Le certificat de vaccination délivré par la Macédoine du Nord peut seulement être utilisé pour voyager en Belgique dans la mesure où le vaccin utilisé est certifié par l’EMA ou Covishield (plus d’information sur [https://www.info-coronavirus.be/fr/vaccins-reconnus-et-certificats/#certificatsvaccination (link is external)](https://www.info-coronavirus.be/fr/vaccins-reconnus-et-certificats/#certificatsvaccination))
 
 [Source](https://diplomatie.belgium.be/fr/Services/voyager_a_letranger/conseils_par_destination/macedoine_du_nord)
