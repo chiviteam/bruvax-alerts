@@ -11,8 +11,10 @@ Inschrijving
 
 ](https://www.splashbrussel.be/)
 
-Inschrijving zwemlessen
------------------------
+[Schrijf u hier in!](https://www.mijnassist.be/NL/57b5cc89-1e2b-4c71-87f2-84b02f53ac97/waitinglist/subscribe)
+
+Procedure inschrijving zwemactiviteit
+-------------------------------------
 
 Nieuwe inschrijvingen zijn mogelijk vanaf 12/07/2021 - 12u via onderstaande knop.
 
@@ -23,12 +25,6 @@ Volg onderstaande stappen om jouw inschrijving zo vlot mogelijk te laten verlope
 ​
 
 1) Bekijk het uurrooster en zoek jouw les
-
-​
-
-​
-
-​
 
 ​
 
@@ -48,12 +44,8 @@ Indien u recht hebt op sociaal tarief, dient u dit aan te duiden in uw persoonsg
 
 3) U ontvangt een mail met een link tot inschrijving. Daar vindt u alle beschikbare zwemactiviteiten voor u.
 
-[Uurrooster 2021-2022](https://www.splashbrussel.be/uurrooster)
-
-[Schrijf u hier in!](https://www.mijnassist.be/NL/57b5cc89-1e2b-4c71-87f2-84b02f53ac97/waitinglist/subscribe)
-
-Inschrijvingsprocedure
-----------------------
+Extra informatie inschrijving zwemactiviteit
+--------------------------------------------
 
 Omwille van de grote vraag naar zwemlessen, geven wij in eerste instantie 1 abonnement per persoon. Indien er na de inschrijvingen nog plaatsen vrij zijn kunnen onze leden zich voor een 2de les inschrijven indien gewenst.
 
