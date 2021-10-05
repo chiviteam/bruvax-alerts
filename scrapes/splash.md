@@ -16,7 +16,13 @@ Inschrijving
 Procedure inschrijving zwemactiviteit
 -------------------------------------
 
-Nieuwe inschrijvingen zijn mogelijk vanaf 12/07/2021 - 12u via onderstaande knop.
+OPGELET !!!  
+Enkel inschrijving mogelijk als u in bezit bent van een geldig CST (corona safety ticket).  
+Enkel voor personen VANAF 16jaar! 
+
+​
+
+Nieuwe inschrijvingen zijn mogelijk vanaf 12/07/2021 - 12u via bovenstaande knop.
 
 ​
 
