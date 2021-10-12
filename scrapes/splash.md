@@ -17,7 +17,14 @@ Procedure inschrijving zwemactiviteit
 -------------------------------------
 
 OPGELET !!!  
-Enkel inschrijving mogelijk als u in bezit bent van een geldig CST (corona safety ticket).  
+Enkel inschrijving mogelijk als u in bezit bent van een geldig CST (covid safe ticket).
+
+\> volledig gevaccineerd
+
+\> herstelcertificaat 
+
+\> negatief resultaat pcr test (<72u)  
+  
 Enkel voor personen VANAF 16jaar! 
 
 ​
