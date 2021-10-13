@@ -57,6 +57,31 @@ Indien u recht hebt op sociaal tarief, dient u dit aan te duiden in uw persoonsg
 
 3) U ontvangt een mail met een link tot inschrijving. Daar vindt u alle beschikbare zwemactiviteiten voor u.
 
+U schrijft zich zelf in voor een les naar keuze. U wordt meteen gevraagd om de betaling te volbrengen.  
+Gelieve op voorhand te melden als u recht hebt op het kansentarief. (zie hierboven bij 2) ). 
+
+​
+
+Schrijft u een kind in? 
+
+Houdt dan rekening met het niveau van uw kind.
+
+​
+
+​
+
+​
+
+​
+
+Inschrijvingen tot oktober = basistarief
+
+Inschrijvingen tussen oktober-november = korting automatisch verrekend via online inschrijvingsprocedure
+
+Inschrijven voor zwemlessen (exclusief groepslessen en vrij zwemmen) kunnen tot aan de herfstvakantie. 
+
+​
+
 Extra informatie inschrijving zwemactiviteit
 --------------------------------------------
 
@@ -113,5 +138,7 @@ Stuur ons een mailtje: [splashbrussel@gmail.com](mailto:splashbrussel@gmail.com)
 
 Instructies online betalen
 --------------------------
+
+[Niveau kind nagaan](https://www.splashbrussel.be/zwembrevetten)
 
 [Source](https://www.splashbrussel.be/inschrijving)
