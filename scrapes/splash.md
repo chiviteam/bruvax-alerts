@@ -82,8 +82,6 @@ Inschrijven voor zwemlessen (exclusief groepslessen en vrij zwemmen) kunnen tot 
 
 ​
 
-[Niveau kind nagaan](https://www.splashbrussel.be/zwembrevetten)
-
 Extra informatie inschrijving zwemactiviteit
 --------------------------------------------
 
@@ -140,5 +138,7 @@ Stuur ons een mailtje: [splashbrussel@gmail.com](mailto:splashbrussel@gmail.com)
 
 Instructies online betalen
 --------------------------
+
+[Niveau kind nagaan](https://www.splashbrussel.be/zwembrevetten)
 
 [Source](https://www.splashbrussel.be/inschrijving)
