@@ -37,5 +37,5 @@ jobs:
         with:
           to: ${{ secrets.TELEGRAM_TO }}
           token: ${{ secrets.TELEGRAM_TOKEN }}
-          message: "[Check alert - changes](https://github.com/${{ github.repository }}/commit/${{github.sha}}):\n```diff\n${{steps.try-commit-push.outputs.checks-changes}}\n```"
+          message: "[Check alert - changes](https://github.com/${{ github.repository }}/commit/${{github.sha}}):\n```diff\n${{steps.try-commit-push.outputs.checks-changes}}\n```\n[See changes on github](https://github.com/${{ github.repository }}/commit/${{github.sha}})"
           format: markdown
