@@ -31,11 +31,11 @@ jobs:
           additions="${additions//$'\r'/'%0D'}"
           echo "::set-output name=checks-changes::$additions"
           echo "::set-output name=checks-url::$GITHUB_SERVER_URL/$GITHUB_REPOSITORY"
-      - name: Notify if additions occured with regards to the markdown files
-        uses: wireapp/github-action-wire-messenger@v1
+      - name: Notify telegram
+        uses: appleboy/telegram-action@master
         if: ${{ success() && steps.try-commit-push.outputs.checks-changes != ''}}
         with:
-          email: ${{secrets.WIRE_EMAIL}}
-          password: ${{secrets.WIRE_PASSWORD}}
-          conversation: ${{secrets.WIRE_CONVERSATION}}
-          text: "Check alert - changes:\n```diff\n${{steps.try-commit-push.outputs.checks-changes}}\n```\n${{steps.try-commit-push.outputs.checks-url}}"
+          to: ${{ secrets.TELEGRAM_TO }}
+          token: ${{ secrets.TELEGRAM_TOKEN }}
+          message: "Check alert - changes:\n```diff\n${{steps.try-commit-push.outputs.checks-changes}}\n```\n${{steps.try-commit-push.outputs.checks-url}}"
+          format: markdown
