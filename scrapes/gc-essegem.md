@@ -109,10 +109,14 @@ Prijs
 
 ![Familietheater: Streep! (4+)](/sites/essegem/files/styles/activity_teaser/public/viks/f-6dee2d0a74a140499859ccd5922c4bf5.png?itok=wsuCBTBG)
 
+Volzet
+
 Familietheater: Streep! (4+)
 ----------------------------
 
 ![de vlieg logo](/themes/custom/entityone/components/_global/images/dist/fly.svg "Vlieg")
+
+Externe organisator: GC Essegem vzw
 
 zo 23.01.2022
 
@@ -212,41 +216,6 @@ Prijs
 
 [
 
-![Ketjeskunst](/sites/essegem/files/styles/activity_teaser/public/viks/f-10e664a377b642e1a7aa1b43a87c541d.png?itok=2NffuaTO)
-
-Ketjeskunst
------------
-
-![de vlieg logo](/themes/custom/entityone/components/_global/images/dist/fly.svg "Vlieg")
-
-wo 08.09.2021 - wo 29.06.2022
-
-Gemeenschapscentrum Essegem vzw, Jette
-
-Thema activiteit
-
-Creativiteit
-
-Prijs
-
-€ 200
-
-
-
-
-
-
-
-
-
-
-
-
-
-](https://www.essegem.be/activiteiten/ketjeskunst)
-
-[
-
 ![Kleuteratelier](/sites/essegem/files/styles/activity_teaser/public/viks/f-8b2377b0d90942ecb31a8d1114f24bd9.png?itok=1wIEFHRy)
 
 Volzet
@@ -281,5 +250,40 @@ Prijs
 
 
 ](https://www.essegem.be/activiteiten/kleuteratelier)
+
+[
+
+![Ketjeskunst](/sites/essegem/files/styles/activity_teaser/public/viks/f-10e664a377b642e1a7aa1b43a87c541d.png?itok=2NffuaTO)
+
+Ketjeskunst
+-----------
+
+![de vlieg logo](/themes/custom/entityone/components/_global/images/dist/fly.svg "Vlieg")
+
+wo 08.09.2021 - wo 29.06.2022
+
+Gemeenschapscentrum Essegem vzw, Jette
+
+Thema activiteit
+
+Creativiteit
+
+Prijs
+
+€ 200
+
+
+
+
+
+
+
+
+
+
+
+
+
+](https://www.essegem.be/activiteiten/ketjeskunst)
 
 [Source](https://www.essegem.be/activiteiten?items_per_page=All&f%5B0%5D=activity_target_group%3A165&f%5B1%5D=activity_target_group%3A576)
