@@ -87,7 +87,8 @@ NL
 *   administratieve kost: € 15,00
 *   **\+ de kost per les die al voorbij is** 
 
-De rest van het betaalde inschrijvingsgeld wordt teruggestort. 
+De rest van het betaalde inschrijvingsgeld wordt teruggestort.  
+Wie later uitschrijft betaald het volledige inschrijvingsgeld. 
 
 **Annuleren om medische redenen**.
 
@@ -113,7 +114,8 @@ FR
 *   frais administratif de € 15,00
 *   **\+ le coût par cours écoulé**
 
-Le solde du montant d’inscription déjà acquitté sera remboursé. 
+Le solde du montant d’inscription déjà acquitté sera remboursé.  
+Ceux qui se désinscrivent par la suite paient la totalité du montant d'inscription. 
 
 **Annulation pour des raisons médicales**
 
