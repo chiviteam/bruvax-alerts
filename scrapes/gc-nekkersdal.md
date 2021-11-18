@@ -9,7 +9,7 @@ Soiree Kadee #2: Kermis
 
 ![de vlieg logo](/themes/custom/entityone/components/_global/images/dist/fly.svg "Vlieg")
 
-Organisator: Gemeenschapscentrum Nekkersdal vzw
+Externe organisator: GC Nekkersdal
 
 vr 19.11.2021
 
@@ -38,7 +38,7 @@ Brussel Helpt: Spaghettislag
 
 ![de vlieg logo](/themes/custom/entityone/components/_global/images/dist/fly.svg "Vlieg")
 
-Organisator: Gemeenschapscentrum Nekkersdal vzw
+Externe organisator: GC Nekkersdal
 
 za 27.11.2021
 
@@ -65,7 +65,7 @@ Fietsbieb
 
 ![de vlieg logo](/themes/custom/entityone/components/_global/images/dist/fly.svg "Vlieg")
 
-Organisator: Gemeenschapscentrum Nekkersdal vzw
+Externe organisator: kwb
 
 za 27.11.2021
 
@@ -102,7 +102,7 @@ Soiree Kadee #3: Sint Nicolette
 
 ![de vlieg logo](/themes/custom/entityone/components/_global/images/dist/fly.svg "Vlieg")
 
-Organisator: Gemeenschapscentrum Nekkersdal vzw
+Externe organisator: GC Nekkersdal
 
 vr 03.12.2021
 
@@ -156,7 +156,7 @@ Minibasket 6-8 jaar
 
 ![de vlieg logo](/themes/custom/entityone/components/_global/images/dist/fly.svg "Vlieg")
 
-Organisator: Gemeenschapscentrum Nekkersdal vzw
+Externe organisator: GC Nekkersdal
 
 wo 22.09.2021 - wo 25.05.2022
 
@@ -232,7 +232,7 @@ Multimove mini
 
 ![de vlieg logo](/themes/custom/entityone/components/_global/images/dist/fly.svg "Vlieg")
 
-Organisator: Gemeenschapscentrum Nekkersdal vzw
+Externe organisator: GC Nekkersdal
 
 za 02.10.2021 - za 04.06.2022
 
@@ -269,7 +269,7 @@ Mini's spelen met Frans
 
 ![de vlieg logo](/themes/custom/entityone/components/_global/images/dist/fly.svg "Vlieg")
 
-Organisator: Gemeenschapscentrum Nekkersdal vzw
+Externe organisator: GC Nekkersdal
 
 za 02.10.2021 - za 04.06.2022
 
@@ -306,7 +306,7 @@ Spelen met Frans
 
 ![de vlieg logo](/themes/custom/entityone/components/_global/images/dist/fly.svg "Vlieg")
 
-Organisator: Gemeenschapscentrum Nekkersdal vzw
+Externe organisator: GC Nekkersdal
 
 za 02.10.2021 - za 04.06.2022
 
