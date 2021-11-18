@@ -30,12 +30,12 @@ jobs:
           additions="${additions//$'\n'/'%0A'}"
           additions="${additions//$'\r'/'%0D'}"
           echo "::set-output name=checks-changes::$additions"
-          echo "::set-output name=checks-url::$GITHUB_SERVER_URL/$GITHUB_REPOSITORY"
+          echo "::set-output name=checks-url::$GITHUB_SERVER_URL/$GITHUB_REPOSITORY/commit/$(git rev-parse HEAD)"
       - name: Notify telegram
         uses: appleboy/telegram-action@master
         if: ${{ success() && steps.try-commit-push.outputs.checks-changes != ''}}
         with:
           to: ${{ secrets.TELEGRAM_TO }}
           token: ${{ secrets.TELEGRAM_TOKEN }}
-          message: "[Check alert - changes](https://github.com/${{ github.repository }}/commit/${{github.sha}}):\n```diff\n${{steps.try-commit-push.outputs.checks-changes}}\n```\n[See changes on github](https://github.com/${{ github.repository }}/commit/${{github.sha}})"
+          message: "[Check alert - changes](${{steps.try-commit-push.outputs.checks-url}}):\n```diff\n${{steps.try-commit-push.outputs.checks-changes}}\n```\n[See changes on github](${{steps.try-commit-push.outputs.checks-url}})"
           format: markdown
