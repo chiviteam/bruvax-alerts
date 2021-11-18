@@ -9,6 +9,8 @@ Familietheater: Ikiloliki (2,5+)
 
 ![de vlieg logo](/themes/custom/entityone/components/_global/images/dist/fly.svg "Vlieg")
 
+Organisator: Gemeenschapscentrum Essegem vzw
+
 zo 28.11.2021
 
 Gemeenschapscentrum Essegem vzw, Jette
@@ -44,6 +46,8 @@ Kids: Lekker Koken
 
 ![de vlieg logo](/themes/custom/entityone/components/_global/images/dist/fly.svg "Vlieg")
 
+Organisator: Gemeenschapscentrum Essegem vzw
+
 za 11.09.2021 - za 11.12.2021
 
 Gemeenschapscentrum Essegem vzw, Jette
@@ -78,6 +82,10 @@ Multimove voor kleuters
 -----------------------
 
 ![de vlieg logo](/themes/custom/entityone/components/_global/images/dist/fly.svg "Vlieg")
+
+Organisator: Gemeenschapscentrum Essegem vzw, in samenwerking met 
+
+BRES
 
 wo 10.11.2021 - wo 22.12.2021
 
@@ -116,7 +124,7 @@ Familietheater: Streep! (4+)
 
 ![de vlieg logo](/themes/custom/entityone/components/_global/images/dist/fly.svg "Vlieg")
 
-Externe organisator: GC Essegem vzw
+Organisator: Gemeenschapscentrum Essegem vzw
 
 zo 23.01.2022
 
@@ -153,6 +161,8 @@ Familietheater: vierkantROND (2,5+)
 
 ![de vlieg logo](/themes/custom/entityone/components/_global/images/dist/fly.svg "Vlieg")
 
+Organisator: Gemeenschapscentrum Essegem vzw
+
 zo 20.02.2022
 
 Gemeenschapscentrum Essegem vzw, Jette
@@ -187,6 +197,8 @@ Familietheater: Het Lam van Jan (3+)
 ------------------------------------
 
 ![de vlieg logo](/themes/custom/entityone/components/_global/images/dist/fly.svg "Vlieg")
+
+Organisator: Gemeenschapscentrum Essegem vzw
 
 zo 27.03.2022
 
@@ -225,6 +237,10 @@ Kleuteratelier
 
 ![de vlieg logo](/themes/custom/entityone/components/_global/images/dist/fly.svg "Vlieg")
 
+Organisator: Gemeenschapscentrum Essegem vzw, in samenwerking met 
+
+Panta Rhei, Panta Rhei
+
 wo 08.09.2021 - wo 29.06.2022
 
 Gemeenschapscentrum Essegem vzw, Jette
@@ -259,6 +275,10 @@ Ketjeskunst
 -----------
 
 ![de vlieg logo](/themes/custom/entityone/components/_global/images/dist/fly.svg "Vlieg")
+
+Organisator: Gemeenschapscentrum Essegem vzw, in samenwerking met 
+
+Panta Rhei, Panta Rhei
 
 wo 08.09.2021 - wo 29.06.2022
 
