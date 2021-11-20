@@ -1,32 +1,5 @@
 [
 
-![Soiree Kadee #2: Kermis](/sites/nekkersdal/files/styles/activity_teaser/public/viks/f-d31a4f88c1ee4c11969dbe69b9d2d12c.png?itok=rESnqJQ8)
-
-Gratis
-
-Soiree Kadee #2: Kermis
------------------------
-
-![de vlieg logo](/themes/custom/entityone/components/_global/images/dist/fly.svg "Vlieg")
-
-Organisator: Gemeenschapscentrum Nekkersdal vzw
-
-vr 19.11.2021
-
-Gemeenschapscentrum Nekkersdal vzw, Laken
-
-
-
-
-
-
-
-
-
-](https://www.nekkersdal.be/activiteiten/soiree-kadee-2-kermis)
-
-[
-
 ![Brussel Helpt: Spaghettislag](/sites/nekkersdal/files/styles/activity_teaser/public/viks/f-283364f47a544af98d3de5f7eee3fee0.png?itok=nP4p4clr)
 
 Gratis
@@ -333,5 +306,42 @@ Prijs
 
 
 ](https://www.nekkersdal.be/activiteiten/spelen-met-frans)
+
+[
+
+![Kleuters spelen met Frans](/sites/nekkersdal/files/styles/activity_teaser/public/viks/f-3c61bc6c483f416d972f5b7323985d6c.png?itok=6FwcSYhr)
+
+Kleuters spelen met Frans
+-------------------------
+
+![de vlieg logo](/themes/custom/entityone/components/_global/images/dist/fly.svg "Vlieg")
+
+Organisator: Gemeenschapscentrum Nekkersdal vzw
+
+za 02.10.2021 - za 04.06.2022
+
+Gemeenschapscentrum Nekkersdal vzw, Laken
+
+Thema activiteit
+
+Talen
+
+Prijs
+
+€ 85
+
+
+
+
+
+
+
+
+
+
+
+
+
+](https://www.nekkersdal.be/activiteiten/kleuters-spelen-met-frans)
 
 [Source](https://www.nekkersdal.be/activiteiten?f%5B0%5D=activity_target_group%3A165&f%5B1%5D=activity_target_group%3A576&items_per_page=All)

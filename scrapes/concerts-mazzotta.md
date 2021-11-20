@@ -1,16 +1,6 @@
 ### Upcoming Events
 
-1.  [19 Nov
-    
-    MARIA MAZZOTTA
-    ==============
-    
-    ##### Ettelbruck (LUXEMBOURG)
-    
-    #### CAPE - Centre des Arts Pluriels Ettelbruck
-    
-    ](https://zeronovenove.com/eventi/maria-mazzotta-ettelbruck/)[INFO & TICKETS](https://ticket.luxembourg-ticket.lu/eventim.webshop/webticket/bestseatselect?eventId=31006)
-2.  [20 Nov
+1.  [20 Nov
     
     PIETRO ROFFI
     ============
@@ -20,7 +10,7 @@
     #### XVIII Festival Internacional de Acordeón
     
     ](https://zeronovenove.com/eventi/pietro-roffi-lasarte/)
-3.  [20 Nov
+2.  [20 Nov
     
     MARIA MAZZOTTA
     ==============
@@ -30,7 +20,7 @@
     #### Malzhaus - FolkHerbst
     
     ](https://zeronovenove.com/eventi/maria-mazzotta-plauen/)[INFO & TICKETS](https://www.eventim.de/eventseries/maria-mazotta-2985773/)
-4.  [03 Dic
+3.  [03 Dic
     
     MARIA MAZZOTTA
     ==============
@@ -40,7 +30,7 @@
     #### Folk Club
     
     ](https://zeronovenove.com/eventi/maria-mazzotta-folk-club-torino/)[Info & Tickets](https://www.folkclub.it/it/concerti/26/maria-mazzotta/)
-5.  [07 Dic
+4.  [07 Dic
     
     PULCINELLA & MARIA MAZZOTTA
     ===========================
@@ -50,7 +40,7 @@
     #### Festival No Border
     
     ](https://zeronovenove.com/eventi/pulcinella-maria-mazzotta-festival-no-border/)
-6.  [14 Dic
+5.  [14 Dic
     
     PULCINELLA & MARIA MAZZOTTA
     ===========================
@@ -60,7 +50,7 @@
     #### Cankarjev Dom
     
     ](https://zeronovenove.com/eventi/pulcinella-maria-mazzotta-ljubljana-cankarjev-dom/)
-7.  [16 Dic
+6.  [16 Dic
     
     PULCINELLA & MARIA MAZZOTTA
     ===========================
@@ -70,7 +60,7 @@
     #### Budapest Music Center, Opus Jazz Club
     
     ](https://zeronovenove.com/eventi/pulcinella-maria-mazzotta-opus-jazz-club-budapest-music-center/)
-8.  [18 Dic
+7.  [18 Dic
     
     PULCINELLA & MARIA MAZZOTTA
     ===========================
