@@ -22,15 +22,6 @@
     Tickets](https://www.eventim.de/noapp/artist/giora-feidman/giora-feidman-alina-kabanova-2687947/?affiliate=GFA&utm_campaign=GFA&utm_medium=dp&utm_source=GFA)
 *   [
     
-    21.11.2021, 19:30 Uhr - Fürth
-    
-    Giora Feidman & Russische Kammerphilharmonie St. Petersburg
-    
-    Theater Fürth
-    
-    Tickets](https://www.eventim.de/noapp/event/giora-feidman-stadttheater-fuerth-14381300/?affiliate=GFA&utm_campaign=GFA&utm_medium=dp&utm_source=GFA)
-*   [
-    
     25.11.2021, 20:00 Uhr - Bergheim
     
     Giora Feidman & Gitanes Blondes 
@@ -430,7 +421,9 @@
     Lutherkirche, Cottbus
     
     Tickets](https://www.eventim.de/noapp/event/giora-feidman-friendship-tour-2022-lutherkirche-cottbus-13998364/?affiliate=GFA&utm_campaign=GFA&utm_medium=dp&utm_source=GFA)
-*   28.01.2022, 20:00 Uhr - Cottbus
+*   [
+    
+    28.01.2022, 20:00 Uhr - Cottbus
     
     Giora Feidman - Friendship Tour 2022
     
@@ -440,7 +433,7 @@
     
     Lutherkirche, Cottbus
     
-    Tickets
+    Tickets](https://www.eventim.de/noapp/event/giora-feidman-friendship-tour-2022-lutherkirche-cottbus-13926636/?affiliate=GFA&utm_campaign=GFA&utm_medium=dp&utm_source=GFA)
 *   [
     
     29.01.2022, 20:00 Uhr / verschoben vom 30.04.2021 - Wittenberg
