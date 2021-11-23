@@ -106,7 +106,7 @@ Als u zich inschrijft gaat u automatisch akkoord met het reglement van Splash Br
 1 Week voor de start van de activiteit ontvangt u een email met praktische informatie.  
  
 
-[Huishoudelijk reglement Splash](https://dcdde5ee-49b8-4d91-86e4-7e78718b2672.filesusr.com/ugd/71aa3a_ee1584cc71bb4c40a26004e2eb042692.pdf)
+[Huishoudelijk reglement Splash](https://www.splashbrussel.be/_files/ugd/71aa3a_ee1584cc71bb4c40a26004e2eb042692.pdf)
 
 Betaling LEDEN
 --------------
