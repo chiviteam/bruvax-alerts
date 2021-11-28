@@ -1,71 +1,5 @@
 [
 
-![Brussel Helpt: Spaghettislag](/sites/nekkersdal/files/styles/activity_teaser/public/viks/f-283364f47a544af98d3de5f7eee3fee0.png?itok=nP4p4clr)
-
-Gratis
-
-Geannuleerd
-
-Brussel Helpt: Spaghettislag
-----------------------------
-
-![de vlieg logo](/themes/custom/entityone/components/_global/images/dist/fly.svg "Vlieg")
-
-Organisator: Gemeenschapscentrum Nekkersdal vzw
-
-za 27.11.2021
-
-Gemeenschapscentrum Nekkersdal vzw, Laken
-
-
-
-
-
-
-
-
-
-](https://www.nekkersdal.be/activiteiten/brussel-helpt-spaghettislag)
-
-[
-
-![Fietsbieb](/sites/nekkersdal/files/styles/activity_teaser/public/viks/f-5ba56f6c20974cf0ae61fe7911392c75.png?itok=NMWJNrik)
-
-Gratis
-
-Fietsbieb
----------
-
-![de vlieg logo](/themes/custom/entityone/components/_global/images/dist/fly.svg "Vlieg")
-
-Organisator: Gemeenschapscentrum Nekkersdal vzw
-
-za 27.11.2021
-
-Gemeenschapscentrum Nekkersdal vzw, Laken
-
-Thema activiteit
-
-Atletiek, wandelen en fietsen
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-](https://www.nekkersdal.be/activiteiten/fietsbieb)
-
-[
-
 ![Soiree Kadee #3: Sint Nicolette](/sites/nekkersdal/files/styles/activity_teaser/public/viks/f-975cde00013e44e585f05c222997e734.png?itok=MnUe1jux)
 
 Gratis
@@ -343,5 +277,81 @@ Prijs
 
 
 ](https://www.nekkersdal.be/activiteiten/kleuters-spelen-met-frans)
+
+[
+
+![Creatief lab maxi](/sites/nekkersdal/files/styles/activity_teaser/public/viks/f-40eff61ebfcd472cac6977294becc569.png?itok=JRhdxPtO)
+
+Creatief lab maxi
+-----------------
+
+![de vlieg logo](/themes/custom/entityone/components/_global/images/dist/fly.svg "Vlieg")
+
+Organisator: Gemeenschapscentrum Nekkersdal vzw
+
+za 25.09.2021 - za 04.06.2022
+
+Gemeenschapscentrum Nekkersdal vzw, Laken
+
+Thema activiteit
+
+Meerdere kunstvormen
+
+Prijs
+
+€ 150
+
+
+
+
+
+
+
+
+
+
+
+
+
+](https://www.nekkersdal.be/activiteiten/creatief-lab-maxi)
+
+[
+
+![Creatief lab mini](/sites/nekkersdal/files/styles/activity_teaser/public/viks/f-6186e8da8fb24c7686694aa8a0005ce3.png?itok=fTakZS9X)
+
+Volzet
+
+Creatief lab mini
+-----------------
+
+![de vlieg logo](/themes/custom/entityone/components/_global/images/dist/fly.svg "Vlieg")
+
+Organisator: Gemeenschapscentrum Nekkersdal vzw
+
+za 25.09.2021 - za 04.06.2022
+
+Gemeenschapscentrum Nekkersdal vzw, Laken
+
+Thema activiteit
+
+Meerdere kunstvormen
+
+Prijs
+
+€ 150
+
+
+
+
+
+
+
+
+
+
+
+
+
+](https://www.nekkersdal.be/activiteiten/creatief-lab-mini)
 
 [Source](https://www.nekkersdal.be/activiteiten?f%5B0%5D=activity_target_group%3A165&f%5B1%5D=activity_target_group%3A576&items_per_page=All)
