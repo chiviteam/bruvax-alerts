@@ -1,44 +1,5 @@
 [
 
-![Familietheater: Ikiloliki (2,5+)](/sites/essegem/files/styles/activity_teaser/public/viks/f-d5c4d373b46141af901dd76a38e316df.png?itok=Oz7UJc-p)
-
-Volzet
-
-Familietheater: Ikiloliki (2,5+)
---------------------------------
-
-![de vlieg logo](/themes/custom/entityone/components/_global/images/dist/fly.svg "Vlieg")
-
-Organisator: Gemeenschapscentrum Essegem vzw
-
-zo 28.11.2021
-
-Gemeenschapscentrum Essegem vzw, Jette
-
-Thema activiteit
-
-Theater
-
-Prijs
-
-€ 6
-
-
-
-
-
-
-
-
-
-
-
-
-
-](https://www.essegem.be/activiteiten/familietheater-ikiloliki-25)
-
-[
-
 ![Kids: Lekker Koken](/sites/essegem/files/styles/activity_teaser/public/viks/f-e51d129c41394e498f8e23c8a0b79c9c.png?itok=4vMsfRCf)
 
 Kids: Lekker Koken
