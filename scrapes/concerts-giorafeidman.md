@@ -22,17 +22,6 @@
     Tickets](https://www.eventim.de/noapp/artist/giora-feidman/giora-feidman-alina-kabanova-2687947/?affiliate=GFA&utm_campaign=GFA&utm_medium=dp&utm_source=GFA)
 *   [
     
-    25.11.2021, 20:00 Uhr - Bergheim
-    
-    Giora Feidman & Gitanes Blondes 
-    
-    Back to the roots
-    
-    MEDIO.RHEIN.ERFT, Bergheim
-    
-    Tickets](https://www.eventim.de/noapp/event/giora-feidman-gitanes-blondes-back-to-the-roots-medio-rhein-erft-13196587/?affiliate=GFA&utm_campaign=GFA&utm_medium=dp&utm_source=GFA)
-*   [
-    
     08.12.2021, 20:00 Uhr / verschoben vom 13.05.2021 - Bad Honnef
     
     Giora Feidman & Rastrelli Cello Quartett 
