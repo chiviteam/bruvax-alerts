@@ -425,13 +425,28 @@
     Tickets](https://www.eventim.de/noapp/event/giora-feidman-friendship-tour-2022-lutherkirche-cottbus-13926636/?affiliate=GFA&utm_campaign=GFA&utm_medium=dp&utm_source=GFA)
 *   [
     
+    29.01.2022, 17:00 Uhr - Wittenberg - Zusatzkonzert
+    
+    Giora Feidman - Friendship Tour 2022
+    
+    75-jähriges Bühnenjubiläum
+    
+    Mit dem Rastrelli Cello Quartett 
+    
+    Schlosskirche Wittenberg
+    
+    Tickets](https://www.eventim.de/noapp/event/giora-feidman-friendship-tour-2022-schlosskirche-14045461/?affiliate=GFA&utm_campaign=GFA&utm_medium=dp&utm_source=GFA)
+*   [
+    
     29.01.2022, 20:00 Uhr / verschoben vom 30.04.2021 - Wittenberg
     
     Giora Feidman - Friendship Tour 2022
     
     75-jähriges Bühnenjubiläum
     
-    Mit dem Rastrelli Cello Quartett Stadthaus Wittenberg
+    Mit dem Rastrelli Cello Quartett
+    
+    Schlosskirche Wittenberg
     
     Tickets](https://www.eventim.de/noapp/artist/giora-feidman/giora-feidman-friendship-tour-2022-2959653/?affiliate=GFA&utm_campaign=GFA&utm_medium=dp&utm_source=GFA)
 *   [
