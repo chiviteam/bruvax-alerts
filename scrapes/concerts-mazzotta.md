@@ -1,26 +1,6 @@
 ### Upcoming Events
 
-1.  [03 Dic
-    
-    MARIA MAZZOTTA
-    ==============
-    
-    ##### Torino, ITALY
-    
-    #### Folk Club
-    
-    ](https://zeronovenove.com/eventi/maria-mazzotta-folk-club-torino/)[Info & Tickets](https://www.folkclub.it/it/concerti/26/maria-mazzotta/)
-2.  [03 Dic
-    
-    ALESSANDRO D’ALESSANDRO
-    =======================
-    
-    ##### Fortezza 59 - Pistoia
-    
-    #### Musiconnect Italy
-    
-    ](https://zeronovenove.com/eventi/alessandro-dalessandro-musiconnect-italy-pistoia/)[INFO](https://www.musiconnect-italy.com/event/alessandro-dalessandro/)
-3.  [04 Dic
+1.  [04 Dic
     
     MARIA MAZZOTTA
     ==============
@@ -30,7 +10,7 @@
     #### Musiconnect Italy
     
     ](https://zeronovenove.com/eventi/maria-mazzotta-musiconnect-italy/)[INFO](https://bit.ly/3HQ2TNT)
-4.  [07 Dic
+2.  [07 Dic
     
     PULCINELLA & MARIA MAZZOTTA
     ===========================
@@ -40,7 +20,7 @@
     #### Festival No Border
     
     ](https://zeronovenove.com/eventi/pulcinella-maria-mazzotta-festival-no-border/)
-5.  [10 Dic
+3.  [10 Dic
     
     PULCINELLA & MARIA MAZZOTTA
     ===========================
@@ -50,7 +30,7 @@
     #### Pan Piper
     
     ](https://zeronovenove.com/eventi/pulcinella-maria-mazzotta-pan-piper-paris/)
-6.  [11 Dic
+4.  [11 Dic
     
     PULCINELLA & MARIA MAZZOTTA
     ===========================
@@ -60,7 +40,7 @@
     #### Le Périscope
     
     ](https://zeronovenove.com/eventi/pulcinella-maria-mazzotta-le-peryscope-lyon-france/)
-7.  [12 Dic
+5.  [12 Dic
     
     PULCINELLA & MARIA MAZZOTTA
     ===========================
@@ -70,7 +50,7 @@
     #### Bee Flat
     
     ](https://zeronovenove.com/eventi/pulcinella-maria-mazzotta-berne-suisse-bee-flat/)
-8.  [14 Dic
+6.  [14 Dic
     
     PULCINELLA & MARIA MAZZOTTA
     ===========================
@@ -80,7 +60,7 @@
     #### Cankarjev Dom
     
     ](https://zeronovenove.com/eventi/pulcinella-maria-mazzotta-ljubljana-cankarjev-dom/)
-9.  [16 Dic
+7.  [16 Dic
     
     PULCINELLA & MARIA MAZZOTTA
     ===========================
@@ -90,7 +70,7 @@
     #### Budapest Music Center, Opus Jazz Club
     
     ](https://zeronovenove.com/eventi/pulcinella-maria-mazzotta-opus-jazz-club-budapest-music-center/)
-10.  [18 Dic
+8.  [18 Dic
     
     PULCINELLA & MARIA MAZZOTTA
     ===========================
@@ -100,7 +80,7 @@
     #### Unterfahrt
     
     ](https://zeronovenove.com/eventi/pulcinella-maria-mazzotta-unterfahrt-munich/)
-11.  [23 Dic
+9.  [23 Dic
     
     DALILA SPAGNOLO
     ===============
@@ -110,7 +90,7 @@
     #### W Club
     
     ](https://zeronovenove.com/eventi/dalila-spagnolo-w-club-lecce/)
-12.  [07 Gen
+10.  [07 Gen
     
     DALILA SPAGNOLO
     ===============
@@ -120,7 +100,7 @@
     #### Caffè letterario - Cibo per la mente
     
     ](https://zeronovenove.com/eventi/dalila-spagnolo-caffe-letterario-cibo-per-la-mente-taranto/)
-13.  [14 Gen
+11.  [14 Gen
     
     PULCINELLA & MARIA MAZZOTTA
     ===========================
@@ -130,7 +110,7 @@
     #### L'Hectare
     
     ](https://zeronovenove.com/eventi/pulcinella-maria-mazzotta-lhectare-vendome/)
-14.  [20 Gen
+12.  [20 Gen
     
     PULCINELLA & MARIA MAZZOTTA
     ===========================
@@ -140,7 +120,7 @@
     #### CIRCa
     
     ](https://zeronovenove.com/eventi/pulcinella-maria-mazzotta-auch-circa/)
-15.  [21 Gen
+13.  [21 Gen
     
     PULCINELLA & MARIA MAZZOTTA
     ===========================
@@ -150,7 +130,7 @@
     #### Centre culturel
     
     ](https://zeronovenove.com/eventi/pulcinella-maria-mazzotta-berre-l-etang-centre-culturel/)
-16.  [18 Feb
+14.  [18 Feb
     
     MARIA MAZZOTTA
     ==============
@@ -160,7 +140,7 @@
     #### Ewiva!
     
     ](https://zeronovenove.com/eventi/maria-mazzotta-mupa-budapest/)[INFO](https://www.mupa.hu/en/program/world-music-jazz-popular-music/ewiva-maria-mazzotta-2022-02-18_19-30-festival-theatre)
-17.  [22 Feb
+15.  [22 Feb
     
     PIETRO ROFFI
     ============
