@@ -1,20 +1,23 @@
 [
 
-![Soiree Kadee #3: Sint Nicolette](/sites/nekkersdal/files/styles/activity_teaser/public/viks/f-975cde00013e44e585f05c222997e734.png?itok=MnUe1jux)
+![Fietsbieb](/sites/nekkersdal/files/styles/activity_teaser/public/viks/f-3b0f984db40842ee9ca78bd87e617e9c.png?itok=-i2fJT6i)
 
 Gratis
 
-Soiree Kadee #3: Sint Nicolette
--------------------------------
+Fietsbieb
+---------
 
 ![de vlieg logo](/themes/custom/entityone/components/_global/images/dist/fly.svg "Vlieg")
 
 Organisator: Gemeenschapscentrum Nekkersdal vzw
 
-vr 03.12.2021
+za 18.12.2021
 
 Gemeenschapscentrum Nekkersdal vzw, Laken
 
+Thema activiteit
+
+Atletiek, wandelen en fietsen
 
 
 
@@ -23,7 +26,51 @@ Gemeenschapscentrum Nekkersdal vzw, Laken
 
 
 
-](https://www.nekkersdal.be/activiteiten/soiree-kadee-3-sint-nicolette)
+
+
+
+
+
+
+
+](https://www.nekkersdal.be/activiteiten/fietsbieb)
+
+[
+
+![Winterse Griezeltocht](/sites/nekkersdal/files/styles/activity_teaser/public/viks/f-709bc516ad2f4fd8b3782727f588e02a.png?itok=Rxvjixvs)
+
+Gratis
+
+Winterse Griezeltocht
+---------------------
+
+![de vlieg logo](/themes/custom/entityone/components/_global/images/dist/fly.svg "Vlieg")
+
+Organisator: Gemeenschapscentrum Nekkersdal vzw
+
+vr 24.12.2021 - zo 09.01.2022
+
+zwembad Laken, Laken
+
+Thema activiteit
+
+Theater
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+](https://www.nekkersdal.be/activiteiten/winterse-griezeltocht)
 
 [
 
@@ -314,44 +361,5 @@ Prijs
 
 
 ](https://www.nekkersdal.be/activiteiten/creatief-lab-maxi)
-
-[
-
-![Creatief lab mini](/sites/nekkersdal/files/styles/activity_teaser/public/viks/f-6186e8da8fb24c7686694aa8a0005ce3.png?itok=fTakZS9X)
-
-Volzet
-
-Creatief lab mini
------------------
-
-![de vlieg logo](/themes/custom/entityone/components/_global/images/dist/fly.svg "Vlieg")
-
-Organisator: Gemeenschapscentrum Nekkersdal vzw
-
-za 25.09.2021 - za 04.06.2022
-
-Gemeenschapscentrum Nekkersdal vzw, Laken
-
-Thema activiteit
-
-Meerdere kunstvormen
-
-Prijs
-
-€ 150
-
-
-
-
-
-
-
-
-
-
-
-
-
-](https://www.nekkersdal.be/activiteiten/creatief-lab-mini)
 
 [Source](https://www.nekkersdal.be/activiteiten?f%5B0%5D=activity_target_group%3A165&f%5B1%5D=activity_target_group%3A576&items_per_page=All)
