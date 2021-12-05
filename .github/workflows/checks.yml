@@ -18,6 +18,7 @@ jobs:
       - name: Commit and push if changes occured
         id: try-commit-push
         # multiline 'additions' are escaped according to https://github.community/t/set-output-truncates-multiline-strings/16852/2
+        # also truncating additions to 3800 chars because of telegram msg size limit
         run: |-
           git config user.name "Automated"
           git config user.email "actions@users.noreply.github.com"
@@ -29,7 +30,7 @@ jobs:
           additions="${additions//'%'/'%25'}"
           additions="${additions//$'\n'/'%0A'}"
           additions="${additions//$'\r'/'%0D'}"
-          echo "::set-output name=checks-changes::$additions"
+          echo "::set-output name=checks-changes::${additions:0:3800}"
           echo "::set-output name=checks-url::$GITHUB_SERVER_URL/$GITHUB_REPOSITORY/commit/$(git rev-parse HEAD)"
       - name: Notify telegram
         uses: appleboy/telegram-action@master
