@@ -16,6 +16,11 @@ const lib = require("./lib");
             id: "diplo-egypt"
         },
         {
+            scrapeUrl: "https://diplomatie.belgium.be/fr/Services/voyager_a_letranger/conseils_par_destination/roumanie",
+            selector: "#block-system-main .field-name-body .field-item table",
+            id: "diplo-roumanie"
+        },
+        {
             scrapeUrl: "https://www.nekkersdal.be/activiteiten?f%5B0%5D=activity_target_group%3A165&f%5B1%5D=activity_target_group%3A576&items_per_page=All",
             selector: "#block-system-main-block",
             id: "gc-nekkersdal"
