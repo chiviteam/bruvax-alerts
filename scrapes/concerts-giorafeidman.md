@@ -66,7 +66,7 @@
     Tickets](https://www.eventim.de/event/giora-feidman-rastrelli-cello-quartett-ev-luth-kirchengemeinde-heiligen-geist-13215963/?affiliate=GFA)
 *   [
     
-    12.12.2021, 19:00 Uhr / verschoben vom 28.04.2021 - Wernigerode
+    12.12.2021, 19:00 Uhr / verschoben vom 28.04.2021 - Wernigerode / WIRD VERSCHOBEN - Termin folgt!
     
     Giora Feidman & Rastrelli Cello Quartett
     
