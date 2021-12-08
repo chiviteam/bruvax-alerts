@@ -191,6 +191,45 @@ Prijs
 
 [
 
+![Speelweek 'Pili Pili en de vuilnisbeltbeestjes'](/sites/essegem/files/styles/activity_teaser/public/viks/f-eb66353e721540228e5f1ef7f8e7a4f2.png?itok=O7RRR63X)
+
+Speelweek 'Pili Pili en de vuilnisbeltbeestjes'
+-----------------------------------------------
+
+![de vlieg logo](/themes/custom/entityone/components/_global/images/dist/fly.svg "Vlieg")
+
+Organisator: Gemeenschapscentrum Essegem vzw, in samenwerking met 
+
+Panta Rhei
+
+ma 28.02.2022 - vr 04.03.2022
+
+Gemeenschapscentrum Essegem vzw, Jette
+
+Thema activiteit
+
+Creativiteit
+
+Prijs
+
+€ 70
+
+
+
+
+
+
+
+
+
+
+
+
+
+](https://www.essegem.be/activiteiten/speelweek-pili-pili-en-de-vuilnisbeltbeestjes)
+
+[
+
 ![Familietheater: Het Lam van Jan (3+)](/sites/essegem/files/styles/activity_teaser/public/viks/f-15b7f27bd0bd45bcae55a07e7b0ad06d.png?itok=GQvrWGjR)
 
 Familietheater: Het Lam van Jan (3+)
@@ -225,6 +264,80 @@ Prijs
 
 
 ](https://www.essegem.be/activiteiten/familietheater-het-lam-van-jan-3)
+
+[
+
+![Speelweek 'Zandmannetje, waar blijf je?'](/sites/essegem/files/styles/activity_teaser/public/viks/f-02a3561508fe45458728749c289a5cdc.png?itok=El-Y6d_o)
+
+Speelweek 'Zandmannetje, waar blijf je?'
+----------------------------------------
+
+![de vlieg logo](/themes/custom/entityone/components/_global/images/dist/fly.svg "Vlieg")
+
+Organisator: Gemeenschapscentrum Essegem vzw
+
+ma 11.04.2022 - vr 15.04.2022
+
+Gemeenschapscentrum Essegem vzw, Jette
+
+Thema activiteit
+
+Creativiteit
+
+Prijs
+
+€ 70
+
+
+
+
+
+
+
+
+
+
+
+
+
+](https://www.essegem.be/activiteiten/speelweek-zandmannetje-waar-blijf-je)
+
+[
+
+![Kids: Lekker Koken](/sites/essegem/files/styles/activity_teaser/public/viks/f-087eddc5464b439dab005c884ae5b37a.png?itok=uJ4EfBnt)
+
+Kids: Lekker Koken
+------------------
+
+![de vlieg logo](/themes/custom/entityone/components/_global/images/dist/fly.svg "Vlieg")
+
+Organisator: Gemeenschapscentrum Essegem vzw
+
+za 29.01.2022 - za 25.06.2022
+
+Gemeenschapscentrum Essegem vzw, Jette
+
+Thema activiteit
+
+Voeding en horeca
+
+Prijs
+
+€ 8
+
+
+
+
+
+
+
+
+
+
+
+
+
+](https://www.essegem.be/activiteiten/kids-lekker-koken-0)
 
 [
 
@@ -266,44 +379,5 @@ Prijs
 
 
 ](https://www.essegem.be/activiteiten/kleuteratelier)
-
-[
-
-![Ketjeskunst](/sites/essegem/files/styles/activity_teaser/public/viks/f-10e664a377b642e1a7aa1b43a87c541d.png?itok=2NffuaTO)
-
-Ketjeskunst
------------
-
-![de vlieg logo](/themes/custom/entityone/components/_global/images/dist/fly.svg "Vlieg")
-
-Organisator: Gemeenschapscentrum Essegem vzw, in samenwerking met 
-
-Panta Rhei, Panta Rhei
-
-wo 08.09.2021 - wo 29.06.2022
-
-Gemeenschapscentrum Essegem vzw, Jette
-
-Thema activiteit
-
-Creativiteit
-
-Prijs
-
-€ 200
-
-
-
-
-
-
-
-
-
-
-
-
-
-](https://www.essegem.be/activiteiten/ketjeskunst)
 
 [Source](https://www.essegem.be/activiteiten?items_per_page=All&f%5B0%5D=activity_target_group%3A165&f%5B1%5D=activity_target_group%3A576)
