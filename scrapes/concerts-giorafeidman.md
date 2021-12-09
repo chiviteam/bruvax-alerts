@@ -22,17 +22,6 @@
     Tickets](https://www.eventim.de/noapp/artist/giora-feidman/giora-feidman-alina-kabanova-2687947/?affiliate=GFA&utm_campaign=GFA&utm_medium=dp&utm_source=GFA)
 *   [
     
-    08.12.2021, 20:00 Uhr / verschoben vom 13.05.2021 - Bad Honnef
-    
-    Giora Feidman & Rastrelli Cello Quartett 
-    
-    Klezmer meets Christmas
-    
-    Bürgerhaus Aegidienberg, Bad Honnef
-    
-    Tickets](https://www.eventim.de/event/giora-feidman-rastrelli-cello-quartett-buergerhaus-aegidienberg-13215966/?affiliate=GFA)
-*   [
-    
     09.12.2021, 20:00 Uhr / verschoben vom 10.05.2021 - Rhede
     
     Giora Feidman & Rastrelli Cello Quartett
