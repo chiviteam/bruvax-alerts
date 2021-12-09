@@ -8,7 +8,7 @@
 
 A partir du 25 Octobre la Belgique figure sur la liste des pays rouges en Roumanie.
 
-Par conséquent, les voyageurs en provenance de Belgique sont soumis à l’obligation d’une période de quarantaine de 14 jours à leur arrivée en Roumanie.
+Par conséquent, les voyageurs en provenance de Belgique (sauf exceptions mentionnées ci-après)sont soumis à l’obligation d’une période de quarantaine de 14 jours à leur arrivée en Roumanie, ou à une période de quarantaine de 10 jours si les voyageurs peuvent présenter un test PCR négatif, réalisé au maximum 72 heures avant le départ vers la Roumanie.
 
 Des exceptions à l’obligation de quarantaine (à condition de ne présenter aucun symptôme de Covid-19) sont entre autres :
 
@@ -21,13 +21,9 @@ Des exceptions à l’obligation de quarantaine (à condition de ne présenter a
 *   Les élèves et étudiants qui se déplacent dans le cadre de leurs études (et leurs accompagnants s'ils sont mineurs) et qui peuvent présenter les documents nécessaires le confirmant.
 *   Chauffeurs poids lourds pouvant présenter un test PCR négatif, effectué au maximum 72 heures avant le départ vers la Roumanie\*.
 
-\***Attention** : Depuis le 13 août, seul le certificat COVID numérique de l’UE avec code QR est accepté comme preuve valable de vaccination, de guérison ou de test négatif pour les voyageurs entrant sur le territoire roumain depuis un pays de l'UE. Toute autre preuve ne sera pas prise en compte et le voyageur en provenance de l’UE sera placé en quarantaine.  
+\*Attention : Depuis le 13 août, seul le certificat COVID numérique de l’UE avec code QR est accepté comme preuve valable de vaccination, de guérison ou de test négatif pour les voyageurs entrant sur le territoire roumain depuis un pays de l'UE. Toute autre preuve ne sera pas prise en compte et le voyageur en provenance de l’UE sera placé en quarantaine.  
 
-Si ces exceptions ne s’appliquent pas à votre cas, vous devrez respecter l’obligation de quarantaine. Celle-ci implique que:
-
-Si vous vous soumettez à un test PCR le 8ième jour de quarantaine, que le résultat est négatif\*\* et que vous ne présentez aucun symptôme, vous pouvez interrompre la quarantaine  après le 10ième jour. Dans le cas contraire, la quarantaine se terminera le 14ème jour.
-
-\*\*Le test doit être effectué sur le lieu de quarantaine. Consultez ici la [liste (link is external)](http://www.ms.ro/centre-testare/) des centres de test en Roumanie (link is external). Tous les centres de test ne se déplacent pas pour effectuer le test. Vous devez également obtenir un accord pour sortir de la quarantaine. Vous pouvez demander cet accord à la Direction de la Santé Publique ('DSP') du département ('Judet') où vous séjournez.
+Si ces exceptions ne s’appliquent pas à votre cas, vous devrez respecter l’obligation de quarantaine.
 
 ### **2\. Mesures générales en vigueur en Roumanie**
 
@@ -35,10 +31,10 @@ L'état d'alerte a été décrété en Roumanie. Vous pouvez trouver [toutes le
 
 Les mesures suivantes sont en vigueur sur tout le territoire roumain :
 
-*   Une **obligation de port du masque** s'applique dans tous les lieux publics, tant à l'intérieur qu'à l'extérieur, ainsi que sur le lieu de travail et dans les transports en commun (à l'exception des enfants de moins de 5 ans).
-*   Il y a un **couvre-feu** entre 22h et 5h du matin à l'exception des personnes vaccinées et des personnes ayant eu la maladie (démontrable avec une attestation numérique), des personnes en déplacement d'intérêt professionnel et de certaines urgences.
-*   Les supermarchés, commerces, banques, cinémas, restaurants, cafés et terrasses, établissements publics, etc. **ferment** entre 21h et 5h. Exceptions : pharmacies, stations-service, livraison à domicile, sociétés de transport.
-*   Le **certificat covid numérique de l'UE** est mis en œuvre presque partout, à l'exception des magasins d'alimentation et des pharmacies, comme suit :
+*   Une obligation de port du masque s'applique dans tous les lieux publics, tant à l'intérieur qu'à l'extérieur, ainsi que sur le lieu de travail et dans les transports en commun (à l'exception des enfants de moins de 5 ans).
+*   Il y a un couvre-feu entre 22h et 5h du matin à l'exception des personnes vaccinées et des personnes ayant eu la maladie (démontrable avec une attestation numérique), des personnes en déplacement d'intérêt professionnel et de certaines urgences.
+*   Les supermarchés, commerces, banques, cinémas, restaurants, cafés et terrasses, établissements publics, etc. ferment entre 21h et 5h. Exceptions : pharmacies, stations-service, livraison à domicile, sociétés de transport.
+*   Le certificat covid numérique de l'UE est mis en œuvre presque partout, à l'exception des magasins d'alimentation et des pharmacies, comme suit :
     *   Accès à tous les événements et activités, aux centres commerciaux, hôtels, restaurants et cafés autorisés uniquement pour les personnes vaccinées, les personnes ayant eu la maladie et les enfants ≤ 12 ans, s'ils sont accompagnés d'un adulte qui a été vacciné ou a eu la maladie.
     *   L'accès des visiteurs (non salariés) aux établissements publics, banques et immeubles de bureaux privés de plus de 50 salariés, est autorisé pour les personnes vaccinées, les personnes ayant eu la maladie, les personnes testées négatives (test PCR 72h ou test antigène 48h) , et les enfants 12 ans, lorsqu'ils sont accompagnés d'un adulte qui a été vacciné ou a eu la maladie. Exceptions : les personnes qui ont un besoin urgent d'un document en cas de maladie, naissance, etc.
 
