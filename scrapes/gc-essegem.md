@@ -1,42 +1,5 @@
 [
 
-![Kids: Lekker Koken](/sites/essegem/files/styles/activity_teaser/public/viks/f-e51d129c41394e498f8e23c8a0b79c9c.png?itok=4vMsfRCf)
-
-Kids: Lekker Koken
-------------------
-
-![de vlieg logo](/themes/custom/entityone/components/_global/images/dist/fly.svg "Vlieg")
-
-Organisator: Gemeenschapscentrum Essegem vzw
-
-za 11.09.2021 - za 11.12.2021
-
-Gemeenschapscentrum Essegem vzw, Jette
-
-Thema activiteit
-
-Voeding en horeca
-
-Prijs
-
-€ 5
-
-
-
-
-
-
-
-
-
-
-
-
-
-](https://www.essegem.be/activiteiten/kids-lekker-koken)
-
-[
-
 ![Wintervoenk](/sites/essegem/files/styles/activity_teaser/public/viks/f-f579f32418a8467697e590bd01945cde.png?h=1a1eaab0&itok=tXhDER1W)
 
 Gratis
@@ -379,5 +342,44 @@ Prijs
 
 
 ](https://www.essegem.be/activiteiten/kleuteratelier)
+
+[
+
+![Ketjeskunst](/sites/essegem/files/styles/activity_teaser/public/viks/f-10e664a377b642e1a7aa1b43a87c541d.png?itok=2NffuaTO)
+
+Ketjeskunst
+-----------
+
+![de vlieg logo](/themes/custom/entityone/components/_global/images/dist/fly.svg "Vlieg")
+
+Organisator: Gemeenschapscentrum Essegem vzw, in samenwerking met 
+
+Panta Rhei, Panta Rhei
+
+wo 08.09.2021 - wo 29.06.2022
+
+Gemeenschapscentrum Essegem vzw, Jette
+
+Thema activiteit
+
+Creativiteit
+
+Prijs
+
+€ 200
+
+
+
+
+
+
+
+
+
+
+
+
+
+](https://www.essegem.be/activiteiten/ketjeskunst)
 
 [Source](https://www.essegem.be/activiteiten?items_per_page=All&f%5B0%5D=activity_target_group%3A165&f%5B1%5D=activity_target_group%3A576)
