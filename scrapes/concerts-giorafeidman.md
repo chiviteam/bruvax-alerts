@@ -22,40 +22,7 @@
     Tickets](https://www.eventim.de/noapp/artist/giora-feidman/giora-feidman-alina-kabanova-2687947/?affiliate=GFA&utm_campaign=GFA&utm_medium=dp&utm_source=GFA)
 *   [
     
-    09.12.2021, 20:00 Uhr / verschoben vom 10.05.2021 - Rhede
-    
-    Giora Feidman & Rastrelli Cello Quartett
-    
-    Klezmer meets Christmas 
-    
-    Rheder Ei, Rhede
-    
-    Tickets](https://www.eventim.de/event/giora-feidman-rastrelli-cello-quartett-rheder-ei-13215960/?affiliate=GFA)
-*   [
-    
-    10.12.2021, 20:00 Uhr / verschoben vom 26.04.2021 - Walsrode
-    
-    Giora Feidman & Rastrelli Cello Quartett 
-    
-    Klezmer meets Christmas
-    
-    Stadtkirche Walsrode
-    
-    Tickets](https://www.eventim.de/event/giora-feidman-rastrelli-cello-quartett-stadtkirche-13215834/?affiliate=GFA)
-*   [
-    
-    11.12.2021, 20:00 Uhr / verschoben vom 25.04.2021 - Wismar
-    
-    Giora Feidman & Rastrelli Cello Quartett
-    
-    Klezmer meets Christmas 
-    
-    Heiligen Geist Kirche Wismar
-    
-    Tickets](https://www.eventim.de/event/giora-feidman-rastrelli-cello-quartett-ev-luth-kirchengemeinde-heiligen-geist-13215963/?affiliate=GFA)
-*   [
-    
-    12.12.2021, 19:00 Uhr / verschoben vom 28.04.2021 - Wernigerode / WIRD VERSCHOBEN - Termin folgt!
+    12.12.2021, 19:00 Uhr - Wernigerode / VERSCHOBEN - ERSATZTERMIN FOLGT
     
     Giora Feidman & Rastrelli Cello Quartett
     
