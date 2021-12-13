@@ -1,16 +1,6 @@
 ### Upcoming Events
 
-1.  [12 Dic
-    
-    PULCINELLA & MARIA MAZZOTTA
-    ===========================
-    
-    ##### Berne (SWITZERLAND)
-    
-    #### Bee Flat
-    
-    ](https://zeronovenove.com/eventi/pulcinella-maria-mazzotta-berne-suisse-bee-flat/)
-2.  [14 Dic
+1.  [14 Dic
     
     PULCINELLA & MARIA MAZZOTTA
     ===========================
@@ -20,7 +10,7 @@
     #### Cankarjev Dom
     
     ](https://zeronovenove.com/eventi/pulcinella-maria-mazzotta-ljubljana-cankarjev-dom/)
-3.  [16 Dic
+2.  [16 Dic
     
     PULCINELLA & MARIA MAZZOTTA
     ===========================
@@ -30,7 +20,7 @@
     #### Budapest Music Center, Opus Jazz Club
     
     ](https://zeronovenove.com/eventi/pulcinella-maria-mazzotta-opus-jazz-club-budapest-music-center/)
-4.  [18 Dic
+3.  [18 Dic
     
     PULCINELLA & MARIA MAZZOTTA
     ===========================
@@ -40,7 +30,7 @@
     #### Unterfahrt
     
     ](https://zeronovenove.com/eventi/pulcinella-maria-mazzotta-unterfahrt-munich/)
-5.  [23 Dic
+4.  [23 Dic
     
     DALILA SPAGNOLO
     ===============
@@ -50,7 +40,7 @@
     #### W Club
     
     ](https://zeronovenove.com/eventi/dalila-spagnolo-w-club-lecce/)
-6.  [07 Gen
+5.  [07 Gen
     
     DALILA SPAGNOLO
     ===============
@@ -60,7 +50,7 @@
     #### Caffè letterario - Cibo per la mente
     
     ](https://zeronovenove.com/eventi/dalila-spagnolo-caffe-letterario-cibo-per-la-mente-taranto/)
-7.  [14 Gen
+6.  [14 Gen
     
     PULCINELLA & MARIA MAZZOTTA
     ===========================
@@ -70,7 +60,7 @@
     #### L'Hectare
     
     ](https://zeronovenove.com/eventi/pulcinella-maria-mazzotta-lhectare-vendome/)
-8.  [20 Gen
+7.  [20 Gen
     
     PULCINELLA & MARIA MAZZOTTA
     ===========================
@@ -80,7 +70,7 @@
     #### CIRCa
     
     ](https://zeronovenove.com/eventi/pulcinella-maria-mazzotta-auch-circa/)
-9.  [21 Gen
+8.  [21 Gen
     
     PULCINELLA & MARIA MAZZOTTA
     ===========================
@@ -90,7 +80,7 @@
     #### Centre culturel
     
     ](https://zeronovenove.com/eventi/pulcinella-maria-mazzotta-berre-l-etang-centre-culturel/)
-10.  [18 Feb
+9.  [18 Feb
     
     MARIA MAZZOTTA
     ==============
@@ -100,7 +90,7 @@
     #### Double W Festival
     
     ](https://zeronovenove.com/eventi/maria-mazzotta-mupa-budapest/)[INFO](https://www.mupa.hu/en/program/world-music-jazz-popular-music/ewiva-maria-mazzotta-2022-02-18_19-30-festival-theatre)
-11.  [22 Feb
+10.  [22 Feb
     
     PIETRO ROFFI
     ============
