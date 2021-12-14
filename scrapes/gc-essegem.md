@@ -300,7 +300,7 @@ Prijs
 
 
 
-](https://www.essegem.be/activiteiten/kids-lekker-koken-0)
+](https://www.essegem.be/activiteiten/kids-lekker-koken)
 
 [
 
