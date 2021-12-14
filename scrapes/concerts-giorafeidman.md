@@ -355,19 +355,6 @@
     Tickets](https://www.eventim.de/noapp/artist/giora-feidman/giora-feidman-friendship-tour-2022-2959653/?affiliate=GFA&utm_campaign=GFA&utm_medium=dp&utm_source=GFA)
 *   [
     
-    28.01.2022, 16:00 Uhr - Cottbus - Zusatzkonzert
-    
-    Giora Feidman - Friendship Tour 2022
-    
-    75-jähriges Bühnenjubiläum
-    
-    Mit dem Rastrelli Cello Quartett
-    
-    Lutherkirche, Cottbus
-    
-    Tickets](https://www.eventim.de/noapp/event/giora-feidman-friendship-tour-2022-lutherkirche-cottbus-13998364/?affiliate=GFA&utm_campaign=GFA&utm_medium=dp&utm_source=GFA)
-*   [
-    
     28.01.2022, 20:00 Uhr - Cottbus
     
     Giora Feidman - Friendship Tour 2022
@@ -377,6 +364,12 @@
     Mit dem Rastrelli Cello Quartett
     
     Lutherkirche, Cottbus
+    
+      
+    
+    ❗Wichtige Information Giora Feidman in Cottbus❗
+    
+    Hiermit möchten wir darüber informieren, dass die beiden Konzerte am 28. Januar 2022 um 16 und 20 Uhr in Cottbus aus organisatorischen Gründen zusammengelegt werden. Somit findet das Konzert am 28. Januar 2022 nur um 20 Uhr statt. Bereits gekaufte Karten für das Konzert um 16 Uhr sind für das Konzert um 20 Uhr gültig. 
     
     Tickets](https://www.eventim.de/noapp/event/giora-feidman-friendship-tour-2022-lutherkirche-cottbus-13926636/?affiliate=GFA&utm_campaign=GFA&utm_medium=dp&utm_source=GFA)
 *   [
