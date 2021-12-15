@@ -22,17 +22,6 @@
     Tickets](https://www.eventim.de/noapp/artist/giora-feidman/giora-feidman-alina-kabanova-2687947/?affiliate=GFA&utm_campaign=GFA&utm_medium=dp&utm_source=GFA)
 *   [
     
-    12.12.2021, 19:00 Uhr - Wernigerode / VERSCHOBEN - ERSATZTERMIN FOLGT
-    
-    Giora Feidman & Rastrelli Cello Quartett
-    
-    Klezmer meets Christmas
-    
-    Fürstlicher Marstall Wernigerode
-    
-    Tickets](https://www.eventim.de/event/giora-feidman-rastrelli-cello-quartett-fuerstlicher-marstall-13216072/?affiliate=GFA)
-*   [
-    
     28.12.2021, 20.00 Uhr - Eckernförde
     
     Giora Feidman & Sergej Tcherepanov
@@ -225,32 +214,6 @@
     Tickets](https://www.eventim.de/noapp/artist/giora-feidman/giora-feidman-friendship-tour-2022-2959653/?affiliate=GFA&utm_campaign=GFA&utm_medium=dp&utm_source=GFA)
 *   [
     
-    16.01.2022 , 19:00 Uhr / verschoben vom 11.05.2021 - Bad Bentheim
-    
-    Giora Feidman - Friendship Tour 2022
-    
-    75-jähriges Bühnenjubiläum
-    
-    Mit dem Rastrelli Cello Quartett
-    
-    Ev. Ref. Kirche Gildehaus, Bad Bentheim
-    
-    Tickets](https://www.eventim.de/noapp/artist/giora-feidman/giora-feidman-friendship-tour-2022-2959653/?affiliate=GFA&utm_campaign=GFA&utm_medium=dp&utm_source=GFA)
-*   [
-    
-    17.01.2022, 20:00 Uhr - Hannover
-    
-    Giora Feidman - Friendship Tour 2022
-    
-    75-jähriges Bühnenjubiläum
-    
-    Mit dem Rastrelli Cello Quartett
-    
-    Apostelkirche, Hannover
-    
-    Tickets](https://www.eventim.de/noapp/event/giora-feidman-friendship-tour-2022-apostelkirche-13933724/?affiliate=GFA&utm_campaign=GFA&utm_medium=dp&utm_source=GFA)
-*   [
-    
     19.01.2022, 20:00 Uhr / verschoben vom 12.05.2021 - Bad Sooden-Allendorf
     
     Giora Feidman - Friendship Tour 2022
@@ -260,45 +223,6 @@
     Mit dem Rastrelli Cello Quartett 
     
     St. Crucis, Bad Sooden-Allendorf
-    
-    Tickets](https://www.eventim.de/noapp/artist/giora-feidman/giora-feidman-friendship-tour-2022-2959653/?affiliate=GFA&utm_campaign=GFA&utm_medium=dp&utm_source=GFA)
-*   [
-    
-    20.01.2022, 20:00 Uhr - Marburg
-    
-    Giora Feidman - Friendship Tour 2022
-    
-    75-jähriges Bühnenjubiläum
-    
-    Mit dem Rastrelli Cello Quartett
-    
-    Elisabethkirche, Marburg
-    
-    Tickets](https://www.eventim.de/noapp/artist/giora-feidman/giora-feidman-friendship-tour-2022-2959653/?affiliate=GFA&utm_campaign=GFA&utm_medium=dp&utm_source=GFA)
-*   [
-    
-    21.01.2022, 20:00 Uhr - Aschaffenburg
-    
-    Giora Feidman - Friendship Tour 2022
-    
-    75-jähriges Bühnenjubiläum
-    
-    Mit dem Rastrelli Cello Quartett
-    
-    Christuskirche, Aschaffenburg
-    
-    Tickets](https://www.eventim.de/noapp/artist/giora-feidman/giora-feidman-friendship-tour-2022-2959653/?affiliate=GFA&utm_campaign=GFA&utm_medium=dp&utm_source=GFA)
-*   [
-    
-    23.01.2022, 20:00 Uhr - Lübeck
-    
-    Giora Feidman - Friendship Tour 2022
-    
-    75-jähriges Bühnenjubiläum
-    
-    Mit dem Rastrelli Cello Quartett
-    
-    Kolosseum, Lübeck
     
     Tickets](https://www.eventim.de/noapp/artist/giora-feidman/giora-feidman-friendship-tour-2022-2959653/?affiliate=GFA&utm_campaign=GFA&utm_medium=dp&utm_source=GFA)
 *   [
@@ -400,19 +324,6 @@
     Tickets](https://www.eventim.de/noapp/artist/giora-feidman/giora-feidman-friendship-tour-2022-2959653/?affiliate=GFA&utm_campaign=GFA&utm_medium=dp&utm_source=GFA)
 *   [
     
-    30.01.2022, 19:00 Uhr - Greifswald
-    
-    Giora Feidman - Friendship Tour 2022
-    
-    75-jähriges Bühnenjubiläum
-    
-    Mit dem Rastrelli Cello Quartett
-    
-    St. Jacobi, Greifswald
-    
-    Tickets](https://www.giorafeidman-online.com/termine)
-*   [
-    
     01.02.2022, 20:00 Uhr / verschoben vom 14.04.2021 - München
     
     Giora Feidman & Klezmer Virtuos
@@ -429,5 +340,94 @@
     Giora Feidman & Gitanes Blondes, Kölner Philharmonie 
     
     Tickets](https://www.eventim.de/noapp/event/giora-feidman-friends-koelner-philharmonie-12285310/?affiliate=GFA&utm_campaign=GFA&utm_medium=dp&utm_source=GFA)
+*   [
+    
+    01.04.2022, 20:00 Uhr - Greifswald / verschoben vom 30.01.2022
+    
+    Giora Feidman - Friendship Tour 2022
+    
+    75-jähriges Bühnenjubiläum
+    
+    Mit dem Rastrelli Cello Quartett
+    
+    St. Jacobi, Greifswald
+    
+    Tickets](https://www.giorafeidman-online.com/termine)
+*   [
+    
+    02.04.2022, 20:00 Uhr - Lübeck / verschoben vom 23.01.2022
+    
+    Giora Feidman - Friendship Tour 2022
+    
+    75-jähriges Bühnenjubiläum
+    
+    Mit dem Rastrelli Cello Quartett
+    
+    Kolosseum, Lübeck
+    
+    Tickets](https://www.eventim.de/noapp/artist/giora-feidman/giora-feidman-friendship-tour-2022-2959653/?affiliate=GFA&utm_campaign=GFA&utm_medium=dp&utm_source=GFA)
+*   [
+    
+    03.04.2022, 19:00 Uhr - Hannover / verschoben vom 17.01.2022
+    
+    Giora Feidman - Friendship Tour 2022
+    
+    75-jähriges Bühnenjubiläum
+    
+    Mit dem Rastrelli Cello Quartett
+    
+    Apostelkirche, Hannover
+    
+    Tickets](https://www.eventim.de/noapp/event/giora-feidman-friendship-tour-2022-apostelkirche-13933724/?affiliate=GFA&utm_campaign=GFA&utm_medium=dp&utm_source=GFA)
+*   [
+    
+    04.04.2022, 20:00 Uhr - Wernigerode / verschoben vom 12.12.2021
+    
+    Giora Feidman & Rastrelli Cello Quartett
+    
+    Klezmer meets Christmas
+    
+    Fürstlicher Marstall Wernigerode
+    
+    Tickets](https://www.eventim.de/event/giora-feidman-rastrelli-cello-quartett-fuerstlicher-marstall-13216072/?affiliate=GFA)
+*   [
+    
+    20.05.2022, 20:00 Uhr - Aschaffenburg / verschoben vom 21.01.2022
+    
+    Giora Feidman - Friendship Tour 2022
+    
+    75-jähriges Bühnenjubiläum
+    
+    Mit dem Rastrelli Cello Quartett
+    
+    Christuskirche, Aschaffenburg
+    
+    Tickets](https://www.eventim.de/noapp/artist/giora-feidman/giora-feidman-friendship-tour-2022-2959653/?affiliate=GFA&utm_campaign=GFA&utm_medium=dp&utm_source=GFA)
+*   [
+    
+    21.05.2022, 20:00 Uhr - Marburg / verschoben vom 20.01.2022
+    
+    Giora Feidman - Friendship Tour 2022
+    
+    75-jähriges Bühnenjubiläum
+    
+    Mit dem Rastrelli Cello Quartett
+    
+    Elisabethkirche, Marburg
+    
+    Tickets](https://www.eventim.de/noapp/artist/giora-feidman/giora-feidman-friendship-tour-2022-2959653/?affiliate=GFA&utm_campaign=GFA&utm_medium=dp&utm_source=GFA)
+*   [
+    
+    22.05.2022 , 19:00 Uhr - Bad Bentheim / verschoben vom 16.01.2022
+    
+    Giora Feidman - Friendship Tour 2022
+    
+    75-jähriges Bühnenjubiläum
+    
+    Mit dem Rastrelli Cello Quartett
+    
+    Ev. Ref. Kirche Gildehaus, Bad Bentheim
+    
+    Tickets](https://www.eventim.de/noapp/artist/giora-feidman/giora-feidman-friendship-tour-2022-2959653/?affiliate=GFA&utm_campaign=GFA&utm_medium=dp&utm_source=GFA)
 
 [Source](https://www.giorafeidman-online.com/termine)
