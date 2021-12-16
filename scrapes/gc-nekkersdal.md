@@ -19,7 +19,9 @@ Thema activiteit
 
 Atletiek, wandelen en fietsen
 
+2
 
+ - 12 jaar
 
 
 
@@ -124,6 +126,10 @@ Prijs
 
 € 85
 
+6
+
+ - 8 jaar
+
 
 
 
@@ -163,6 +169,10 @@ Prijs
 
 € 85
 
+6
+
+ - 8 jaar
+
 
 
 
@@ -199,6 +209,10 @@ Omnisport en andere
 Prijs
 
 € 85
+
+5
+
+ - 6 jaar
 
 
 
@@ -237,6 +251,10 @@ Prijs
 
 € 85
 
+5
+
+ - 6 jaar
+
 
 
 
@@ -273,6 +291,10 @@ Talen
 Prijs
 
 € 85
+
+6
+
+ - 7 jaar
 
 
 
@@ -311,6 +333,8 @@ Prijs
 
 € 85
 
+ - 4 jaar - 4 jaar
+
 
 
 
@@ -347,6 +371,10 @@ Meerdere kunstvormen
 Prijs
 
 € 150
+
+6
+
+ - 9 jaar
 
 
 

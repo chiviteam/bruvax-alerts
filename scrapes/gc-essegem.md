@@ -21,6 +21,8 @@ Thema activiteit
 
 Theater
 
+1+
+
 
 
 
@@ -62,6 +64,10 @@ Prijs
 
 € 7
 
+4
+
+ - 6 jaar
+
 
 
 
@@ -101,6 +107,10 @@ Prijs
 
 € 6
 
+4
+
+ - 7 jaar
+
 
 
 
@@ -137,6 +147,10 @@ Jazz en blues
 Prijs
 
 € 6
+
+2
+
+ - 5 jaar
 
 
 
@@ -177,6 +191,10 @@ Prijs
 
 € 70
 
+3
+
+ - 5 jaar
+
 
 
 
@@ -213,6 +231,10 @@ Theater
 Prijs
 
 € 6
+
+3
+
+ - 6 jaar
 
 
 
@@ -251,6 +273,10 @@ Prijs
 
 € 70
 
+3
+
+ - 5 jaar
+
 
 
 
@@ -287,6 +313,10 @@ Voeding en horeca
 Prijs
 
 € 8
+
+6
+
+ - 10 jaar
 
 
 
@@ -329,6 +359,10 @@ Prijs
 
 € 200
 
+3
+
+ - 5 jaar
+
 
 
 
@@ -367,6 +401,10 @@ Creativiteit
 Prijs
 
 € 200
+
+6
+
+ - 12 jaar
 
 
 
