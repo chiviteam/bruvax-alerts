@@ -80,8 +80,8 @@ Theater
 
 Gratis
 
-SNOW - KAK Familievoorstelling
-------------------------------
+SNOW - Familievoorstelling
+--------------------------
 
 ![de vlieg logo](/themes/custom/entityone/components/_global/images/dist/fly.svg "Vlieg")
 
@@ -113,7 +113,7 @@ Theater
 
 
 
-](https://www.nekkersdal.be/activiteiten/snow-kak-familievoorstelling)
+](https://www.nekkersdal.be/activiteiten/snow-familievoorstelling)
 
 [
 
