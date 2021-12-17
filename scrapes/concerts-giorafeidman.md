@@ -201,6 +201,19 @@
     Tickets](https://www.eventim.de/noapp/artist/giora-feidman/giora-feidman-friendship-tour-2022-2959653/?affiliate=GFA&utm_campaign=GFA&utm_medium=dp&utm_source=GFA)
 *   [
     
+    15.01.2021, 17.00 Uhr - Cloppenburg / Zusatzkonzert
+    
+    Giora Feidman - Friendship Tour 2022
+    
+    75-jähriges Bühnenjubiläum
+    
+    Mit dem Rastrelli Cello Quartett
+    
+    St. Josef, Cloppenburg
+    
+    Tickets](https://www.eventim.de/noapp/event/giora-feidman-friendship-tour-2022-st-josef-kirche-14603071/?affiliate=GFA&utm_campaign=GFA&utm_medium=dp&utm_source=GFA)
+*   [
+    
     15.01.2022, 20:00 Uhr - Cloppenburg
     
     Giora Feidman - Friendship Tour 2022
