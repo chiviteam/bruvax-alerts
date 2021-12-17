@@ -22,7 +22,7 @@
     Tickets](https://www.eventim.de/noapp/artist/giora-feidman/giora-feidman-alina-kabanova-2687947/?affiliate=GFA&utm_campaign=GFA&utm_medium=dp&utm_source=GFA)
 *   [
     
-    28.12.2021, 20.00 Uhr - Eckernförde
+    28.12.2021, 20.00 Uhr - Eckernförde / WIRD VERSCHOBEN - Ersatztermin folgt
     
     Giora Feidman & Sergej Tcherepanov
     
