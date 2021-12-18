@@ -49,6 +49,11 @@ const lib = require("./lib");
             scrapeUrl: "https://www.giorafeidman-online.com/termine",
             selector: '#dm_content ul',
             id: "concerts-giorafeidman"
+        },
+        {
+            scrapeUrl: "https://altex.ro/televizor-led-smart-philips-43pus7906-ultra-hd-4k-hdr-108-cm/cpd/UHD43PUS7906/",
+            selector: '.my-2',
+            id: "altex-televisor-philips"
         }
     ]
 
