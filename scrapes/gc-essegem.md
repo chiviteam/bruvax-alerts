@@ -1,46 +1,5 @@
 [
 
-![Wintervoenk](/sites/essegem/files/styles/activity_teaser/public/viks/f-f579f32418a8467697e590bd01945cde.png?h=1a1eaab0&itok=tXhDER1W)
-
-Gratis
-
-Wintervoenk
------------
-
-![de vlieg logo](/themes/custom/entityone/components/_global/images/dist/fly.svg "Vlieg")
-
-Externe organisator: Gemeente Jette, in samenwerking met 
-
-Gemeente Jette
-
-vr 17.12.2021
-
-Kardinaal Mercierplein, Jette
-
-Thema activiteit
-
-Theater
-
-1+
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-](https://www.essegem.be/activiteiten/wintervoenk)
-
-[
-
 ![Multimove voor kleuters](/sites/essegem/files/styles/activity_teaser/public/viks/f-2040064e344f440b98570a8b087d01bf.png?itok=d6byJ3_S)
 
 Multimove voor kleuters
