@@ -1,44 +1,5 @@
 [
 
-![Fietsbieb](/sites/nekkersdal/files/styles/activity_teaser/public/viks/f-3b0f984db40842ee9ca78bd87e617e9c.png?itok=-i2fJT6i)
-
-Gratis
-
-Fietsbieb
----------
-
-![de vlieg logo](/themes/custom/entityone/components/_global/images/dist/fly.svg "Vlieg")
-
-Organisator: Gemeenschapscentrum Nekkersdal vzw
-
-za 18.12.2021
-
-Gemeenschapscentrum Nekkersdal vzw, Laken
-
-Thema activiteit
-
-Atletiek, wandelen en fietsen
-
-2
-
- - 12 jaar
-
-
-
-
-
-
-
-
-
-
-
-
-
-](https://www.nekkersdal.be/activiteiten/fietsbieb)
-
-[
-
 ![Winterse Griezeltocht](/sites/nekkersdal/files/styles/activity_teaser/public/viks/f-709bc516ad2f4fd8b3782727f588e02a.png?itok=Rxvjixvs)
 
 Gratis
@@ -389,5 +350,46 @@ Prijs
 
 
 ](https://www.nekkersdal.be/activiteiten/kleuters-spelen-met-frans)
+
+[
+
+![Creatief lab maxi](/sites/nekkersdal/files/styles/activity_teaser/public/viks/f-40eff61ebfcd472cac6977294becc569.png?itok=JRhdxPtO)
+
+Creatief lab maxi
+-----------------
+
+![de vlieg logo](/themes/custom/entityone/components/_global/images/dist/fly.svg "Vlieg")
+
+Organisator: Gemeenschapscentrum Nekkersdal vzw
+
+za 25.09.2021 - za 04.06.2022
+
+Gemeenschapscentrum Nekkersdal vzw, Laken
+
+Thema activiteit
+
+Meerdere kunstvormen
+
+Prijs
+
+€ 150
+
+6
+
+ - 9 jaar
+
+
+
+
+
+
+
+
+
+
+
+
+
+](https://www.nekkersdal.be/activiteiten/creatief-lab-maxi)
 
 [Source](https://www.nekkersdal.be/activiteiten?f%5B0%5D=activity_target_group%3A165&f%5B1%5D=activity_target_group%3A576&items_per_page=All)
