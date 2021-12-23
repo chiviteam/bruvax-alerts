@@ -1,4 +1,4 @@
-1.999,90 lei
+1.799,90 lei
 
 Include taxa verde: 12,50 lei.
 

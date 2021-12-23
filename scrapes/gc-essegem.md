@@ -1,48 +1,5 @@
 [
 
-![Multimove voor kleuters](/sites/essegem/files/styles/activity_teaser/public/viks/f-2040064e344f440b98570a8b087d01bf.png?itok=d6byJ3_S)
-
-Multimove voor kleuters
------------------------
-
-![de vlieg logo](/themes/custom/entityone/components/_global/images/dist/fly.svg "Vlieg")
-
-Organisator: Gemeenschapscentrum Essegem vzw, in samenwerking met 
-
-BRES
-
-wo 10.11.2021 - wo 22.12.2021
-
-Sint-Michielsschool, Jette
-
-Thema activiteit
-
-Omnisport en andere
-
-Prijs
-
-€ 7
-
-4
-
- - 6 jaar
-
-
-
-
-
-
-
-
-
-
-
-
-
-](https://www.essegem.be/activiteiten/multimove-voor-kleuters)
-
-[
-
 ![Familietheater: Streep! (4+)](/sites/essegem/files/styles/activity_teaser/public/viks/f-6dee2d0a74a140499859ccd5922c4bf5.png?itok=wsuCBTBG)
 
 Volzet
