@@ -43,6 +43,33 @@ Prijs
 
 [
 
+![Save the date: Welkom 2022](/sites/essegem/files/styles/activity_teaser/public/viks/f-58b6503909cb4be292f5fb137c88899f.png?itok=yNpHpc5G)
+
+Gratis
+
+Welkom 2022 feest & parade - special guest: Quetzalcoatl
+--------------------------------------------------------
+
+![de vlieg logo](/themes/custom/entityone/components/_global/images/dist/fly.svg "Vlieg")
+
+Organisator: Gemeenschapscentrum Essegem vzw
+
+vr 28.01.2022
+
+Gemeenschapscentrum Essegem vzw, Jette
+
+
+
+
+
+
+
+
+
+](https://www.essegem.be/activiteiten/welkom-2022-feest-parade-special-guest-quetzalcoatl)
+
+[
+
 ![Familietheater: vierkantROND (2,5+)](/sites/essegem/files/styles/activity_teaser/public/viks/f-486f2328121b4fc5bed89ca97710e71b.png?itok=YCGFXQpR)
 
 Familietheater: vierkantROND (2,5+)
