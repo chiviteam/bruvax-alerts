@@ -33,17 +33,6 @@
     Tickets](https://www.eventim.de/noapp/event/giora-feidman-sergej-tcherepanov-from-classic-to-klezmer-stadthalle-eckernfoerde-14390400/?affiliate=GFA&utm_campaign=GFA&utm_medium=dp&utm_source=GFA)
 *   [
     
-    29.12.2021, 20:00 Uhr / verschoben vom 05.06.2021 - Niebüll
-    
-    Giora Feidman & Sergej Tcherepanov
-    
-    Klezmer & more
-    
-    Stadthalle Niebüll
-    
-    Tickets](https://www.eventim.de/noapp/event/giora-feidman-alina-kabanova-stadthalle-niebuell-13273363/?affiliate=GFA&utm_campaign=GFA&utm_medium=dp&utm_source=GFA)
-*   [
-    
     30.12.2021, 20.00 Uhr - Amrum
     
     Giora Feidman & Sergej Tcherepanov
@@ -455,5 +444,16 @@
     Ev. Ref. Kirche Gildehaus, Bad Bentheim
     
     Tickets](https://www.eventim.de/noapp/artist/giora-feidman/giora-feidman-friendship-tour-2022-2959653/?affiliate=GFA&utm_campaign=GFA&utm_medium=dp&utm_source=GFA)
+*   [
+    
+    21.06.2022, 20:00 Uhr / verschoben vom 29.12.2021 - Niebüll
+    
+    Giora Feidman & Sergej Tcherepanov
+    
+    Klezmer & more
+    
+    Stadthalle Niebüll
+    
+    Tickets](https://www.eventim.de/noapp/event/giora-feidman-alina-kabanova-stadthalle-niebuell-13273363/?affiliate=GFA&utm_campaign=GFA&utm_medium=dp&utm_source=GFA)
 
 [Source](https://www.giorafeidman-online.com/termine)
