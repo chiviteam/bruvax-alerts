@@ -44,7 +44,7 @@
     Tickets](https://www.amrum.de/veranstaltungen/norddorf-auf-amrum/e-giora-feidman-weltklasse-zum-jahreswechsel)
 *   [
     
-    31.12.2021, Uhrzeit folgt - Dülmen
+    31.12.2021, Uhrzeit folgt - Dülmen / VERSCHOBEN - weitere Infos folgen
     
     Giora Feidman, Dülmen
     
