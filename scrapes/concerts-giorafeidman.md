@@ -138,19 +138,6 @@
     Tickets](https://www.giorafeidman-online.com/termine)
 *   [
     
-    11.01.2022, 20:00 Uhr / verschoben vom 13.12.2020 - Northeim
-    
-    Giora Feidman - Friendship Tour 2022
-    
-    75-jähriges Bühnenjubiläum
-    
-    Mit dem Rastrelli Cello Quartet 
-    
-    St. Sixti, Northeim
-    
-    Tickets](https://www.eventim.de/noapp/artist/giora-feidman/giora-feidman-friendship-tour-2022-2959653/?affiliate=GFA&utm_campaign=GFA&utm_medium=dp&utm_source=GFA)
-*   [
-    
     12.01.2022, 17:00 Uhr - Wolfsburg / Zusatzkonzert
     
     Giora Feidman - Friendship Tour 2022
@@ -405,6 +392,19 @@
     Fürstlicher Marstall Wernigerode
     
     Tickets](https://www.eventim.de/event/giora-feidman-rastrelli-cello-quartett-fuerstlicher-marstall-13216072/?affiliate=GFA)
+*   [
+    
+    05.04.2022, 20:00 Uhr / verschoben vom 11.01.2022 - Northeim
+    
+    Giora Feidman - Friendship Tour 2022
+    
+    75-jähriges Bühnenjubiläum
+    
+    Mit dem Rastrelli Cello Quartet 
+    
+    St. Sixti, Northeim
+    
+    Tickets](https://www.eventim.de/noapp/artist/giora-feidman/giora-feidman-friendship-tour-2022-2959653/?affiliate=GFA&utm_campaign=GFA&utm_medium=dp&utm_source=GFA)
 *   [
     
     20.05.2022, 20:00 Uhr - Aschaffenburg / verschoben vom 21.01.2022
