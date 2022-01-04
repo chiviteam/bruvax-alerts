@@ -236,6 +236,49 @@ Prijs
 
 [
 
+![Multimove voor kleuters](/sites/essegem/files/styles/activity_teaser/public/viks/f-08439a7e597347a69223fdf54a91006d.png?itok=GZkJbwLf)
+
+Multimove voor kleuters
+-----------------------
+
+![de vlieg logo](/themes/custom/entityone/components/_global/images/dist/fly.svg "Vlieg")
+
+Organisator: Gemeenschapscentrum Essegem vzw, in samenwerking met 
+
+BRES
+
+wo 12.01.2022 - wo 22.06.2022
+
+Sint-Michielsschool, Jette
+
+Thema activiteit
+
+Omnisport en andere
+
+Prijs
+
+€ 20
+
+4
+
+ - 5 jaar
+
+
+
+
+
+
+
+
+
+
+
+
+
+](https://www.essegem.be/activiteiten/multimove-voor-kleuters)
+
+[
+
 ![Kids: Lekker Koken](/sites/essegem/files/styles/activity_teaser/public/viks/f-087eddc5464b439dab005c884ae5b37a.png?itok=uJ4EfBnt)
 
 Kids: Lekker Koken
