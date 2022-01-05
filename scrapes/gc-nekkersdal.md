@@ -41,8 +41,6 @@ Theater
 
 Gratis
 
-Geannuleerd
-
 SNOW - Familievoorstelling
 --------------------------
 
