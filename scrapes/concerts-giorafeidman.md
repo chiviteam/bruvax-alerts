@@ -29,41 +29,6 @@
     Item Link](https://www.giorafeidman-online.com/termine)
 *   [
     
-    03.01.2022, 19:30 Uhr / verschoben vom 22.04.21 - Lindau
-    
-    Giora Feidman & Rastrelli Cello Quartett
-    
-    Klezmer Bridges
-    
-    Stadttheater Lindau 
-    
-    Tickets](https://www.kultur-lindau.de/musik-lindau/musik-details/klezmer-bridges-1)
-*   [
-    
-    04.01.2022, 19:30 Uhr / verschoben vom 20.04.2021 - Liestal
-    
-    Giora Feidman & Rastrelli Cello Quartett
-    
-    Klezmer Bridges
-    
-    Stadtkirche Liestal
-    
-    Tickets](https://www.blkonzerte.ch/34-giora-feidman-klarinette)
-*   [
-    
-    05.01.2022, 19:30 Uhr - Tübingen
-    
-    Giora Feidman - Friendship Tour 2022
-    
-    75-jähriges Bühnenjubiläum
-    
-    Mit dem Rastrelli Cello Quartett
-    
-    Eberhardskirche, Tübingen
-    
-    Tickets](https://www.eventim.de/noapp/artist/giora-feidman/giora-feidman-friendship-tour-2022-2959653/?affiliate=GFA&utm_campaign=GFA&utm_medium=dp&utm_source=GFA)
-*   [
-    
     06.01.2022, 20:00 Uhr - Heidelberg
     
     Giora Feidman - Friendship Tour 2022
