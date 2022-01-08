@@ -30,7 +30,17 @@
     #### Centre culturel
     
     ](https://zeronovenove.com/eventi/pulcinella-maria-mazzotta-berre-l-etang-centre-culturel/)
-4.  [18 Feb
+4.  [21 Gen
+    
+    DALILA SPAGNOLO
+    ===============
+    
+    ##### Lecce
+    
+    #### La drogheria
+    
+    ](https://zeronovenove.com/eventi/dalila-spagnolo-drogheria-lecce/)
+5.  [18 Feb
     
     MARIA MAZZOTTA
     ==============
@@ -40,7 +50,7 @@
     #### Double W Festival
     
     ](https://zeronovenove.com/eventi/maria-mazzotta-mupa-budapest/)[INFO](https://www.mupa.hu/en/program/world-music-jazz-popular-music/ewiva-maria-mazzotta-2022-02-18_19-30-festival-theatre)
-5.  [22 Feb
+6.  [22 Feb
     
     PIETRO ROFFI
     ============
