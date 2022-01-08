@@ -1,16 +1,6 @@
 ### Upcoming Events
 
-1.  [07 Gen
-    
-    DALILA SPAGNOLO
-    ===============
-    
-    ##### Taranto
-    
-    #### Caffè letterario - Cibo per la mente
-    
-    ](https://zeronovenove.com/eventi/dalila-spagnolo-caffe-letterario-cibo-per-la-mente-taranto/)
-2.  [14 Gen
+1.  [14 Gen
     
     PULCINELLA & MARIA MAZZOTTA
     ===========================
@@ -20,7 +10,7 @@
     #### L'Hectare
     
     ](https://zeronovenove.com/eventi/pulcinella-maria-mazzotta-lhectare-vendome/)
-3.  [20 Gen
+2.  [20 Gen
     
     PULCINELLA & MARIA MAZZOTTA
     ===========================
@@ -30,7 +20,7 @@
     #### CIRCa
     
     ](https://zeronovenove.com/eventi/pulcinella-maria-mazzotta-auch-circa/)
-4.  [21 Gen
+3.  [21 Gen
     
     PULCINELLA & MARIA MAZZOTTA
     ===========================
@@ -40,7 +30,7 @@
     #### Centre culturel
     
     ](https://zeronovenove.com/eventi/pulcinella-maria-mazzotta-berre-l-etang-centre-culturel/)
-5.  [18 Feb
+4.  [18 Feb
     
     MARIA MAZZOTTA
     ==============
@@ -50,7 +40,7 @@
     #### Double W Festival
     
     ](https://zeronovenove.com/eventi/maria-mazzotta-mupa-budapest/)[INFO](https://www.mupa.hu/en/program/world-music-jazz-popular-music/ewiva-maria-mazzotta-2022-02-18_19-30-festival-theatre)
-6.  [22 Feb
+5.  [22 Feb
     
     PIETRO ROFFI
     ============
