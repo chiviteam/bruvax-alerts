@@ -1,42 +1,5 @@
 [
 
-![Winterse Griezeltocht](/sites/nekkersdal/files/styles/activity_teaser/public/viks/f-709bc516ad2f4fd8b3782727f588e02a.png?itok=Rxvjixvs)
-
-Gratis
-
-Winterse Griezeltocht
----------------------
-
-![de vlieg logo](/themes/custom/entityone/components/_global/images/dist/fly.svg "Vlieg")
-
-Organisator: Gemeenschapscentrum Nekkersdal vzw
-
-vr 24.12.2021 - zo 09.01.2022
-
-zwembad Laken, Laken
-
-Thema activiteit
-
-Theater
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-](https://www.nekkersdal.be/activiteiten/winterse-griezeltocht)
-
-[
-
 ![SNOW - KAK Familievoorstelling](/sites/nekkersdal/files/styles/activity_teaser/public/viks/f-c47fb5480e09423aa74502afe4275841.png?itok=aNau8E61)
 
 Gratis
@@ -391,5 +354,48 @@ Prijs
 
 
 ](https://www.nekkersdal.be/activiteiten/creatief-lab-maxi)
+
+[
+
+![Creatief lab mini](/sites/nekkersdal/files/styles/activity_teaser/public/viks/f-6186e8da8fb24c7686694aa8a0005ce3.png?itok=fTakZS9X)
+
+Volzet
+
+Creatief lab mini
+-----------------
+
+![de vlieg logo](/themes/custom/entityone/components/_global/images/dist/fly.svg "Vlieg")
+
+Organisator: Gemeenschapscentrum Nekkersdal vzw
+
+za 25.09.2021 - za 04.06.2022
+
+Gemeenschapscentrum Nekkersdal vzw, Laken
+
+Thema activiteit
+
+Meerdere kunstvormen
+
+Prijs
+
+€ 150
+
+4
+
+ - 5 jaar
+
+
+
+
+
+
+
+
+
+
+
+
+
+](https://www.nekkersdal.be/activiteiten/creatief-lab-mini)
 
 [Source](https://www.nekkersdal.be/activiteiten?f%5B0%5D=activity_target_group%3A165&f%5B1%5D=activity_target_group%3A576&items_per_page=All)
