@@ -39,19 +39,6 @@
     Tickets](https://www.eventim.de/event/giora-feidman-rastrelli-cello-quartett-kulturkirche-neuruppin-13156828/?affiliate=GFA)
 *   [
     
-    14.01.2022, 20:00 Uhr - Schwerin
-    
-    Giora Feidman - Friendship Tour 2022
-    
-    75-jähriges Bühnenjubiläum
-    
-    Mit dem Rastrelli Cello Quartett
-    
-    St. Nikolai, Schwerin
-    
-    Tickets](https://www.eventim.de/noapp/artist/giora-feidman/giora-feidman-friendship-tour-2022-2959653/?affiliate=GFA&utm_campaign=GFA&utm_medium=dp&utm_source=GFA)
-*   [
-    
     15.01.2021, 17.00 Uhr - Cloppenburg / Zusatzkonzert
     
     Giora Feidman - Friendship Tour 2022
@@ -76,9 +63,7 @@
     St. Josef, Cloppenburg
     
     Tickets](https://www.eventim.de/noapp/artist/giora-feidman/giora-feidman-friendship-tour-2022-2959653/?affiliate=GFA&utm_campaign=GFA&utm_medium=dp&utm_source=GFA)
-*   [
-    
-    19.01.2022, 20:00 Uhr / verschoben vom 12.05.2021 - Bad Sooden-Allendorf
+*   19.01.2022, 20:00 Uhr / verschoben vom 12.05.2021 - Bad Sooden-Allendorf / ABGESAGT
     
     Giora Feidman - Friendship Tour 2022
     
@@ -88,7 +73,7 @@
     
     St. Crucis, Bad Sooden-Allendorf
     
-    Tickets](https://www.eventim.de/noapp/artist/giora-feidman/giora-feidman-friendship-tour-2022-2959653/?affiliate=GFA&utm_campaign=GFA&utm_medium=dp&utm_source=GFA)
+    Tickets
 *   [
     
     24.01.2022, 19:30 Uhr / verschoben vom 27.04.2021 - Salzwedel
@@ -304,6 +289,19 @@
     Mit dem Rastrelli Cello Quartett
     
     Ev. Ref. Kirche Gildehaus, Bad Bentheim
+    
+    Tickets](https://www.eventim.de/noapp/artist/giora-feidman/giora-feidman-friendship-tour-2022-2959653/?affiliate=GFA&utm_campaign=GFA&utm_medium=dp&utm_source=GFA)
+*   [
+    
+    23.05.2022, 20:00 Uhr - Schwerin / verschoben vom 14.01.2022
+    
+    Giora Feidman - Friendship Tour 2022
+    
+    75-jähriges Bühnenjubiläum
+    
+    Mit dem Rastrelli Cello Quartett
+    
+    St. Nikolai, Schwerin
     
     Tickets](https://www.eventim.de/noapp/artist/giora-feidman/giora-feidman-friendship-tour-2022-2959653/?affiliate=GFA&utm_campaign=GFA&utm_medium=dp&utm_source=GFA)
 *   [
