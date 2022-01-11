@@ -8,18 +8,19 @@
 
 Depuis le 20 décembre 2021, tous les voyageurs se rendant en Roumanie doivent compléter un [formulaire de localisation des passagers (PLF) (link is external)](http://plf.gov.ro/login). Ce formulaire peut être complété avant votre arrivée en Roumanie (maximum 24 heures avant l'arrivée), ou au plus tard 24 heures après votre arrivée.
 
-Depuis le 25 octobre, la Belgique figure sur la liste rouge en Roumanie. Par conséquent, les voyageurs en provenance de Belgique (sauf exceptions mentionnées ci-après) sont soumis à l’obligation d’une période de quarantaine de 14 jours à leur arrivée en Roumanie, ou à une période de quarantaine de 10 jours s’ils peuvent présenter un test PCR négatif, réalisé au maximum 72 heures avant leur départ pour la Roumanie.
+Depuis le 25 octobre, la Belgique figure sur la liste rouge en Roumanie. Par conséquent, les voyageurs en provenance de Belgique (sauf exceptions mentionnées ci-après) sont soumis à l’obligation d’une période de quarantaine de 10 jours à leur arrivée en Roumanie.
 
 Des exceptions à l’obligation de quarantaine (à condition de ne présenter aucun symptôme de COVID-19) sont entre autres :
 
 *   Les voyageurs vaccinés contre le COVID-19 à partir du 10ème jour suivant la vaccination complète\* ;
-*   Les voyageurs qui peuvent présenter un certificat de rétablissement à leur arrivée en Roumanie, prouvant qu'ils sont rétablis de la COVID-19 depuis au moins 14 jours et au maximum depuis 180 jours\* ;
+*   Les voyageurs qui peuvent présenter un certificat de rétablissement à leur arrivée en Roumanie, prouvant qu'ils sont rétablis de la COVID-19 depuis au moins 11 jours et au maximum depuis 180 jours\* ;
 *   Les enfants jusqu’à l’âge de 12 ans inclus, sans devoir présenter le résultat d’un test ;
-*   Les enfants de plus de 12 ans et de moins de 16 ans, pouvant présenter un test PCR négatif, effectué au maximum 72 heures avant leur départ pour la Roumanie\* ;
+*   Les enfants de plus de 12 ans et de moins de 16 ans, pouvant présenter un test PCR négatif, effectué au maximum 72 heures avant leur embarquement pour la Roumanie (moyens de transport en commun), soit 72 heures avant leur entrée sur le territoire de la Roumanie (transport par propres moyens)\* ;
 *   Les voyageurs en transit (séjour de max. 24 heures) ;
-*   Les voyageurs séjournant moins de 3 jours (72 heures) en Roumanie et pouvant présenter un test PCR négatif, effectué au maximum 72 heures avant leur départ pour la Roumanie\* ;
+*   Les voyageurs séjournant moins de 3 jours (72 heures) en Roumanie et pouvant présenter un test PCR négatif, effectué au maximum 72 heures avant leur embarquement pour la Roumanie (moyens de transport en commun), soit 72 heures avant leur entrée sur le territoire de la Roumanie (transport par propre moyens).\* Au cas où ces voyageurs ne quittent pas le territoire de la Roumanie pendant les 72 heures, une quarantaine de 14 jours leur sera imposée à partir du quatrième jour dès leur entrée en Roumanie ;
 *   Les élèves et étudiants qui se déplacent dans le cadre de leurs études (et leurs accompagnants si ces premiers sont mineurs) et qui peuvent présenter les documents idoines.
-*   Les chauffeurs de poids lourds pouvant présenter un test PCR négatif, effectué au maximum 72 heures avant leur départ pour la Roumanie\*.
+*   Les chauffeurs de poids lourds pouvant présenter un test PCR négatif, effectué au maximum 72 heures avant leur départ pour la Roumanie\* ;
+*   Les membres des délégations sportives, ainsi que les artistes et leur staff, qui ne sont pas vaccinés, soit qui ne peuvent pas présenter un certificat de rétablissement à leur arrivée en Roumanie, prouvant qu'ils sont rétablis de la COVID-19 depuis au moins 11 jours et au maximum depuis 180 jours, mais qui présentent un test PCR négatif effectué au maximum 72 heures avant leur embarquement pour la Roumanie (moyens de transport en commun), soit 72 heures avant leur entrée sur le territoire de la Roumanie (transport par propres moyens) et qui vont uniquement participer aux compétitions sportives/évènements mentionnés.
 
 \***Attention** : Depuis le 13 août, seul le certificat COVID numérique de l’UE avec code QR est accepté comme preuve valable de vaccination, de guérison ou de test négatif pour les voyageurs entrant sur le territoire roumain depuis un pays de l'UE. Toute autre preuve ne sera pas prise en compte et le voyageur en provenance de l’UE sera placé en quarantaine.  
 
@@ -31,8 +32,7 @@ L'état d'alerte a été décrété en Roumanie. Vous pouvez trouver [toutes le
 
 Les mesures suivantes sont en vigueur sur l’ensemble du territoire roumain :
 
-*   Le **port du masque** est obligatoire dans tous les lieux publics,  tant à l’intérieur qu’à l’extérieur, et dans les transports publics (sauf pour les enfants âgés de moins de 5 ans). Uniquement des masques de type médical ou FFP2 sont permis (pas de masques réutilisables en tissu).
-*   Un **couvre-feu** est en vigueur de 22h à 5h du matin sauf pour les personnes vaccinées et les personnes ayant contracté la maladie (sur présentation d’une attestation numérique), les personnes en déplacement pour un motif professionnel et dans certaines situations d’urgence.
+*   Le **port du masque** est obligatoire dans tous les lieux publics, tant à l’intérieur qu’à l’extérieur, et dans les transports publics (sauf pour les enfants âgés de moins de 5 ans). Uniquement des masques de type médical ou FFP2 sont permis (pas de masques réutilisables en tissu).
 *   Les supermarchés, magasins, banques, cinémas, restaurants, cafés et terrasses, établissements publics, etc. sont **fermés** entre 22h et 5h. Exceptions : les pharmacies, les stations-service, les services de livraison à domicile, les sociétés de transport.
 *   Le **certificat covid numérique de l'UE** est presque partout de mise, sauf dans les magasins d'alimentation et des pharmacies, et ce de la manière suivante :
     *   L’accès à tous les événements et activités, aux centres commerciaux, hôtels, restaurants et cafés, est autorisé uniquement pour les personnes vaccinées, les personnes qui sont rétablies de la maladie, les personnes testées négatives (test PCR de moins de 72h ou antigénique de moins de 48h) et les enfants âgés de moins de 12 ans, s’ils sont accompagnés d'un adulte qui a été vacciné ou qui est rétabli de la maladie.
