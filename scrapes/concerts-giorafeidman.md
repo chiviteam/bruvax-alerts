@@ -1,31 +1,5 @@
 *   [
     
-    12.01.2022, 17:00 Uhr - Wolfsburg / Zusatzkonzert
-    
-    Giora Feidman - Friendship Tour 2022
-    
-    75-jähriges Bühnenjubiläum
-    
-    Mit dem Rastrelli Cello Quartett
-    
-    Kulturkirche, Wolfsburg
-    
-    Tickets](https://www.eventim.de/noapp/event/giora-feidman-friendship-tour-2022-kulturkirche-wolfsburg-14621167/?affiliate=GFA&utm_campaign=GFA&utm_medium=dp&utm_source=GFA)
-*   [
-    
-    12.01.2022, 20:00 Uhr - Wolfsburg
-    
-    Giora Feidman - Friendship Tour 2022
-    
-    75-jähriges Bühnenjubiläum
-    
-    Mit dem Rastrelli Cello Quartett
-    
-    Kulturkirche, Wolfsburg
-    
-    Tickets](https://www.eventim.de/noapp/artist/giora-feidman/giora-feidman-friendship-tour-2022-2959653/?affiliate=GFA&utm_campaign=GFA&utm_medium=dp&utm_source=GFA)
-*   [
-    
     13.01.2022, 19:30 Uhr / verschoben vom 25.03.2021 - Neuruppin
     
     Giora Feidman - Friendship Tour 2022
@@ -74,19 +48,6 @@
     St. Crucis, Bad Sooden-Allendorf
     
     Tickets
-*   [
-    
-    24.01.2022, 19:30 Uhr / verschoben vom 27.04.2021 - Salzwedel
-    
-    Giora Feidman - Friendship Tour 2022
-    
-    75-jähriges Bühnenjubiläum
-    
-    Mit dem Rastrelli Cello Quartett
-    
-    Kulturhaus Salzwedel
-    
-    Tickets](https://www.eventim.de/noapp/event/giora-feidman-rastrelli-cello-quartett-kulturhaus-salzwedel-12439693/?affiliate=GFA&utm_campaign=GFA&utm_medium=dp&utm_source=GFA)
 *   [
     
     25.01.2022, 20:00 Uhr - Rostock
@@ -252,6 +213,19 @@
     St. Sixti, Northeim
     
     Tickets](https://www.eventim.de/noapp/artist/giora-feidman/giora-feidman-friendship-tour-2022-2959653/?affiliate=GFA&utm_campaign=GFA&utm_medium=dp&utm_source=GFA)
+*   [
+    
+    06.04.2022, 19:30 Uhr / verschoben vom 24.01.2022 - Salzwedel
+    
+    Giora Feidman - Friendship Tour 2022
+    
+    75-jähriges Bühnenjubiläum
+    
+    Mit dem Rastrelli Cello Quartett
+    
+    Kulturhaus Salzwedel
+    
+    Tickets](https://www.eventim.de/noapp/event/giora-feidman-rastrelli-cello-quartett-kulturhaus-salzwedel-12439693/?affiliate=GFA&utm_campaign=GFA&utm_medium=dp&utm_source=GFA)
 *   [
     
     20.05.2022, 20:00 Uhr - Aschaffenburg / verschoben vom 21.01.2022
