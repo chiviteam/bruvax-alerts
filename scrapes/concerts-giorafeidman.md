@@ -134,17 +134,6 @@
     Tickets](https://www.eventim.de/noapp/artist/giora-feidman/giora-feidman-friendship-tour-2022-2959653/?affiliate=GFA&utm_campaign=GFA&utm_medium=dp&utm_source=GFA)
 *   [
     
-    01.02.2022, 20:00 Uhr / verschoben vom 14.04.2021 - München
-    
-    Giora Feidman & Klezmer Virtuos
-    
-    „Happy Birthday, Giora Feidman - TOUR 85“ 
-    
-    Prinzregententheater München
-    
-    Tickets](https://www.bellarte-muenchen.de/Konzerte/i/Giora-Feidman-/720)
-*   [
-    
     31.03.2022, 20:00 Uhr / verschoben vom 03.09.2021 - Köln
     
     Giora Feidman & Gitanes Blondes, Kölner Philharmonie 
@@ -300,5 +289,16 @@
     Stadthalle Eckernförde
     
     Tickets](https://www.eventim.de/noapp/event/giora-feidman-sergej-tcherepanov-from-classic-to-klezmer-stadthalle-eckernfoerde-14390400/?affiliate=GFA&utm_campaign=GFA&utm_medium=dp&utm_source=GFA)
+*   [
+    
+    21.09.2022, 20:00 Uhr / verschoben vom 01.02.2022 - München
+    
+    Giora Feidman & Klezmer Virtuos
+    
+    „Happy Birthday, Giora Feidman - TOUR 85“ 
+    
+    Prinzregententheater München
+    
+    Tickets](https://www.bellarte-muenchen.de/Konzerte/i/Giora-Feidman-/720)
 
 [Source](https://www.giorafeidman-online.com/termine)
