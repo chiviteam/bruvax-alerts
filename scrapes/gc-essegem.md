@@ -43,7 +43,7 @@ Prijs
 
 [
 
-![Save the date: Welkom 2022](/sites/essegem/files/styles/activity_teaser/public/viks/f-58b6503909cb4be292f5fb137c88899f.png?itok=yNpHpc5G)
+![Save the date: Welkom 2022](/sites/essegem/files/styles/activity_teaser/public/viks/f-58b6503909cb4be292f5fb137c88899f.png?h=0cd53604&itok=yNpHpc5G)
 
 Gratis
 
