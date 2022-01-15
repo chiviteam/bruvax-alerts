@@ -1,16 +1,6 @@
 ### Upcoming Events
 
-1.  [14 Gen
-    
-    PULCINELLA & MARIA MAZZOTTA
-    ===========================
-    
-    ##### Vendôme (FRANCE)
-    
-    #### L'Hectare
-    
-    ](https://zeronovenove.com/eventi/pulcinella-maria-mazzotta-lhectare-vendome/)
-2.  [20 Gen
+1.  [20 Gen
     
     PULCINELLA & MARIA MAZZOTTA
     ===========================
@@ -20,7 +10,7 @@
     #### CIRCa
     
     ](https://zeronovenove.com/eventi/pulcinella-maria-mazzotta-auch-circa/)
-3.  [21 Gen
+2.  [21 Gen
     
     PULCINELLA & MARIA MAZZOTTA
     ===========================
@@ -30,7 +20,7 @@
     #### Centre culturel
     
     ](https://zeronovenove.com/eventi/pulcinella-maria-mazzotta-berre-l-etang-centre-culturel/)
-4.  [21 Gen
+3.  [21 Gen
     
     DALILA SPAGNOLO
     ===============
@@ -40,7 +30,7 @@
     #### La drogheria
     
     ](https://zeronovenove.com/eventi/dalila-spagnolo-drogheria-lecce/)
-5.  [18 Feb
+4.  [18 Feb
     
     MARIA MAZZOTTA
     ==============
@@ -50,7 +40,7 @@
     #### Double W Festival
     
     ](https://zeronovenove.com/eventi/maria-mazzotta-mupa-budapest/)[INFO](https://www.mupa.hu/en/program/world-music-jazz-popular-music/ewiva-maria-mazzotta-2022-02-18_19-30-festival-theatre)
-6.  [19 Feb
+5.  [19 Feb
     
     MARIA MAZZOTTA
     ==============
@@ -60,7 +50,7 @@
     #### Rai Radio 3
     
     ](https://zeronovenove.com/eventi/maria-mazzotta-piazza-verdi-rai-radio-3/)
-7.  [22 Feb
+6.  [22 Feb
     
     PIETRO ROFFI
     ============
@@ -70,7 +60,7 @@
     #### Teatro Fusco
     
     ](https://zeronovenove.com/eventi/pietro-roffi-teatro-fusco-taranto/)
-8.  [26 Feb
+7.  [26 Feb
     
     MARIA MAZZOTTA
     ==============
