@@ -4,12 +4,14 @@
 
 Gratis
 
-Soiree Kadee #4
----------------
+Geannuleerd
+
+Soiree Kadee #4 // GEANNULEERD
+------------------------------
 
 ![de vlieg logo](/themes/custom/entityone/components/_global/images/dist/fly.svg "Vlieg")
 
-Externe organisator: GC Nekkersdal
+Organisator: Gemeenschapscentrum Nekkersdal vzw
 
 vr 04.02.2022
 
@@ -23,7 +25,7 @@ Gemeenschapscentrum Nekkersdal vzw, Laken
 
 
 
-](https://www.nekkersdal.be/activiteiten/soiree-kadee-4)
+](https://www.nekkersdal.be/activiteiten/soiree-kadee-4-geannuleerd)
 
 [
 
