@@ -1,46 +1,5 @@
 [
 
-![SNOW - KAK Familievoorstelling](/sites/nekkersdal/files/styles/activity_teaser/public/viks/f-c47fb5480e09423aa74502afe4275841.png?itok=aNau8E61)
-
-Gratis
-
-SNOW - Familievoorstelling
---------------------------
-
-![de vlieg logo](/themes/custom/entityone/components/_global/images/dist/fly.svg "Vlieg")
-
-Organisator: Gemeenschapscentrum Nohva vzw, in samenwerking met 
-
-Gemeenschapscentrum Nekkersdal vzw
-
-zo 16.01.2022
-
-Gemeenschapscentrum Nohva vzw, Neder-Over-Heembeek
-
-Thema activiteit
-
-Theater
-
-4
-
- - 88 jaar
-
-
-
-
-
-
-
-
-
-
-
-
-
-](https://www.nekkersdal.be/activiteiten/snow-familievoorstelling)
-
-[
-
 ![Soiree Kadee #4](/sites/nekkersdal/files/styles/activity_teaser/public/viks/f-e4a3f5fa27f74da18b74c1e1bb60b718.png?itok=SuaKiTuy)
 
 Gratis
@@ -397,5 +356,48 @@ Prijs
 
 
 ](https://www.nekkersdal.be/activiteiten/creatief-lab-mini)
+
+[
+
+![Multimove kleuters](/sites/nekkersdal/files/styles/activity_teaser/public/viks/f-de9f890555e141229c92a2bbfd969790.png?itok=jOHNJVL3)
+
+Volzet
+
+Multimove kleuters
+------------------
+
+![de vlieg logo](/themes/custom/entityone/components/_global/images/dist/fly.svg "Vlieg")
+
+Organisator: Gemeenschapscentrum Nekkersdal vzw
+
+za 02.10.2021 - za 04.06.2022
+
+Sint-Ursula, Laken
+
+Thema activiteit
+
+Omnisport en andere
+
+Prijs
+
+€ 85
+
+2
+
+ - 4 jaar
+
+
+
+
+
+
+
+
+
+
+
+
+
+](https://www.nekkersdal.be/activiteiten/multimove-kleuters)
 
 [Source](https://www.nekkersdal.be/activiteiten?f%5B0%5D=activity_target_group%3A165&f%5B1%5D=activity_target_group%3A576&items_per_page=All)
