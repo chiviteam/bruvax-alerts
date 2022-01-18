@@ -1,5 +1,44 @@
 [
 
+![Fietsbieb](/sites/nekkersdal/files/styles/activity_teaser/public/viks/f-7c7c4564460243b887be2d61cfc0e715.png?itok=nVI_oi0Q)
+
+Gratis
+
+Fietsbieb
+---------
+
+![de vlieg logo](/themes/custom/entityone/components/_global/images/dist/fly.svg "Vlieg")
+
+Organisator: Gemeenschapscentrum Nekkersdal vzw
+
+za 29.01.2022
+
+Gemeenschapscentrum Nekkersdal vzw, Laken
+
+Thema activiteit
+
+Atletiek, wandelen en fietsen
+
+2
+
+ - 12 jaar
+
+
+
+
+
+
+
+
+
+
+
+
+
+](https://www.nekkersdal.be/activiteiten/fietsbieb-5)
+
+[
+
 ![Soiree Kadee #4](/sites/nekkersdal/files/styles/activity_teaser/public/viks/f-e4a3f5fa27f74da18b74c1e1bb60b718.png?itok=SuaKiTuy)
 
 Gratis
@@ -26,6 +65,123 @@ Gemeenschapscentrum Nekkersdal vzw, Laken
 
 
 ](https://www.nekkersdal.be/activiteiten/soiree-kadee-4-geannuleerd)
+
+[
+
+![Fietsbieb](/sites/nekkersdal/files/styles/activity_teaser/public/viks/f-46c44afee46c456ab4cd933e91f8a6eb.png?itok=SFhn4qaZ)
+
+Gratis
+
+Fietsbieb
+---------
+
+![de vlieg logo](/themes/custom/entityone/components/_global/images/dist/fly.svg "Vlieg")
+
+Organisator: Gemeenschapscentrum Nekkersdal vzw
+
+za 26.02.2022
+
+Gemeenschapscentrum Nekkersdal vzw, Laken
+
+Thema activiteit
+
+Atletiek, wandelen en fietsen
+
+2
+
+ - 12 jaar
+
+
+
+
+
+
+
+
+
+
+
+
+
+](https://www.nekkersdal.be/activiteiten/fietsbieb-4)
+
+[
+
+![Fietsbieb](/sites/nekkersdal/files/styles/activity_teaser/public/viks/f-b1c24d53b25342598772be87d8b28023.png?itok=QmqBqCiL)
+
+Gratis
+
+Fietsbieb
+---------
+
+![de vlieg logo](/themes/custom/entityone/components/_global/images/dist/fly.svg "Vlieg")
+
+Organisator: Gemeenschapscentrum Nekkersdal vzw
+
+za 26.03.2022
+
+Gemeenschapscentrum Nekkersdal vzw, Laken
+
+Thema activiteit
+
+Atletiek, wandelen en fietsen
+
+2
+
+ - 12 jaar
+
+
+
+
+
+
+
+
+
+
+
+
+
+](https://www.nekkersdal.be/activiteiten/fietsbieb-3)
+
+[
+
+![Fietsbieb](/sites/nekkersdal/files/styles/activity_teaser/public/viks/f-4260e08694c74ba2babcd04caef16dc4.png?itok=UUARMjcZ)
+
+Gratis
+
+Fietsbieb
+---------
+
+![de vlieg logo](/themes/custom/entityone/components/_global/images/dist/fly.svg "Vlieg")
+
+Organisator: Gemeenschapscentrum Nekkersdal vzw
+
+za 30.04.2022
+
+Gemeenschapscentrum Nekkersdal vzw, Laken
+
+Thema activiteit
+
+Atletiek, wandelen en fietsen
+
+2
+
+ - 12 jaar
+
+
+
+
+
+
+
+
+
+
+
+
+
+](https://www.nekkersdal.be/activiteiten/fietsbieb-2)
 
 [
 
@@ -69,6 +225,45 @@ Prijs
 
 
 ](https://www.nekkersdal.be/activiteiten/minibasket-6-8-jaar)
+
+[
+
+![Fietsbieb](/sites/nekkersdal/files/styles/activity_teaser/public/viks/f-cce7be78aaea477fb94a26d7838cc3e0.png?itok=qCffMX0r)
+
+Gratis
+
+Fietsbieb
+---------
+
+![de vlieg logo](/themes/custom/entityone/components/_global/images/dist/fly.svg "Vlieg")
+
+Organisator: Gemeenschapscentrum Nekkersdal vzw
+
+zo 29.05.2022
+
+Gemeenschapscentrum Nekkersdal vzw, Laken
+
+Thema activiteit
+
+Atletiek, wandelen en fietsen
+
+2
+
+ - 12 jaar
+
+
+
+
+
+
+
+
+
+
+
+
+
+](https://www.nekkersdal.be/activiteiten/fietsbieb-1)
 
 [
 
@@ -194,212 +389,5 @@ Prijs
 
 
 ](https://www.nekkersdal.be/activiteiten/minis-spelen-met-frans)
-
-[
-
-![Spelen met Frans](/sites/nekkersdal/files/styles/activity_teaser/public/viks/f-2c341a56c4904584831f71de8d1b1e30.png?itok=K_PZeY6r)
-
-Spelen met Frans
-----------------
-
-![de vlieg logo](/themes/custom/entityone/components/_global/images/dist/fly.svg "Vlieg")
-
-Organisator: Gemeenschapscentrum Nekkersdal vzw
-
-za 02.10.2021 - za 04.06.2022
-
-Gemeenschapscentrum Nekkersdal vzw, Laken
-
-Thema activiteit
-
-Talen
-
-Prijs
-
-€ 85
-
-6
-
- - 7 jaar
-
-
-
-
-
-
-
-
-
-
-
-
-
-](https://www.nekkersdal.be/activiteiten/spelen-met-frans)
-
-[
-
-![Kleuters spelen met Frans](/sites/nekkersdal/files/styles/activity_teaser/public/viks/f-3c61bc6c483f416d972f5b7323985d6c.png?itok=6FwcSYhr)
-
-Kleuters spelen met Frans
--------------------------
-
-![de vlieg logo](/themes/custom/entityone/components/_global/images/dist/fly.svg "Vlieg")
-
-Organisator: Gemeenschapscentrum Nekkersdal vzw
-
-za 02.10.2021 - za 04.06.2022
-
-Gemeenschapscentrum Nekkersdal vzw, Laken
-
-Thema activiteit
-
-Talen
-
-Prijs
-
-€ 85
-
- - 4 jaar - 4 jaar
-
-
-
-
-
-
-
-
-
-
-
-
-
-](https://www.nekkersdal.be/activiteiten/kleuters-spelen-met-frans)
-
-[
-
-![Creatief lab maxi](/sites/nekkersdal/files/styles/activity_teaser/public/viks/f-40eff61ebfcd472cac6977294becc569.png?itok=JRhdxPtO)
-
-Creatief lab maxi
------------------
-
-![de vlieg logo](/themes/custom/entityone/components/_global/images/dist/fly.svg "Vlieg")
-
-Organisator: Gemeenschapscentrum Nekkersdal vzw
-
-za 25.09.2021 - za 04.06.2022
-
-Gemeenschapscentrum Nekkersdal vzw, Laken
-
-Thema activiteit
-
-Meerdere kunstvormen
-
-Prijs
-
-€ 150
-
-6
-
- - 9 jaar
-
-
-
-
-
-
-
-
-
-
-
-
-
-](https://www.nekkersdal.be/activiteiten/creatief-lab-maxi)
-
-[
-
-![Creatief lab mini](/sites/nekkersdal/files/styles/activity_teaser/public/viks/f-6186e8da8fb24c7686694aa8a0005ce3.png?itok=fTakZS9X)
-
-Volzet
-
-Creatief lab mini
------------------
-
-![de vlieg logo](/themes/custom/entityone/components/_global/images/dist/fly.svg "Vlieg")
-
-Organisator: Gemeenschapscentrum Nekkersdal vzw
-
-za 25.09.2021 - za 04.06.2022
-
-Gemeenschapscentrum Nekkersdal vzw, Laken
-
-Thema activiteit
-
-Meerdere kunstvormen
-
-Prijs
-
-€ 150
-
-4
-
- - 5 jaar
-
-
-
-
-
-
-
-
-
-
-
-
-
-](https://www.nekkersdal.be/activiteiten/creatief-lab-mini)
-
-[
-
-![Multimove kleuters](/sites/nekkersdal/files/styles/activity_teaser/public/viks/f-de9f890555e141229c92a2bbfd969790.png?itok=jOHNJVL3)
-
-Volzet
-
-Multimove kleuters
-------------------
-
-![de vlieg logo](/themes/custom/entityone/components/_global/images/dist/fly.svg "Vlieg")
-
-Organisator: Gemeenschapscentrum Nekkersdal vzw
-
-za 02.10.2021 - za 04.06.2022
-
-Sint-Ursula, Laken
-
-Thema activiteit
-
-Omnisport en andere
-
-Prijs
-
-€ 85
-
-2
-
- - 4 jaar
-
-
-
-
-
-
-
-
-
-
-
-
-
-](https://www.nekkersdal.be/activiteiten/multimove-kleuters)
 
 [Source](https://www.nekkersdal.be/activiteiten?f%5B0%5D=activity_target_group%3A165&f%5B1%5D=activity_target_group%3A576&items_per_page=All)
