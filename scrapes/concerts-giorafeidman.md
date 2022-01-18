@@ -1,42 +1,3 @@
-*   [
-    
-    13.01.2022, 19:30 Uhr / verschoben vom 25.03.2021 - Neuruppin
-    
-    Giora Feidman - Friendship Tour 2022
-    
-    75-jähriges Bühnenjubiläum
-    
-    Mit dem Rastrelli Cello Quartett
-    
-    Kulturkirche Neuruppin
-    
-    Tickets](https://www.eventim.de/event/giora-feidman-rastrelli-cello-quartett-kulturkirche-neuruppin-13156828/?affiliate=GFA)
-*   [
-    
-    15.01.2021, 17.00 Uhr - Cloppenburg / Zusatzkonzert
-    
-    Giora Feidman - Friendship Tour 2022
-    
-    75-jähriges Bühnenjubiläum
-    
-    Mit dem Rastrelli Cello Quartett
-    
-    St. Josef, Cloppenburg
-    
-    Tickets](https://www.eventim.de/noapp/event/giora-feidman-friendship-tour-2022-st-josef-kirche-14603071/?affiliate=GFA&utm_campaign=GFA&utm_medium=dp&utm_source=GFA)
-*   [
-    
-    15.01.2022, 20:00 Uhr - Cloppenburg
-    
-    Giora Feidman - Friendship Tour 2022
-    
-    75-jähriges Bühnenjubiläum
-    
-    Mit dem Rastrelli Cello Quartett
-    
-    St. Josef, Cloppenburg
-    
-    Tickets](https://www.eventim.de/noapp/artist/giora-feidman/giora-feidman-friendship-tour-2022-2959653/?affiliate=GFA&utm_campaign=GFA&utm_medium=dp&utm_source=GFA)
 *   19.01.2022, 20:00 Uhr / verschoben vom 12.05.2021 - Bad Sooden-Allendorf / ABGESAGT
     
     Giora Feidman - Friendship Tour 2022
@@ -74,6 +35,19 @@
     Laeiszhalle, Hamburg
     
     Tickets](https://www.eventim.de/noapp/event/giora-feidman-friendship-tour-2022-laeiszhalle-hamburg-13946166/?affiliate=GFA&utm_campaign=GFA&utm_medium=dp&utm_source=GFA)
+*   [
+    
+    27.01.2022, 17:00 Uhr - Potsdam / ZUSATZKONZERT
+    
+    Giora Feidman - Friendship Tour 2022
+    
+    75-jähriges Bühnenjubiläum
+    
+    Mit dem Rastrelli Cello Quartett
+    
+    Friedenskirche, Potsdam
+    
+    Tickets](https://www.eventim.de/noapp/event/giora-feidman-friendship-tour-2022-friedenskirche-sanssouci-14630848/?affiliate=GFA&utm_campaign=GFA&utm_medium=dp&utm_source=GFA)
 *   [
     
     27.01.2022, 20:00 Uhr - Potsdam
