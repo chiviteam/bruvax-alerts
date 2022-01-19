@@ -4,8 +4,8 @@
 
 Volzet
 
-Familietheater: Streep! (4+)
-----------------------------
+Familietheater: Streep!\* (4+)
+------------------------------
 
 ![de vlieg logo](/themes/custom/entityone/components/_global/images/dist/fly.svg "Vlieg")
 
