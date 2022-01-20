@@ -122,7 +122,7 @@ Cinema Fonkel Openingsfeest: Ernest en Célestine
 
 Organisator: Gemeenschapscentrum Essegem vzw, in samenwerking met 
 
-Gemeente Jette - Dienst Nederlandstalige Cultuur, Hallo Cultuur, Gemeentelijke Openbare Bibliotheek Jette, BRES, Gemeentelijke Openbare Bibliotheek Jette, BRES, Hallo Cultuur, Gemeente Jette - Dienst Nederlandstalige Cultuur
+Gemeente Jette - Dienst Nederlandstalige Cultuur, Hallo Cultuur, Gemeentelijke Openbare Bibliotheek Jette, BRES
 
 vr 25.02.2022
 
@@ -163,7 +163,7 @@ Cinema Fonkel: Mijn Moeder is een Gorilla
 
 Organisator: Gemeenschapscentrum Essegem vzw, in samenwerking met 
 
-Gemeente Jette - Dienst Nederlandstalige Cultuur, Hallo Cultuur, Gemeentelijke Openbare Bibliotheek Jette, BRES, Gemeentelijke Openbare Bibliotheek Jette, BRES, Hallo Cultuur, Gemeente Jette - Dienst Nederlandstalige Cultuur
+Gemeente Jette - Dienst Nederlandstalige Cultuur, Hallo Cultuur, Gemeentelijke Openbare Bibliotheek Jette, BRES
 
 zo 27.02.2022
 
@@ -204,7 +204,7 @@ Cinema Fonkel: Choums Odysee
 
 Organisator: Gemeenschapscentrum Essegem vzw, in samenwerking met 
 
-Gemeente Jette - Dienst Nederlandstalige Cultuur, Hallo Cultuur, Gemeentelijke Openbare Bibliotheek Jette, BRES, Gemeentelijke Openbare Bibliotheek Jette, BRES, Hallo Cultuur, Gemeente Jette - Dienst Nederlandstalige Cultuur
+Gemeente Jette - Dienst Nederlandstalige Cultuur, Hallo Cultuur, Gemeentelijke Openbare Bibliotheek Jette, BRES
 
 wo 02.03.2022
 
@@ -245,7 +245,7 @@ Cinema Fonkel: Binti
 
 Organisator: Gemeenschapscentrum Essegem vzw, in samenwerking met 
 
-Gemeente Jette - Dienst Nederlandstalige Cultuur, Hallo Cultuur, Gemeentelijke Openbare Bibliotheek Jette, BRES, Gemeentelijke Openbare Bibliotheek Jette, BRES, Hallo Cultuur, Gemeente Jette - Dienst Nederlandstalige Cultuur
+Gemeente Jette - Dienst Nederlandstalige Cultuur, Hallo Cultuur, Gemeentelijke Openbare Bibliotheek Jette, BRES
 
 do 03.03.2022
 
@@ -329,7 +329,7 @@ Cinema Fonkel Slotfeest: De Lorax en het Verdwenen Bos
 
 Organisator: Gemeenschapscentrum Essegem vzw, in samenwerking met 
 
-Gemeente Jette - Dienst Nederlandstalige Cultuur, Hallo Cultuur, Gemeentelijke Openbare Bibliotheek Jette, BRES, Gemeentelijke Openbare Bibliotheek Jette, BRES, Hallo Cultuur, Gemeente Jette - Dienst Nederlandstalige Cultuur
+Gemeente Jette - Dienst Nederlandstalige Cultuur, Hallo Cultuur, Gemeentelijke Openbare Bibliotheek Jette, BRES
 
 zo 06.03.2022
 
