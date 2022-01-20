@@ -318,7 +318,7 @@ Prijs
 
 [
 
-![Cinema Fonkel Slotfeest: De Lorax en het Verdwenen Bos](/sites/essegem/files/styles/activity_teaser/public/viks/f-c4470891fe7345ce9eaa7aca4ab288a0.png?itok=Ms52uL1d)
+![Cinema Fonkel Slotfeest: De Lorax en het Verdwenen Bos](/sites/essegem/files/styles/activity_teaser/public/viks/f-c4470891fe7345ce9eaa7aca4ab288a0.png?h=0cd53604&itok=Ms52uL1d)
 
 Gratis
 
