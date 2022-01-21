@@ -111,6 +111,8 @@ Prijs
 
 [
 
+![Cinema Fonkel Openingsfeest: Ernest en Célestine](/sites/essegem/files/styles/activity_teaser/public/viks/f-3ec882280de648139994e76811f2b2ad.png?h=b41f242f&itok=wX9IDk3x)
+
 Gratis
 
 Cinema Fonkel Openingsfeest: Ernest en Célestine
