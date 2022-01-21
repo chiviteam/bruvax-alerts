@@ -361,6 +361,8 @@ Animatie
 
 ![Familietheater: Het Lam van Jan (3+)](/sites/essegem/files/styles/activity_teaser/public/viks/f-15b7f27bd0bd45bcae55a07e7b0ad06d.png?itok=GQvrWGjR)
 
+Volzet
+
 Familietheater: Het Lam van Jan (3+)
 ------------------------------------
 
