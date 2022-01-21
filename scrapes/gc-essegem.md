@@ -193,7 +193,7 @@ Animatie
 
 [
 
-![Cinema Fonkel: Choums Odysee](/sites/essegem/files/styles/activity_teaser/public/viks/f-ac456c47b95240fea7e27e7db9ef49c3.png?h=b4ff4768&itok=V2FDl_l_)
+![Cinema Fonkel: Choums Odysee](/sites/essegem/files/styles/activity_teaser/public/viks/f-ac456c47b95240fea7e27e7db9ef49c3.png?h=1b624fc4&itok=V2FDl_l_)
 
 Gratis
 
