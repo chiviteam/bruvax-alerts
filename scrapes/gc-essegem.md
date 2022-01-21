@@ -111,8 +111,6 @@ Prijs
 
 [
 
-![Cinema Fonkel Openingsfeest: Ernest en Célestine](/sites/essegem/files/styles/activity_teaser/public/viks/f-3ec882280de648139994e76811f2b2ad.png?itok=wX9IDk3x)
-
 Gratis
 
 Cinema Fonkel Openingsfeest: Ernest en Célestine
@@ -152,7 +150,7 @@ Animatie
 
 [
 
-![Cinema Fonkel: Mijn Moeder is een Gorilla](/sites/essegem/files/styles/activity_teaser/public/viks/f-414674f806cf4c79b31a1e756e256bf4.png?itok=0RB0IkwU)
+![Cinema Fonkel: Mijn Moeder is een Gorilla](/sites/essegem/files/styles/activity_teaser/public/viks/f-414674f806cf4c79b31a1e756e256bf4.png?h=c8bf705a&itok=0RB0IkwU)
 
 Gratis
 
@@ -193,7 +191,7 @@ Animatie
 
 [
 
-![Cinema Fonkel: Choums Odysee](/sites/essegem/files/styles/activity_teaser/public/viks/f-ac456c47b95240fea7e27e7db9ef49c3.png?itok=V2FDl_l_)
+![Cinema Fonkel: Choums Odysee](/sites/essegem/files/styles/activity_teaser/public/viks/f-ac456c47b95240fea7e27e7db9ef49c3.png?h=b4ff4768&itok=V2FDl_l_)
 
 Gratis
 
