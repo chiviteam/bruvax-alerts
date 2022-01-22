@@ -1,26 +1,6 @@
 ### Upcoming Events
 
-1.  [21 Gen
-    
-    PULCINELLA & MARIA MAZZOTTA
-    ===========================
-    
-    ##### Berre l’Etang (FRANCE)
-    
-    #### Centre culturel
-    
-    ](https://zeronovenove.com/eventi/pulcinella-maria-mazzotta-berre-l-etang-centre-culturel/)
-2.  [21 Gen
-    
-    DALILA SPAGNOLO
-    ===============
-    
-    ##### Lecce
-    
-    #### La drogheria
-    
-    ](https://zeronovenove.com/eventi/dalila-spagnolo-drogheria-lecce/)
-3.  [18 Feb
+1.  [18 Feb
     
     MARIA MAZZOTTA
     ==============
@@ -30,7 +10,7 @@
     #### Double W Festival
     
     ](https://zeronovenove.com/eventi/maria-mazzotta-mupa-budapest/)[INFO](https://www.mupa.hu/en/program/world-music-jazz-popular-music/ewiva-maria-mazzotta-2022-02-18_19-30-festival-theatre)
-4.  [19 Feb
+2.  [19 Feb
     
     MARIA MAZZOTTA
     ==============
@@ -40,7 +20,7 @@
     #### Rai Radio 3
     
     ](https://zeronovenove.com/eventi/maria-mazzotta-piazza-verdi-rai-radio-3/)
-5.  [22 Feb
+3.  [22 Feb
     
     PIETRO ROFFI
     ============
@@ -50,7 +30,7 @@
     #### Teatro Fusco
     
     ](https://zeronovenove.com/eventi/pietro-roffi-teatro-fusco-taranto/)
-6.  [26 Feb
+4.  [26 Feb
     
     MARIA MAZZOTTA
     ==============
