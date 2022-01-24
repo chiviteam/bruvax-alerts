@@ -1,48 +1,5 @@
 [
 
-![Familietheater: Streep! (4+)](/sites/essegem/files/styles/activity_teaser/public/viks/f-6dee2d0a74a140499859ccd5922c4bf5.png?itok=wsuCBTBG)
-
-Volzet
-
-Familietheater: Streep!\* (4+)
-------------------------------
-
-![de vlieg logo](/themes/custom/entityone/components/_global/images/dist/fly.svg "Vlieg")
-
-Organisator: Gemeenschapscentrum Essegem vzw
-
-zo 23.01.2022
-
-Gemeenschapscentrum Essegem vzw, Jette
-
-Thema activiteit
-
-Theater
-
-Prijs
-
-€ 6
-
-4
-
- - 7 jaar
-
-
-
-
-
-
-
-
-
-
-
-
-
-](https://www.essegem.be/activiteiten/familietheater-streep-4)
-
-[
-
 ![Save the date: Welkom 2022](/sites/essegem/files/styles/activity_teaser/public/viks/f-58b6503909cb4be292f5fb137c88899f.png?h=0cd53604&itok=yNpHpc5G)
 
 Gratis
@@ -407,5 +364,46 @@ Prijs
 
 
 ](https://www.essegem.be/activiteiten/familietheater-het-lam-van-jan-3)
+
+[
+
+![Speelweek 'Zandmannetje, waar blijf je?'](/sites/essegem/files/styles/activity_teaser/public/viks/f-02a3561508fe45458728749c289a5cdc.png?itok=El-Y6d_o)
+
+Speelweek 'Zandmannetje, waar blijf je?'
+----------------------------------------
+
+![de vlieg logo](/themes/custom/entityone/components/_global/images/dist/fly.svg "Vlieg")
+
+Organisator: Gemeenschapscentrum Essegem vzw
+
+ma 11.04.2022 - vr 15.04.2022
+
+Gemeenschapscentrum Essegem vzw, Jette
+
+Thema activiteit
+
+Creativiteit
+
+Prijs
+
+€ 70
+
+3
+
+ - 5 jaar
+
+
+
+
+
+
+
+
+
+
+
+
+
+](https://www.essegem.be/activiteiten/speelweek-zandmannetje-waar-blijf-je)
 
 [Source](https://www.essegem.be/activiteiten?items_per_page=All&f%5B0%5D=activity_target_group%3A165&f%5B1%5D=activity_target_group%3A576)
