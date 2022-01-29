@@ -1,76 +1,10 @@
-*   [
+*   29.01.2022, 17:00 Uhr - Wittenberg / WIRD VERSCHOBEN
     
-    26.01.2022, 20:00 Uhr - Hamburg
+    **‼ WICHTIGE INFORMATION GIORA FEIDMAN IN WITTENBERG‼**
     
-    Giora Feidman - Friendship Tour 2022
-    
-    75-jähriges Bühnenjubiläum
-    
-    Mit dem Rastrelli Cello Quartett
-    
-    Laeiszhalle, Hamburg
+    Aufgrund eines Corona-Falls im Team müssen die beiden Konzerte heute in Wittenberg verschoben werden! Wir bemühen uns schnellstmöglich um einen Ersatztermin und werden diesen zeitnah bekanntgeben. Wir entschuldigen uns für die Unannehmlichkeiten. Karten behalten ihre Gültigkeit!
     
       
-    
-    **2G+ Zugangsmodell (Stand 21.01.2022)**
-    
-    Tickets](https://www.eventim.de/noapp/event/giora-feidman-friendship-tour-2022-laeiszhalle-hamburg-13946166/?affiliate=GFA&utm_campaign=GFA&utm_medium=dp&utm_source=GFA)
-*   [
-    
-    27.01.2022, 17:00 Uhr - Potsdam / Zusatzkonzert
-    
-    Giora Feidman - Friendship Tour 2022
-    
-    75-jähriges Bühnenjubiläum
-    
-    Mit dem Rastrelli Cello Quartett
-    
-    Friedenskirche, Potsdam
-    
-      
-    
-    **2G Zugangsmodell (Stand 21.01.2022)**
-    
-    Tickets](https://www.eventim.de/noapp/event/giora-feidman-friendship-tour-2022-friedenskirche-sanssouci-14630848/?affiliate=GFA&utm_campaign=GFA&utm_medium=dp&utm_source=GFA)
-*   27.01.2022, 20:00 Uhr - Potsdam / AUSVERKAUFT
-    
-    Giora Feidman - Friendship Tour 2022
-    
-    75-jähriges Bühnenjubiläum
-    
-    Mit dem Rastrelli Cello Quartett
-    
-    Friedenskirche, Potsdam
-    
-      
-    
-    **2G Zugangsmodell (Stand 21.01.2022)**
-    
-    Tickets
-*   28.01.2022, 20:00 Uhr - Cottbus / AUSVERKAUFT
-    
-    Giora Feidman - Friendship Tour 2022
-    
-    75-jähriges Bühnenjubiläum
-    
-    Mit dem Rastrelli Cello Quartett
-    
-    Lutherkirche, Cottbus
-    
-      
-    
-    ❗Wichtige Information Giora Feidman in Cottbus❗
-    
-    Hiermit möchten wir darüber informieren, dass die beiden Konzerte am 28. Januar 2022 um 16 und 20 Uhr in Cottbus aus organisatorischen Gründen zusammengelegt werden. Somit findet das Konzert am 28. Januar 2022 nur um 20 Uhr statt. Bereits gekaufte Karten für das Konzert um 16 Uhr sind für das Konzert um 20 Uhr gültig. 
-    
-      
-    
-    **2G Zugangsmodell (Stand 21.01.2022)**
-    
-    Tickets
-*   [
-    
-    29.01.2022, 17:00 Uhr - Wittenberg - Zusatzkonzert
     
     Giora Feidman - Friendship Tour 2022
     
@@ -84,8 +18,14 @@
     
     **2G+ Zugangsmodell (Stand 21.01.2022)**
     
-    Tickets](https://www.eventim.de/noapp/event/giora-feidman-friendship-tour-2022-schlosskirche-14045461/?affiliate=GFA&utm_campaign=GFA&utm_medium=dp&utm_source=GFA)
-*   29.01.2022, 20:00 Uhr / verschoben vom 30.04.2021 - Wittenberg / AUSVERKAUFT
+    Tickets
+*   29.01.2022, 20:00 Uhr / verschoben vom 30.04.2021 - Wittenberg / WIRD VERSCHOBEN
+    
+    **‼ WICHTIGE INFORMATION GIORA FEIDMAN IN WITTENBERG‼**
+    
+    Aufgrund eines Corona-Falls im Team müssen die beiden Konzerte heute in Wittenberg verschoben werden! Wir bemühen uns schnellstmöglich um einen Ersatztermin und werden diesen zeitnah bekanntgeben. Wir entschuldigen uns für die Unannehmlichkeiten. Karten behalten ihre Gültigkeit!
+    
+      
     
     Giora Feidman - Friendship Tour 2022
     
