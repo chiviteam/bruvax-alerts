@@ -1,40 +1,5 @@
 [
 
-![Save the date: Welkom 2022](/sites/essegem/files/styles/activity_teaser/public/viks/f-58b6503909cb4be292f5fb137c88899f.png?h=0cd53604&itok=yNpHpc5G)
-
-Gratis
-
-Welkom 2022 feest & parade - special guest: Quetzalcoatl
---------------------------------------------------------
-
-![de vlieg logo](/themes/custom/entityone/components/_global/images/dist/fly.svg "Vlieg")
-
-Organisator: Gemeenschapscentrum Essegem vzw
-
-vr 28.01.2022
-
-Gemeenschapscentrum Essegem vzw, Jette
-
-0+
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-](https://www.essegem.be/activiteiten/welkom-2022-feest-parade-special-guest-quetzalcoatl)
-
-[
-
 ![Familietheater: vierkantROND (2,5+)](/sites/essegem/files/styles/activity_teaser/public/viks/f-486f2328121b4fc5bed89ca97710e71b.png?itok=YCGFXQpR)
 
 Familietheater: vierkantROND (2,5+)
@@ -405,5 +370,48 @@ Prijs
 
 
 ](https://www.essegem.be/activiteiten/speelweek-zandmannetje-waar-blijf-je)
+
+[
+
+![Multimove voor kleuters](/sites/essegem/files/styles/activity_teaser/public/viks/f-08439a7e597347a69223fdf54a91006d.png?itok=GZkJbwLf)
+
+Multimove voor kleuters
+-----------------------
+
+![de vlieg logo](/themes/custom/entityone/components/_global/images/dist/fly.svg "Vlieg")
+
+Organisator: Gemeenschapscentrum Essegem vzw, in samenwerking met 
+
+BRES
+
+wo 12.01.2022 - wo 22.06.2022
+
+Sint-Michielsschool, Jette
+
+Thema activiteit
+
+Omnisport en andere
+
+Prijs
+
+€ 20
+
+4
+
+ - 5 jaar
+
+
+
+
+
+
+
+
+
+
+
+
+
+](https://www.essegem.be/activiteiten/multimove-voor-kleuters)
 
 [Source](https://www.essegem.be/activiteiten?items_per_page=All&f%5B0%5D=activity_target_group%3A165&f%5B1%5D=activity_target_group%3A576)
