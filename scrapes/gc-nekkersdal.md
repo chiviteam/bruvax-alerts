@@ -1,44 +1,5 @@
 [
 
-![Fietsbieb](/sites/nekkersdal/files/styles/activity_teaser/public/viks/f-7c7c4564460243b887be2d61cfc0e715.png?itok=nVI_oi0Q)
-
-Gratis
-
-Fietsbieb
----------
-
-![de vlieg logo](/themes/custom/entityone/components/_global/images/dist/fly.svg "Vlieg")
-
-Organisator: Gemeenschapscentrum Nekkersdal vzw
-
-za 29.01.2022
-
-Gemeenschapscentrum Nekkersdal vzw, Laken
-
-Thema activiteit
-
-Atletiek, wandelen en fietsen
-
-2
-
- - 12 jaar
-
-
-
-
-
-
-
-
-
-
-
-
-
-](https://www.nekkersdal.be/activiteiten/fietsbieb-5)
-
-[
-
 ![Soiree Kadee #4](/sites/nekkersdal/files/styles/activity_teaser/public/viks/f-e4a3f5fa27f74da18b74c1e1bb60b718.png?itok=SuaKiTuy)
 
 Gratis
@@ -377,5 +338,40 @@ Atletiek, wandelen en fietsen
 
 
 ](https://www.nekkersdal.be/activiteiten/fietsbieb-1)
+
+[
+
+![Soiree Kadee 8](/sites/nekkersdal/files/styles/activity_teaser/public/viks/f-3071a145e45a40aabd0b4555e6cc24b1.png?itok=ip3U84kZ)
+
+Gratis
+
+Soiree Kadee 8
+--------------
+
+![de vlieg logo](/themes/custom/entityone/components/_global/images/dist/fly.svg "Vlieg")
+
+Organisator: Gemeenschapscentrum Nekkersdal vzw
+
+vr 03.06.2022
+
+Gemeenschapscentrum Nekkersdal vzw, Laken
+
+0+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+](https://www.nekkersdal.be/activiteiten/soiree-kadee-8)
 
 [Source](https://www.nekkersdal.be/activiteiten?f%5B0%5D=activity_target_group%3A165&f%5B1%5D=activity_target_group%3A576&items_per_page=All)
