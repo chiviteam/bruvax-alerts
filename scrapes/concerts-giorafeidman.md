@@ -1,45 +1,3 @@
-*   29.01.2022, 17:00 Uhr - Wittenberg / WIRD VERSCHOBEN
-    
-    **‼ WICHTIGE INFORMATION GIORA FEIDMAN IN WITTENBERG‼**
-    
-    Aufgrund eines Corona-Falls im Team müssen die beiden Konzerte heute in Wittenberg verschoben werden! Wir bemühen uns schnellstmöglich um einen Ersatztermin und werden diesen zeitnah bekanntgeben. Wir entschuldigen uns für die Unannehmlichkeiten. Karten behalten ihre Gültigkeit!
-    
-      
-    
-    Giora Feidman - Friendship Tour 2022
-    
-    75-jähriges Bühnenjubiläum
-    
-    Mit dem Rastrelli Cello Quartett 
-    
-    Schlosskirche Wittenberg
-    
-      
-    
-    **2G+ Zugangsmodell (Stand 21.01.2022)**
-    
-    Tickets
-*   29.01.2022, 20:00 Uhr / verschoben vom 30.04.2021 - Wittenberg / WIRD VERSCHOBEN
-    
-    **‼ WICHTIGE INFORMATION GIORA FEIDMAN IN WITTENBERG‼**
-    
-    Aufgrund eines Corona-Falls im Team müssen die beiden Konzerte heute in Wittenberg verschoben werden! Wir bemühen uns schnellstmöglich um einen Ersatztermin und werden diesen zeitnah bekanntgeben. Wir entschuldigen uns für die Unannehmlichkeiten. Karten behalten ihre Gültigkeit!
-    
-      
-    
-    Giora Feidman - Friendship Tour 2022
-    
-    75-jähriges Bühnenjubiläum
-    
-    Mit dem Rastrelli Cello Quartett
-    
-    Schlosskirche Wittenberg
-    
-      
-    
-    **2G+ Zugangsmodell (Stand 21.01.2022)**
-    
-    Tickets
 *   [
     
     31.03.2022, 20:00 Uhr / verschoben vom 03.09.2021 - Köln
@@ -123,6 +81,36 @@
     Kulturhaus Salzwedel
     
     Tickets](https://www.eventim.de/noapp/event/giora-feidman-rastrelli-cello-quartett-kulturhaus-salzwedel-12439693/?affiliate=GFA&utm_campaign=GFA&utm_medium=dp&utm_source=GFA)
+*   07.04.2022, 17:00 Uhr - Wittenberg / verschoben vom 29.01.2022
+    
+    Giora Feidman - Friendship Tour 2022
+    
+    75-jähriges Bühnenjubiläum
+    
+    Mit dem Rastrelli Cello Quartett 
+    
+    Schlosskirche Wittenberg
+    
+      
+    
+    **2G+ Zugangsmodell (Stand 21.01.2022)**
+    
+    Tickets
+*   07.04.2022, 20:00 Uhr - Wittenberg / verschoben vom 29.01.2022
+    
+    Giora Feidman - Friendship Tour 2022
+    
+    75-jähriges Bühnenjubiläum
+    
+    Mit dem Rastrelli Cello Quartett
+    
+    Schlosskirche Wittenberg
+    
+      
+    
+    **2G+ Zugangsmodell (Stand 21.01.2022)**
+    
+    Tickets
 *   [
     
     20.05.2022, 20:00 Uhr - Aschaffenburg / verschoben vom 21.01.2022
