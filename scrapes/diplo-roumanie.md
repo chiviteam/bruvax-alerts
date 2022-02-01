@@ -6,29 +6,28 @@
 
 **1\. Voyager en Roumanie**
 
-Depuis le 20 décembre 2021, tous les voyageurs se rendant en Roumanie doivent compléter un [formulaire de localisation des passagers (PLF) (link is external)](http://plf.gov.ro/login). Ce formulaire peut être complété avant votre arrivée en Roumanie (maximum 24 heures avant l'arrivée), ou au plus tard 24 heures après votre arrivée.
+Depuis le 20 décembre 2021, tous les voyageurs se rendant en Roumanie doivent compléter un [formulaire de localisation des passagers (PLF) (link is external)](http://plf.gov.ro/login). Ce formulaire peut être complété soit maximum 24h avant votre arrivée ou au plus tard 24 heures après votre arrivée en Roumanie.
 
-Depuis le 25 octobre, la Belgique figure sur la liste rouge en Roumanie. Par conséquent, les voyageurs en provenance de Belgique (sauf exceptions mentionnées ci-après) sont soumis à l’obligation d’une période de quarantaine de 10 jours à leur arrivée en Roumanie.
+Les voyageurs en provenance de Belgique (sauf exceptions mentionnées ci-après) sont soumis à l’obligation d’une période de quarantaine de 5 jours à leur arrivée en Roumanie.
 
 Des exceptions à l’obligation de quarantaine (à condition de ne présenter aucun symptôme de COVID-19) sont entre autres :
 
 *   Les voyageurs vaccinés contre le COVID-19 à partir du 10ème jour suivant la vaccination complète\* ;
 *   Les voyageurs qui peuvent présenter un certificat de rétablissement à leur arrivée en Roumanie, prouvant qu'ils sont rétablis de la COVID-19 depuis au moins 11 jours et au maximum depuis 180 jours\* ;
+*   Les voyageurs qui peuvent présenter un test PCR négatif effectué au maximum 72 heures avant leur embarquement pour la Roumanie (moyens de transport en commun), soit 72 heures avant leur entrée sur le territoire de la Roumanie (transport par propres moyens)\* ;
 *   Les enfants jusqu’à l’âge de 12 ans inclus, sans devoir présenter le résultat d’un test ;
-*   Les enfants de plus de 12 ans et de moins de 16 ans, pouvant présenter un test PCR négatif, effectué au maximum 72 heures avant leur embarquement pour la Roumanie (moyens de transport en commun), soit 72 heures avant leur entrée sur le territoire de la Roumanie (transport par propres moyens)\* ;
 *   Les voyageurs en transit (séjour de max. 24 heures) ;
-*   Les voyageurs séjournant moins de 3 jours (72 heures) en Roumanie et pouvant présenter un test PCR négatif, effectué au maximum 72 heures avant leur embarquement pour la Roumanie (moyens de transport en commun), soit 72 heures avant leur entrée sur le territoire de la Roumanie (transport par propre moyens).\* Au cas où ces voyageurs ne quittent pas le territoire de la Roumanie pendant les 72 heures, une quarantaine de 14 jours leur sera imposée à partir du quatrième jour dès leur entrée en Roumanie ;
 *   Les élèves et étudiants qui se déplacent dans le cadre de leurs études (et leurs accompagnants si ces premiers sont mineurs) et qui peuvent présenter les documents idoines.
 *   Les chauffeurs de poids lourds pouvant présenter un test PCR négatif, effectué au maximum 72 heures avant leur départ pour la Roumanie\* ;
 *   Les membres des délégations sportives, ainsi que les artistes et leur staff, qui ne sont pas vaccinés, soit qui ne peuvent pas présenter un certificat de rétablissement à leur arrivée en Roumanie, prouvant qu'ils sont rétablis de la COVID-19 depuis au moins 11 jours et au maximum depuis 180 jours, mais qui présentent un test PCR négatif effectué au maximum 72 heures avant leur embarquement pour la Roumanie (moyens de transport en commun), soit 72 heures avant leur entrée sur le territoire de la Roumanie (transport par propres moyens) et qui vont uniquement participer aux compétitions sportives/évènements mentionnés.
 
-\***Attention** : Depuis le 13 août, seul le certificat COVID numérique de l’UE avec code QR est accepté comme preuve valable de vaccination, de guérison ou de test négatif pour les voyageurs entrant sur le territoire roumain depuis un pays de l'UE. Toute autre preuve ne sera pas prise en compte et le voyageur en provenance de l’UE sera placé en quarantaine.  
+\***Attention** : À partir du 1er février 2022, le certificat COVID numérique de l'UE avec code QR sera accepté comme preuve valide de vaccination, de récupération ou de test négatif pour les voyageurs entrant sur le territoire roumain depuis un pays de l'UE. Pour les voyageurs en provenance de pays tiers, un certificat délivré par le pays tiers (sur papier ou électronique) est également accepté, à condition que la vaccination complète, la récupération (dans les 180 jours avant l'entrée sur le territoire roumain) ou un résultat de test PCR négatif (max. 72 heures avant l'embarquement/l'entrée sur le territoire) soit démontré et que le document soit rédigé en anglais en plus de la langue du pays d'origine. 
 
 Si ces exceptions ne s’appliquent pas à votre cas, vous devrez respecter l’obligation de quarantaine.
 
 **2\. Mesures générales en vigueur en Roumanie**
 
-L'état d'alerte a été décrété en Roumanie. Vous pouvez trouver [toutes les mesures en vigueur ici (link is external)](https://eur01.safelinks.protection.outlook.com/?url=https%3A%2F%2Ffiipregatit.ro%2Fghid%2Fcovid19-stare-de-alerta%2F&data=04%7C01%7Cmihaela.andrei%40diplobel.fed.be%7C3cc2904abd82428284a408d9be494ce2%7C80153b30e434429bb41c0d47f9deec42%7C0%7C0%7C637750044301986315%7CUnknown%7CTWFpbGZsb3d8eyJWIjoiMC4wLjAwMDAiLCJQIjoiV2luMzIiLCJBTiI6Ik1haWwiLCJXVCI6Mn0%3D%7C3000&sdata=q4JEkstu3MB7HNXpdr7ABjKZ77wA%2BxmXhr1SmQ%2FTdPA%3D&reserved=0) (en langue roumaine).
+L'état d'alerte a été décrété en Roumanie. Vous pouvez trouver [toutes les mesures en vigueur ici(link is external) (link is external)](https://eur01.safelinks.protection.outlook.com/?url=https%3A%2F%2Ffiipregatit.ro%2Fghid%2Fcovid19-stare-de-alerta%2F&data=04%7C01%7Cmihaela.andrei%40diplobel.fed.be%7C3cc2904abd82428284a408d9be494ce2%7C80153b30e434429bb41c0d47f9deec42%7C0%7C0%7C637750044301986315%7CUnknown%7CTWFpbGZsb3d8eyJWIjoiMC4wLjAwMDAiLCJQIjoiV2luMzIiLCJBTiI6Ik1haWwiLCJXVCI6Mn0%3D%7C3000&sdata=q4JEkstu3MB7HNXpdr7ABjKZ77wA%2BxmXhr1SmQ%2FTdPA%3D&reserved=0) (en langue roumaine).
 
 Les mesures suivantes sont en vigueur sur l’ensemble du territoire roumain :
 

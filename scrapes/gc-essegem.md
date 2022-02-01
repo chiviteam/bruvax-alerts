@@ -17,10 +17,6 @@ Thema activiteit
 
 Jazz en blues
 
-Prijs
-
-€ 6
-
 2
 
  - 5 jaar
@@ -224,10 +220,6 @@ Thema activiteit
 
 Creativiteit
 
-Prijs
-
-€ 70
-
 3
 
  - 5 jaar
@@ -308,10 +300,6 @@ Thema activiteit
 
 Theater
 
-Prijs
-
-€ 6
-
 3
 
  - 6 jaar
@@ -348,10 +336,6 @@ Gemeenschapscentrum Essegem vzw, Jette
 Thema activiteit
 
 Creativiteit
-
-Prijs
-
-€ 70
 
 3
 
@@ -391,10 +375,6 @@ Sint-Michielsschool, Jette
 Thema activiteit
 
 Omnisport en andere
-
-Prijs
-
-€ 20
 
 4
 
