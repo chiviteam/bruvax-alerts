@@ -1,42 +1,5 @@
 [
 
-![Soiree Kadee #4](/sites/nekkersdal/files/styles/activity_teaser/public/viks/f-e4a3f5fa27f74da18b74c1e1bb60b718.png?itok=SuaKiTuy)
-
-Gratis
-
-Geannuleerd
-
-Soiree Kadee #4 // GEANNULEERD
-------------------------------
-
-![de vlieg logo](/themes/custom/entityone/components/_global/images/dist/fly.svg "Vlieg")
-
-Organisator: Gemeenschapscentrum Nekkersdal vzw
-
-vr 04.02.2022
-
-Gemeenschapscentrum Nekkersdal vzw, Laken
-
-4
-
- - 12 jaar
-
-
-
-
-
-
-
-
-
-
-
-
-
-](https://www.nekkersdal.be/activiteiten/soiree-kadee-4-geannuleerd)
-
-[
-
 ![Fietsbieb](/sites/nekkersdal/files/styles/activity_teaser/public/viks/f-46c44afee46c456ab4cd933e91f8a6eb.png?itok=SFhn4qaZ)
 
 Gratis
@@ -361,5 +324,44 @@ Gemeenschapscentrum Nekkersdal vzw, Laken
 
 
 ](https://www.nekkersdal.be/activiteiten/soiree-kadee-7)
+
+[
+
+![Minibasket 6-8 jaar](/sites/nekkersdal/files/styles/activity_teaser/public/viks/f-4fd73c9c9caf4125ad48b0f04a6a6c12.png?itok=0CfygbDI)
+
+Volzet
+
+Minibasket 6-8 jaar
+-------------------
+
+![de vlieg logo](/themes/custom/entityone/components/_global/images/dist/fly.svg "Vlieg")
+
+Organisator: Gemeenschapscentrum Nekkersdal vzw
+
+wo 22.09.2021 - wo 25.05.2022
+
+Gemeenschapscentrum Nekkersdal vzw, Laken
+
+Thema activiteit
+
+Bal en racketsport
+
+6
+
+ - 8 jaar
+
+
+
+
+
+
+
+
+
+
+
+
+
+](https://www.nekkersdal.be/activiteiten/minibasket-6-8-jaar)
 
 [Source](https://www.nekkersdal.be/activiteiten?f%5B0%5D=activity_target_group%3A165&f%5B1%5D=activity_target_group%3A576&items_per_page=All)
