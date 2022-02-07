@@ -1,5 +1,40 @@
 [
 
+![Café Puree #5](/sites/nekkersdal/files/styles/activity_teaser/public/viks/f-7e86f092f30940b9a10402a89caeac02.png?itok=-7IAYQeV)
+
+Gratis
+
+Café Puree #5
+-------------
+
+![de vlieg logo](/themes/custom/entityone/components/_global/images/dist/fly.svg "Vlieg")
+
+Organisator: Gemeenschapscentrum Nekkersdal vzw
+
+za 26.02.2022
+
+Gemeenschapscentrum Nekkersdal vzw, Laken
+
+0
+
+ - 4 jaar
+
+
+
+
+
+
+
+
+
+
+
+
+
+](https://www.nekkersdal.be/activiteiten/cafe-puree-5)
+
+[
+
 ![Fietsbieb](/sites/nekkersdal/files/styles/activity_teaser/public/viks/f-46c44afee46c456ab4cd933e91f8a6eb.png?itok=SFhn4qaZ)
 
 Gratis
@@ -36,41 +71,6 @@ Atletiek, wandelen en fietsen
 
 
 ](https://www.nekkersdal.be/activiteiten/fietsbieb-4)
-
-[
-
-![Café Puree #5](/sites/nekkersdal/files/styles/activity_teaser/public/viks/f-7e86f092f30940b9a10402a89caeac02.png?itok=-7IAYQeV)
-
-Gratis
-
-Café Puree #5
--------------
-
-![de vlieg logo](/themes/custom/entityone/components/_global/images/dist/fly.svg "Vlieg")
-
-Organisator: Gemeenschapscentrum Nekkersdal vzw
-
-za 26.02.2022
-
-Gemeenschapscentrum Nekkersdal vzw, Laken
-
-0
-
- - 4 jaar
-
-
-
-
-
-
-
-
-
-
-
-
-
-](https://www.nekkersdal.be/activiteiten/cafe-puree-5)
 
 [
 
