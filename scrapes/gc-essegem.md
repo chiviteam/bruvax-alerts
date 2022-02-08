@@ -207,6 +207,8 @@ Film
 
 ![Speelweek 'Pili Pili en de vuilnisbeltbeestjes'](/sites/essegem/files/styles/activity_teaser/public/viks/f-eb66353e721540228e5f1ef7f8e7a4f2.png?itok=O7RRR63X)
 
+Volzet
+
 Speelweek 'Pili Pili en de vuilnisbeltbeestjes'
 -----------------------------------------------
 
