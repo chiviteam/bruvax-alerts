@@ -78,8 +78,8 @@ Gemeenschapscentrum Nekkersdal vzw, Laken
 
 Gratis
 
-Soiree Kadee 5
---------------
+Soiree Kadee: Skate!
+--------------------
 
 ![de vlieg logo](/themes/custom/entityone/components/_global/images/dist/fly.svg "Vlieg")
 
@@ -105,7 +105,7 @@ Gemeenschapscentrum Nekkersdal vzw, Laken
 
 
 
-](https://www.nekkersdal.be/activiteiten/soiree-kadee-5)
+](https://www.nekkersdal.be/activiteiten/soiree-kadee-skate)
 
 [
 
