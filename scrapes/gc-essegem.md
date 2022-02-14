@@ -400,4 +400,121 @@ Omnisport en andere
 
 ](https://www.essegem.be/activiteiten/multimove-voor-kleuters)
 
+[
+
+![Kids: Lekker Koken](/sites/essegem/files/styles/activity_teaser/public/viks/f-087eddc5464b439dab005c884ae5b37a.png?itok=uJ4EfBnt)
+
+Kids: Lekker Koken
+------------------
+
+![de vlieg logo](/themes/custom/entityone/components/_global/images/dist/fly.svg "Vlieg")
+
+Organisator: Gemeenschapscentrum Essegem vzw
+
+za 29.01.2022 - za 25.06.2022
+
+Gemeenschapscentrum Essegem vzw, Jette
+
+Thema activiteit
+
+Voeding en horeca
+
+6
+
+ - 10 jaar
+
+
+
+
+
+
+
+
+
+
+
+
+
+](https://www.essegem.be/activiteiten/kids-lekker-koken)
+
+[
+
+![Kleuteratelier](/sites/essegem/files/styles/activity_teaser/public/viks/f-8b2377b0d90942ecb31a8d1114f24bd9.png?itok=1wIEFHRy)
+
+Volzet
+
+Kleuteratelier
+--------------
+
+![de vlieg logo](/themes/custom/entityone/components/_global/images/dist/fly.svg "Vlieg")
+
+Organisator: Gemeenschapscentrum Essegem vzw, in samenwerking met 
+
+Panta Rhei, Panta Rhei
+
+wo 08.09.2021 - wo 29.06.2022
+
+Gemeenschapscentrum Essegem vzw, Jette
+
+Thema activiteit
+
+Creativiteit
+
+3
+
+ - 5 jaar
+
+
+
+
+
+
+
+
+
+
+
+
+
+](https://www.essegem.be/activiteiten/kleuteratelier)
+
+[
+
+![Ketjeskunst](/sites/essegem/files/styles/activity_teaser/public/viks/f-10e664a377b642e1a7aa1b43a87c541d.png?itok=2NffuaTO)
+
+Ketjeskunst
+-----------
+
+![de vlieg logo](/themes/custom/entityone/components/_global/images/dist/fly.svg "Vlieg")
+
+Organisator: Gemeenschapscentrum Essegem vzw, in samenwerking met 
+
+Panta Rhei, Panta Rhei
+
+wo 08.09.2021 - wo 29.06.2022
+
+Gemeenschapscentrum Essegem vzw, Jette
+
+Thema activiteit
+
+Creativiteit
+
+6
+
+ - 12 jaar
+
+
+
+
+
+
+
+
+
+
+
+
+
+](https://www.essegem.be/activiteiten/ketjeskunst)
+
 [Source](https://www.essegem.be/activiteiten?items_per_page=All&f%5B0%5D=activity_target_group%3A165&f%5B1%5D=activity_target_group%3A576)

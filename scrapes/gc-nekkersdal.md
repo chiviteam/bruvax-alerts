@@ -364,4 +364,577 @@ Bal en racketsport
 
 ](https://www.nekkersdal.be/activiteiten/minibasket-6-8-jaar)
 
+[
+
+![Café Puree #8](/sites/nekkersdal/files/styles/activity_teaser/public/viks/f-b1a0e57f331341769985f20452cb5e0e.png?itok=FDKvqpbw)
+
+Gratis
+
+Café Puree 8
+------------
+
+![de vlieg logo](/themes/custom/entityone/components/_global/images/dist/fly.svg "Vlieg")
+
+Organisator: Gemeenschapscentrum Nekkersdal vzw
+
+za 28.05.2022
+
+Gemeenschapscentrum Nekkersdal vzw, Laken
+
+0
+
+ - 4 jaar
+
+
+
+
+
+
+
+
+
+
+
+
+
+](https://www.nekkersdal.be/activiteiten/cafe-puree-8)
+
+[
+
+![Fietsbieb](/sites/nekkersdal/files/styles/activity_teaser/public/viks/f-cce7be78aaea477fb94a26d7838cc3e0.png?itok=qCffMX0r)
+
+Gratis
+
+Fietsbieb
+---------
+
+![de vlieg logo](/themes/custom/entityone/components/_global/images/dist/fly.svg "Vlieg")
+
+Organisator: Gemeenschapscentrum Nekkersdal vzw
+
+zo 29.05.2022
+
+Gemeenschapscentrum Nekkersdal vzw, Laken
+
+Thema activiteit
+
+Atletiek, wandelen en fietsen
+
+2
+
+ - 12 jaar
+
+
+
+
+
+
+
+
+
+
+
+
+
+](https://www.nekkersdal.be/activiteiten/fietsbieb-1)
+
+[
+
+![Soiree Kadee 8](/sites/nekkersdal/files/styles/activity_teaser/public/viks/f-3071a145e45a40aabd0b4555e6cc24b1.png?itok=ip3U84kZ)
+
+Gratis
+
+Soiree Kadee 8
+--------------
+
+![de vlieg logo](/themes/custom/entityone/components/_global/images/dist/fly.svg "Vlieg")
+
+Organisator: Gemeenschapscentrum Nekkersdal vzw
+
+vr 03.06.2022
+
+Gemeenschapscentrum Nekkersdal vzw, Laken
+
+4
+
+ - 12 jaar
+
+
+
+
+
+
+
+
+
+
+
+
+
+](https://www.nekkersdal.be/activiteiten/soiree-kadee-8)
+
+[
+
+![Minivoetbal 6-8 jaar](/sites/nekkersdal/files/styles/activity_teaser/public/viks/f-eb91f174a434472bbe06f592031aaad2.png?itok=78018liD)
+
+Volzet
+
+Minivoetbal 6-8 jaar
+--------------------
+
+![de vlieg logo](/themes/custom/entityone/components/_global/images/dist/fly.svg "Vlieg")
+
+Externe organisator: GC Nekkersdal
+
+za 25.09.2021 - za 04.06.2022
+
+Gemeenschapscentrum Nekkersdal vzw, Laken
+
+Thema activiteit
+
+Bal en racketsport
+
+6
+
+ - 8 jaar
+
+
+
+
+
+
+
+
+
+
+
+
+
+](https://www.nekkersdal.be/activiteiten/minivoetbal-6-8-jaar)
+
+[
+
+![Multimove mini](/sites/nekkersdal/files/styles/activity_teaser/public/viks/f-00989ae77eeb4e578b74f131e83692df.png?itok=BeZY9qA0)
+
+Multimove mini
+--------------
+
+![de vlieg logo](/themes/custom/entityone/components/_global/images/dist/fly.svg "Vlieg")
+
+Organisator: Gemeenschapscentrum Nekkersdal vzw
+
+za 02.10.2021 - za 04.06.2022
+
+Sint-Ursula, Laken
+
+Thema activiteit
+
+Omnisport en andere
+
+5
+
+ - 6 jaar
+
+
+
+
+
+
+
+
+
+
+
+
+
+](https://www.nekkersdal.be/activiteiten/multimove-mini)
+
+[
+
+![Mini's spelen met Frans](/sites/nekkersdal/files/styles/activity_teaser/public/viks/f-87e6c320680847c8aeceb1b4caab8cf7.png?itok=lGeAv2La)
+
+Mini's spelen met Frans
+-----------------------
+
+![de vlieg logo](/themes/custom/entityone/components/_global/images/dist/fly.svg "Vlieg")
+
+Organisator: Gemeenschapscentrum Nekkersdal vzw
+
+za 02.10.2021 - za 04.06.2022
+
+Gemeenschapscentrum Nekkersdal vzw, Laken
+
+Thema activiteit
+
+Talen
+
+5
+
+ - 6 jaar
+
+
+
+
+
+
+
+
+
+
+
+
+
+](https://www.nekkersdal.be/activiteiten/minis-spelen-met-frans)
+
+[
+
+![Spelen met Frans](/sites/nekkersdal/files/styles/activity_teaser/public/viks/f-2c341a56c4904584831f71de8d1b1e30.png?itok=K_PZeY6r)
+
+Spelen met Frans
+----------------
+
+![de vlieg logo](/themes/custom/entityone/components/_global/images/dist/fly.svg "Vlieg")
+
+Organisator: Gemeenschapscentrum Nekkersdal vzw
+
+za 02.10.2021 - za 04.06.2022
+
+Gemeenschapscentrum Nekkersdal vzw, Laken
+
+Thema activiteit
+
+Talen
+
+6
+
+ - 7 jaar
+
+
+
+
+
+
+
+
+
+
+
+
+
+](https://www.nekkersdal.be/activiteiten/spelen-met-frans)
+
+[
+
+![Kleuters spelen met Frans](/sites/nekkersdal/files/styles/activity_teaser/public/viks/f-3c61bc6c483f416d972f5b7323985d6c.png?itok=6FwcSYhr)
+
+Kleuters spelen met Frans
+-------------------------
+
+![de vlieg logo](/themes/custom/entityone/components/_global/images/dist/fly.svg "Vlieg")
+
+Organisator: Gemeenschapscentrum Nekkersdal vzw
+
+za 02.10.2021 - za 04.06.2022
+
+Gemeenschapscentrum Nekkersdal vzw, Laken
+
+Thema activiteit
+
+Talen
+
+ - 4 jaar - 4 jaar
+
+
+
+
+
+
+
+
+
+
+
+
+
+](https://www.nekkersdal.be/activiteiten/kleuters-spelen-met-frans)
+
+[
+
+![Creatief lab maxi](/sites/nekkersdal/files/styles/activity_teaser/public/viks/f-40eff61ebfcd472cac6977294becc569.png?itok=JRhdxPtO)
+
+Creatief lab maxi
+-----------------
+
+![de vlieg logo](/themes/custom/entityone/components/_global/images/dist/fly.svg "Vlieg")
+
+Organisator: Gemeenschapscentrum Nekkersdal vzw
+
+za 25.09.2021 - za 04.06.2022
+
+Gemeenschapscentrum Nekkersdal vzw, Laken
+
+Thema activiteit
+
+Meerdere kunstvormen
+
+6
+
+ - 9 jaar
+
+
+
+
+
+
+
+
+
+
+
+
+
+](https://www.nekkersdal.be/activiteiten/creatief-lab-maxi)
+
+[
+
+![Creatief lab mini](/sites/nekkersdal/files/styles/activity_teaser/public/viks/f-6186e8da8fb24c7686694aa8a0005ce3.png?itok=fTakZS9X)
+
+Volzet
+
+Creatief lab mini
+-----------------
+
+![de vlieg logo](/themes/custom/entityone/components/_global/images/dist/fly.svg "Vlieg")
+
+Organisator: Gemeenschapscentrum Nekkersdal vzw
+
+za 25.09.2021 - za 04.06.2022
+
+Gemeenschapscentrum Nekkersdal vzw, Laken
+
+Thema activiteit
+
+Meerdere kunstvormen
+
+4
+
+ - 5 jaar
+
+
+
+
+
+
+
+
+
+
+
+
+
+](https://www.nekkersdal.be/activiteiten/creatief-lab-mini)
+
+[
+
+![Multimove kleuters](/sites/nekkersdal/files/styles/activity_teaser/public/viks/f-de9f890555e141229c92a2bbfd969790.png?itok=jOHNJVL3)
+
+Volzet
+
+Multimove kleuters
+------------------
+
+![de vlieg logo](/themes/custom/entityone/components/_global/images/dist/fly.svg "Vlieg")
+
+Organisator: Gemeenschapscentrum Nekkersdal vzw
+
+za 02.10.2021 - za 04.06.2022
+
+Sint-Ursula, Laken
+
+Thema activiteit
+
+Omnisport en andere
+
+2
+
+ - 4 jaar
+
+
+
+
+
+
+
+
+
+
+
+
+
+](https://www.nekkersdal.be/activiteiten/multimove-kleuters)
+
+[
+
+![Circus 1](/sites/nekkersdal/files/styles/activity_teaser/public/viks/f-1eb7d45eb5d54cccad4868a2b4ab48c8.png?itok=aURncp-0)
+
+Gratis
+
+Circus 1
+--------
+
+![de vlieg logo](/themes/custom/entityone/components/_global/images/dist/fly.svg "Vlieg")
+
+Externe organisator: Circus zonder Handen
+
+vr 03.09.2021 - vr 24.06.2022
+
+Sint-Ursula, Laken
+
+Thema activiteit
+
+Fitness, gym(nastiek), dans en vechtsport
+
+5
+
+ - 7 jaar
+
+
+
+
+
+
+
+
+
+
+
+
+
+](https://www.nekkersdal.be/activiteiten/circus-1)
+
+[
+
+![BXL Ketlab - wekelijkse muziekateliers](/sites/nekkersdal/files/styles/activity_teaser/public/viks/f-35ebfce65ec6479cba041ffff0401a91.png?itok=8_nqMR6K)
+
+BXL Ketlab - wekelijkse muziekateliers
+--------------------------------------
+
+![de vlieg logo](/themes/custom/entityone/components/_global/images/dist/fly.svg "Vlieg")
+
+Externe organisator: Yvonne De Grazia
+
+za 25.09.2021 - za 25.06.2022
+
+Gemeenschapscentrum Nekkersdal vzw, Laken
+
+Thema activiteit
+
+Folk en wereldmuziek
+
+6
+
+ - 11 jaar
+
+
+
+
+
+
+
+
+
+
+
+
+
+](https://www.nekkersdal.be/activiteiten/bxl-ketlab-wekelijkse-muziekateliers)
+
+[
+
+![Fietsbieb](/sites/nekkersdal/files/styles/activity_teaser/public/viks/f-9d069dd1814642fcbd78ecd0232268ec.png?itok=jY5E1p7_)
+
+Gratis
+
+Fietsbieb
+---------
+
+![de vlieg logo](/themes/custom/entityone/components/_global/images/dist/fly.svg "Vlieg")
+
+Organisator: Gemeenschapscentrum Nekkersdal vzw
+
+za 25.06.2022
+
+Gemeenschapscentrum Nekkersdal vzw, Laken
+
+Thema activiteit
+
+Atletiek, wandelen en fietsen
+
+2
+
+ - 12 jaar
+
+
+
+
+
+
+
+
+
+
+
+
+
+](https://www.nekkersdal.be/activiteiten/fietsbieb-0)
+
+[
+
+![Pianoles 1](/sites/nekkersdal/files/styles/activity_teaser/public/viks/f-a36ff936553f477b966b46de25d60542.png?itok=YfYKHtXI)
+
+Volzet
+
+Pianoles 1
+----------
+
+![de vlieg logo](/themes/custom/entityone/components/_global/images/dist/fly.svg "Vlieg")
+
+Externe organisator: Hoofdstedelijke Academie Muziek Woord Dans
+
+ma 06.09.2021 - ma 27.06.2022
+
+Gemeenschapscentrum Nekkersdal vzw, Laken
+
+Thema activiteit
+
+Theater
+
+6
+
+ - 99 jaar
+
+
+
+
+
+
+
+
+
+
+
+
+
+](https://www.nekkersdal.be/activiteiten/pianoles-1)
+
+Paginering
+----------
+
+*   [Huidige pagina 1](https://www.nekkersdal.be/activiteiten?f%5B0%5D=activity_target_group%3A165&f%5B1%5D=activity_target_group%3A576&items_per_page=All&search_api_fulltext=&f%5B0%5D=activity_target_group%3A165&f%5B1%5D=activity_target_group%3A576&page=0 "Huidige pagina")
+*   [Pagina 2](https://www.nekkersdal.be/activiteiten?f%5B0%5D=activity_target_group%3A165&f%5B1%5D=activity_target_group%3A576&items_per_page=All&search_api_fulltext=&f%5B0%5D=activity_target_group%3A165&f%5B1%5D=activity_target_group%3A576&page=1 "Ga naar pagina 2")
+*   [Volgende pagina Volgende ›](https://www.nekkersdal.be/activiteiten?f%5B0%5D=activity_target_group%3A165&f%5B1%5D=activity_target_group%3A576&items_per_page=All&search_api_fulltext=&f%5B0%5D=activity_target_group%3A165&f%5B1%5D=activity_target_group%3A576&page=1 "Ga naar de volgende pagina")
+*   [Laatste pagina Laatste ›](https://www.nekkersdal.be/activiteiten?f%5B0%5D=activity_target_group%3A165&f%5B1%5D=activity_target_group%3A576&items_per_page=All&search_api_fulltext=&f%5B0%5D=activity_target_group%3A165&f%5B1%5D=activity_target_group%3A576&page=1 "Ga naar de laatste pagina")
+
+[Toon alle resultaten](https://www.nekkersdal.be/activiteiten?f%5B0%5D=activity_target_group%3A165&f%5B1%5D=activity_target_group%3A576&items_per_page=All)
+
 [Source](https://www.nekkersdal.be/activiteiten?f%5B0%5D=activity_target_group%3A165&f%5B1%5D=activity_target_group%3A576&items_per_page=All)
