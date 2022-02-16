@@ -187,8 +187,8 @@ Gemeenschapscentrum Nekkersdal vzw, Laken
 
 Gratis
 
-Soiree Kadee 6
---------------
+Soiree Kadee: Ninja
+-------------------
 
 ![de vlieg logo](/themes/custom/entityone/components/_global/images/dist/fly.svg "Vlieg")
 
@@ -214,7 +214,7 @@ Gemeenschapscentrum Nekkersdal vzw, Laken
 
 
 
-](https://www.nekkersdal.be/activiteiten/soiree-kadee-6)
+](https://www.nekkersdal.be/activiteiten/soiree-kadee-ninja)
 
 [
 
