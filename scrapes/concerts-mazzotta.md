@@ -1,16 +1,6 @@
 ### Upcoming Events
 
-1.  [18 Feb
-    
-    MARIA MAZZOTTA
-    ==============
-    
-    ##### Müpa, Budapest (HUNGARY)
-    
-    #### Double W Festival
-    
-    ](https://zeronovenove.com/eventi/maria-mazzotta-mupa-budapest/)[INFO](https://www.mupa.hu/en/program/world-music-jazz-popular-music/ewiva-maria-mazzotta-2022-02-18_19-30-festival-theatre)
-2.  [19 Feb
+1.  [19 Feb
     
     MARIA MAZZOTTA
     ==============
@@ -20,7 +10,7 @@
     #### Rai Radio 3
     
     ](https://zeronovenove.com/eventi/maria-mazzotta-piazza-verdi-rai-radio-3/)
-3.  [22 Feb
+2.  [22 Feb
     
     PIETRO ROFFI
     ============
@@ -30,7 +20,7 @@
     #### Teatro Fusco
     
     ](https://zeronovenove.com/eventi/pietro-roffi-teatro-fusco-taranto/)
-4.  [26 Feb
+3.  [26 Feb
     
     MARIA MAZZOTTA
     ==============
@@ -40,7 +30,7 @@
     #### Sphera Festival
     
     ](https://zeronovenove.com/eventi/maria-mazzotta-eilat-israel-sphera-festival/)[INFO](https://www.tmisrael.co.il/event/MIT05/ALL/iw?utm_source=spherafestival&utm_medium=website&utm_campaign=spherafestival)
-5.  [07 Apr
+4.  [07 Apr
     
     MARIA MAZZOTTA
     ==============
@@ -50,7 +40,7 @@
     #### Gouy-Sous-Bellonne
     
     ](https://zeronovenove.com/eventi/maria-mazzotta-gouy-sous-bellonne/)
-6.  [25 Apr
+5.  [25 Apr
     
     MARIA MAZZOTTA
     ==============
@@ -60,7 +50,7 @@
     #### Dudelange
     
     ](https://zeronovenove.com/eventi/maria-mazzotta-dudelange-luxembourg/)
-7.  [27 Apr
+6.  [27 Apr
     
     MARIA MAZZOTTA
     ==============
@@ -70,7 +60,7 @@
     #### Vera
     
     ](https://zeronovenove.com/eventi/maria-mazzotta-vera-groningen-netherland/)
-8.  [28 Apr
+7.  [28 Apr
     
     MARIA MAZZOTTA
     ==============
@@ -80,7 +70,7 @@
     #### Mezrab
     
     ](https://zeronovenove.com/eventi/maria-mazzotta-mezrab-amsterdam/)
-9.  [05 Mag
+8.  [05 Mag
     
     MARIA MAZZOTTA
     ==============
@@ -90,7 +80,7 @@
     #### Alice cph
     
     ](https://zeronovenove.com/eventi/maria-mazzotta-copenaghen-alice/)
-10.  [14 Mag
+9.  [14 Mag
     
     MARIA MAZZOTTA
     ==============
@@ -100,7 +90,7 @@
     #### Théâtre de la Ville
     
     ](https://zeronovenove.com/eventi/maria-mazzotta-paris-france-theatre-de-la-ville/)[INFO & TICKETS](https://www.theatredelaville-paris.com/en/spectacles/saison-2021-2022/musiques/maria-mazzotta)
-11.  [26 Mag
+10.  [26 Mag
     
     MARIA MAZZOTTA
     ==============
