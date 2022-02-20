@@ -31,11 +31,6 @@ const lib = require("./lib");
             id: "gc-essegem"
         },
         {
-            scrapeUrl: "https://zeronovenove.com/event-listing/",
-            selector: 'main .event-wrap:nth-child(1)',
-            id: "concerts-mazzotta"
-        },
-        {
             scrapeUrl: "https://www.canzonieregrecanicosalentino.net/tour/?lang=en",
             selector: 'article',
             id: "concerts-canzionere"
