@@ -1,16 +1,6 @@
 ### Upcoming Events
 
-1.  [19 Feb
-    
-    MARIA MAZZOTTA
-    ==============
-    
-    ##### Milano
-    
-    #### Rai Radio 3
-    
-    ](https://zeronovenove.com/eventi/maria-mazzotta-piazza-verdi-rai-radio-3/)
-2.  [22 Feb
+1.  [22 Feb
     
     PIETRO ROFFI
     ============
@@ -20,7 +10,7 @@
     #### Teatro Fusco
     
     ](https://zeronovenove.com/eventi/pietro-roffi-teatro-fusco-taranto/)
-3.  [26 Feb
+2.  [26 Feb
     
     MARIA MAZZOTTA
     ==============
@@ -30,7 +20,7 @@
     #### Sphera Festival
     
     ](https://zeronovenove.com/eventi/maria-mazzotta-eilat-israel-sphera-festival/)[INFO](https://www.tmisrael.co.il/event/MIT05/ALL/iw?utm_source=spherafestival&utm_medium=website&utm_campaign=spherafestival)
-4.  [07 Apr
+3.  [07 Apr
     
     MARIA MAZZOTTA
     ==============
@@ -40,7 +30,7 @@
     #### Gouy-Sous-Bellonne
     
     ](https://zeronovenove.com/eventi/maria-mazzotta-gouy-sous-bellonne/)
-5.  [25 Apr
+4.  [25 Apr
     
     MARIA MAZZOTTA
     ==============
@@ -50,7 +40,7 @@
     #### Dudelange
     
     ](https://zeronovenove.com/eventi/maria-mazzotta-dudelange-luxembourg/)
-6.  [27 Apr
+5.  [27 Apr
     
     MARIA MAZZOTTA
     ==============
@@ -60,7 +50,7 @@
     #### Vera
     
     ](https://zeronovenove.com/eventi/maria-mazzotta-vera-groningen-netherland/)
-7.  [28 Apr
+6.  [28 Apr
     
     MARIA MAZZOTTA
     ==============
@@ -70,7 +60,7 @@
     #### Mezrab
     
     ](https://zeronovenove.com/eventi/maria-mazzotta-mezrab-amsterdam/)
-8.  [05 Mag
+7.  [05 Mag
     
     MARIA MAZZOTTA
     ==============
@@ -80,7 +70,7 @@
     #### Alice cph
     
     ](https://zeronovenove.com/eventi/maria-mazzotta-copenaghen-alice/)
-9.  [14 Mag
+8.  [14 Mag
     
     MARIA MAZZOTTA
     ==============
@@ -90,7 +80,7 @@
     #### Théâtre de la Ville
     
     ](https://zeronovenove.com/eventi/maria-mazzotta-paris-france-theatre-de-la-ville/)[INFO & TICKETS](https://www.theatredelaville-paris.com/en/spectacles/saison-2021-2022/musiques/maria-mazzotta)
-10.  [26 Mag
+9.  [26 Mag
     
     MARIA MAZZOTTA
     ==============
