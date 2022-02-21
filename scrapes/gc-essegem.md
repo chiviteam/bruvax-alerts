@@ -1,44 +1,5 @@
 [
 
-![Familietheater: vierkantROND (2,5+)](/sites/essegem/files/styles/activity_teaser/public/viks/f-486f2328121b4fc5bed89ca97710e71b.png?itok=YCGFXQpR)
-
-Volzet
-
-Familietheater: vierkantROND (2,5+)
------------------------------------
-
-![de vlieg logo](/themes/custom/entityone/components/_global/images/dist/fly.svg "Vlieg")
-
-Organisator: Gemeenschapscentrum Essegem vzw
-
-zo 20.02.2022
-
-Gemeenschapscentrum Essegem vzw, Jette
-
-Thema activiteit
-
-Jazz en blues
-
-2
-
- - 5 jaar
-
-
-
-
-
-
-
-
-
-
-
-
-
-](https://www.essegem.be/activiteiten/familietheater-vierkantrond-25)
-
-[
-
 ![Cinema Fonkel Openingsfeest: Ernest en Célestine](/sites/essegem/files/styles/activity_teaser/public/viks/f-3ec882280de648139994e76811f2b2ad.png?itok=wX9IDk3x)
 
 Gratis
@@ -516,5 +477,120 @@ Creativiteit
 
 
 ](https://www.essegem.be/activiteiten/ketjeskunst)
+
+[
+
+![Speelweek: Wat een weertje](/sites/essegem/files/styles/activity_teaser/public/viks/f-1ca5da3e5a6c4f8dba705daf967da871.png?itok=lCrcwAYI)
+
+Speelweek: Wat een weertje
+--------------------------
+
+![de vlieg logo](/themes/custom/entityone/components/_global/images/dist/fly.svg "Vlieg")
+
+Organisator: Gemeenschapscentrum Essegem vzw
+
+ma 04.07.2022 - vr 08.07.2022
+
+Gemeenschapscentrum Essegem vzw, Jette
+
+Thema activiteit
+
+Creativiteit
+
+3
+
+ - 5 jaar
+
+
+
+
+
+
+
+
+
+
+
+
+
+](https://www.essegem.be/activiteiten/speelweek-wat-een-weertje)
+
+[
+
+![Sport- & avonturenweek 6-8 jaar](/sites/essegem/files/styles/activity_teaser/public/viks/f-a13475e3557444a78974d334eefb72c2.png?itok=-DsjmfYz)
+
+Sport- & avonturenweek 6-8 jaar
+-------------------------------
+
+![de vlieg logo](/themes/custom/entityone/components/_global/images/dist/fly.svg "Vlieg")
+
+Organisator: Gemeenschapscentrum Essegem vzw, in samenwerking met 
+
+VGC Sportdienst
+
+ma 04.07.2022 - vr 08.07.2022
+
+GC Essegem vzw, Jette
+
+Thema activiteit
+
+Omnisport en andere
+
+6
+
+ - 8 jaar
+
+
+
+
+
+
+
+
+
+
+
+
+
+](https://www.essegem.be/activiteiten/sport-avonturenweek-6-8-jaar)
+
+[
+
+![Speelweek 'Rekketet marionet kheb een lange neus opgezet, nah!'](/sites/essegem/files/styles/activity_teaser/public/viks/f-9f2df42d897048768ab23cc7716192bb.png?itok=GRUgBqIL)
+
+Speelweek 'Rekketet marionet kheb een lange neus opgezet, nah!'
+---------------------------------------------------------------
+
+![de vlieg logo](/themes/custom/entityone/components/_global/images/dist/fly.svg "Vlieg")
+
+Organisator: Gemeenschapscentrum Essegem vzw, in samenwerking met 
+
+vzw de Verhalenbakkerij
+
+ma 22.08.2022 - vr 26.08.2022
+
+Gemeenschapscentrum Essegem vzw, Jette
+
+Thema activiteit
+
+Creativiteit
+
+4
+
+ - 6 jaar
+
+
+
+
+
+
+
+
+
+
+
+
+
+](https://www.essegem.be/activiteiten/speelweek-rekketet-marionet-kheb-een-lange-neus-opgezet-nah)
 
 [Source](https://www.essegem.be/activiteiten?items_per_page=All&f%5B0%5D=activity_target_group%3A165&f%5B1%5D=activity_target_group%3A576)
