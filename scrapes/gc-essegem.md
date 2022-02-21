@@ -519,8 +519,8 @@ Creativiteit
 
 ![Sport- & avonturenweek 6-8 jaar](/sites/essegem/files/styles/activity_teaser/public/viks/f-a13475e3557444a78974d334eefb72c2.png?itok=-DsjmfYz)
 
-Sport- & avonturenweek 6-8 jaar
--------------------------------
+Sport- & avonturenweek (6-8 jaar)
+---------------------------------
 
 ![de vlieg logo](/themes/custom/entityone/components/_global/images/dist/fly.svg "Vlieg")
 
