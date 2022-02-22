@@ -556,7 +556,7 @@ Omnisport en andere
 
 [
 
-![Speelweek 'Rekketet marionet kheb een lange neus opgezet, nah!'](/sites/essegem/files/styles/activity_teaser/public/viks/f-9f2df42d897048768ab23cc7716192bb.png?itok=GRUgBqIL)
+![Speelweek 'Rekketet marionet kheb een lange neus opgezet, nah!'](/sites/essegem/files/styles/activity_teaser/public/viks/f-9f2df42d897048768ab23cc7716192bb.png?h=c4b6a045&itok=GRUgBqIL)
 
 Speelweek 'Rekketet marionet kheb een lange neus opgezet, nah!'
 ---------------------------------------------------------------
