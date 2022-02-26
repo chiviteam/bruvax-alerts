@@ -1,46 +1,5 @@
 [
 
-![Cinema Fonkel Openingsfeest: Ernest en Célestine](/sites/essegem/files/styles/activity_teaser/public/viks/f-3ec882280de648139994e76811f2b2ad.png?itok=wX9IDk3x)
-
-Gratis
-
-Cinema Fonkel Openingsfeest: Ernest en Célestine
-------------------------------------------------
-
-![de vlieg logo](/themes/custom/entityone/components/_global/images/dist/fly.svg "Vlieg")
-
-Organisator: Gemeenschapscentrum Essegem vzw, in samenwerking met 
-
-Gemeente Jette - Dienst Nederlandstalige Cultuur, Hallo Cultuur, Gemeentelijke Openbare Bibliotheek Jette, BRES
-
-vr 25.02.2022
-
-Gemeenschapscentrum Essegem vzw, Jette
-
-Thema activiteit
-
-Animatie
-
-4
-
- - 11 jaar
-
-
-
-
-
-
-
-
-
-
-
-
-
-](https://www.essegem.be/activiteiten/cinema-fonkel-openingsfeest-ernest-en-celestine)
-
-[
-
 ![Cinema Fonkel: Mijn Moeder is een Gorilla](/sites/essegem/files/styles/activity_teaser/public/viks/f-414674f806cf4c79b31a1e756e256bf4.png?h=c8bf705a&itok=0RB0IkwU)
 
 Gratis
