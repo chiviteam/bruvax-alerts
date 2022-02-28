@@ -11,6 +11,11 @@ const lib = require("./lib");
             id: "circus"
         },
         {
+            scrapeUrl: "https://diplomatie.belgium.be/fr/Services/voyager_a_letranger/conseils_par_destination/georgie",
+            selector: "#block-system-main .field-name-body .field-item table",
+            id: "diplo-georgie"
+        },
+        {
             scrapeUrl: "https://diplomatie.belgium.be/fr/Services/voyager_a_letranger/conseils_par_destination/thailande",
             selector: "#block-system-main .field-name-body .field-item table",
             id: "diplo-thailande"
