@@ -1,48 +1,5 @@
 [
 
-![Cinema Fonkel: Mijn Moeder is een Gorilla](/sites/essegem/files/styles/activity_teaser/public/viks/f-414674f806cf4c79b31a1e756e256bf4.png?h=c8bf705a&itok=0RB0IkwU)
-
-Gratis
-
-Volzet
-
-Cinema Fonkel: Mijn Moeder is een Gorilla
------------------------------------------
-
-![de vlieg logo](/themes/custom/entityone/components/_global/images/dist/fly.svg "Vlieg")
-
-Organisator: Gemeenschapscentrum Essegem vzw, in samenwerking met 
-
-Gemeente Jette - Dienst Nederlandstalige Cultuur, Hallo Cultuur, Gemeentelijke Openbare Bibliotheek Jette, BRES
-
-zo 27.02.2022
-
-Cinema Palace, Brussel
-
-Thema activiteit
-
-Animatie
-
-5
-
- - 9 jaar
-
-
-
-
-
-
-
-
-
-
-
-
-
-](https://www.essegem.be/activiteiten/cinema-fonkel-mijn-moeder-een-gorilla)
-
-[
-
 ![Cinema Fonkel: Choums Odysee](/sites/essegem/files/styles/activity_teaser/public/viks/f-ac456c47b95240fea7e27e7db9ef49c3.png?h=1b624fc4&itok=V2FDl_l_)
 
 Gratis
