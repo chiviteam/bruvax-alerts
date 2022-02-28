@@ -144,6 +144,41 @@ Gemeenschapscentrum Nekkersdal vzw, Laken
 
 [
 
+![Cafe Puree: Kakelbontschool](/sites/nekkersdal/files/styles/activity_teaser/public/viks/f-c166b0653f7244809f67d2b57b60b44a.png?itok=fCVO6cSG)
+
+Gratis
+
+Cafe Puree: Kakelbontschool
+---------------------------
+
+![de vlieg logo](/themes/custom/entityone/components/_global/images/dist/fly.svg "Vlieg")
+
+Organisator: Gemeenschapscentrum Nekkersdal vzw
+
+za 23.04.2022
+
+Kakelbontschool, Laken
+
+0
+
+ - 4 jaar
+
+
+
+
+
+
+
+
+
+
+
+
+
+](https://www.nekkersdal.be/activiteiten/cafe-puree-kakelbontschool)
+
+[
+
 ![Fietsbieb](/sites/nekkersdal/files/styles/activity_teaser/public/viks/f-4260e08694c74ba2babcd04caef16dc4.png?itok=UUARMjcZ)
 
 Gratis
@@ -891,43 +926,6 @@ Theater
 
 
 ](https://www.nekkersdal.be/activiteiten/pianoles-2)
-
-[
-
-![Beeldend atelier](/sites/nekkersdal/files/styles/activity_teaser/public/viks/f-0cbb4da93b4445fd9f49f8a6033539b6.png?itok=9Z6KpEe5)
-
-Beeldend atelier
-----------------
-
-![de vlieg logo](/themes/custom/entityone/components/_global/images/dist/fly.svg "Vlieg")
-
-Externe organisator: Sint-Lukasacademie
-
-do 02.09.2021 - do 30.06.2022
-
-Gemeenschapscentrum Nekkersdal vzw, Laken
-
-Thema activiteit
-
-Meerdere kunstvormen
-
-6
-
- - 12 jaar
-
-
-
-
-
-
-
-
-
-
-
-
-
-](https://www.nekkersdal.be/activiteiten/beeldend-atelier)
 
 Paginering
 ----------
