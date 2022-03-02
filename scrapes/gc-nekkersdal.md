@@ -113,8 +113,8 @@ Atletiek, wandelen en fietsen
 
 Gratis
 
-Café Puree 6
-------------
+Café Puree • Nekkersdal
+-----------------------
 
 ![de vlieg logo](/themes/custom/entityone/components/_global/images/dist/fly.svg "Vlieg")
 
@@ -140,7 +140,7 @@ Gemeenschapscentrum Nekkersdal vzw, Laken
 
 
 
-](https://www.nekkersdal.be/activiteiten/cafe-puree-6)
+](https://www.nekkersdal.be/activiteiten/cafe-puree-nekkersdal-1)
 
 [
 
@@ -257,8 +257,8 @@ Atletiek, wandelen en fietsen
 
 Gratis
 
-Café Puree 7
-------------
+Café Puree • Nekkersdal
+-----------------------
 
 ![de vlieg logo](/themes/custom/entityone/components/_global/images/dist/fly.svg "Vlieg")
 
@@ -284,7 +284,7 @@ Gemeenschapscentrum Nekkersdal vzw, Laken
 
 
 
-](https://www.nekkersdal.be/activiteiten/cafe-puree-7)
+](https://www.nekkersdal.be/activiteiten/cafe-puree-nekkersdal-0)
 
 [
 
@@ -366,8 +366,8 @@ Bal en racketsport
 
 Gratis
 
-Café Puree 8
-------------
+Café Puree • Nekkersdal
+-----------------------
 
 ![de vlieg logo](/themes/custom/entityone/components/_global/images/dist/fly.svg "Vlieg")
 
@@ -393,7 +393,7 @@ Gemeenschapscentrum Nekkersdal vzw, Laken
 
 
 
-](https://www.nekkersdal.be/activiteiten/cafe-puree-8)
+](https://www.nekkersdal.be/activiteiten/cafe-puree-nekkersdal)
 
 [
 
