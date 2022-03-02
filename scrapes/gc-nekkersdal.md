@@ -35,6 +35,41 @@ Gemeenschapscentrum Nekkersdal vzw, Laken
 
 [
 
+![Cafe Puree: Leidstarschool](/sites/nekkersdal/files/styles/activity_teaser/public/viks/f-eae722cdd80349a9b25f91d9025e8c69.png?itok=IQD1kI5p)
+
+Gratis
+
+Cafe Puree: Leidstarschool
+--------------------------
+
+![de vlieg logo](/themes/custom/entityone/components/_global/images/dist/fly.svg "Vlieg")
+
+Organisator: Gemeenschapscentrum Nekkersdal vzw
+
+za 12.03.2022
+
+Leidstarschool, Laken
+
+0
+
+ - 4 jaar
+
+
+
+
+
+
+
+
+
+
+
+
+
+](https://www.nekkersdal.be/activiteiten/cafe-puree-leidstarschool)
+
+[
+
 ![Fietsbieb](/sites/nekkersdal/files/styles/activity_teaser/public/viks/f-b1c24d53b25342598772be87d8b28023.png?itok=QmqBqCiL)
 
 Gratis
@@ -887,45 +922,6 @@ Theater
 
 
 ](https://www.nekkersdal.be/activiteiten/pianoles-1)
-
-[
-
-![Pianoles 2](/sites/nekkersdal/files/styles/activity_teaser/public/viks/f-0abb57354a8f4f03b949bb42d3ddd4ee.png?itok=9dpKhqZD)
-
-Volzet
-
-Pianoles 2
-----------
-
-![de vlieg logo](/themes/custom/entityone/components/_global/images/dist/fly.svg "Vlieg")
-
-Externe organisator: Hoofdstedelijke Academie Muziek Woord Dans
-
-wo 01.09.2021 - wo 29.06.2022
-
-Gemeenschapscentrum Nekkersdal vzw, Laken
-
-Thema activiteit
-
-Theater
-
-6
-
- - 7 jaar
-
-
-
-
-
-
-
-
-
-
-
-
-
-](https://www.nekkersdal.be/activiteiten/pianoles-2)
 
 Paginering
 ----------
