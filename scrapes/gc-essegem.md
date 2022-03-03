@@ -1,46 +1,5 @@
 [
 
-![Cinema Fonkel: Choums Odysee](/sites/essegem/files/styles/activity_teaser/public/viks/f-ac456c47b95240fea7e27e7db9ef49c3.png?h=1b624fc4&itok=V2FDl_l_)
-
-Gratis
-
-Cinema Fonkel: Choums Odysee
-----------------------------
-
-![de vlieg logo](/themes/custom/entityone/components/_global/images/dist/fly.svg "Vlieg")
-
-Organisator: Gemeenschapscentrum Essegem vzw, in samenwerking met 
-
-Gemeente Jette - Dienst Nederlandstalige Cultuur, Hallo Cultuur, Gemeentelijke Openbare Bibliotheek Jette, BRES
-
-wo 02.03.2022
-
-Gemeenschapscentrum Essegem vzw, Jette
-
-Thema activiteit
-
-Animatie
-
-3
-
- - 6 jaar
-
-
-
-
-
-
-
-
-
-
-
-
-
-](https://www.essegem.be/activiteiten/cinema-fonkel-choums-odysee)
-
-[
-
 ![Cinema Fonkel: Binti](/sites/essegem/files/styles/activity_teaser/public/viks/f-f3668564b23c43339c5050ece83d058c.png?itok=k7CdIVx7)
 
 Gratis
