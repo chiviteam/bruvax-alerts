@@ -93,10 +93,6 @@
     
     Schlosskirche Wittenberg
     
-      
-    
-    **2G+ Zugangsmodell (Stand 21.01.2022)**
-    
     Tickets](https://www.eventim.de/noapp/event/giora-feidman-friendship-tour-2022-schlosskirche-14045461/?affiliate=GFA&utm_campaign=GFA&utm_medium=dp&utm_source=GFA)
 *   07.04.2022, 20:00 Uhr - Wittenberg / verschoben vom 29.01.2022
     
@@ -108,11 +104,20 @@
     
     Schlosskirche Wittenberg
     
-      
-    
-    **2G+ Zugangsmodell (Stand 21.01.2022)**
-    
     Tickets
+*   [
+    
+    10.04.2022, 19.00 Uhr - Tutzing
+    
+    Giora Feidman - Friendship Tour 2022
+    
+    75-jähriges Bühnenjubiläum
+    
+    Giora Feidman Trio
+    
+    Kirche St. Joseph, Tutzing
+    
+    Tickets](https://www.eventim.de/noapp/event/giora-feidman-friendship-tour-2022-kirche-st-joseph-14971148/?affiliate=GFA&utm_campaign=GFA&utm_medium=dp&utm_source=GFA)
 *   [
     
     20.05.2022, 20:00 Uhr - Aschaffenburg / verschoben vom 21.01.2022
