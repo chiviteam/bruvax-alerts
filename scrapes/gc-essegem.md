@@ -1,46 +1,5 @@
 [
 
-![Cinema Fonkel: Binti](/sites/essegem/files/styles/activity_teaser/public/viks/f-f3668564b23c43339c5050ece83d058c.png?itok=k7CdIVx7)
-
-Gratis
-
-Cinema Fonkel: Binti
---------------------
-
-![de vlieg logo](/themes/custom/entityone/components/_global/images/dist/fly.svg "Vlieg")
-
-Organisator: Gemeenschapscentrum Essegem vzw, in samenwerking met 
-
-Gemeente Jette - Dienst Nederlandstalige Cultuur, Hallo Cultuur, Gemeentelijke Openbare Bibliotheek Jette, BRES
-
-do 03.03.2022
-
-LaMI, Jette
-
-Thema activiteit
-
-Film
-
-8
-
- - 14 jaar
-
-
-
-
-
-
-
-
-
-
-
-
-
-](https://www.essegem.be/activiteiten/cinema-fonkel-binti)
-
-[
-
 ![Speelweek 'Pili Pili en de vuilnisbeltbeestjes'](/sites/essegem/files/styles/activity_teaser/public/viks/f-eb66353e721540228e5f1ef7f8e7a4f2.png?itok=O7RRR63X)
 
 Volzet
