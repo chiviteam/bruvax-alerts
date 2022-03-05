@@ -1,46 +1,5 @@
 [
 
-![Speelweek 'Pili Pili en de vuilnisbeltbeestjes'](/sites/essegem/files/styles/activity_teaser/public/viks/f-eb66353e721540228e5f1ef7f8e7a4f2.png?itok=O7RRR63X)
-
-Volzet
-
-Speelweek 'Pili Pili en de vuilnisbeltbeestjes'
------------------------------------------------
-
-![de vlieg logo](/themes/custom/entityone/components/_global/images/dist/fly.svg "Vlieg")
-
-Organisator: Gemeenschapscentrum Essegem vzw, in samenwerking met 
-
-Panta Rhei
-
-ma 28.02.2022 - vr 04.03.2022
-
-Gemeenschapscentrum Essegem vzw, Jette
-
-Thema activiteit
-
-Creativiteit
-
-3
-
- - 5 jaar
-
-
-
-
-
-
-
-
-
-
-
-
-
-](https://www.essegem.be/activiteiten/speelweek-pili-pili-en-de-vuilnisbeltbeestjes)
-
-[
-
 ![Cinema Fonkel Slotfeest: De Lorax en het Verdwenen Bos](/sites/essegem/files/styles/activity_teaser/public/viks/f-c4470891fe7345ce9eaa7aca4ab288a0.png?h=0cd53604&itok=Ms52uL1d)
 
 Gratis
