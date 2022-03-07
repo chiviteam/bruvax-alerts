@@ -1,46 +1,5 @@
 [
 
-![Cinema Fonkel Slotfeest: De Lorax en het Verdwenen Bos](/sites/essegem/files/styles/activity_teaser/public/viks/f-c4470891fe7345ce9eaa7aca4ab288a0.png?h=0cd53604&itok=Ms52uL1d)
-
-Gratis
-
-Cinema Fonkel Slotfeest: De Lorax en het Verdwenen Bos
-------------------------------------------------------
-
-![de vlieg logo](/themes/custom/entityone/components/_global/images/dist/fly.svg "Vlieg")
-
-Organisator: Gemeenschapscentrum Essegem vzw, in samenwerking met 
-
-Gemeente Jette - Dienst Nederlandstalige Cultuur, Hallo Cultuur, Gemeentelijke Openbare Bibliotheek Jette, BRES
-
-zo 06.03.2022
-
-Gemeentelijke feestzaal Jette, Jette
-
-Thema activiteit
-
-Animatie
-
-8
-
- - 16 jaar
-
-
-
-
-
-
-
-
-
-
-
-
-
-](https://www.essegem.be/activiteiten/cinema-fonkel-slotfeest-de-lorax-en-het-verdwenen-bos)
-
-[
-
 ![Familietheater: Het Lam van Jan (3+)](/sites/essegem/files/styles/activity_teaser/public/viks/f-15b7f27bd0bd45bcae55a07e7b0ad06d.png?itok=GQvrWGjR)
 
 Volzet
