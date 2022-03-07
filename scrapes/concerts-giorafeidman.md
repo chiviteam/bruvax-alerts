@@ -30,7 +30,7 @@
     
     Kolosseum, Lübeck
     
-    Tickets](https://www.eventim.de/noapp/artist/giora-feidman/giora-feidman-friendship-tour-2022-2959653/?affiliate=GFA&utm_campaign=GFA&utm_medium=dp&utm_source=GFA)
+    Tickets](https://www.eventim.de/noapp/event/giora-feidman-friendship-tour-2022-kolosseum-13926417/?affiliate=GFA&utm_campaign=GFA&utm_medium=dp&utm_source=GFA)
 *   [
     
     03.04.2022, 19:00 Uhr - Hannover / verschoben vom 17.01.2022
@@ -67,7 +67,7 @@
     
     St. Sixti, Northeim
     
-    Tickets](https://www.eventim.de/noapp/artist/giora-feidman/giora-feidman-friendship-tour-2022-2959653/?affiliate=GFA&utm_campaign=GFA&utm_medium=dp&utm_source=GFA)
+    Tickets](https://www.eventim.de/noapp/event/giora-feidman-friendship-tour-2022-st-sixtikirche-13926543/?affiliate=GFA&utm_campaign=GFA&utm_medium=dp&utm_source=GFA)
 *   [
     
     06.04.2022, 19:30 Uhr / verschoben vom 24.01.2022 - Salzwedel
@@ -94,7 +94,9 @@
     Schlosskirche Wittenberg
     
     Tickets](https://www.eventim.de/noapp/event/giora-feidman-friendship-tour-2022-schlosskirche-14045461/?affiliate=GFA&utm_campaign=GFA&utm_medium=dp&utm_source=GFA)
-*   07.04.2022, 20:00 Uhr - Wittenberg / verschoben vom 29.01.2022
+*   [
+    
+    07.04.2022, 20:00 Uhr - Wittenberg / verschoben vom 29.01.2022
     
     Giora Feidman - Friendship Tour 2022
     
@@ -104,7 +106,7 @@
     
     Schlosskirche Wittenberg
     
-    Tickets
+    Tickets](https://www.eventim.de/noapp/event/giora-feidman-friendship-tour-2022-schlosskirche-13926374/?affiliate=GFA&utm_campaign=GFA&utm_medium=dp&utm_source=GFA)
 *   [
     
     10.04.2022, 19.00 Uhr - Tutzing
@@ -130,7 +132,7 @@
     
     Christuskirche, Aschaffenburg
     
-    Tickets](https://www.eventim.de/noapp/artist/giora-feidman/giora-feidman-friendship-tour-2022-2959653/?affiliate=GFA&utm_campaign=GFA&utm_medium=dp&utm_source=GFA)
+    Tickets](https://www.eventim.de/noapp/event/giora-feidman-friendship-tour-2022-christuskirche-aschaffenburg-13926338/?affiliate=GFA&utm_campaign=GFA&utm_medium=dp&utm_source=GFA)
 *   [
     
     21.05.2022, 20:00 Uhr - Marburg / verschoben vom 20.01.2022
@@ -143,7 +145,7 @@
     
     Elisabethkirche, Marburg
     
-    Tickets](https://www.eventim.de/noapp/artist/giora-feidman/giora-feidman-friendship-tour-2022-2959653/?affiliate=GFA&utm_campaign=GFA&utm_medium=dp&utm_source=GFA)
+    Tickets](https://www.eventim.de/noapp/event/giora-feidman-friendship-tour-2022-elisabethkirche-zu-marburg-13926339/?affiliate=GFA&utm_campaign=GFA&utm_medium=dp&utm_source=GFA)
 *   [
     
     22.05.2022 , 19:00 Uhr - Bad Bentheim / verschoben vom 16.01.2022
@@ -156,10 +158,8 @@
     
     Ev. Ref. Kirche Gildehaus, Bad Bentheim
     
-    Tickets](https://www.eventim.de/noapp/artist/giora-feidman/giora-feidman-friendship-tour-2022-2959653/?affiliate=GFA&utm_campaign=GFA&utm_medium=dp&utm_source=GFA)
-*   [
-    
-    23.05.2022, 20:00 Uhr - Schwerin / verschoben vom 14.01.2022
+    Tickets](https://www.eventim.de/noapp/event/giora-feidman-friendship-tour-2022-ev-ref-kirchengemeinde-gildehaus-13215962/?affiliate=GFA&utm_campaign=GFA&utm_medium=dp&utm_source=GFA)
+*   23.05.2022, 20:00 Uhr - Schwerin / verschoben vom 14.01.2022
     
     Giora Feidman - Friendship Tour 2022
     
@@ -169,7 +169,7 @@
     
     St. Nikolai, Schwerin
     
-    Tickets](https://www.eventim.de/noapp/artist/giora-feidman/giora-feidman-friendship-tour-2022-2959653/?affiliate=GFA&utm_campaign=GFA&utm_medium=dp&utm_source=GFA)
+    Tickets
 *   [
     
     24.05.2022, 20:00 Uhr - Rostock / verschoben vom 25.01.2022
@@ -182,7 +182,7 @@
     
     Nikolaikirche, Rostock
     
-    Tickets](https://www.eventim.de/noapp/artist/giora-feidman/giora-feidman-friendship-tour-2022-2959653/?affiliate=GFA&utm_campaign=GFA&utm_medium=dp&utm_source=GFA)
+    Tickets](https://www.eventim.de/noapp/event/giora-feidman-friendship-tour-2022-nikolaikirche-13926340/?affiliate=GFA&utm_campaign=GFA&utm_medium=dp&utm_source=GFA)
 *   [
     
     21.06.2022, 20:00 Uhr / verschoben vom 29.12.2021 - Niebüll
@@ -221,7 +221,7 @@
     
     Stadthalle Eckernförde
     
-    Tickets](https://www.eventim.de/noapp/event/giora-feidman-sergej-tcherepanov-from-classic-to-klezmer-stadthalle-eckernfoerde-14390400/?affiliate=GFA&utm_campaign=GFA&utm_medium=dp&utm_source=GFA)
+    Tickets](https://www.eventim.de/noapp/event/giora-feidman-friendship-tour-2022-stadthalle-eckernfoerde-14572695/?affiliate=GFA&utm_campaign=GFA&utm_medium=dp&utm_source=GFA)
 *   [
     
     24.06.2022, 20.00 Uhr - Ludwigslust
