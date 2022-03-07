@@ -232,43 +232,6 @@ Creativiteit
 
 [
 
-![Speelweek: Wat een weertje](/sites/essegem/files/styles/activity_teaser/public/viks/f-1ca5da3e5a6c4f8dba705daf967da871.png?itok=lCrcwAYI)
-
-Speelweek: Wat een weertje
---------------------------
-
-![de vlieg logo](/themes/custom/entityone/components/_global/images/dist/fly.svg "Vlieg")
-
-Organisator: Gemeenschapscentrum Essegem vzw
-
-ma 04.07.2022 - vr 08.07.2022
-
-Gemeenschapscentrum Essegem vzw, Jette
-
-Thema activiteit
-
-Creativiteit
-
-3
-
- - 5 jaar
-
-
-
-
-
-
-
-
-
-
-
-
-
-](https://www.essegem.be/activiteiten/speelweek-wat-een-weertje)
-
-[
-
 ![Sport- & avonturenweek 6-8 jaar](/sites/essegem/files/styles/activity_teaser/public/viks/f-a13475e3557444a78974d334eefb72c2.png?itok=-DsjmfYz)
 
 Sport- & avonturenweek (6-8 jaar)
@@ -305,6 +268,43 @@ Omnisport en andere
 
 
 ](https://www.essegem.be/activiteiten/sport-avonturenweek-6-8-jaar)
+
+[
+
+![Speelweek: Wat een weertje](/sites/essegem/files/styles/activity_teaser/public/viks/f-1ca5da3e5a6c4f8dba705daf967da871.png?itok=lCrcwAYI)
+
+Speelweek: Wat een weertje
+--------------------------
+
+![de vlieg logo](/themes/custom/entityone/components/_global/images/dist/fly.svg "Vlieg")
+
+Organisator: Gemeenschapscentrum Essegem vzw
+
+ma 04.07.2022 - vr 08.07.2022
+
+Gemeenschapscentrum Essegem vzw, Jette
+
+Thema activiteit
+
+Creativiteit
+
+3
+
+ - 5 jaar
+
+
+
+
+
+
+
+
+
+
+
+
+
+](https://www.essegem.be/activiteiten/speelweek-wat-een-weertje)
 
 [
 
