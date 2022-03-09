@@ -810,43 +810,6 @@ Fitness, gym(nastiek), dans en vechtsport
 
 [
 
-![BXL Ketlab - wekelijkse muziekateliers](/sites/nekkersdal/files/styles/activity_teaser/public/viks/f-35ebfce65ec6479cba041ffff0401a91.png?itok=8_nqMR6K)
-
-BXL Ketlab - wekelijkse muziekateliers
---------------------------------------
-
-![de vlieg logo](/themes/custom/entityone/components/_global/images/dist/fly.svg "Vlieg")
-
-Externe organisator: Yvonne De Grazia
-
-za 25.09.2021 - za 25.06.2022
-
-Gemeenschapscentrum Nekkersdal vzw, Laken
-
-Thema activiteit
-
-Folk en wereldmuziek
-
-6
-
- - 11 jaar
-
-
-
-
-
-
-
-
-
-
-
-
-
-](https://www.nekkersdal.be/activiteiten/bxl-ketlab-wekelijkse-muziekateliers)
-
-[
-
 ![Fietsbieb](/sites/nekkersdal/files/styles/activity_teaser/public/viks/f-9d069dd1814642fcbd78ecd0232268ec.png?itok=jY5E1p7_)
 
 Gratis
@@ -883,6 +846,43 @@ Atletiek, wandelen en fietsen
 
 
 ](https://www.nekkersdal.be/activiteiten/fietsbieb-0)
+
+[
+
+![BXL Ketlab - wekelijkse muziekateliers](/sites/nekkersdal/files/styles/activity_teaser/public/viks/f-35ebfce65ec6479cba041ffff0401a91.png?itok=8_nqMR6K)
+
+BXL Ketlab - wekelijkse muziekateliers
+--------------------------------------
+
+![de vlieg logo](/themes/custom/entityone/components/_global/images/dist/fly.svg "Vlieg")
+
+Externe organisator: Yvonne De Grazia
+
+za 25.09.2021 - za 25.06.2022
+
+Gemeenschapscentrum Nekkersdal vzw, Laken
+
+Thema activiteit
+
+Folk en wereldmuziek
+
+6
+
+ - 11 jaar
+
+
+
+
+
+
+
+
+
+
+
+
+
+](https://www.nekkersdal.be/activiteiten/bxl-ketlab-wekelijkse-muziekateliers)
 
 [
 
