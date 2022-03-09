@@ -33,7 +33,7 @@
     Tickets](https://www.eventim.de/noapp/event/giora-feidman-friendship-tour-2022-kolosseum-13926417/?affiliate=GFA&utm_campaign=GFA&utm_medium=dp&utm_source=GFA)
 *   [
     
-    03.04.2022, 19:00 Uhr - Hannover / verschoben vom 17.01.2022
+    03.04.2022, 16:00 Uhr - Hannover / ZUSATZKONZERT
     
     Giora Feidman - Friendship Tour 2022
     
@@ -43,7 +43,18 @@
     
     Apostelkirche, Hannover
     
-    Tickets](https://www.eventim.de/noapp/event/giora-feidman-friendship-tour-2022-apostelkirche-13933724/?affiliate=GFA&utm_campaign=GFA&utm_medium=dp&utm_source=GFA)
+    TICKETS](https://www.eventim.de/noapp/event/giora-feidman-friendship-tour-2022-apostelkirche-14998870/?affiliate=GFA&utm_campaign=GFA&utm_medium=dp&utm_source=GFA)
+*   03.04.2022, 19:00 Uhr - Hannover / verschoben vom 17.01.2022 / AUSVERKAUFT
+    
+    Giora Feidman - Friendship Tour 2022
+    
+    75-jähriges Bühnenjubiläum
+    
+    Mit dem Rastrelli Cello Quartett
+    
+    Apostelkirche, Hannover
+    
+    Tickets
 *   [
     
     04.04.2022, 20:00 Uhr - Wernigerode / verschoben vom 12.12.2021
