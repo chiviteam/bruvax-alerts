@@ -471,45 +471,6 @@ Gemeenschapscentrum Nekkersdal vzw, Laken
 
 [
 
-![Minivoetbal 6-8 jaar](/sites/nekkersdal/files/styles/activity_teaser/public/viks/f-eb91f174a434472bbe06f592031aaad2.png?itok=78018liD)
-
-Volzet
-
-Minivoetbal 6-8 jaar
---------------------
-
-![de vlieg logo](/themes/custom/entityone/components/_global/images/dist/fly.svg "Vlieg")
-
-Externe organisator: GC Nekkersdal
-
-za 25.09.2021 - za 04.06.2022
-
-Gemeenschapscentrum Nekkersdal vzw, Laken
-
-Thema activiteit
-
-Bal en racketsport
-
-6
-
- - 8 jaar
-
-
-
-
-
-
-
-
-
-
-
-
-
-](https://www.nekkersdal.be/activiteiten/minivoetbal-6-8-jaar)
-
-[
-
 ![Multimove mini](/sites/nekkersdal/files/styles/activity_teaser/public/viks/f-00989ae77eeb4e578b74f131e83692df.png?itok=BeZY9qA0)
 
 Multimove mini
@@ -768,6 +729,45 @@ Omnisport en andere
 
 
 ](https://www.nekkersdal.be/activiteiten/multimove-kleuters)
+
+[
+
+![Minivoetbal 6-8 jaar](/sites/nekkersdal/files/styles/activity_teaser/public/viks/f-eb91f174a434472bbe06f592031aaad2.png?itok=78018liD)
+
+Volzet
+
+Minivoetbal 6-8 jaar
+--------------------
+
+![de vlieg logo](/themes/custom/entityone/components/_global/images/dist/fly.svg "Vlieg")
+
+Externe organisator: GC Nekkersdal
+
+za 25.09.2021 - za 04.06.2022
+
+Gemeenschapscentrum Nekkersdal vzw, Laken
+
+Thema activiteit
+
+Bal en racketsport
+
+6
+
+ - 8 jaar
+
+
+
+
+
+
+
+
+
+
+
+
+
+](https://www.nekkersdal.be/activiteiten/minivoetbal-6-8-jaar)
 
 [
 
