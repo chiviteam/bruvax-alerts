@@ -8,33 +8,20 @@
 
 Depuis le 20 décembre 2021, tous les voyageurs se rendant en Roumanie doivent compléter un [formulaire de localisation des passagers (PLF) (link is external)](http://plf.gov.ro/login). Ce formulaire peut être complété soit maximum 24h avant votre arrivée ou au plus tard 24 heures après votre arrivée en Roumanie.
 
-Les voyageurs en provenance de Belgique (sauf exceptions mentionnées ci-après) sont soumis à l’obligation d’une période de quarantaine de 5 jours à leur arrivée en Roumanie.
-
-Des exceptions à l’obligation de quarantaine (à condition de ne présenter aucun symptôme de COVID-19) sont entre autres :
-
-*   Les voyageurs vaccinés contre le COVID-19 à partir du 10ème jour suivant la vaccination complète\* ;
-*   Les voyageurs qui peuvent présenter un certificat de rétablissement à leur arrivée en Roumanie, prouvant qu'ils sont rétablis de la COVID-19 depuis au moins 11 jours et au maximum depuis 180 jours\* ;
-*   Les voyageurs qui peuvent présenter un test PCR négatif effectué au maximum 72 heures avant leur embarquement pour la Roumanie (moyens de transport en commun), soit 72 heures avant leur entrée sur le territoire de la Roumanie (transport par propres moyens)\* ;
-*   Les enfants jusqu’à l’âge de 12 ans inclus, sans devoir présenter le résultat d’un test ;
-*   Les voyageurs en transit (séjour de max. 24 heures) ;
-*   Les élèves et étudiants qui se déplacent dans le cadre de leurs études (et leurs accompagnants si ces premiers sont mineurs) et qui peuvent présenter les documents idoines.
-*   Les chauffeurs de poids lourds pouvant présenter un test PCR négatif, effectué au maximum 72 heures avant leur départ pour la Roumanie\* ;
-*   Les membres des délégations sportives, ainsi que les artistes et leur staff, qui ne sont pas vaccinés, soit qui ne peuvent pas présenter un certificat de rétablissement à leur arrivée en Roumanie, prouvant qu'ils sont rétablis de la COVID-19 depuis au moins 11 jours et au maximum depuis 180 jours, mais qui présentent un test PCR négatif effectué au maximum 72 heures avant leur embarquement pour la Roumanie (moyens de transport en commun), soit 72 heures avant leur entrée sur le territoire de la Roumanie (transport par propres moyens) et qui vont uniquement participer aux compétitions sportives/évènements mentionnés.
-
-\***Attention** : À partir du 1er février 2022, le certificat COVID numérique de l'UE avec code QR sera accepté comme preuve valide de vaccination, de récupération ou de test négatif pour les voyageurs entrant sur le territoire roumain depuis un pays de l'UE. Pour les voyageurs en provenance de pays tiers, un certificat délivré par le pays tiers (sur papier ou électronique) est également accepté, à condition que la vaccination complète, la récupération (dans les 180 jours avant l'entrée sur le territoire roumain) ou un résultat de test PCR négatif (max. 72 heures avant l'embarquement/l'entrée sur le territoire) soit démontré et que le document soit rédigé en anglais en plus de la langue du pays d'origine. 
-
-Si ces exceptions ne s’appliquent pas à votre cas, vous devrez respecter l’obligation de quarantaine.
+Depuis le 9 mars, le certificat covid numérique de l'UE n’est plus requis aux points de passage de la frontière et la quarantaine n’est plus imposée aux personnes voyageant en Roumanie sans certificat covid numérique de l'UE.
 
 **2\. Mesures générales en vigueur en Roumanie**
 
-L'état d'alerte a été décrété en Roumanie. Vous pouvez trouver [toutes les mesures en vigueur ici(link is external) (link is external)](https://eur01.safelinks.protection.outlook.com/?url=https%3A%2F%2Ffiipregatit.ro%2Fghid%2Fcovid19-stare-de-alerta%2F&data=04%7C01%7Cmihaela.andrei%40diplobel.fed.be%7C3cc2904abd82428284a408d9be494ce2%7C80153b30e434429bb41c0d47f9deec42%7C0%7C0%7C637750044301986315%7CUnknown%7CTWFpbGZsb3d8eyJWIjoiMC4wLjAwMDAiLCJQIjoiV2luMzIiLCJBTiI6Ik1haWwiLCJXVCI6Mn0%3D%7C3000&sdata=q4JEkstu3MB7HNXpdr7ABjKZ77wA%2BxmXhr1SmQ%2FTdPA%3D&reserved=0) (en langue roumaine).
+Depuis le 9 mars 2022, l’état d’alerte n’est plus en vigueur en Roumanie.
 
-Les mesures suivantes sont en vigueur sur l’ensemble du territoire roumain :
+Les précautions suivantes demeurent toutefois fortement recommandées:
 
-*   Le **port du masque** est obligatoire dans tous les lieux publics, tant à l’intérieur qu’à l’extérieur, et dans les transports publics (sauf pour les enfants âgés de moins de 5 ans). Uniquement des masques de type médical ou FFP2 sont permis (pas de masques réutilisables en tissu).
-*   Les supermarchés, magasins, banques, cinémas, restaurants, cafés et terrasses, établissements publics, etc. sont **fermés** entre 22h et 5h. Exceptions : les pharmacies, les stations-service, les services de livraison à domicile, les sociétés de transport.
-*   Le **certificat covid numérique de l'UE** est presque partout de mise, sauf dans les magasins d'alimentation et des pharmacies, et ce de la manière suivante :
-    *   L’accès à tous les événements et activités, aux centres commerciaux, hôtels, restaurants et cafés, est autorisé uniquement pour les personnes vaccinées, les personnes qui sont rétablies de la maladie, les personnes testées négatives (test PCR de moins de 72h ou antigénique de moins de 48h) et les enfants âgés de moins de 12 ans, s’ils sont accompagnés d'un adulte qui a été vacciné ou qui est rétabli de la maladie.
-    *   L'accès des visiteurs (non-salariés) aux établissements publics, banques et immeubles de bureaux privés de plus de 50 salariés, est autorisé aux personnes vaccinées, aux personnes qui sont rétablies de la maladie, aux personnes testées négatives (test PCR de moins de 72h ou test antigénique de moins de 48h), et aux enfants âgés de moins de 12 ans, s’ils sont accompagnés d'un adulte qui a été vacciné ou qui est rétabli de la maladie. Exceptions : les personnes qui doivent obtenir d’urgence un document administratif en cas de maladie, suite à une naissance etc.
+*   Se laver ou se désinfecter les mains régulièrement et éviter les endroits bondés ;
+*   Le port du masque n’est plus obligatoire, mais recommandé (à l’extérieur, dans les lieux publics très fréquentés et à l’intérieur ainsi que dans les transports en commun, surtout pour les catégories de risque) ;
+*   Effectuer des tests pour les personnes présentant des symptômes ; l’isolement des personnes infectées est recommandé, même s’il ne sera plus contrôlé par les autorités.
+
+Le certificat covid numérique de l'UE n’est plus requis (institutions publiques, centres commerciaux, cafés et restaurants, salles de spectacle).
+
+Les restrictions concernant ls horaires d’ouverture des restaurants/cafés/magasins sont levées, ainsi que la limitation de l’accès des personnes en fonction de la capacité de ces lieux.
 
 [Source](https://diplomatie.belgium.be/fr/Services/voyager_a_letranger/conseils_par_destination/roumanie)
