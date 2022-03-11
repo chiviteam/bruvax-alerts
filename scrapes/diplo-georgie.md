@@ -1,7 +1,7 @@
 ### **Coronavirus COVID-19**
 
-*   **Les voyages non essentiels à l’étranger depuis la Belgique sont vivement déconseillés.**
-*   **Vous trouverez des informations sur les mesures à prendre lors du retour en Belgique sur le site [www.info-coronavirus.be/fr/voyages (link is external)](http://www.info-coronavirus.be/fr/voyages).**
+*   **Les voyages non essentiels** **depuis la Belgique vers les pays en dehors de l’Union européenne sont vivement déconseillés aux voyageurs non vaccinés.**
+*   **Vous trouverez des informations sur les mesures à prendre lors du retour en Belgique sur le site** **[info-coronavirus (link is external)](https://eur01.safelinks.protection.outlook.com/?url=http%3A%2F%2Fwww.info-coronavirus.be%2Ffr%2Fvoyages&data=04%7C01%7Chumeyra.solak%40diplobel.fed.be%7Ce7a0e4746bf747487a9208da033944ed%7C80153b30e434429bb41c0d47f9deec42%7C0%7C0%7C637825841743223143%7CUnknown%7CTWFpbGZsb3d8eyJWIjoiMC4wLjAwMDAiLCJQIjoiV2luMzIiLCJBTiI6Ik1haWwiLCJXVCI6Mn0%3D%7C3000&sdata=Opb7AifiGAQwmhYQe8SN661n%2BZQ2l8Y4y9mMs5PtJso%3D&reserved=0)****.** 
 
 Entrée sur le territoire (par voie aérienne, terrestre ou maritime):
 
