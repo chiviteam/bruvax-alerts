@@ -3,6 +3,8 @@ ENFANTS / ADOS
 
 ##### Vous pouvez nous contacter au 02 512 18 15 – 0470 470 133 de 12h à 20h ou toujours par email: [mail@terresneuves.be](mailto:mail@terresneuves.be)
 
+**Nouvelles inscriptions pour 2022-2023 à partir du samedi 11 juin à 14h.**
+
 ![](https://brusselsclimbing.be/wp-content/uploads/enfants007.jpg)
 
 *   Chargés de cours: Cécile, Wouter, Marc et Fred
@@ -149,15 +151,6 @@ Mais aussi, pour les plus téméraires: le fameux et impressionnant saut de pout
 Pour les enfants de 4 à 7 ans, les activités liées à la pratique de l’escalade (matin) sont combinées avec diverses activités d’arts plastiques ou autres (après-midi).
 
 Pour chaque stage, les thèmes varient (masques, Chine, jeux africains, cirque, théâtre d’ombres…).
-
-**Stage Février-Mars 2022** (Carnaval) escalade / arts plastiques **COMPLET**
------------------------------------------------------------------------------
-
-Le 28 février 1er et 2 mars 2022  
-de 9h à 16h  
-*Pour les enfants de 4 à 7 ans*  
-Minimum 8 participants  
-90€ encadrement et assurance inclus
 
 **Stage Avril 2022** (Pâques)  
 escalade / arts plastiques complet!!!
