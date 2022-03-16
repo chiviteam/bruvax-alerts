@@ -132,22 +132,4 @@ Le solde du montant d’inscription déjà acquitté sera remboursé.
 
 La désinscription commence à la **date** de cette écriture. 
 
-Praktisch
-=========
-
-WANNEER?
---------
-
-bla
-
-WAAR?
------
-
-bla
-
-OVERNACHTEN
------------
-
-bla
-
 [Source](https://www.circuszonderhanden.be/inschrijven)
