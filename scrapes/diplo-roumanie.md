@@ -5,9 +5,7 @@
 
 **1\. Voyager en Roumanie**
 
-Depuis le 20 décembre 2021, tous les voyageurs se rendant en Roumanie doivent compléter un [formulaire de localisation des passagers (PLF) (link is external)](http://plf.gov.ro/login). Ce formulaire peut être complété soit maximum 24h avant votre arrivée ou au plus tard 24 heures après votre arrivée en Roumanie.
-
-Depuis le 9 mars, le certificat covid numérique de l'UE n’est plus requis aux points de passage de la frontière et la quarantaine n’est plus imposée aux personnes voyageant en Roumanie sans certificat covid numérique de l'UE.
+Depuis le 9 mars, le certificat covid numérique de l'UE n’est plus requis aux points de passage de la frontière et la quarantaine n’est plus imposée aux personnes voyageant en Roumanie sans certificat covid numérique de l'UE. Depuis le 12 mars, il n'est également plus nécessaire de compléter un formulaire de localisation des passagers (PLF).
 
 **2\. Mesures générales en vigueur en Roumanie**
 
