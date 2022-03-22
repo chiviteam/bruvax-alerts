@@ -2,7 +2,7 @@
     
     31.03.2022, 20:00 Uhr / verschoben vom 03.09.2021 - Köln
     
-    Giora Feidman & Gitanes Blondes, Kölner Philharmonie 
+    Giora Feidman & Friends, Kölner Philharmonie 
     
     Tickets](https://www.eventim.de/noapp/event/giora-feidman-friends-koelner-philharmonie-12285310/?affiliate=GFA&utm_campaign=GFA&utm_medium=dp&utm_source=GFA)
 *   [
