@@ -163,14 +163,8 @@ Minimum 8 participants
 90€ encadrement et assurance inclus
 
 **Stage Août 2022**  
-escalade / arts plastiques
-------------------------------------------------
-
-Du 29 août au 31 août 2022  
-de 9h à 16h  
-*Pour les enfants de 4 à 7 ans*  
-Minimum 8 participants  
-90€ encadrement et assurance inclus
+**Ce stage est annulé (rentrée des classes avancée au lundi 29 août)**
+--------------------------------------------------------------------------------------------
 
 #### QUE FAUT-IL APPORTER ?
 
