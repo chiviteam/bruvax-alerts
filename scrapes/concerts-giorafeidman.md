@@ -89,7 +89,7 @@
     Tickets](https://www.eventim.de/noapp/event/giora-feidman-friendship-tour-2022-nikolaikirche-13926340/?affiliate=GFA&utm_campaign=GFA&utm_medium=dp&utm_source=GFA)
 *   [
     
-    21.06.2022, 20:00 Uhr / verschoben vom 29.12.2021 - Niebüll
+    21.06.2022, 20:00 Uhr - Niebüll / verschoben vom 29.12.2021
     
     Giora Feidman - Friendship Tour 2022
     
@@ -156,12 +156,14 @@
     
     27.06.2022, 20:00 Uhr - Köln / verschoben vom 31.03.2022
     
-    Giora Feidman & Gitanes Blondes, Kölner Philharmonie 
+    Giora Feidman & Gitanes Blondes
+    
+    Kölner Philharmonie 
     
     Tickets](https://www.eventim.de/noapp/event/giora-feidman-friends-koelner-philharmonie-12285310/?affiliate=GFA&utm_campaign=GFA&utm_medium=dp&utm_source=GFA)
 *   [
     
-    31.07.2022, 19.00 Uhr - Tutzing / vershcoben vom 10.04.2022
+    31.07.2022, 19.00 Uhr - Tutzing / verschoben vom 10.04.2022
     
     Giora Feidman - Friendship Tour 2022
     
@@ -174,7 +176,7 @@
     Tickets](https://www.eventim.de/noapp/event/giora-feidman-friendship-tour-2022-kirche-st-joseph-14971148/?affiliate=GFA&utm_campaign=GFA&utm_medium=dp&utm_source=GFA)
 *   [
     
-    21.09.2022, 20:00 Uhr / verschoben vom 01.02.2022 - München
+    21.09.2022, 20:00 Uhr - München / verschoben vom 01.02.2022
     
     Giora Feidman & Klezmer Virtuos
     
@@ -249,7 +251,7 @@
     
     Apostelkirche, Hannover
     
-    TICKETS](https://www.eventim.de/noapp/event/giora-feidman-friendship-tour-2022-apostelkirche-14998870/?affiliate=GFA&utm_campaign=GFA&utm_medium=dp&utm_source=GFA)
+    Tickets](https://www.eventim.de/noapp/event/giora-feidman-friendship-tour-2022-apostelkirche-14998870/?affiliate=GFA&utm_campaign=GFA&utm_medium=dp&utm_source=GFA)
 *   03.12.2022, 20:00 Uhr - Hannover / verschoben vom 03.04.2022 / AUSVERKAUFT
     
     Giora Feidman - Friendship Tour 2022
