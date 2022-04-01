@@ -89,6 +89,19 @@
     Tickets](https://www.eventim.de/noapp/event/giora-feidman-friendship-tour-2022-nikolaikirche-13926340/?affiliate=GFA&utm_campaign=GFA&utm_medium=dp&utm_source=GFA)
 *   [
     
+    09.06.2022, 19:00 Uhr - Berlin
+    
+    Giora Feidman - Friendship Tour 2022
+    
+    75-jähriges Bühnenjubiläum
+    
+    Mit Sergej Tcherepanov (Piano)
+    
+    Stadthalle Niebüll
+    
+    TICKETS](https://www.eventim.de/noapp/event/giora-feidman-friendship-tour-2022-juedisches-museum-berlin-15042795/?affiliate=GFA&utm_campaign=GFA&utm_medium=dp&utm_source=GFA)
+*   [
+    
     21.06.2022, 20:00 Uhr - Niebüll / verschoben vom 29.12.2021
     
     Giora Feidman - Friendship Tour 2022
