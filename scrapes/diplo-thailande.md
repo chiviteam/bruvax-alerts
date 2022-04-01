@@ -5,21 +5,19 @@
 
 **Voyager vers la Thaïlande**
 
-Dans le cadre de la lutte contre le COVID-19, l’état d’urgence demeure en vigueur en Thaïlande au moins jusqu’au 31 mars 2022.
+Dans le cadre de la lutte contre le COVID-19, l’état d’urgence demeure en vigueur en Thaïlande au moins jusqu’au 31 mai 2022.
 
 Les voyageurs belges peuvent entrer dans le pays pour un maximum de 30 jours sans obtenir de visa au préalable à l’ambassade de Thaïlande en Belgique.
 
-Les voyageurs doivent introduire une demande de [Thailand Pass (link is external)](https://tp.consular.go.th/) en ligne et à partir de l’âge de 6 ans ils doivent être munis d’une attestation prouvant un test PCR COVID-19 effectué moins de 72 heures avant le voyage.
+Les voyageurs doivent introduire une demande de [Thailand Pass (link is external)](https://tp.consular.go.th/). 
 
-Tous les voyageurs doivent être munis d’une assurance maladie avec une couverture explicite de 20.000 USD au minimum. Les voyageurs souhaitant entrer en Thaïlande peuvent le faire selon trois modalités :
+Tous les voyageurs – même en transit - doivent être munis d’une assurance maladie avec une couverture explicite de 20.000 USD au minimum. Les voyageurs souhaitant entrer en Thaïlande peuvent le faire selon trois modalités :
 
-*   **Test & Go** : À partir du 1er mars 2022, les voyageurs vaccinés vers la Thaïlande via le programme Test & Go devront passer le 1ier jour dans un hôtel certifié prévu à cet effet et devront se soumettre à un test PCR. Il est interdit aux voyageurs de sortir de leur chambre avant avoir obtenu le résultat du test. Le cinquième jour, les voyageurs doivent réaliser un autotest antigénique.
-*   **Sandbox** : Le voyageur vacciné peut entrer en Thaïlande via la formule « Sandbox » qui permet au voyageur – à condition d’être totalement vaccinés 14 jours avant le voyage et de disposer d’une réservation d’hôtel pour 7 nuits dans les hôtels prévus à cet effet – de rester dans la zone désignée par la Sandbox choisie pendant 7 jours, avant de poursuivre son voyage. À partir du 1er février 2022, la formule Sandbox inclut Phuket, Krabi, Phang-Nga, Koh Samui, Koh Pha-ngan, Koh Tao, Bang Lamung, Pattaya, Si Racha, Si Chang, Na Jomtien, Bang Saray et Koh Chang. Le voyageur devra s’y soumettre à un test PCR le premier jour et un autotest le 5ème ou le 6ème  jour.  
-*   **Alternative Quarantine** : Les voyageurs non vaccinés seront soumis à une quarantaine de 10 jours. Les voyageurs vaccinés seront soumis à une quarantaine de 7 jours.  Ils seront également soumis à 2 tests supplémentaires pendant leur période de quarantaine.
+*   **Test & Go** : À partir du 1er mars 2022, les voyageurs vaccinés ou avec un certificat de recouvrement (entre 14 jours et 3 mois après le test) vers la Thaïlande via le programme Test & Go devront passer le 1ier jour dans un hôtel certifié prévu à cet effet et devront se soumettre à un test PCR. Il est interdit aux voyageurs de sortir de leur chambre avant avoir obtenu le résultat du test. Le cinquième jour, les voyageurs doivent réaliser un autotest antigénique.
+*   **Sandbox** : Le voyageur vacciné peut entrer en Thaïlande via la formule « Sandbox » qui permet au voyageur – à condition d’être totalement vaccinés 14 jours avant le voyage et de disposer d’une réservation d’hôtel pour 5 nuits dans les hôtels prévus à cet effet et de rester dans la zone désignée par la Sandbox choisie pendant 5 jours, avant de poursuivre son voyage. À partir du 1er février 2022, la formule Sandbox inclut Phuket, Krabi, Phang-Nga, Koh Samui, Koh Pha-ngan, Koh Tao, Bang Lamung, Pattaya, Si Racha, Si Chang, Na Jomtien, Bang Saray et Koh Chang. Le voyageur devra s’y soumettre à un test PCR le premier jour et un autotest le 5ème  jour.  
+*   **Alternative Quarantine** : Les voyageurs non vaccinés seront soumis à une quarantaine de 5 jours. Ils seront soumis à un test PCR le 5ème jour.
 
-Il est important de noter que si un des tests PCR effectués sur place se révélait positif, le voyageur sera obligatoirement hospitalisé ou transféré vers un hôtel de quarantaine à ses frais pendant au moins dix jours. S’il s’avère que pendant le voyage, le voyageur était assis directement à côté d’une personne contaminée, il sera également mis en isolation ou hospitalisé à ses frais pendant dix jours.
-
-Il est à nouveau possible de faire escale (max. 24h) à Bangkok (BKK).
+Il est important de noter que si un des tests PCR effectués sur place se révélait positif, le voyageur sera obligatoirement hospitalisé ou transféré vers un hôtel de quarantaine à ses frais pendant au moins dix jours.
 
 Pour plus d’information, veuillez consulter [le site de l’ambassade de Thaïlande à Bruxelles (link is external)](https://www.thaiembassy.be/2020/07/09/application-for-certificate-of-entry-for-non-thai-nationals/?lang=en).
 
