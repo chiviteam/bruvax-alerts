@@ -97,9 +97,9 @@
     
     Mit Sergej Tcherepanov (Piano)
     
-    Stadthalle Niebüll
+    Jüdisches Museum Berlin
     
-    TICKETS](https://www.eventim.de/noapp/event/giora-feidman-friendship-tour-2022-juedisches-museum-berlin-15042795/?affiliate=GFA&utm_campaign=GFA&utm_medium=dp&utm_source=GFA)
+    Tickets](https://www.eventim.de/noapp/event/giora-feidman-friendship-tour-2022-juedisches-museum-berlin-15042795/?affiliate=GFA&utm_campaign=GFA&utm_medium=dp&utm_source=GFA)
 *   [
     
     21.06.2022, 20:00 Uhr - Niebüll / verschoben vom 29.12.2021
