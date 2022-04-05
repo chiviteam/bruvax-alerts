@@ -1,7 +1,7 @@
 ENFANTS / ADOS
 ==============
 
-##### Vous pouvez nous contacter au 02 512 18 15 – 0470 470 133 de 12h à 20h ou toujours par email: [mail@terresneuves.be](mailto:mail@terresneuves.be)
+##### Vous pouvez nous contacter au 02 512 18 15 de 12h à 20h ou toujours par email: [mail@terresneuves.be](mailto:mail@terresneuves.be)
 
 **Nouvelles inscriptions pour 2022-2023 à partir du samedi 11 juin à 14h.**
 
@@ -11,7 +11,7 @@ ENFANTS / ADOS
 *   Durée des cours : 1h30 (1h15 pour les petits du mercredi) – 31 à 34 cours par an.
 *   Tous les jeunes inscrits aux cours bénéficient d’une réduction de 50% sur le tarif de l’entrée et des abonnements à la salle en dehors des cours.
 *   Contactez-nous pour plus d’info: **[**mail@terresneuves.be**](mailto:mail@terresneuves.be)**
-*   **02 512 18 15** – **0470 470 133**
+*   **02 512 18 15**
 *   Evasions Verticales asbl  **BE21 0682 0456 0903**
 
 #### HORAIRES 2021-2022
@@ -179,7 +179,7 @@ Minimum 8 participants
 #### INSCRIPTIONS, COMMENT FAIRE?
 
 *   Toujours nous contacter avant votre inscription afin de vérifier les places encore disponibles:
-*   02 512 18 15 – 0470 470 133
+*   02 512 18 15
 *   Ensuite nous envoyer un e-mail **[**mail@terresneuves.be**](mailto:mail@terresneuves.be)** : avec *nom, prénom , date de naissance de votre enfant et votre numéro de téléphone*. Spécifier la date du stage demandé.
 *   Pour clôturer votre réservation : faire un versement du total du stage ou du cours choisi. Seul la réception du montant fera office de réservation : **Evasions Verticales asbl : BE21 0682 0456 0903**. Merci
 
