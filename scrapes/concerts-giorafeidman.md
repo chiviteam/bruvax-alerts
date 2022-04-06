@@ -1,18 +1,5 @@
 *   [
     
-    01.04.2022, 20:00 Uhr - Greifswald / verschoben vom 30.01.2022 / ABGESAGT
-    
-    Giora Feidman - Friendship Tour 2022
-    
-    75-jähriges Bühnenjubiläum
-    
-    Mit dem Rastrelli Cello Quartett
-    
-    St. Jacobi, Greifswald
-    
-    Tickets](https://www.giorafeidman-online.com/termine)
-*   [
-    
     06.04.2022, 19:30 Uhr - Salzwedel / wird verschoben, Termin folgt
     
     Giora Feidman - Friendship Tour 2022
