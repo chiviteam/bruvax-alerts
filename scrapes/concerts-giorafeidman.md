@@ -241,6 +241,19 @@
     Tickets](https://www.eventim.de/noapp/event/giora-feidman-friendship-tour-2022-pauluskirche-zu-buxtehude-15151247/?affiliate=GFA&utm_campaign=GFA&utm_medium=dp&utm_source=GFA)
 *   [
     
+    10.09.2022, 20:00 Uhr - Worpswede
+    
+    Giora Feidman - Friendship Tour 2022
+    
+    75-jähriges Bühnenjubiläum
+    
+    Begleitet von Klezmer Virtuos
+    
+    Music Hall Worpswede
+    
+    Tickets](https://www.eventim.de/noapp/event/giora-feidman-friendship-tour-2022-music-hall-14991900/?affiliate=GFA&utm_campaign=GFA&utm_medium=dp&utm_source=GFA)
+*   [
+    
     11.09.2022, 18:00 Uhr - Schortens
     
     Giora Feidman - Friendship Tour 2022

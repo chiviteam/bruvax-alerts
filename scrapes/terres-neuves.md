@@ -152,16 +152,6 @@ Pour les enfants de 4 à 7 ans, les activités liées à la pratique de l’esca
 
 Pour chaque stage, les thèmes varient (masques, Chine, jeux africains, cirque, théâtre d’ombres…).
 
-**Stage Avril 2022** (Pâques)  
-escalade / arts plastiques complet!!!
----------------------------------------------------------------------
-
-Du 4 avril au 6 avril 2022  
-de 9h à 16h  
-*Pour les enfants de 6 à 10 ans*  
-Minimum 8 participants  
-90€ encadrement et assurance inclus
-
 **Stage Août 2022**  
 **Ce stage est annulé (rentrée des classes avancée au lundi 29 août)**
 --------------------------------------------------------------------------------------------
