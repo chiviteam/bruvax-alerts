@@ -176,6 +176,149 @@
     Tickets](https://www.eventim.de/noapp/event/giora-feidman-friendship-tour-2022-kirche-st-joseph-14971148/?affiliate=GFA&utm_campaign=GFA&utm_medium=dp&utm_source=GFA)
 *   [
     
+    04.09.2022, 19:00 Uhr - Norderstedt
+    
+    Giora Feidman - Friendship Tour 2022
+    
+    75-jähriges Bühnenjubiläum
+    
+    Begleitet von Klezmer Virtuos
+    
+    Ev. Luth. Johanneskirche Norderstedt
+    
+    Tickets](https://www.eventim.de/noapp/event/giora-feidman-friendship-tour-2022-ev-luth-johannes-kirche-15151226/?affiliate=GFA&utm_campaign=GFA&utm_medium=dp&utm_source=GFA)
+*   [
+    
+    05.09.2022, 20:00 Uhr - Itzehoe
+    
+    Giora Feidman - Friendship Tour 2022
+    
+    75-jähriges Bühnenjubiläum
+    
+    Begleitet von Klezmer Virtuos
+    
+    St. Laurentii Itzehoe
+    
+    Tickets](https://www.eventim.de/noapp/event/giora-feidman-friendship-tour-2022-st-laurentii-kirche-zu-itzehoe-15151234/?affiliate=GFA&utm_campaign=GFA&utm_medium=dp&utm_source=GFA)
+*   [
+    
+    06.09.2022, 20.00 Uhr - Flensburg
+    
+    Giora Feidman - Friendship Tour 2022
+    
+    75-jähriges Bühnenjubiläum
+    
+    Begleitet von Klezmer Virtuos
+    
+    St. Marienkirche
+    
+    Tickets](https://www.eventim.de/noapp/event/giora-feidman-friendship-tour-2022-st-marien-kirche-zu-flensburg-15151235/?affiliate=GFA&utm_campaign=GFA&utm_medium=dp&utm_source=GFA)
+*   [
+    
+    07.09.2022, 20:00 Uhr - Winsen (Luhe)
+    
+    Giora Feidman - Friendship Tour 2022
+    
+    75-jähriges Bühnenjubiläum
+    
+    Begleitet von Klezmer Virtuos
+    
+    St. Marienkirche Winsen (Luhe)
+    
+    Tickets](https://www.eventim.de/noapp/event/giora-feidman-friendship-tour-2022-st-marien-kirche-15151244/?affiliate=GFA&utm_campaign=GFA&utm_medium=dp&utm_source=GFA)
+*   [
+    
+    08.09.2022, 20:00 Uhr - Buxtehude
+    
+    Giora Feidman - Friendship Tour 2022
+    
+    75-jähriges Bühnenjubiläum
+    
+    Begleitet von Klezmer Virtuos
+    
+    St. Paulus Kirche Buxtehude
+    
+    Tickets](https://www.eventim.de/noapp/event/giora-feidman-friendship-tour-2022-pauluskirche-zu-buxtehude-15151247/?affiliate=GFA&utm_campaign=GFA&utm_medium=dp&utm_source=GFA)
+*   [
+    
+    11.09.2022, 18:00 Uhr - Schortens
+    
+    Giora Feidman - Friendship Tour 2022
+    
+    75-jähriges Bühnenjubiläum
+    
+    Begleitet von Klezmer Virtuos
+    
+    Bürgerhaus Schortens
+    
+    Tickets](https://www.eventim.de/noapp/event/giora-feidman-friendship-tour-2022-pauluskirche-zu-buxtehude-15151247/?affiliate=GFA&utm_campaign=GFA&utm_medium=dp&utm_source=GFA)
+*   [
+    
+    13.09.2022, 20:00 Uhr- Minden
+    
+    Giora Feidman - Friendship Tour 2022
+    
+    75-jähriges Bühnenjubiläum
+    
+    Begleitet von Klezmer Virtuos
+    
+    Marienkirche Minden
+    
+    Tickets](https://www.eventim.de/noapp/event/giora-feidman-friendship-tour-2022-st-marienkirche-minden-15151249/?affiliate=GFA&utm_campaign=GFA&utm_medium=dp&utm_source=GFA)
+*   [
+    
+    14.09.2022, 20.00 Uhr - Celle
+    
+    Giora Feidman - Friendship Tour 2022
+    
+    75-jähriges Bühnenjubiläum
+    
+    Begleitet von Klezmer Virtuos
+    
+    Kreuzkirche Celle
+    
+    Tickets](https://www.eventim.de/noapp/event/giora-feidman-friendship-tour-2022-kreuzkirche-15151252/?affiliate=GFA&utm_campaign=GFA&utm_medium=dp&utm_source=GFA)
+*   [
+    
+    15.09.2022, 20.00 Uhr - Emden
+    
+    Giora Feidman - Friendship Tour 2022
+    
+    75-jähriges Bühnenjubiläum
+    
+    Begleitet von Klezmer Virtuos
+    
+    Martin-Luther-Kirche Emden
+    
+    Tickets](https://www.giorafeidman-online.com/termine)
+*   [
+    
+    16.09.2022, 20.00 Uhr - Rhauderfehn
+    
+    Giora Feidman - Friendship Tour 2022
+    
+    75-jähriges Bühnenjubiläum
+    
+    Begleitet von Klezmer Virtuos
+    
+    Hoffnungskirche Westrhauderfehn
+    
+    Tickets](https://www.eventim.de/noapp/event/giora-feidman-friendship-tour-2022-hoffnungskirche-15151261/?affiliate=GFA&utm_campaign=GFA&utm_medium=dp&utm_source=GFA)
+*   [
+    
+    18.09.2022, 20.00 Uhr - Bocholt
+    
+    Giora Feidman - Friendship Tour 2022
+    
+    75-jähriges Bühnenjubiläum
+    
+    Begleitet von Klezmer Virtuos
+    
+    Christuskirche Bocholt
+    
+    Tickets](https://www.eventim.de/noapp/event/giora-feidman-friendship-tour-2022-ev-christuskirche-bocholt-15151262/?affiliate=GFA&utm_campaign=GFA&utm_medium=dp&utm_source=GFA)
+*   [
+    
     21.09.2022, 20:00 Uhr - München / verschoben vom 01.02.2022
     
     Giora Feidman & Klezmer Virtuos
