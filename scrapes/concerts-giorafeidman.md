@@ -163,6 +163,19 @@
     Tickets](https://www.eventim.de/noapp/event/giora-feidman-friends-koelner-philharmonie-12285310/?affiliate=GFA&utm_campaign=GFA&utm_medium=dp&utm_source=GFA)
 *   [
     
+    02.07.2022, 20:00 Uhr - Hamburg-Barmbek
+    
+    Giora Feidman - Friendship Tour 2022
+    
+    75-jähriges Bühnenjubiläum
+    
+    Mit Sergej Tcherepanov (Orgel)
+    
+    Auferstehungskirche Barmbek-Nord, Hamburg
+    
+    Tickets](https://www.giorafeidman-online.com/termine)
+*   [
+    
     31.07.2022, 19.00 Uhr - Tutzing / verschoben vom 10.04.2022
     
     Giora Feidman - Friendship Tour 2022
