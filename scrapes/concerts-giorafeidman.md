@@ -316,7 +316,7 @@
     
     Martin-Luther-Kirche Emden
     
-    Tickets](https://www.giorafeidman-online.com/termine)
+    Tickets](https://www.eventim.de/noapp/event/giora-feidman-friendship-tour-2022-martin-luther-kirche-emden-15151259/?affiliate=GFA&utm_campaign=GFA&utm_medium=dp&utm_source=GFA)
 *   [
     
     16.09.2022, 20.00 Uhr - Rhauderfehn
