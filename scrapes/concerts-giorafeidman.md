@@ -319,6 +319,19 @@
     Tickets](https://www.eventim.de/noapp/event/giora-feidman-friendship-tour-2022-hoffnungskirche-15151261/?affiliate=GFA&utm_campaign=GFA&utm_medium=dp&utm_source=GFA)
 *   [
     
+    17.09.2022, 20:00 Uhr - Diepholz
+    
+    Giora Feidman - Friendship Tour 2022
+    
+    75-jähriges Bühnenjubiläum
+    
+    Begleitet von Klezmer Virtuos
+    
+    St. Michaelis Diepholz
+    
+    Tickets](https://www.eventim.de/noapp/event/giora-feidman-friendship-tour-2022-st-michaelis-kirche-15235674/?affiliate=GFA&utm_campaign=GFA&utm_medium=dp&utm_source=GFA)
+*   [
+    
     18.09.2022, 20.00 Uhr - Bocholt
     
     Giora Feidman - Friendship Tour 2022
