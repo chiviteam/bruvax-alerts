@@ -345,6 +345,19 @@
     Tickets](https://www.eventim.de/noapp/event/giora-feidman-friendship-tour-2022-ev-christuskirche-bocholt-15151262/?affiliate=GFA&utm_campaign=GFA&utm_medium=dp&utm_source=GFA)
 *   [
     
+    19.09.2022, 20:00 Uhr - Rheinbach
+    
+    Giora Feidman - Friendship Tour 2022
+    
+    75-jähriges Bühnenjubiläum
+    
+    Begleitet von Klezmer Virtuos
+    
+    Stadttheater Rheinbach
+    
+    Tickets](https://www.eventim.de/noapp/event/giora-feidman-friendship-tour-2022-stadttheater-rheinbach-15257443/?affiliate=GFA&utm_campaign=GFA&utm_medium=dp&utm_source=GFA)
+*   [
+    
     21.09.2022, 20:00 Uhr - München / verschoben vom 01.02.2022
     
     Giora Feidman & Klezmer Virtuos
