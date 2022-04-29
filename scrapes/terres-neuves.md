@@ -152,10 +152,6 @@ Pour les enfants de 4 à 7 ans, les activités liées à la pratique de l’esca
 
 Pour chaque stage, les thèmes varient (masques, Chine, jeux africains, cirque, théâtre d’ombres…).
 
-**Stage Août 2022**  
-**Ce stage est annulé (rentrée des classes avancée au lundi 29 août)**
---------------------------------------------------------------------------------------------
-
 #### QUE FAUT-IL APPORTER ?
 
 *   une tenue de sport : short ou collant
