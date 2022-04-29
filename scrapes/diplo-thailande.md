@@ -11,17 +11,20 @@ Les voyageurs belges peuvent entrer dans le pays pour un maximum de 30 jours san
 
 Les voyageurs doivent introduire une demande de [Thailand Pass (link is external)](https://tp.consular.go.th/). 
 
-Tous les voyageurs – même en transit - doivent être munis d’une assurance maladie avec une couverture explicite de 20.000 USD au minimum. Les voyageurs souhaitant entrer en Thaïlande peuvent le faire selon trois modalités :
+Tous les voyageurs – même en transit - doivent être munis d’une assurance maladie avec une couverture explicite de 10.000 USD au minimum.
 
-*   **Test & Go** : À partir du 1er mars 2022, les voyageurs vaccinés ou avec un certificat de recouvrement (entre 14 jours et 3 mois après le test) vers la Thaïlande via le programme Test & Go devront passer le 1ier jour dans un hôtel certifié prévu à cet effet et devront se soumettre à un test PCR. Il est interdit aux voyageurs de sortir de leur chambre avant avoir obtenu le résultat du test. Le cinquième jour, les voyageurs doivent réaliser un autotest antigénique.
-*   **Sandbox** : Le voyageur vacciné peut entrer en Thaïlande via la formule « Sandbox » qui permet au voyageur – à condition d’être totalement vaccinés 14 jours avant le voyage et de disposer d’une réservation d’hôtel pour 5 nuits dans les hôtels prévus à cet effet et de rester dans la zone désignée par la Sandbox choisie pendant 5 jours, avant de poursuivre son voyage. À partir du 1er février 2022, la formule Sandbox inclut Phuket, Krabi, Phang-Nga, Koh Samui, Koh Pha-ngan, Koh Tao, Bang Lamung, Pattaya, Si Racha, Si Chang, Na Jomtien, Bang Saray et Koh Chang. Le voyageur devra s’y soumettre à un test PCR le premier jour et un autotest le 5ème  jour.  
-*   **Alternative Quarantine** : Les voyageurs non vaccinés seront soumis à une quarantaine de 5 jours. Ils seront soumis à un test PCR le 5ème jour.
+À partir du 1er mai 2022, les voyageurs vaccinés sont exemptés de quarantaine et des mesures de test. Il faut seulement un passeport, un certificat de vaccination et une preuve d’assurance maladie afin d’enregistrer une demande de Thailand Pass.
+
+Les voyageurs non vaccinés ont deux options à partir du 1er mai 2022 :
+
+*   Demande de Thailand Pass avec passeport, preuve d’assurance maladie et un résultat négatif de test PCR, exécuté dans les 72 heures avant le voyage : pas de quarantaine, ni de test à l’arrivée.
+*   Demande de Thailand Pass sans test PCR préalable : passeport, preuve d’assurance maladie et une preuve de réservation de 5 jours de quarantaine dans un hôtel certifié (Alternative Quarantine). Les voyageurs seront soumis à un test PCR le 4ème ou le 5ème jour. Les voyageurs qui se sont récemment remis du Covid-19 (entre 14 jours et 3 mois avant le départ) doivent présenter un certificat de rétablissement.
 
 Il est important de noter que si un des tests PCR effectués sur place se révélait positif, le voyageur sera obligatoirement hospitalisé ou transféré vers un hôtel de quarantaine à ses frais pendant au moins dix jours.
 
 Pour plus d’information, veuillez consulter [le site de l’ambassade de Thaïlande à Bruxelles (link is external)](https://www.thaiembassy.be/2020/07/09/application-for-certificate-of-entry-for-non-thai-nationals/?lang=en).
 
-La Thaïlande se trouve en zone rouge. Lors d’un retour en Belgique en provenance de la Thaïlande, des conditions plus strictes sont dès lors d’application, à consulter sur [https://www.info-coronavirus.be/fr (link is external)](https://www.info-coronavirus.be/fr/).
+La Thaïlande se trouve en zone rouge foncé. Lors d’un retour en Belgique en provenance de la Thaïlande, des conditions plus strictes sont dès lors d’application, à consulter sur [https://www.info-coronavirus.be/fr (link is external)](https://www.info-coronavirus.be/fr/).
 
 Les compagnies aériennes peuvent toujours appliquer des conditions supplémentaires, liées notamment au pays de transit, qu’il convient de vérifier avec elles.
 
@@ -36,7 +39,7 @@ Toute forme de critiques – surtout si elles sont exprimées sur les médias so
 Pour suivre l'évolution de la situation, il vous est recommandé de :
 
 *   vous référer aux mises à jour régulières sur le [site web](https://thailand.diplomatie.belgium.be/fr) et la page Facebook de notre ambassade à Bangkok ;
-*   consulter le [site web de la Tourism Authority of Thailand (link is external)](https://www.tatnews.org/category/thailand-tourism-updates/%C2%A0) ;
-*   consulter le [site du département thaïlandais du contrôle des maladies (link is external)](https://ddc.moph.go.th/viralpneumonia/eng/index.php) (mise à jour quotidienne des chiffres coronavirus).  
+*   consulter le [site web de la Tourism Authority of Thailand (link is external)](https://www.tatnews.org/) ;
+*   consulter [les rapports de l’Organisation Mondial de la Santé sur la situation en Thaïlande (link is external)](https://www.who.int/thailand/emergencies/novel-coronavirus-2019/situation-reports).
 
 [Source](https://diplomatie.belgium.be/fr/Services/voyager_a_letranger/conseils_par_destination/thailande)
