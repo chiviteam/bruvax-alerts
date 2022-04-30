@@ -3,7 +3,7 @@ ENFANTS / ADOS
 
 ##### Vous pouvez nous contacter au 02 512 18 15 de 12h à 20h ou toujours par email: [mail@terresneuves.be](mailto:mail@terresneuves.be)
 
-**Nouvelles inscriptions pour 2022-2023 à partir du samedi 11 juin à 14h.**
+**Nouvelles inscriptions pour 2022-2023 à partir du samedi 04 juin à 14h.**
 
 ![](https://brusselsclimbing.be/wp-content/uploads/enfants007.jpg)
 
@@ -105,7 +105,7 @@ juin’ 22
 
 3 – 10 – 17 – 24
 
-4 – 11 – 18 – 25
+Nouvelles inscriptions 4 – 11 – 18 – 25
 
 #### TARIFS:
 
