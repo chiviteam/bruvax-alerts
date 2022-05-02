@@ -1,18 +1,5 @@
 *   [
     
-    06.04.2022, 19:30 Uhr - Salzwedel / wird verschoben, Termin folgt
-    
-    Giora Feidman - Friendship Tour 2022
-    
-    75-jähriges Bühnenjubiläum
-    
-    Mit dem Rastrelli Cello Quartett
-    
-    Kulturhaus Salzwedel
-    
-    Tickets](https://www.eventim.de/noapp/event/giora-feidman-rastrelli-cello-quartett-kulturhaus-salzwedel-12439693/?affiliate=GFA&utm_campaign=GFA&utm_medium=dp&utm_source=GFA)
-*   [
-    
     20.05.2022, 20:00 Uhr - Aschaffenburg / verschoben vom 21.01.2022
     
     Giora Feidman - Friendship Tour 2022
@@ -47,7 +34,13 @@
     
     Mit dem Rastrelli Cello Quartett
     
-    Ev. Ref. Kirche Gildehaus, Bad Bentheim
+    Forum Burggymnasium, Bad Bentheim
+    
+      
+    
+    **ACHTUNG:** Änderung der Venue. 
+    
+    Das Konzert findet jetzt im **Forum Burggymnasium** in Bad Bentheim statt. Tickets behalten ihre Gültigkeit.
     
     Tickets](https://www.eventim.de/noapp/event/giora-feidman-friendship-tour-2022-ev-ref-kirchengemeinde-gildehaus-13215962/?affiliate=GFA&utm_campaign=GFA&utm_medium=dp&utm_source=GFA)
 *   23.05.2022, 20:00 Uhr - Schwerin / verschoben vom 14.01.2022
@@ -161,6 +154,19 @@
     Kölner Philharmonie 
     
     Tickets](https://www.eventim.de/noapp/event/giora-feidman-friends-koelner-philharmonie-12285310/?affiliate=GFA&utm_campaign=GFA&utm_medium=dp&utm_source=GFA)
+*   [
+    
+    29.06.2022, 19:30 Uhr - Salzwedel / verschoben vom 06.04.2022
+    
+    Giora Feidman - Friendship Tour 2022
+    
+    75-jähriges Bühnenjubiläum
+    
+    Mit Sergej Tcherepanov (Piano)
+    
+    Kulturhaus Salzwedel
+    
+    Tickets](https://www.eventim.de/noapp/event/giora-feidman-rastrelli-cello-quartett-kulturhaus-salzwedel-12439693/?affiliate=GFA&utm_campaign=GFA&utm_medium=dp&utm_source=GFA)
 *   [
     
     31.07.2022, 19.00 Uhr - Tutzing / verschoben vom 10.04.2022
@@ -358,11 +364,26 @@
     Tickets](https://www.eventim.de/noapp/event/giora-feidman-friendship-tour-2022-stadttheater-rheinbach-15257443/?affiliate=GFA&utm_campaign=GFA&utm_medium=dp&utm_source=GFA)
 *   [
     
+    20.09.2022, 20:00 Uhr - Wachenheim
+    
+    Giora Feidman - Friendship Tour 2022
+    
+    75-jähriges Bühnenjubiläum
+    
+    Begleitet von Klezmer Virtuos
+    
+    Prot. Georgskirche Wachenheim
+    
+    Tickets](https://www.eventim.de/noapp/event/giora-feidman-friendship-tour-2022-prot-georgskirche-15264344/?affiliate=GFA&utm_campaign=GFA&utm_medium=dp&utm_source=GFA)
+*   [
+    
     21.09.2022, 20:00 Uhr - München / verschoben vom 01.02.2022
     
-    Giora Feidman & Klezmer Virtuos
+    Giora Feidman - Friendship Tour 2022
     
-    „Happy Birthday, Giora Feidman - TOUR 85“ 
+    75-jähriges Bühnenjubiläum
+    
+    Begleitet von Klezmer Virtuos
     
     Prinzregententheater München
     
