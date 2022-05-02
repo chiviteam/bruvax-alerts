@@ -6,7 +6,7 @@
     
     75-jähriges Bühnenjubiläum
     
-    Mit dem Rastrelli Cello Quartett
+    Mit Sergej Tcherepanov (Piano)
     
     Christuskirche, Aschaffenburg
     
@@ -19,7 +19,7 @@
     
     75-jähriges Bühnenjubiläum
     
-    Mit dem Rastrelli Cello Quartett
+    Mit Sergej Tcherepanov (Orgel)
     
     Elisabethkirche, Marburg
     
@@ -32,7 +32,7 @@
     
     75-jähriges Bühnenjubiläum
     
-    Mit dem Rastrelli Cello Quartett
+    Mit Sergej Tcherepanov (Piano)
     
     Forum Burggymnasium, Bad Bentheim
     
@@ -49,7 +49,7 @@
     
     75-jähriges Bühnenjubiläum
     
-    Mit dem Rastrelli Cello Quartett
+    Mit Sergej Tcherepanov (Orgel)
     
     St. Nikolai, Schwerin
     
@@ -62,7 +62,7 @@
     
     75-jähriges Bühnenjubiläum
     
-    Mit dem Rastrelli Cello Quartett
+    Mit Sergej Tcherepanov (Piano)
     
     Nikolaikirche, Rostock
     
