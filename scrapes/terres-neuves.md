@@ -175,4 +175,6 @@ Pour chaque stage, les thèmes varient (masques, Chine, jeux africains, cirque, 
 
 ![](https://terresneuves.be/wp-content/uploads/present-2-cecile-domi_Page_2-724x1024.jpg)
 
+![](https://terresneuves.be/wp-content/uploads/stage-aout-light--724x1024.jpg)
+
 [Source](https://terresneuves.be/enfants/)
