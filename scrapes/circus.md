@@ -1,3 +1,10 @@
+Geen inschrijvingen meer dit schooljaar
+=======================================
+
+De informatie op deze pagina gaat over dit schooljaar 2021-2022. Voor dit schooljaar kan je niet meer inschrijven in onze lessen.
+
+**Wij werken intussen aan het lessenrooster voor volgend schooljaar 2022-2023. Wanneer dat klaar is, kan je het hier terug vinden.**
+
 Inschrijvingen lesjaar 2021-2022
 ================================
 
