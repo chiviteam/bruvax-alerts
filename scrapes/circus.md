@@ -5,7 +5,7 @@ De informatie op deze pagina gaat over dit schooljaar 2021-2022. Voor dit school
 
 **Wij werken intussen aan het lessenrooster voor volgend schooljaar 2022-2023. Wanneer dat klaar is, kan je het hier terug vinden.**
 
-![](https://www.circuszonderhanden.be/img/placeholder.png)
+![](https://www.circuszonderhanden.be//files/rood/bol.gif)
 
 Inschrijvingen lesjaar 2021-2022
 ================================
