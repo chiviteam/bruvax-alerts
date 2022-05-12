@@ -1,6 +1,6 @@
 *   [
     
-    20.05.2022, 20:00 Uhr - Aschaffenburg / verschoben vom 21.01.2022
+    20.05.2022, 20:00 Uhr - Aschaffenburg / WIRD VERSCHOBEN, TERMIN FOLGT
     
     Giora Feidman - Friendship Tour 2022
     
@@ -11,114 +11,6 @@
     Christuskirche, Aschaffenburg
     
     Tickets](https://www.eventim.de/noapp/event/giora-feidman-friendship-tour-2022-christuskirche-aschaffenburg-13926338/?affiliate=GFA&utm_campaign=GFA&utm_medium=dp&utm_source=GFA)
-*   [
-    
-    21.05.2022, 20:00 Uhr - Marburg / verschoben vom 20.01.2022
-    
-    Giora Feidman - Friendship Tour 2022
-    
-    75-jähriges Bühnenjubiläum
-    
-    Mit Sergej Tcherepanov (Orgel)
-    
-    Elisabethkirche, Marburg
-    
-    Tickets](https://www.eventim.de/noapp/event/giora-feidman-friendship-tour-2022-elisabethkirche-zu-marburg-13926339/?affiliate=GFA&utm_campaign=GFA&utm_medium=dp&utm_source=GFA)
-*   [
-    
-    22.05.2022 , 19:00 Uhr - Bad Bentheim / verschoben vom 16.01.2022
-    
-    Giora Feidman - Friendship Tour 2022
-    
-    75-jähriges Bühnenjubiläum
-    
-    Mit Sergej Tcherepanov (Piano)
-    
-    Forum Burggymnasium, Bad Bentheim
-    
-      
-    
-    **ACHTUNG:** Änderung der Venue. 
-    
-    Das Konzert findet jetzt im **Forum Burggymnasium** in Bad Bentheim statt. Tickets behalten ihre Gültigkeit.
-    
-    Tickets](https://www.eventim.de/noapp/event/giora-feidman-friendship-tour-2022-ev-ref-kirchengemeinde-gildehaus-13215962/?affiliate=GFA&utm_campaign=GFA&utm_medium=dp&utm_source=GFA)
-*   23.05.2022, 20:00 Uhr - Schwerin / verschoben vom 14.01.2022
-    
-    Giora Feidman - Friendship Tour 2022
-    
-    75-jähriges Bühnenjubiläum
-    
-    Mit Sergej Tcherepanov (Orgel)
-    
-    St. Nikolai, Schwerin
-    
-    Tickets
-*   [
-    
-    24.05.2022, 20:00 Uhr - Rostock / verschoben vom 25.01.2022
-    
-    Giora Feidman - Friendship Tour 2022
-    
-    75-jähriges Bühnenjubiläum
-    
-    Mit Sergej Tcherepanov (Piano)
-    
-    Nikolaikirche, Rostock
-    
-    Tickets](https://www.eventim.de/noapp/event/giora-feidman-friendship-tour-2022-nikolaikirche-13926340/?affiliate=GFA&utm_campaign=GFA&utm_medium=dp&utm_source=GFA)
-*   [
-    
-    09.06.2022, 19:00 Uhr - Berlin
-    
-    Giora Feidman - Friendship Tour 2022
-    
-    75-jähriges Bühnenjubiläum
-    
-    Mit Sergej Tcherepanov (Piano)
-    
-    Jüdisches Museum Berlin
-    
-    Tickets](https://www.eventim.de/noapp/event/giora-feidman-friendship-tour-2022-juedisches-museum-berlin-15042795/?affiliate=GFA&utm_campaign=GFA&utm_medium=dp&utm_source=GFA)
-*   [
-    
-    21.06.2022, 20:00 Uhr - Niebüll / verschoben vom 29.12.2021
-    
-    Giora Feidman - Friendship Tour 2022
-    
-    75-jähriges Bühnenjubiläum
-    
-    Mit Sergej Tcherepanov (Piano)
-    
-    Stadthalle Niebüll
-    
-    Tickets](https://www.eventim.de/noapp/event/giora-feidman-alina-kabanova-stadthalle-niebuell-13273363/?affiliate=GFA&utm_campaign=GFA&utm_medium=dp&utm_source=GFA)
-*   [
-    
-    22.06.2022, 19.30 Uhr - Grube
-    
-    Giora Feidman - Friendship Tour 2022
-    
-    75-jähriges Bühnenjubiläum
-    
-    Mit Sergej Tcherepanov (Orgel)
-    
-    St. Jürgen Kirche Grube
-    
-    Tickets](https://www.eventim.de/noapp/event/giora-feidman-friendship-tour-2022-st-juergen-kirche-zu-grube-14795163/?affiliate=GFA&utm_campaign=GFA&utm_medium=dp&utm_source=GFA)
-*   [
-    
-    23.06.2022, 20.00 Uhr - Eckernförde / verlegt vom 28.12.2021
-    
-    Giora Feidman - Friendship Tour 2022
-    
-    75-jähriges Bühnenjubiläum
-    
-    Mit Sergej Tcherepanov (Piano)
-    
-    Stadthalle Eckernförde
-    
-    Tickets](https://www.eventim.de/noapp/event/giora-feidman-friendship-tour-2022-stadthalle-eckernfoerde-14572695/?affiliate=GFA&utm_campaign=GFA&utm_medium=dp&utm_source=GFA)
 *   [
     
     24.06.2022, 20.00 Uhr - Ludwigslust
@@ -167,6 +59,19 @@
     Kulturhaus Salzwedel
     
     Tickets](https://www.eventim.de/noapp/event/giora-feidman-rastrelli-cello-quartett-kulturhaus-salzwedel-12439693/?affiliate=GFA&utm_campaign=GFA&utm_medium=dp&utm_source=GFA)
+*   [
+    
+    26.07.2022, 19:00 Uhr - Berlin / verschoben vom 09.06.2022
+    
+    Giora Feidman - Friendship Tour 2022
+    
+    75-jähriges Bühnenjubiläum
+    
+    Mit Sergej Tcherepanov (Piano)
+    
+    Jüdisches Museum Berlin
+    
+    Tickets](https://www.eventim.de/noapp/event/giora-feidman-friendship-tour-2022-juedisches-museum-berlin-15042795/?affiliate=GFA&utm_campaign=GFA&utm_medium=dp&utm_source=GFA)
 *   [
     
     31.07.2022, 19.00 Uhr - Tutzing / verschoben vom 10.04.2022
@@ -390,6 +295,17 @@
     Tickets](https://www.bellarte-muenchen.de/Konzerte/i/Giora-Feidman-/720)
 *   [
     
+    21.10.2022, 20:00 Uhr - Marburg / verschoben vom 21.05.2022
+    
+    Giora Feidman - Friendship Tour 2022
+    
+    75-jähriges Bühnenjubiläum
+    
+    Elisabethkirche, Marburg
+    
+    Tickets](https://www.eventim.de/noapp/event/giora-feidman-friendship-tour-2022-elisabethkirche-zu-marburg-13926339/?affiliate=GFA&utm_campaign=GFA&utm_medium=dp&utm_source=GFA)
+*   [
+    
     29.11.2022, 20:00 Uhr - Lübeck / verschoben vom 02.04.2022
     
     Giora Feidman - Friendship Tour 2022
@@ -466,5 +382,89 @@
     Apostelkirche, Hannover
     
     Tickets
+*   [
+    
+    04.12.2022 , 19:00 Uhr - Bad Bentheim / verschoben vom 22.05.2022
+    
+    Giora Feidman - Friendship Tour 2022
+    
+    75-jähriges Bühnenjubiläum
+    
+    Mit Sergej Tcherepanov (Piano)
+    
+    Forum Burggymnasium, Bad Bentheim
+    
+      
+    
+    **ACHTUNG:** Änderung der Venue. 
+    
+    Das Konzert findet jetzt im **Forum Burggymnasium** in Bad Bentheim statt. Tickets behalten ihre Gültigkeit.
+    
+    Tickets](https://www.eventim.de/noapp/event/giora-feidman-friendship-tour-2022-ev-ref-kirchengemeinde-gildehaus-13215962/?affiliate=GFA&utm_campaign=GFA&utm_medium=dp&utm_source=GFA)
+*   [
+    
+    06.12.2022, 20:00 Uhr - Niebüll / verschoben vom 21.06.2022
+    
+    Giora Feidman - Friendship Tour 2022
+    
+    75-jähriges Bühnenjubiläum
+    
+    Mit Sergej Tcherepanov (Piano)
+    
+    Stadthalle Niebüll
+    
+    Tickets](https://www.eventim.de/noapp/event/giora-feidman-alina-kabanova-stadthalle-niebuell-13273363/?affiliate=GFA&utm_campaign=GFA&utm_medium=dp&utm_source=GFA)
+*   [
+    
+    07.12.2022, 20.00 Uhr - Eckernförde / verlegt vom 23.06.2022
+    
+    Giora Feidman - Friendship Tour 2022
+    
+    75-jähriges Bühnenjubiläum
+    
+    Mit Sergej Tcherepanov (Piano)
+    
+    Stadthalle Eckernförde
+    
+    Tickets](https://www.eventim.de/noapp/event/giora-feidman-friendship-tour-2022-stadthalle-eckernfoerde-14572695/?affiliate=GFA&utm_campaign=GFA&utm_medium=dp&utm_source=GFA)
+*   [
+    
+    08.12.2022, 19.30 Uhr - Grube / verschoben vom 22.06.2022
+    
+    Giora Feidman - Friendship Tour 2022
+    
+    75-jähriges Bühnenjubiläum
+    
+    Mit Sergej Tcherepanov (Orgel)
+    
+    St. Jürgen Kirche Grube
+    
+    Tickets](https://www.eventim.de/noapp/event/giora-feidman-friendship-tour-2022-st-juergen-kirche-zu-grube-14795163/?affiliate=GFA&utm_campaign=GFA&utm_medium=dp&utm_source=GFA)
+*   [
+    
+    09.12.2022, 20:00 Uhr - Schwerin / verschoben vom 23.05.2022
+    
+    Giora Feidman - Friendship Tour 2022
+    
+    75-jähriges Bühnenjubiläum
+    
+    Mit Sergej Tcherepanov (Orgel)
+    
+    St. Nikolai, Schwerin
+    
+    Tickets](https://www.eventim.de/noapp/event/giora-feidman-friendship-tour-2022-schelfkirche-st-nikolai-13926337/?affiliate=GFA&utm_campaign=GFA&utm_medium=dp&utm_source=GFA)
+*   [
+    
+    10.12.2022, 20:00 Uhr - Rostock / verschoben vom 24.05.2022
+    
+    Giora Feidman - Friendship Tour 2022
+    
+    75-jähriges Bühnenjubiläum
+    
+    Mit Sergej Tcherepanov (Piano)
+    
+    Nikolaikirche, Rostock
+    
+    Tickets](https://www.eventim.de/noapp/event/giora-feidman-friendship-tour-2022-nikolaikirche-13926340/?affiliate=GFA&utm_campaign=GFA&utm_medium=dp&utm_source=GFA)
 
 [Source](https://www.giorafeidman-online.com/termine)
