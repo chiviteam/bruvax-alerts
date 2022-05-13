@@ -1,6 +1,15 @@
 Upcoming concerts and vocal workshops
 =====================================
 
+Irvine Barclay Theater /USA
+---------------------------
+
+*21/10/2022*
+
+Kronos Quartet&Mahsa Vahdat
+
+[Pilharmonicsociety.org](https://www.philharmonicsociety.org/concerts-tickets/calendar-of-events/kronos-quartet-with-mahsa-vahdat)
+
 Tanum middelalderkirke Jar kirke
 --------------------------------
 
