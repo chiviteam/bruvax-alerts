@@ -1,15 +1,31 @@
 Upcoming concerts and vocal workshops
 =====================================
 
-Noe Valley Ministry /San Francisco
-----------------------------------
+Tanum middelalderkirke Jar kirke
+--------------------------------
 
-*20/03/2022*
+*05/06/2022*
 
-Mahsa Vahdat ,Briget Kibbey,and John Hadfield
+meditative music across genres (Mahsa Vahdat, Tord Gustavsen, Erik Hillestad)
 
-March 20 2021
+[dypeandedrag](https://www.dypeandedrag.com/english)
 
-[noemusic.org](https://www.noemusic.org/events/from-persia-to-iberia-with-bridget-kibbey-mahsa-vahdat-and-john-hadfield)
+Vårsøghelga
+-----------
+
+*28/05/2022*
+
+Vårsøghelga Festival
+
+[Vårsøghelga](http://varsoghelga.no/)
+
+Gamle Ormelete/Norway
+---------------------
+
+*21/05/2022*
+
+Mahsa Vahdat, Knut Reiersrud, Ruth Wilhelmine Meyer and   Elfi Sverdrup
+
+[gamleormelet.no](https://www.gamleormelet.no/aktivitet/konsert-med-mahsa-vahdat-knut-reiersrud-ruth-wilhelmine-meyer-og-elfi-sverdrup/)
 
 [Source](https://mahsavahdat.net/concerts/upcoming/)
