@@ -1,18 +1,5 @@
 *   [
     
-    20.05.2022, 20:00 Uhr - Aschaffenburg / WIRD VERSCHOBEN, TERMIN FOLGT
-    
-    Giora Feidman - Friendship Tour 2022
-    
-    75-jähriges Bühnenjubiläum
-    
-    Mit Sergej Tcherepanov (Piano)
-    
-    Christuskirche, Aschaffenburg
-    
-    Tickets](https://www.eventim.de/noapp/event/giora-feidman-friendship-tour-2022-christuskirche-aschaffenburg-13926338/?affiliate=GFA&utm_campaign=GFA&utm_medium=dp&utm_source=GFA)
-*   [
-    
     24.06.2022, 20.00 Uhr - Ludwigslust
     
     Giora Feidman - Friendship Tour 2022
@@ -85,6 +72,19 @@
     Kirche St. Joseph, Tutzing
     
     Tickets](https://www.eventim.de/noapp/event/giora-feidman-friendship-tour-2022-kirche-st-joseph-14971148/?affiliate=GFA&utm_campaign=GFA&utm_medium=dp&utm_source=GFA)
+*   [
+    
+    04.08..2022, 20:00 Uhr - Aschaffenburg / verschoben vom 20.05.2022
+    
+    Giora Feidman - Friendship Tour 2022
+    
+    75-jähriges Bühnenjubiläum
+    
+    Mit Sergej Tcherepanov (Piano)
+    
+    Christuskirche, Aschaffenburg
+    
+    Tickets](https://www.eventim.de/noapp/event/giora-feidman-friendship-tour-2022-christuskirche-aschaffenburg-13926338/?affiliate=GFA&utm_campaign=GFA&utm_medium=dp&utm_source=GFA)
 *   [
     
     04.09.2022, 19:00 Uhr - Norderstedt
