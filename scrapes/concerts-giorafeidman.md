@@ -301,6 +301,8 @@
     
     75-jähriges Bühnenjubiläum
     
+    Giora Feidman & Friends
+    
     Elisabethkirche, Marburg
     
     Tickets](https://www.eventim.de/noapp/event/giora-feidman-friendship-tour-2022-elisabethkirche-zu-marburg-13926339/?affiliate=GFA&utm_campaign=GFA&utm_medium=dp&utm_source=GFA)
@@ -312,8 +314,6 @@
     
     75-jähriges Bühnenjubiläum
     
-    Mit dem Rastrelli Cello Quartett
-    
     Kolosseum, Lübeck
     
     Tickets](https://www.eventim.de/noapp/event/giora-feidman-friendship-tour-2022-kolosseum-13926417/?affiliate=GFA&utm_campaign=GFA&utm_medium=dp&utm_source=GFA)
@@ -323,9 +323,7 @@
     
     Giora Feidman - Friendship Tour 2022
     
-    75-jähriges Bühnenjubiläum
-    
-    Mit dem Rastrelli Cello Quartet 
+    75-jähriges Bühnenjubiläum 
     
     St. Sixti, Northeim
     
@@ -334,11 +332,11 @@
     
     01.12.2022, 20:00 Uhr - Wernigerode / verschoben vom 04.04.2022
     
-    Giora Feidman & Rastrelli Cello Quartett
+    Giora Feidman - Friendship Tour 2022
     
-    Klezmer meets Christmas
+    75-jähriges Bühnenjubiläum
     
-    Fürstlicher Marstall Wernigerode
+    Fürstlicher Marstall, Wernigerode
     
     Tickets](https://www.eventim.de/event/giora-feidman-rastrelli-cello-quartett-fuerstlicher-marstall-13216072/?affiliate=GFA)
 *   [
@@ -348,8 +346,6 @@
     Giora Feidman - Friendship Tour 2022
     
     75-jähriges Bühnenjubiläum
-    
-    Mit dem Rastrelli Cello Quartett
     
     Schlosskirche Wittenberg
     
@@ -366,8 +362,6 @@
     
     75-jähriges Bühnenjubiläum
     
-    Mit dem Rastrelli Cello Quartett
-    
     Apostelkirche, Hannover
     
     Tickets](https://www.eventim.de/noapp/event/giora-feidman-friendship-tour-2022-apostelkirche-14998870/?affiliate=GFA&utm_campaign=GFA&utm_medium=dp&utm_source=GFA)
@@ -376,8 +370,6 @@
     Giora Feidman - Friendship Tour 2022
     
     75-jähriges Bühnenjubiläum
-    
-    Mit dem Rastrelli Cello Quartett
     
     Apostelkirche, Hannover
     

@@ -3,7 +3,7 @@ Geen inschrijvingen meer dit schooljaar
 
 De informatie op deze pagina gaat over dit schooljaar 2021-2022. Voor dit schooljaar kan je niet meer inschrijven in onze lessen.
 
-**Wij werken intussen aan het lessenrooster voor volgend schooljaar 2022-2023. Vanaf 2 juli kan je het hier terug vinden.**
+**Wij werken intussen aan het lessenrooster voor volgend schooljaar 2022-2023. Vanaf 2 juni kan je het hier terug vinden.**
 
 ![](https://www.circuszonderhanden.be//files/rood/bol.gif)
 
