@@ -48,6 +48,19 @@
     Tickets](https://www.eventim.de/noapp/event/giora-feidman-rastrelli-cello-quartett-kulturhaus-salzwedel-12439693/?affiliate=GFA&utm_campaign=GFA&utm_medium=dp&utm_source=GFA)
 *   [
     
+    02.07.2022, 19.00 Uhr - Bosau
+    
+    Giora Feidman - Friendship Tour 2022
+    
+    75-jähriges Bühnenjubiläum
+    
+    Mit Sergej Tcherepanov (Orgel)
+    
+    St. Petri zu Bosau
+    
+    Tickets](https://www.eventim.de/noapp/event/giora-feidman-friendship-tour-2022-st-petri-zu-bosau-15337626/?affiliate=GFA&utm_campaign=GFA&utm_medium=dp&utm_source=GFA)
+*   [
+    
     26.07.2022, 19:00 Uhr - Berlin / verschoben vom 09.06.2022
     
     Giora Feidman - Friendship Tour 2022
@@ -293,6 +306,45 @@
     Prinzregententheater München
     
     Tickets](https://www.bellarte-muenchen.de/Konzerte/i/Giora-Feidman-/720)
+*   [
+    
+    18.10.2022, 20.00 Uhr -Kehl
+    
+    Giora Feidman - Friendship Tour 2022
+    
+    75-jähriges Bühnenjubiläum
+    
+    Giora Feidman & Friends
+    
+    Stadthalle Kehl
+    
+    Tickets](https://www.eventim.de/noapp/event/giora-feidman-friendship-tour-2022-stadthalle-kehl-15323026/?affiliate=GFA&utm_campaign=GFA&utm_medium=dp&utm_source=GFA)
+*   [
+    
+    19.10.2022, 20:00 Uhr - Saarbrücken
+    
+    Giora Feidman - Friendship Tour 2022
+    
+    75-jähriges Bühnenjubiläum
+    
+    Giora Feidman & Friends
+    
+    Ludwigskirche Saarbrücken
+    
+    Tickets](https://www.eventim.de/noapp/event/giora-feidman-friendship-tour-2022-ludwigskirche-15322414/?affiliate=GFA&utm_campaign=GFA&utm_medium=dp&utm_source=GFA)
+*   [
+    
+    20.10.2022, 20:00 Uhr - Speyer
+    
+    Giora Feidman - Friendship Tour 2022
+    
+    75-jähriges Bühnenjubiläum
+    
+    Giora Feidman & Friends
+    
+    Dreifaltigkeitskirche Speyer
+    
+    Tickets](https://www.eventim.de/noapp/event/giora-feidman-friendship-tour-2022-dreifaltigkeitskirche-15322363/?affiliate=GFA&utm_campaign=GFA&utm_medium=dp&utm_source=GFA)
 *   [
     
     21.10.2022, 20:00 Uhr - Marburg / verschoben vom 21.05.2022
