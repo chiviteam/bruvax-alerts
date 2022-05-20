@@ -8,7 +8,7 @@ Onze algemene inschrijvingen starten op donderdag 23 juni om 17u.
 
 [NAAR HET NIEUWE LESSENROOSTER](https://www.circuszonderhanden.be/lessen) 
 
-![](https://www.circuszonderhanden.be/img/placeholder.png)
+![](https://www.circuszonderhanden.be//files/rood/bol.gif)
 
 Kampen en speelpleinen
 ======================
@@ -17,7 +17,7 @@ Circus Zonder Handen organiseert kampen en speelpleinen tijdens de schoolvakanti
 
 Voor alle info over onze kampen en speelpleinen, klik [HIER](https://www.circuszonderhanden.be/kampen)
 
-![](https://www.circuszonderhanden.be/img/placeholder.png)
+![](https://www.circuszonderhanden.be//files/kleuters.gif)
 
 Uitschrijvingsvoorwaarden
 =========================
