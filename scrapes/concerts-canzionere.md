@@ -4,14 +4,37 @@ TOUR
 **2022**
 ========
 
-**  
 28/01 Teatro dei Marsi – Avezzano (Aq), IT  
-**
+06/05 Womad Càceres – Càceres, ES  
+07/05 Festival Les Voix de L’Autre – Le Thoronet, FR  
+17/05 The Jazz Cafe – London, UK  
+18/05 Brighton Festival – Brighton, UK  
+05/06 Private show, IT  
+11/06 Private show, IT  
+19/06 Respect Festival – Prague, CZ  
+20/06 Tempio di Venere – Roma, IT  
+30/06 Roskilde Festival – Roskilde, DK  
+03/07 Pisa Folk Festival – Pisa, IT  
+24/07 Festa della Tammorra – Sessa Aurunca (Ce), IT  
+28/07 Locorotondo (Ba), IT  
+31/07 Jova Beach Party – Barletta, IT  
+03/08 Tenuta dei Normanni – Salerno, IT  
+05/08 Femme Des 7 Chemins, FR  
+06/08 Festival du Bout du Monde – Crozon, FR  
+08/08 Carpino in Folk – Carpino (Fg), IT  
+11/08 Zafferana Etnea (Ct), IT  
+13/08 Jova Beach Party – Roccella Jonica (Rc), IT  
+19/08 Cisternino (Br), IT  
+09/09 Treibhaus – Innsbruck, AT  
+10/09 Festival OrienteOccidente – Rovereto, IT  
+11/09 Carrara, IT  
+17/11 Beveren, BE  
+18/11 Lokeren, BE  
+19/11 Heist op den Berg, BE
 
 **2021**
 ========
 
-**  
 12/01 Teatro Apollo – Lecce (Le), IT  
 24/05 Guagnano (LE), IT  
 29/06 Castello di Corigliano – Corigliano d’Otranto (LE), IT  
@@ -25,13 +48,11 @@ TOUR
 17/09 Palazzo della Cultura – Tirana, AL  
 18/09 SOFAT Festival – Lobohovë, AL  
 23/09 Fiestas de la Mercè – Teatre Grec – Barcellona, ES  
-02/10 Xera Festival – Jerez de la Frontera, ES  
-**
+02/10 Xera Festival – Jerez de la Frontera, ES
 
 **2020**
 ========
 
-**  
 26/01 Guagnano (Le), IT  
 17/03 New Delhi, IN  
 18/03 Moombai, IN  
@@ -39,12 +60,11 @@ TOUR
 21/03 Espace Prevert – Savigny Le Temple, FR  
 28/03 Elbphilarmonie – Hamburg, DE  
 29/03 Auditorium Parco della Musica – Roma, IT  
-19/07 Festa Popolare della Tammorra – Sessa Aurunca (Ce), IT**
+19/07 Festa Popolare della Tammorra – Sessa Aurunca (Ce), IT
 
 **2019**
 ========
 
-**  
 02/02 Ridotto del Teatro Comunale – L’Aquila Fenice – L’Aquila, IT  
 15/02 Womad Chile – Recoleta, CL  
 16/02 Womad Chile – Recoleta, CL  
@@ -107,12 +127,11 @@ TOUR
 10/11 Ruvo Di Puglia (Ba), IT  
 23/11 Magazzini Generali – Milano, IT  
 12/12 Workshop/performance – Piolalibri – Bruxelles, BE  
-31/12 Piazza Libertini – Lecce, IT**
+31/12 Piazza Libertini – Lecce, IT
 
 **2018**
 ========
 
-**  
 01/01 Piazza Bocca della Verità – La Festa di Roma – Roma, IT  
 27/01 Zo / Centro Culture Contemporanee – Catania, IT  
 28/01 Teatro V.Colonna – Vittoria (Rg), IT  
@@ -158,8 +177,7 @@ TOUR
 20/10 Brixton Electric – Songlines Music Awards 2018 Ceremony – London, UK  
 09/11 Monopoli (Ba), IT  
 15/12 Corigliano D’Otranto (Le), IT  
-26/12 Solo Andata” CGS & Erri De Luca – Teatro Apollo – Lecce, IT  
-**
+26/12 Solo Andata” CGS & Erri De Luca – Teatro Apollo – Lecce, IT
 
 **2017**
 ========
