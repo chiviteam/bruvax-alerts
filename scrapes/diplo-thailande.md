@@ -5,32 +5,29 @@
 
 **Voyager vers la Thaïlande**
 
-Dans le cadre de la lutte contre le COVID-19, l’état d’urgence demeure en vigueur en Thaïlande au moins jusqu’au 31 mai 2022.
+Dans le cadre de la lutte contre le COVID-19, l’état d’urgence demeure en vigueur en Thaïlande au moins jusqu’au 31 juillet 2022.
 
 Les voyageurs belges peuvent entrer dans le pays pour un maximum de 30 jours sans obtenir de visa au préalable à l’ambassade de Thaïlande en Belgique.
 
-Les voyageurs doivent introduire une demande de [Thailand Pass (link is external)](https://tp.consular.go.th/). 
+Les voyageurs étrangers doivent introduire une demande de [Thailand Pass (link is external)](https://tp.consular.go.th/). Un code QR sera généré immédiatement à partir du 1 juin 2022. Sans ce code QR, l’accès au vol peut être refusé.
 
 Tous les voyageurs – même en transit - doivent être munis d’une assurance maladie avec une couverture explicite de 10.000 USD au minimum.
 
-À partir du 1er mai 2022, les voyageurs vaccinés sont exemptés de quarantaine et des mesures de test. Il faut seulement un passeport, un certificat de vaccination et une preuve d’assurance maladie afin d’enregistrer une demande de Thailand Pass.
+À partir du 1er mai 2022, les voyageurs vaccinés sont exemptés de quarantaine et des mesures de test. Il faut seulement un passeport, un certificat de vaccination et une preuve d’assurance maladie afin d’enregistrer une demande de Thailand Pass.
 
-Les voyageurs non vaccinés ont deux options à partir du 1er mai 2022 :
+Les voyageurs non vaccinés ne seront plus soumis à une quarantaine à partir du 1er juin 2022.  Afin d’introduire la demande de Thailand Pass, il faut un passeport, une preuve d’assurance maladie et une attestation négative de test PCR ou antigénique, exécuté dans les 72 heures avant le voyage.
 
-*   Demande de Thailand Pass avec passeport, preuve d’assurance maladie et un résultat négatif de test PCR, exécuté dans les 72 heures avant le voyage : pas de quarantaine, ni de test à l’arrivée.
-*   Demande de Thailand Pass sans test PCR préalable : passeport, preuve d’assurance maladie et une preuve de réservation de 5 jours de quarantaine dans un hôtel certifié (Alternative Quarantine). Les voyageurs seront soumis à un test PCR le 4ème ou le 5ème jour. Les voyageurs qui se sont récemment remis du Covid-19 (entre 14 jours et 3 mois avant le départ) doivent présenter un certificat de rétablissement.
+Les voyageurs qui ne peuvent pas soumettre un certificat de vaccination ou un résultat de test Covid valable à l’arrivée, seront soumis à un test Covid antigénique à leur propres frais.
 
-Il est important de noter que si un des tests PCR effectués sur place se révélait positif, le voyageur sera obligatoirement hospitalisé ou transféré vers un hôtel de quarantaine à ses frais pendant au moins dix jours.
+Il est important de noter que si un des tests Covid effectués sur place se révélait positif, le voyageur sera obligatoirement hospitalisé ou transféré vers un hôtel de quarantaine à ses frais pendant au moins dix jours.
 
 Pour plus d’information, veuillez consulter [le site de l’ambassade de Thaïlande à Bruxelles (link is external)](https://www.thaiembassy.be/2020/07/09/application-for-certificate-of-entry-for-non-thai-nationals/?lang=en).
-
-La Thaïlande se trouve en zone rouge foncé. Lors d’un retour en Belgique en provenance de la Thaïlande, des conditions plus strictes sont dès lors d’application, à consulter sur [https://www.info-coronavirus.be/fr (link is external)](https://www.info-coronavirus.be/fr/).
 
 Les compagnies aériennes peuvent toujours appliquer des conditions supplémentaires, liées notamment au pays de transit, qu’il convient de vérifier avec elles.
 
 **En Thaïlande**
 
-La propagation du coronavirus en Thaïlande se poursuit encore.  Le taux de vaccination de la population augmente progressivement. Chaque province applique ses propres mesures afin de réduire la propagation du COVID-19. Suivez les instructions des autorités locales.
+La propagation du coronavirus en Thaïlande est en baisse. Le taux de vaccination de la population augmente progressivement. Chaque province applique ses propres mesures afin de réduire la propagation du COVID-19. Suivez les instructions des autorités locales.
 
 Les infrastructures médicales en Thaïlande sont bien développées. Un test COVID-19 positif mène la plupart du temps à une admission obligatoire dans un hôpital ou un hôtel adapté. Il est primordial d’avoir une bonne assurance-santé (couvrant aussi le rapatriement médical) pour l’entièreté du séjour en Thaïlande car les frais peuvent être élevés.
 
