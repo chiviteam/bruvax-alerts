@@ -308,6 +308,19 @@
     Tickets](https://www.bellarte-muenchen.de/Konzerte/i/Giora-Feidman-/720)
 *   [
     
+    11.10.2022, 20.00 Uhr - Memmingen
+    
+    Giora Feidman - Friendship Tour 2022
+    
+    75-jähriges Bühnenjubiläum
+    
+    Giora Feidman & Friends
+    
+    Dietrich-Bonhoeffer-Haus Memmingen
+    
+    Tickets](https://www.eventim.de/noapp/event/giora-feidman-friendship-tour-2022-dietrich-bonhoeffer-haus-15394228/?affiliate=GFA&utm_campaign=GFA&utm_medium=dp&utm_source=GFA)
+*   [
+    
     18.10.2022, 20.00 Uhr -Kehl
     
     Giora Feidman - Friendship Tour 2022
