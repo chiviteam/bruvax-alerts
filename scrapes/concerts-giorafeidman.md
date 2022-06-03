@@ -13,19 +13,6 @@
     Tickets](https://www.eventim.de/noapp/event/giora-feidman-friendship-tour-2022-stadtkirche-ludwigslust-14795139/?affiliate=GFA&utm_campaign=GFA&utm_medium=dp&utm_source=GFA)
 *   [
     
-    25.06.2022, 20.00 Uhr - Fuchshain
-    
-    Giora Feidman - Friendship Tour 2022
-    
-    75-jähriges Bühnenjubiläum
-    
-    Mit Sergej Tcherepanov (Piano)
-    
-    Martinskirche Fuchshain
-    
-    Tickets](https://www.eventim.de/noapp/event/giora-feidman-friendship-tour-2022-martinskirche-14795176/?affiliate=GFA&utm_campaign=GFA&utm_medium=dp&utm_source=GFA)
-*   [
-    
     27.06.2022, 20:00 Uhr - Köln / verschoben vom 31.03.2022
     
     Giora Feidman & Gitanes Blondes
@@ -59,6 +46,19 @@
     St. Petri zu Bosau
     
     Tickets](https://www.eventim.de/noapp/event/giora-feidman-friendship-tour-2022-st-petri-zu-bosau-15337626/?affiliate=GFA&utm_campaign=GFA&utm_medium=dp&utm_source=GFA)
+*   [
+    
+    05.07.2022, 20.00 Uhr - Fuchshain / verschoben vom 25.06.22
+    
+    Giora Feidman - Friendship Tour 2022
+    
+    75-jähriges Bühnenjubiläum
+    
+    Mit Sergej Tcherepanov (Piano)
+    
+    Martinskirche Fuchshain
+    
+    Tickets](https://www.eventim.de/noapp/event/giora-feidman-friendship-tour-2022-martinskirche-14795176/?affiliate=GFA&utm_campaign=GFA&utm_medium=dp&utm_source=GFA)
 *   [
     
     26.07.2022, 19:00 Uhr - Berlin / verschoben vom 09.06.2022
