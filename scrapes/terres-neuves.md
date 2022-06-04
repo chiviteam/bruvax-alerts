@@ -32,7 +32,7 @@ Tous les cours du samedi sont complets – Il reste encore quelques places pour 
 
 **8 – 11 ans**
 
-15h – 16h30  
+15h – 16h30 Complet  
 
 10h15 – 11h45 Complet  
 
