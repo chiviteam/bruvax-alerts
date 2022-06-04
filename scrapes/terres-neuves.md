@@ -5,10 +5,12 @@ ENFANTS / ADOS
 
 **Nouvelles inscriptions pour 2022-2023 à partir du samedi 04 juin à 14h.**
 
+Tous les cours du samedi sont complets – Il reste encore quelques places pour les cours du mercredi
+
 ![](https://brusselsclimbing.be/wp-content/uploads/enfants007.jpg)
 
 *   Chargés de cours: Cécile, Wouter, Marc et Fred
-*   Durée des cours : 1h30 (1h15 pour les petits du mercredi) – 31 à 34 cours par an.
+*   Durée des cours : 1h30 (1h15 pour les 5-7 ans) 31 à 34 cours par an.
 *   Tous les jeunes inscrits aux cours bénéficient d’une réduction de 50% sur le tarif de l’entrée et des abonnements à la salle en dehors des cours.
 *   Contactez-nous pour plus d’info: **[**mail@terresneuves.be**](mailto:mail@terresneuves.be)**
 *   **02 512 18 15**
@@ -24,19 +26,19 @@ ENFANTS / ADOS
 
 **5 – 7 ans**
 
-13h45 – 15h Complet  
+13h45 – 15h  
 
 9h00-10h15 Complet  
 
 **8 – 11 ans**
 
-15h – 16h30 Complet  
+15h – 16h30  
 
 10h15 – 11h45 Complet  
 
 **12 – 17 ans**
 
-16h30 – 18h Complet  
+16h30 – 18h  
 
 11h45 – 13h15 Complet  
 
@@ -47,7 +49,7 @@ ENFANTS / ADOS
 **\+ 15 ans  
 perfectionnement**
 
-16h30 – 18h Complet  
+16h30 – 18h  
 
 14h30 – 16h Complet  
 
