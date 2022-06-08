@@ -6,11 +6,6 @@ const lib = require("./lib");
 
     const checks = [
         {
-            scrapeUrl: "https://www.circuszonderhanden.be/inschrijven",
-            selector: ".page-content",
-            id: "circus"
-        },
-        {
             scrapeUrl: "https://diplomatie.belgium.be/fr/Services/voyager_a_letranger/conseils_par_destination/maldives",
             selector: "#block-system-main .field-name-body .field-item table",
             id: "diplo-maldives"
