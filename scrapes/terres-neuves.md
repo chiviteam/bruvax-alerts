@@ -5,7 +5,7 @@ ENFANTS / ADOS
 
 **Nouvelles inscriptions pour 2022-2023 à partir du samedi 04 juin à 14h.**
 
-Tous les cours du samedi sont complets – Il reste encore quelques places pour les cours du mercredi
+Tous les cours du samedi sont complets – Il reste encore quelques places pour les cours du mercredi et vendredi
 
 ![](https://brusselsclimbing.be/wp-content/uploads/enfants007.jpg)
 
@@ -26,7 +26,7 @@ Tous les cours du samedi sont complets – Il reste encore quelques places pour 
 
 **5 – 7 ans**
 
-13h45 – 15h  
+13h45 – 15h Complet  
 
 9h00-10h15 Complet  
 
@@ -38,7 +38,7 @@ Tous les cours du samedi sont complets – Il reste encore quelques places pour 
 
 **12 – 17 ans**
 
-16h30 – 18h  
+16h30 – 18h encore quelques places  
 
 11h45 – 13h15 Complet  
 
@@ -49,7 +49,7 @@ Tous les cours du samedi sont complets – Il reste encore quelques places pour 
 **\+ 15 ans  
 perfectionnement**
 
-16h30 – 18h  
+16h30 – 18h encore quelques places  
 
 14h30 – 16h Complet  
 
@@ -61,53 +61,23 @@ perfectionnement**
 
 **SAMEDI**
 
-Janvier’ 22
+Septembre 22
 
-12 – 19 – 26
+Octobre 22
 
-14 – 21 – 28
+Novembre 22
 
-15 – 22 – 29
+Décembre 22
 
-Février’ 22
-
-2 – 9 – 16 – 23
-
-4 – 11 – 18 – 25
-
-5- 12 – 19
-
-Mars’ 22
-
-9 – 16 – 23- 30
-
-11 – 18 – 25
-
-12 – 19 – 26
-
-Avril’ 22
-
-20 – 27
-
-1- 22 – 29
-
-Fête le 23 ! – 30
-
-Mai’ 22
-
-4 – 11 – 18 – 25
-
-6 – 13 – 20 – 27
-
-7 – 14 – 21 Fontainebleau 26 au 29
+Janvier 23
 
 juin’ 22
 
-1 – 8 – 15 – 22 – 29
+15 – 22 – 29
 
-3 – 10 – 17 – 24
+10 – 17 – 24
 
-Nouvelles inscriptions 4 – 11 – 18 – 25
+11 – 18 – 25
 
 #### TARIFS:
 
