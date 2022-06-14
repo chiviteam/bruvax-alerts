@@ -19,8 +19,9 @@ TOUR
 28/07 Locorotondo (Ba), IT  
 31/07 Jova Beach Party – Barletta, IT  
 03/08 Tenuta dei Normanni – Salerno, IT  
-05/08 Femme Des 7 Chemins, FR  
+05/08 Les Alentours – Plessè – La Ferme Des 7 Chemins, FR  
 06/08 Festival du Bout du Monde – Crozon, FR  
+07/08 Sagra Te Lu Purpu – Melendugno (Le), IT  
 08/08 Carpino in Folk – Carpino (Fg), IT  
 11/08 Zafferana Etnea (Ct), IT  
 13/08 Jova Beach Party – Roccella Jonica (Rc), IT  
