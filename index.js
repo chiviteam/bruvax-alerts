@@ -41,21 +41,6 @@ const lib = require("./lib");
             id: "gc-essegem"
         },*/
         {
-            scrapeUrl: "https://www.canzonieregrecanicosalentino.net/tour/?lang=en",
-            selector: 'article',
-            id: "concerts-canzionere"
-        },
-        {
-            scrapeUrl: "https://mahsavahdat.net/concerts/upcoming/",
-            selector: 'article',
-            id: "concerts-mahsavahdat"
-        },
-        {
-            scrapeUrl: "https://www.giorafeidman-online.com/termine",
-            selector: '#dm_content ul',
-            id: "concerts-giorafeidman"
-        },
-        {
             scrapeUrl: "https://terresneuves.be/enfants/",
             selector: '#content',
             id: "terres-neuves"
