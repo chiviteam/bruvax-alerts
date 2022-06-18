@@ -113,7 +113,7 @@ SEPT – JUIN**
 STAGES
 ------
 
-Des stages à thèmes sont organisés pour les enfants à concurrence de trois jours par semaine (de 9h à 16h).
+Des stages à thèmes sont organisés pour les enfants à concurrence de cinq jours par semaine (de 9h à 16h).
 
 Nous proposons aux enfants des activités ludiques et pédagogiques leurs permettant de découvrir l’escalade sous toutes ses formes et en toute sécurité.
 
@@ -123,6 +123,26 @@ Mais aussi, pour les plus téméraires: le fameux et impressionnant saut de pout
 Pour les enfants de 4 à 7 ans, les activités liées à la pratique de l’escalade (matin) sont combinées avec diverses activités d’arts plastiques ou autres (après-midi).
 
 Pour chaque stage, les thèmes varient (masques, Chine, jeux africains, cirque, théâtre d’ombres…).
+
+Stage n°1
+---------
+
+du 24 au 28 octobre 2022 Pour les enfants de **4 à 7 ans** pour les 5 jours 150€
+
+Stage n°2 (Noël)
+----------------
+
+du 02 au 06 janvier 2023 Pour les enfants de **5 à 8 ans** pour les 5 jours 150€
+
+Stage n°3
+---------
+
+du 27 février au 03 mars 2023 Pour les enfants de **4 à 7 ans** pour les 5 jours 150€
+
+Stage n°4
+---------
+
+du 17 au 21 juillet 2023 Pour les enfants de **4 à 7 ans** pour les 5 jours 150€
 
 #### QUE FAUT-IL APPORTER ?
 
