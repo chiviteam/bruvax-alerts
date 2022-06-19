@@ -1,23 +1,22 @@
 ENFANTS / ADOS
 ==============
 
-Vous pouvez nous contacter au 02 512 18 15 de 12h à 20h ou toujours par email: [mail@terresneuves.be](mailto:mail@terresneuves.be)
-----------------------------------------------------------------------------------------------------------------------------------
-
-**Nouvelles inscriptions pour 2022-2023 à partir du samedi 04 juin à 14h.**
+Nouvelles inscriptions pour 2022-2023 à partir du samedi 04 juin à 14h.
+-----------------------------------------------------------------------
 
 Tous les cours du samedi sont complets. Il reste encore quelques places pour les cours du mercredi et vendredi
 
 ![](https://brusselsclimbing.be/wp-content/uploads/enfants007.jpg)
 
 *   Chargés de cours: Cécile, Wouter, Marc et Fred
-*   Durée des cours : 1h30 (1h15 pour les 5-7 ans) 31 à 34 cours par an.
+*   Durée des cours : 1h30 (1h15 pour les 5-7 ans)
+*   31 à 34 cours par an.
 *   Tous les jeunes inscrits aux cours bénéficient d’une réduction de 50% sur le tarif de l’entrée et des abonnements à la salle en dehors des cours.
-*   Contactez-nous pour plus d’info: **[**mail@terresneuves.be**](mailto:mail@terresneuves.be)**
-*   **02 512 18 15**
-*   Evasions Verticales asbl  **BE21 0682 0456 0903**
+*   Pour plus d’info: ****[mail@terresneuves.be](mailto:mail@terresneuves.be)****
+*   7 sur 7 de 12h à 20h : **02 512 18 15**
+*   Evasions Verticales asbl **BE21 0682 0456 0903**
 
-#### HORAIRES 2021-2022
+#### HORAIRES et DATES 2021-2022
 
 **LES COURS**
 
@@ -74,11 +73,11 @@ Janvier 23
 
 juin’ 22
 
-15 – 22 – 29
+22 – 29
 
-10 – 17 – 24
+24
 
-11 – 18 – 25
+25
 
 #### TARIFS:
 
@@ -144,6 +143,8 @@ Stage n°4
 ---------
 
 du 17 au 21 juillet 2023 Pour les enfants de **4 à 7 ans** pour les 5 jours 150€
+
+![](https://terresneuves.be/wp-content/uploads/enfnats-6-1024x299.jpg)
 
 #### QUE FAUT-IL APPORTER ?
 
