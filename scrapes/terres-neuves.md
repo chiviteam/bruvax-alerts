@@ -1,11 +1,12 @@
 ENFANTS / ADOS
 ==============
 
-##### Vous pouvez nous contacter au 02 512 18 15 de 12h à 20h ou toujours par email: [mail@terresneuves.be](mailto:mail@terresneuves.be)
+Vous pouvez nous contacter au 02 512 18 15 de 12h à 20h ou toujours par email: [mail@terresneuves.be](mailto:mail@terresneuves.be)
+----------------------------------------------------------------------------------------------------------------------------------
 
 **Nouvelles inscriptions pour 2022-2023 à partir du samedi 04 juin à 14h.**
 
-Tous les cours du samedi sont complets – Il reste encore quelques places pour les cours du mercredi et vendredi
+Tous les cours du samedi sont complets. Il reste encore quelques places pour les cours du mercredi et vendredi
 
 ![](https://brusselsclimbing.be/wp-content/uploads/enfants007.jpg)
 
