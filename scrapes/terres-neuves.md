@@ -171,4 +171,6 @@ du 17 au 21 juillet 2023 Pour les enfants de **4 à 7 ans** pour les 5 jours 150
 
 ![](https://terresneuves.be/wp-content/uploads/stage-aout-light--724x1024.jpg)
 
+![](https://terresneuves.be/wp-content/uploads/Stage-nature-2022-1-724x1024.jpg)
+
 [Source](https://terresneuves.be/enfants/)
