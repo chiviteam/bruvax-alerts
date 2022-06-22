@@ -38,7 +38,7 @@ Tous les cours du samedi sont complets. Il reste encore quelques places pour les
 
 **12 – 17 ans**
 
-16h30 – 18h encore quelques places  
+16h30 – 18h Complet  
 
 11h45 – 13h15 Complet  
 
@@ -171,6 +171,6 @@ du 17 au 21 juillet 2023 Pour les enfants de **4 à 7 ans** pour les 5 jours 150
 
 ![](https://terresneuves.be/wp-content/uploads/stage-aout-light--724x1024.jpg)
 
-![](https://terresneuves.be/wp-content/uploads/Stage-nature-2022-1-724x1024.jpg)
+![](https://terresneuves.be/wp-content/uploads/stage-nature-2-2022-1-680x1024.jpg)
 
 [Source](https://terresneuves.be/enfants/)
