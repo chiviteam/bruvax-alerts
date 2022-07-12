@@ -13,7 +13,7 @@ Tous les cours du samedi sont complets. Il reste encore quelques places pour les
 *   7 sur 7 de 12h à 20h : **02 512 18 15**
 *   Evasions Verticales asbl **BE21 0682 0456 0903**
 
-#### HORAIRES et DATES 2021-2022
+#### HORAIRES et DATES 2022-2023
 
 **LES COURS**
 
@@ -69,12 +69,6 @@ Décembre 22
 Janvier 23
 
 juin’ 22
-
-22 – 29
-
-24
-
-25
 
 #### TARIFS:
 
@@ -163,8 +157,6 @@ du 17 au 21 juillet 2023 Pour les enfants de **4 à 7 ans** pour les 5 jours 150
 **Attention** : En vous inscrivant à nos cours (enfants ou adultes), veuillez noter qu’en cas de désistements ou absences, les cours ne peuvent être remboursés ou reportés. Uniquement une raison médicale de minimum 1 mois, avec certificat médical, peut donner droit à un remboursement…(-30€ de frais de gestion)
 
 [![](https://terresneuves.be/wp-content/uploads/present-2-cecile-domi-2-pdf-724x1024.jpg)](https://artnature.be/)
-
-![](https://terresneuves.be/wp-content/uploads/present-2-cecile-domi_Page_2-724x1024.jpg)
 
 ![](https://terresneuves.be/wp-content/uploads/stage-aout-light--724x1024.jpg)
 
