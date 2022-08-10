@@ -3,7 +3,7 @@ const {firefox} = require('playwright');
 const fs = require('fs');
 const TurndownService = require('turndown');
 
-async function grab(turndownService, context, page, scrapeUrl, selector, id) {
+async function grab(turndownService, context, page, scrapeUrl, selector, id, multiple) {
     
     await context.clearCookies();
     await page.goto(scrapeUrl);
@@ -15,9 +15,17 @@ async function grab(turndownService, context, page, scrapeUrl, selector, id) {
         })
     });
 
-    const elementHandle = await page.$(selector);
-    //await elementHandle.screenshot({ path: `scrapes/${id}.png` });
-    const innerHtml = await elementHandle.innerHTML();
+    var innerHtml = '';
+
+    if (multiple) {
+
+        const elementHandles = await Promise.all(await page.$$(selector));
+        innerHtml = elementHandles.map(element => element.innerHTML()).join(' ');
+    } else {
+        const elementHandle = await page.$(selector);
+        //await elementHandle.screenshot({ path: `scrapes/${id}.png` });
+        innerHtml = await elementHandle.innerHTML();
+    }
     
     //fs.writeFileSync(`scrapes/${id}.md`, turndownService.turndown(`<div><div>${innerHtml}</div><img src="scrapes/${id}.png"><p><a href="${scrapeUrl}">Source</a></p></div>`));
     fs.writeFileSync(`scrapes/${id}.md`, turndownService.turndown(`<div><div>${innerHtml}</div><p><a href="${scrapeUrl}">Source</a></p></div>`));
@@ -36,7 +44,7 @@ async function grabAll(checks) {
 
         for (const check of checks) {
             try {
-                await grab(turndownService, context, page, check.scrapeUrl, check.selector, check.id);   
+                await grab(turndownService, context, page, check.scrapeUrl, check.selector, check.id, check.multiple);   
             } catch (e) {
                 failed = true;
                 console.error(`Something failed for check ${check.id}`, e);
