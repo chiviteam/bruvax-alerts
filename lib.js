@@ -19,8 +19,10 @@ async function grab(turndownService, context, page, scrapeUrl, selector, id, mul
 
     if (multiple) {
 
-        const elementHandles = await Promise.all(await page.$$(selector));
-        innerHtml = elementHandles.map(element => element.innerHTML()).join(' ');
+        const elementHandles = await page.$$(selector);
+        for(const el of elementHandles) {
+            innerHtml += await el.innerHTML();
+        }
     } else {
         const elementHandle = await page.$(selector);
         //await elementHandle.screenshot({ path: `scrapes/${id}.png` });
