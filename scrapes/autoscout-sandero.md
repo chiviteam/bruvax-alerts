@@ -124,9 +124,7 @@ Dacia Sandero 
 
 !!!!UNIQUEMENT EXPORTATION En DEHORS L'EUROPE!!!!](https://www.autoscout24.be/fr/offres/dacia-sandero-uniquement-exportation-en-dehors-l-europe-diesel-noir-0d749140-db69-47c6-9265-58a0b985e05d)
 
-€ 6 750,-
-
-€ 5 999,-5
+€ 5 999,-
 
 Pas d'information
 
