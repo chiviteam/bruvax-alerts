@@ -156,7 +156,7 @@ Dacia Sandero 
 
 € 5 700,-
 
-Pas d'information
+Prix correct
 
 103 366 km05/201555 kW (75 CH)Occasion\- (Propriétaires préc.)Boîte manuelleEssence5,9 l/100 km (mixte)135 g/km (mixte)
 
@@ -193,11 +193,11 @@ UZ CARSali uz • BE-1730 Asse
 Dacia Sandero 
 --------------
 
-0.9 TCe Stepway gps airco euro6b garantie](https://www.autoscout24.be/fr/offres/dacia-sandero-0-9-tce-stepway-gps-airco-euro6b-garantie-essence-gris-4304e31f-d9b2-4863-b7f2-5f57d3ef74d3)
+0.9 TCe Stepway gps airco euro6b garantiePorte-bagages, Climatisation, Vitres teintées, Ecran tactile, Régulateur de vitesse, Système de navigation, Capteurs d'aide au stationnement arrière, Vitres électriques](https://www.autoscout24.be/fr/offres/dacia-sandero-0-9-tce-stepway-gps-airco-euro6b-garantie-essence-gris-4304e31f-d9b2-4863-b7f2-5f57d3ef74d3)
 
 € 5 350,-
 
-Pas d'information
+Très bon prix
 
 193 500 km03/201666 kW (90 CH)Occasion2 Propriétaires préc.Boîte manuelleEssence5,1 l/100 km (mixte)115 g/km (mixte)
 
