@@ -96,9 +96,9 @@ Dacia Sandero 
 
 1.2i Ambiance](https://www.autoscout24.be/fr/offres/dacia-sandero-1-2i-ambiance-essence-bleu-e7d19a42-868e-4ef0-a932-ab262b966d21)
 
-€ 3 690,-
+€ 3 990,-
 
-Très bon prix
+Bon prix
 
 200 000 km01/201555 kW (75 CH)Occasion\- (Propriétaires préc.)Boîte manuelleEssence5,8 l/100 km (mixte)135 g/km (mixte)
 
