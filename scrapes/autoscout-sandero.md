@@ -1,26 +1,3 @@
-![](https://prod.pictures.autoscout24.net/listing-images/2c47e560-7e4f-438b-9154-31ce499404ea_aaa0ced3-f434-4fdd-98f2-a3d07157c8fc.jpg/250x188.webp)
-
-PrécédentSuivant
-
-1 / 9
-
-Nouveau
-
-[
-
-Dacia Sandero 
---------------
-
-1.2i](https://www.autoscout24.be/fr/offres/dacia-sandero-1-2i-essence-noir-2c47e560-7e4f-438b-9154-31ce499404ea)SauverPartager
-
-€ 6 000,-
-
-Prix correct
-
-82 052 km03/201555 kW (75 CH)Occasion1 Propriétaires préc.Boîte manuelleEssence5,8 l/100 km (mixte)135 g/km (mixte)
-
-Particuliers,BE-4557 Tinlot
-
 ![](https://prod.pictures.autoscout24.net/listing-images/7a99fb2b-4a6a-4efe-8171-25c6bb22efa7_00b613b0-f86d-472d-b3c5-da2187db2c4f.jpg/250x188.webp)
 
 PrécédentSuivant
@@ -34,7 +11,7 @@ Nouveau
 Dacia Sandero 
 --------------
 
-1.5 dCi Stepway](https://www.autoscout24.be/fr/offres/dacia-sandero-1-5-dci-stepway-diesel-gris-7a99fb2b-4a6a-4efe-8171-25c6bb22efa7)
+1.5 dCi Stepway](https://www.autoscout24.be/fr/offres/dacia-sandero-1-5-dci-stepway-diesel-gris-7a99fb2b-4a6a-4efe-8171-25c6bb22efa7)SauverPartager
 
 € 5 990,-
 
@@ -43,6 +20,12 @@ Bon prix
 180 000 km07/201666 kW (90 CH)Occasion\- (Propriétaires préc.)Boîte manuelleDiesel3,8 l/100 km (mixte)98 g/km (mixte)
 
 ![](https://prod.pictures.autoscout24.net/dealer-info/39565256-original-5bdaa6a9-f997-41f3-97b3-2cc93ce717b3.jpg/resize/100x50>/quality/90)GARAGE MP.AUTO(2)Placido Palermo • BE-5032 Bossiere Gembloux
+
+![](https://prod.pictures.autoscout24.net/listing-images/eaa5a43e-5094-4832-81ca-717b7e71c178_2cb686ce-817a-4edf-8465-a3d254fef67a.jpg/250x188.webp)
+
+PrécédentSuivant
+
+1 / 15
 
 Nouveau
 
