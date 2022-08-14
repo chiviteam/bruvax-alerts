@@ -4,8 +4,6 @@ PrécédentSuivant
 
 1 / 9
 
-Nouveau
-
 [
 
 Dacia Sandero 
