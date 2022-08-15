@@ -46,7 +46,7 @@ Tous les cours du samedi sont complets. Il reste encore quelques places pour les
 **\+ 15 ans  
 perfectionnement**
 
-16h30 – 18h encore quelques places  
+16h30 – 18h Complet  
 
 14h30 – 16h Complet  
 
