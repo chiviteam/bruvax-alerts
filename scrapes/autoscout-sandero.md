@@ -45,21 +45,6 @@ Particuliers,BE-6230 Buzet
 Dacia Sandero 
 --------------
 
-1.2i AmbianceVitres électriques, Verrouillage centralisé, Radio, Direction assistée, Isofix, USB, Sièges arrières 1/3 - 2/3, Système de contrôle de la pression pneus](https://www.autoscout24.be/fr/offres/dacia-sandero-1-2i-ambiance-essence-bleu-093e98fd-d073-4d87-9b0f-f654923e04b9)
-
-€ 5 400,-
-
-Très bon prix
-
-67 352 km02/201555 kW (75 CH)Occasion\- (Propriétaires préc.)Boîte manuelleEssence5,8 l/100 km (mixte)135 g/km (mixte)
-
-AUTO CONTINENTAL(157)Olivier / sur rendez-vous • BE-4432 Alleur[\+ Autres véhicules de pro](https://www.autoscout24.be/fr/professional/auto-continental)
-
-[
-
-Dacia Sandero 
---------------
-
 0.9 TCe Stepway Benzine Airco KoppelingTeVervangen](https://www.autoscout24.be/fr/offres/dacia-sandero-0-9-tce-stepway-benzine-airco-koppelingtevervangen-essence-noir-b75283e6-b67f-4c6f-be36-9c3b7d7cb675)
 
 € 4 999,-
