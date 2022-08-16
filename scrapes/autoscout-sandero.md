@@ -45,11 +45,11 @@ Particuliers,BE-6230 Buzet
 Dacia Sandero 
 --------------
 
-1.2i Ambiance](https://www.autoscout24.be/fr/offres/dacia-sandero-1-2i-ambiance-essence-bleu-093e98fd-d073-4d87-9b0f-f654923e04b9)
+1.2i AmbianceVitres électriques, Verrouillage centralisé, Radio, Direction assistée, Isofix, USB, Sièges arrières 1/3 - 2/3, Système de contrôle de la pression pneus](https://www.autoscout24.be/fr/offres/dacia-sandero-1-2i-ambiance-essence-bleu-093e98fd-d073-4d87-9b0f-f654923e04b9)
 
 € 5 400,-
 
-Pas d'information
+Très bon prix
 
 67 352 km02/201555 kW (75 CH)Occasion\- (Propriétaires préc.)Boîte manuelleEssence5,8 l/100 km (mixte)135 g/km (mixte)
 
