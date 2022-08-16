@@ -17,7 +17,7 @@ Bon prix
 
 180 000 km07/201666 kW (90 CH)Occasion\- (Propriétaires préc.)Boîte manuelleDiesel3,8 l/100 km (mixte)98 g/km (mixte)
 
-![](https://prod.pictures.autoscout24.net/dealer-info/39565256-original-5bdaa6a9-f997-41f3-97b3-2cc93ce717b3.jpg/resize/100x50>/quality/90)GARAGE MP.AUTO(2)Placido Palermo • BE-5032 Bossiere Gembloux
+![](https://prod.pictures.autoscout24.net/dealer-info/39565256-original-5bdaa6a9-f997-41f3-97b3-2cc93ce717b3.jpg/resize/100x50%3E/quality/90)GARAGE MP.AUTO(2)Placido Palermo • BE-5032 Bossiere Gembloux
 
 ![](https://prod.pictures.autoscout24.net/listing-images/eaa5a43e-5094-4832-81ca-717b7e71c178_2cb686ce-817a-4edf-8465-a3d254fef67a.jpg/250x188.webp)
 
@@ -68,22 +68,7 @@ Bon prix
 
 202 000 km06/201566 kW (90 CH)Occasion\- (Propriétaires préc.)Boîte manuelleEssence6,4 l/100 km (mixte)124 g/km (mixte)
 
-![](https://prod.pictures.autoscout24.net/dealer-info/34878650-original-2f3a7e19-e68c-48b9-84f4-bfc3d4a6d2d1.jpg/resize/100x50>/quality/90)Autos Zebs(2)Auto's Zebs • BE-3600 Genk
-
-[
-
-Dacia Sandero 
---------------
-
-1.5 dCi Stepway Plus](https://www.autoscout24.be/fr/offres/dacia-sandero-1-5-dci-stepway-plus-diesel-blanc-f24a3125-afcf-4e53-8565-69fafd02cfc4)
-
-€ 5 350,-
-
-Bon prix
-
-200 000 km12/201766 kW (90 CH)Occasion\- (Propriétaires préc.)Boîte manuelleDiesel3,8 l/100 km (mixte)\- (g/km)
-
-Auto ADI(2)Auto Adi • BE-6061 Montignies-sur-Sambre
+![](https://prod.pictures.autoscout24.net/dealer-info/34878650-original-2f3a7e19-e68c-48b9-84f4-bfc3d4a6d2d1.jpg/resize/100x50%3E/quality/90)Autos Zebs(2)Auto's Zebs • BE-3600 Genk
 
 [
 
@@ -98,7 +83,7 @@ Prix correct
 
 134 000 km07/201555 kW (75 CH)Occasion\- (Propriétaires préc.)Boîte manuelleDiesel3,8 l/100 km (mixte)\- (g/km)
 
-![](https://prod.pictures.autoscout24.net/dealer-info/28692745-original-795da86d-f741-4739-8fb9-47c98cb0c412.jpg/resize/100x50>/quality/90)Auto EleganceAUTO ELEGANCE • BE-4624 ROMSEE
+![](https://prod.pictures.autoscout24.net/dealer-info/28692745-original-795da86d-f741-4739-8fb9-47c98cb0c412.jpg/resize/100x50%3E/quality/90)Auto EleganceAUTO ELEGANCE • BE-4624 ROMSEE
 
 [
 
@@ -143,7 +128,7 @@ Prix correct
 
 127 981 km06/201754 kW (73 CH)Occasion\- (Propriétaires préc.)Boîte manuelleEssence5,2 l/100 km (mixte)117 g/km (mixte)
 
-![](https://prod.pictures.autoscout24.net/dealer-info/5404479-original-5c800e82-21ae-470a-b46e-a693324d9160/resize/100x50>/quality/90)Renault - Garage Nationale 7(3)Bernard Canonne • BE-1480 Tubize
+![](https://prod.pictures.autoscout24.net/dealer-info/5404479-original-5c800e82-21ae-470a-b46e-a693324d9160/resize/100x50%3E/quality/90)Renault - Garage Nationale 7(3)Bernard Canonne • BE-1480 Tubize
 
 [
 
@@ -158,7 +143,7 @@ Pas d'information
 
 37 000 km01/202055 kW (75 CH)Occasion2 Propriétaires préc.Boîte manuelleDiesel3,7 l/100 km (mixte)98 g/km (mixte)
 
-![](https://prod.pictures.autoscout24.net/dealer-info/10694237-original-a8d853ab-d0b9-4e1b-941b-e9744f07b65a/resize/100x50>/quality/90)AUTO ALWAN SPRL(22)Hassan Mokdad • BE-1400 Nivelles
+![](https://prod.pictures.autoscout24.net/dealer-info/10694237-original-a8d853ab-d0b9-4e1b-941b-e9744f07b65a/resize/100x50%3E/quality/90)AUTO ALWAN SPRL(22)Hassan Mokdad • BE-1400 Nivelles
 
 [
 
@@ -188,7 +173,7 @@ Prix correct
 
 103 366 km05/201555 kW (75 CH)Occasion\- (Propriétaires préc.)Boîte manuelleEssence5,9 l/100 km (mixte)135 g/km (mixte)
 
-![](https://prod.pictures.autoscout24.net/dealer-info/18072841-original-0d2703aa-32e1-449f-a0cb-a73378f87667.jpg/resize/100x50>/quality/90)Leplae Automotive(7)Leplae • BE-8400 Oostende
+![](https://prod.pictures.autoscout24.net/dealer-info/18072841-original-0d2703aa-32e1-449f-a0cb-a73378f87667.jpg/resize/100x50%3E/quality/90)Leplae Automotive(7)Leplae • BE-8400 Oostende
 
 [
 
@@ -229,6 +214,6 @@ Très bon prix
 
 193 500 km03/201666 kW (90 CH)Occasion2 Propriétaires préc.Boîte manuelleEssence5,1 l/100 km (mixte)115 g/km (mixte)
 
-![](https://prod.pictures.autoscout24.net/dealer-info/3293452-original-4a4a865e-1f05-4795-8a4e-96bb993946b3/resize/100x50>/quality/90)Auto Caspien(32)Eslahi Rachid • BE-7033 Cuesmes
+![](https://prod.pictures.autoscout24.net/dealer-info/3293452-original-4a4a865e-1f05-4795-8a4e-96bb993946b3/resize/100x50%3E/quality/90)Auto Caspien(32)Eslahi Rachid • BE-7033 Cuesmes
 
 [Source](https://www.autoscout24.be/fr/lst/dacia/sandero?fregfrom=2015&sort=age&desc=1&cy=B&atype=C&ustate=N%2CU&powertype=kw&priceto=6000)
