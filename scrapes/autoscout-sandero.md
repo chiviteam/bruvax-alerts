@@ -75,21 +75,6 @@ Prix correct
 Dacia Sandero 
 --------------
 
-1.2i Ambiance](https://www.autoscout24.be/fr/offres/dacia-sandero-1-2i-ambiance-essence-bleu-e7d19a42-868e-4ef0-a932-ab262b966d21)
-
-€ 3 990,-
-
-Bon prix
-
-200 000 km01/201555 kW (75 CH)Occasion\- (Propriétaires préc.)Boîte manuelleEssence5,8 l/100 km (mixte)135 g/km (mixte)
-
-MCI AUTOMassimo De Montis • BE-7011 Mons
-
-[
-
-Dacia Sandero 
---------------
-
 1.2 benzine - 83000km - 2015 - garantie](https://www.autoscout24.be/fr/offres/dacia-sandero-1-2-benzine-83000km-2015-garantie-essence-bleu-d2c041ef-6026-49b6-bda5-0d906ee0aadc)
 
 € 5 950,-
