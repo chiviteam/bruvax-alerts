@@ -180,7 +180,7 @@ Dacia Sandero 
 
 € 5 350,-
 
-Très bon prix
+Pas d'information
 
 193 500 km03/201666 kW (90 CH)Occasion2 Propriétaires préc.Boîte manuelleEssence5,1 l/100 km (mixte)115 g/km (mixte)
 
