@@ -1,7 +1,7 @@
 ENFANTS / ADOS
 ==============
 
-Tous les cours du samedi sont complets. Il reste encore quelques places pour les cours du vendredi
+Tous nos cours sont complets.
 
 ![](https://brusselsclimbing.be/wp-content/uploads/enfants007.jpg)
 
@@ -181,8 +181,6 @@ du 17 au 21 juillet 2023 Pour les enfants de **4 à 7 ans** pour les 5 jours 150
 **Attention** : En vous inscrivant à nos cours (enfants ou adultes), veuillez noter qu’en cas de désistements ou absences, les cours ne peuvent être remboursés ou reportés. Uniquement une raison médicale de minimum 1 mois, avec certificat médical, peut donner droit à un remboursement…(-30€ de frais de gestion)
 
 [![](https://terresneuves.be/wp-content/uploads/present-2-cecile-domi-2-pdf-724x1024.jpg)](https://artnature.be/)
-
-![](https://terresneuves.be/wp-content/uploads/stage-aout-light--724x1024.jpg)
 
 ![](https://terresneuves.be/wp-content/uploads/stage-nature-2-2022-1-680x1024.jpg)
 
