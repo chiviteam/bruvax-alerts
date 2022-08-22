@@ -1,3 +1,26 @@
+![](https://prod.pictures.autoscout24.net/listing-images/70bcca57-d11b-4fac-aa1c-c6811dc4c27d_29e3412a-bb3f-4840-832c-7e4f40c1f9bc.jpg/250x188.webp)
+
+PrécédentSuivant
+
+1 / 10
+
+Nouveau
+
+[
+
+Dacia Sandero 
+--------------
+
+seulement 70000km](https://www.autoscout24.be/fr/offres/dacia-sandero-seulement-70000km-diesel-gris-70bcca57-d11b-4fac-aa1c-c6811dc4c27d)SauverPartager
+
+€ 4 550,-
+
+Pas d'information
+
+70 000 km03/201566 kW (90 CH)Occasion\- (Propriétaires préc.)\- (Boîte)Diesel\- (l/100 km)\- (g/km)
+
+W12CarsSur Rendez-Vous • BE-1600 Sint-Pieters-Leeuw
+
 ![](https://prod.pictures.autoscout24.net/listing-images/eaa5a43e-5094-4832-81ca-717b7e71c178_2cb686ce-817a-4edf-8465-a3d254fef67a.jpg/250x188.webp)
 
 PrécédentSuivant
@@ -9,7 +32,7 @@ PrécédentSuivant
 Dacia Sandero 
 --------------
 
-1.5 dCi Laureate](https://www.autoscout24.be/fr/offres/dacia-sandero-1-5-dci-laureate-diesel-rouge-eaa5a43e-5094-4832-81ca-717b7e71c178)SauverPartager
+1.5 dCi Laureate](https://www.autoscout24.be/fr/offres/dacia-sandero-1-5-dci-laureate-diesel-rouge-eaa5a43e-5094-4832-81ca-717b7e71c178)
 
 € 5 000,-
 
@@ -18,12 +41,6 @@ Bon prix
 156 000 km02/201566 kW (90 CH)Occasion1 Propriétaires préc.Boîte manuelleDiesel3,8 l/100 km (mixte)99 g/km (mixte)
 
 Particuliers,BE-6230 Buzet
-
-![](https://prod.pictures.autoscout24.net/listing-images/b75283e6-b67f-4c6f-be36-9c3b7d7cb675_f7a3396e-7eb5-45f1-acf1-2cde0bb8d24e.jpg/250x188.webp)
-
-PrécédentSuivant
-
-1 / 15
 
 [
 
@@ -124,7 +141,7 @@ Dacia Sandero 
 
 € 5 700,-
 
-Pas d'information
+Prix correct
 
 103 366 km05/201555 kW (75 CH)Occasion\- (Propriétaires préc.)Boîte manuelleEssence5,9 l/100 km (mixte)135 g/km (mixte)
 
