@@ -125,10 +125,10 @@ SEPT – JUIN**
 
 **Attention** : en vous inscrivant à nos cours (enfants ou adultes), veuillez noter qu’en cas de désistements ou absences, les cours ne peuvent être remboursés ou reportés. Uniquement une raison médicale de minimum 1 mois, avec certificat médical, peut donner droit à un remboursement…(-30€ de frais de gestion)
 
-STAGES
-------
+STAGES 2022 – 2023
+------------------
 
-Des stages à thèmes sont organisés pour les enfants à concurrence de cinq jours par semaine (de 9h à 16h).
+Des stages à thèmes sont organisés pour les enfants à concurrence de ***cinq jours*** ou ***de 3 jours*** par semaine (de 9h à 16h).
 
 Nous proposons aux enfants des activités ludiques et pédagogiques leurs permettant de découvrir l’escalade sous toutes ses formes et en toute sécurité.
 
@@ -142,22 +142,32 @@ Pour chaque stage, les thèmes varient (masques, Chine, jeux africains, cirque, 
 Stage n°1
 ---------
 
-du 24 au 28 octobre 2022 Pour les enfants de **4 à 7 ans** pour les 5 jours 150€
+du 24 au 28 octobre 2022 Pour les enfants de **4 à 7 ans** pour les 5 jours 150€. Avec Cécile et Marc
 
-Stage n°2 (Noël)
+Stage n°2
+---------
+
+du 02 au 04 novembre 2022 Pour les enfants de **9 à 13 ans** pour les 3 jours 90€. Avec Fred et Wouter
+
+Stage n°3 (Noël)
 ----------------
 
-du 02 au 06 janvier 2023 Pour les enfants de **5 à 8 ans** pour les 5 jours 150€
+du 27 au 29 décembre 2022 Pour les enfants de **9 à 13 ans** pour les 3 jours 90€. Avec Fred et Wouter
 
-Stage n°3
+Stage n°4 (Noël)
+----------------
+
+du 02 au 06 janvier 2023 Pour les enfants de **5 à 8 ans** pour les 5 jours 150€. Avec Cécile et Marc
+
+Stage n°5
 ---------
 
-du 27 février au 03 mars 2023 Pour les enfants de **4 à 7 ans** pour les 5 jours 150€
+du 27 février au 03 mars 2023 Pour les enfants de **4 à 7 ans** pour les 5 jours 150€. Avec Cécile et Marc
 
-Stage n°4
+Stage n°6
 ---------
 
-du 17 au 21 juillet 2023 Pour les enfants de **4 à 7 ans** pour les 5 jours 150€
+du 17 au 21 juillet 2023 Pour les enfants de **4 à 7 ans** pour les 5 jours 150€. Avec Cécile et Marc
 
 ![](https://terresneuves.be/wp-content/uploads/enfnats-6-1024x299.jpg)
 
