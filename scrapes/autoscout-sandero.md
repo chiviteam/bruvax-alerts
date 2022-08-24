@@ -21,11 +21,28 @@ Pas d'information
 
 Particuliers,BE-3700 Tongeren
 
-![](https://prod.pictures.autoscout24.net/listing-images/eaa5a43e-5094-4832-81ca-717b7e71c178_2cb686ce-817a-4edf-8465-a3d254fef67a.jpg/250x188.webp)
+![](https://prod.pictures.autoscout24.net/listing-images/70bcca57-d11b-4fac-aa1c-c6811dc4c27d_29e3412a-bb3f-4840-832c-7e4f40c1f9bc.jpg/250x188.webp)
 
 PrécédentSuivant
 
-1 / 15
+1 / 10
+
+Nouveau
+
+[
+
+Dacia Sandero 
+--------------
+
+seulement 70000km](https://www.autoscout24.be/fr/offres/dacia-sandero-seulement-70000km-diesel-gris-70bcca57-d11b-4fac-aa1c-c6811dc4c27d)
+
+€ 4 550,-
+
+Pas d'information
+
+70 000 km03/201566 kW (90 CH)Occasion\- (Propriétaires préc.)\- (Boîte)Diesel\- (l/100 km)\- (g/km)
+
+W12CarsSur Rendez-Vous • BE-1600 Sint-Pieters-Leeuw
 
 [
 
@@ -92,6 +109,21 @@ JB-Automotive(1)Jay Brown • BE-8800 roeselare
 Dacia Sandero 
 --------------
 
+Sce](https://www.autoscout24.be/fr/offres/dacia-sandero-sce-essence-bleu-b33b2f72-d0aa-4476-8411-193e4fd96e59)
+
+€ 5 495,-
+
+Prix correct
+
+127 981 km06/201754 kW (73 CH)Occasion\- (Propriétaires préc.)Boîte manuelleEssence5,2 l/100 km (mixte)117 g/km (mixte)
+
+![](https://prod.pictures.autoscout24.net/dealer-info/5404479-original-5c800e82-21ae-470a-b46e-a693324d9160/resize/100x50%3E/quality/90)Renault - Garage Nationale 7(3)Bernard Canonne • BE-1480 Tubize
+
+[
+
+Dacia Sandero 
+--------------
+
 !!!!UNIQUEMENT EXPORTATION En DEHORS L'EUROPE!!!!](https://www.autoscout24.be/fr/offres/dacia-sandero-uniquement-exportation-en-dehors-l-europe-diesel-noir-0d749140-db69-47c6-9265-58a0b985e05d)
 
 € 5 999,-
@@ -101,6 +133,21 @@ Pas d'information
 37 000 km01/202055 kW (75 CH)Occasion2 Propriétaires préc.Boîte manuelleDiesel3,7 l/100 km (mixte)98 g/km (mixte)
 
 ![](https://prod.pictures.autoscout24.net/dealer-info/10694237-original-a8d853ab-d0b9-4e1b-941b-e9744f07b65a/resize/100x50%3E/quality/90)AUTO ALWAN SPRL(22)Hassan Mokdad • BE-1400 Nivelles
+
+[
+
+Dacia Sandero 
+--------------
+
+TCe Stepway (EU6.2)](https://www.autoscout24.be/fr/offres/dacia-sandero-tce-stepway-eu6-2-essence-bleu-683669c4-e2d4-492b-ad75-bda14b92be70)
+
+€ 4 999,-
+
+Pas d'information
+
+5 800 km06/201966 kW (90 CH)Occasion\- (Propriétaires préc.)Boîte manuelleEssence5,3 l/100 km (mixte)121 g/km (mixte)
+
+Said Car(20)BE-8791 Waregem
 
 [
 
@@ -142,5 +189,20 @@ Pas d'information
 146 000 km03/201555 kW (75 CH)Occasion\- (Propriétaires préc.)Boîte manuelleEssence5,8 l/100 km (mixte)\- (g/km)
 
 UZ CARSali uz • BE-1730 Asse
+
+[
+
+Dacia Sandero 
+--------------
+
+0.9 TCe Stepway gps airco euro6b garantie](https://www.autoscout24.be/fr/offres/dacia-sandero-0-9-tce-stepway-gps-airco-euro6b-garantie-essence-gris-4304e31f-d9b2-4863-b7f2-5f57d3ef74d3)
+
+€ 5 350,-
+
+Très bon prix
+
+193 500 km03/201666 kW (90 CH)Occasion2 Propriétaires préc.Boîte manuelleEssence5,1 l/100 km (mixte)115 g/km (mixte)
+
+![](https://prod.pictures.autoscout24.net/dealer-info/3293452-original-4a4a865e-1f05-4795-8a4e-96bb993946b3/resize/100x50%3E/quality/90)Auto Caspien(32)Eslahi Rachid • BE-7033 Cuesmes
 
 [Source](https://www.autoscout24.be/fr/lst/dacia/sandero?fregfrom=2015&sort=age&desc=1&cy=B&atype=C&ustate=N%2CU&powertype=kw&priceto=6000)
