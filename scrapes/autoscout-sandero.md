@@ -1,24 +1,3 @@
-![](https://prod.pictures.autoscout24.net/listing-images/4ab135ef-182f-4d8a-b8bb-a466a90a8210_09bbbb8b-a9de-4ceb-8d33-c1e606d19208.jpg/250x188.webp)
-
-PrécédentSuivant
-
-1 / 3
-
-[
-
-Dacia Sandero 
---------------
-
-SCe 75 Ambiance](https://www.autoscout24.be/fr/offres/dacia-sandero-sce-75-ambiance-essence-gris-4ab135ef-182f-4d8a-b8bb-a466a90a8210)SauverPartager
-
-€ 5 000,-
-
-Pas d'information
-
-44 864 km01/201854 kW (73 CH)Occasion\- (Propriétaires préc.)Boîte manuelleEssence5,2 l/100 km (mixte)\- (g/km)
-
-Particuliers,BE-3700 Tongeren
-
 ![](https://prod.pictures.autoscout24.net/listing-images/70bcca57-d11b-4fac-aa1c-c6811dc4c27d_29e3412a-bb3f-4840-832c-7e4f40c1f9bc.jpg/250x188.webp)
 
 PrécédentSuivant
@@ -30,7 +9,7 @@ PrécédentSuivant
 Dacia Sandero 
 --------------
 
-seulement 70000km](https://www.autoscout24.be/fr/offres/dacia-sandero-seulement-70000km-diesel-gris-70bcca57-d11b-4fac-aa1c-c6811dc4c27d)
+seulement 70000km](https://www.autoscout24.be/fr/offres/dacia-sandero-seulement-70000km-diesel-gris-70bcca57-d11b-4fac-aa1c-c6811dc4c27d)SauverPartager
 
 € 4 550,-
 
@@ -39,6 +18,12 @@ Pas d'information
 70 000 km03/201566 kW (90 CH)Occasion\- (Propriétaires préc.)\- (Boîte)Diesel\- (l/100 km)\- (g/km)
 
 W12CarsSur Rendez-Vous • BE-1600 Sint-Pieters-Leeuw
+
+![](https://prod.pictures.autoscout24.net/listing-images/eaa5a43e-5094-4832-81ca-717b7e71c178_2cb686ce-817a-4edf-8465-a3d254fef67a.jpg/250x188.webp)
+
+PrécédentSuivant
+
+1 / 15
 
 [
 
