@@ -15,26 +15,11 @@ Pas d'information
 
 Particuliers,BE-7090 Hennuyere
 
-![](https://prod.pictures.autoscout24.net/listing-images/70bcca57-d11b-4fac-aa1c-c6811dc4c27d_29e3412a-bb3f-4840-832c-7e4f40c1f9bc.jpg/250x188.webp)
+![](https://prod.pictures.autoscout24.net/listing-images/eaa5a43e-5094-4832-81ca-717b7e71c178_2cb686ce-817a-4edf-8465-a3d254fef67a.jpg/250x188.webp)
 
 PrécédentSuivant
 
-1 / 10
-
-[
-
-Dacia Sandero 
---------------
-
-seulement 70000km](https://www.autoscout24.be/fr/offres/dacia-sandero-seulement-70000km-diesel-gris-70bcca57-d11b-4fac-aa1c-c6811dc4c27d)
-
-€ 4 550,-
-
-Pas d'information
-
-70 000 km03/201566 kW (90 CH)Occasion\- (Propriétaires préc.)\- (Boîte)Diesel\- (l/100 km)\- (g/km)
-
-W12CarsSur Rendez-Vous • BE-1600 Sint-Pieters-Leeuw
+1 / 15
 
 [
 
