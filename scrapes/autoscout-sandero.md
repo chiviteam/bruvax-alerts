@@ -1,3 +1,9 @@
+![](https://prod.pictures.autoscout24.net/listing-images/b75283e6-b67f-4c6f-be36-9c3b7d7cb675_f7a3396e-7eb5-45f1-acf1-2cde0bb8d24e.jpg/250x188.webp)
+
+PrécédentSuivant
+
+1 / 15
+
 Nouveau
 
 [
@@ -5,7 +11,24 @@ Nouveau
 Dacia Sandero 
 --------------
 
-0.9 TCe Stepway](https://www.autoscout24.be/fr/offres/dacia-sandero-0-9-tce-stepway-essence-noir-58747af1-51af-4616-9d64-d404cd27bdeb)SauverPartager
+0.9 TCe Stepway Benzine Airco KoppelingTeVervangen](https://www.autoscout24.be/fr/offres/dacia-sandero-0-9-tce-stepway-benzine-airco-koppelingtevervangen-essence-noir-b75283e6-b67f-4c6f-be36-9c3b7d7cb675)SauverPartager
+
+€ 4 999,-
+
+Bon prix
+
+202 000 km06/201566 kW (90 CH)Occasion\- (Propriétaires préc.)Boîte manuelleEssence6,4 l/100 km (mixte)124 g/km (mixte)
+
+![](https://prod.pictures.autoscout24.net/dealer-info/34878650-original-2f3a7e19-e68c-48b9-84f4-bfc3d4a6d2d1.jpg/resize/100x50%3E/quality/90)Autos Zebs(2)Auto's Zebs • BE-3600 Genk
+
+Nouveau
+
+[
+
+Dacia Sandero 
+--------------
+
+0.9 TCe Stepway](https://www.autoscout24.be/fr/offres/dacia-sandero-0-9-tce-stepway-essence-noir-58747af1-51af-4616-9d64-d404cd27bdeb)
 
 € 4 400,-
 
@@ -14,12 +37,6 @@ Pas d'information
 110 000 km05/201666 kW (90 CH)Occasion\- (Propriétaires préc.)Boîte manuelleEssence5,4 l/100 km (mixte)124 g/km (mixte)
 
 Particuliers,BE-7090 Hennuyere
-
-![](https://prod.pictures.autoscout24.net/listing-images/eaa5a43e-5094-4832-81ca-717b7e71c178_2cb686ce-817a-4edf-8465-a3d254fef67a.jpg/250x188.webp)
-
-PrécédentSuivant
-
-1 / 15
 
 [
 
@@ -35,21 +52,6 @@ Bon prix
 156 000 km02/201566 kW (90 CH)Occasion1 Propriétaires préc.Boîte manuelleDiesel3,8 l/100 km (mixte)99 g/km (mixte)
 
 Particuliers,BE-6230 Buzet
-
-[
-
-Dacia Sandero 
---------------
-
-0.9 TCe Stepway Benzine Airco KoppelingTeVervangen](https://www.autoscout24.be/fr/offres/dacia-sandero-0-9-tce-stepway-benzine-airco-koppelingtevervangen-essence-noir-b75283e6-b67f-4c6f-be36-9c3b7d7cb675)
-
-€ 4 999,-
-
-Bon prix
-
-202 000 km06/201566 kW (90 CH)Occasion\- (Propriétaires préc.)Boîte manuelleEssence6,4 l/100 km (mixte)124 g/km (mixte)
-
-![](https://prod.pictures.autoscout24.net/dealer-info/34878650-original-2f3a7e19-e68c-48b9-84f4-bfc3d4a6d2d1.jpg/resize/100x50%3E/quality/90)Autos Zebs(2)Auto's Zebs • BE-3600 Genk
 
 [
 
