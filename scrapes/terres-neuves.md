@@ -192,6 +192,4 @@ du 17 au 21 juillet 2023 Pour les enfants de **4 à 7 ans** pour les 5 jours 150
 
 [![](https://terresneuves.be/wp-content/uploads/present-2-cecile-domi-2-pdf-724x1024.jpg)](https://artnature.be/)
 
-![](https://terresneuves.be/wp-content/uploads/stage-nature-2-2022-1-680x1024.jpg)
-
 [Source](https://terresneuves.be/enfants/)
