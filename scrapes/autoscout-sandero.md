@@ -21,8 +21,6 @@ Bon prix
 
 ![](https://prod.pictures.autoscout24.net/dealer-info/34878650-original-2f3a7e19-e68c-48b9-84f4-bfc3d4a6d2d1.jpg/resize/100x50%3E/quality/90)Autos Zebs(2)Auto's Zebs • BE-3600 Genk
 
-Nouveau
-
 [
 
 Dacia Sandero 
