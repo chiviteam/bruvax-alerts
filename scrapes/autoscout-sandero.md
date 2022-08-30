@@ -131,21 +131,6 @@ Said Car(20)BE-8791 Waregem
 Dacia Sandero 
 --------------
 
-1.2i 16V 55 KW](https://www.autoscout24.be/fr/offres/dacia-sandero-1-2i-16v-55-kw-essence-bleu-f75918c8-e6c7-40ac-94c7-c8902c5b3001)
-
-€ 5 700,-
-
-Bon prix
-
-103 366 km05/201555 kW (75 CH)Occasion\- (Propriétaires préc.)Boîte manuelleEssence5,9 l/100 km (mixte)135 g/km (mixte)
-
-![](https://prod.pictures.autoscout24.net/dealer-info/18072841-original-0d2703aa-32e1-449f-a0cb-a73378f87667.jpg/resize/100x50%3E/quality/90)Leplae Automotive(7)Leplae • BE-8400 Oostende
-
-[
-
-Dacia Sandero 
---------------
-
 1.2i](https://www.autoscout24.be/fr/offres/dacia-sandero-1-2i-essence-blanc-65187253-b294-470f-8460-606742c53654)
 
 € 4 500,-
