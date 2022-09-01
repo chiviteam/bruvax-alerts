@@ -152,19 +152,4 @@ Pas d'information
 
 UZ CARSali uz • BE-1730 Asse
 
-[
-
-Dacia Sandero 
---------------
-
-0.9 TCe Stepway gps airco euro6b garantie](https://www.autoscout24.be/fr/offres/dacia-sandero-0-9-tce-stepway-gps-airco-euro6b-garantie-essence-gris-4304e31f-d9b2-4863-b7f2-5f57d3ef74d3)
-
-€ 5 350,-
-
-Très bon prix
-
-193 500 km03/201666 kW (90 CH)Occasion2 Propriétaires préc.Boîte manuelleEssence5,1 l/100 km (mixte)115 g/km (mixte)
-
-![](https://prod.pictures.autoscout24.net/dealer-info/3293452-original-4a4a865e-1f05-4795-8a4e-96bb993946b3/resize/100x50%3E/quality/90)Auto Caspien(32)Eslahi Rachid • BE-7033 Cuesmes
-
 [Source](https://www.autoscout24.be/fr/lst/dacia/sandero?fregfrom=2015&sort=age&desc=1&cy=B&atype=C&ustate=N%2CU&powertype=kw&priceto=6000)
