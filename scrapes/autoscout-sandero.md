@@ -11,7 +11,7 @@ Nouveau
 Dacia Sandero 
 --------------
 
-1.0i SCe +Bluethoot tel 🎶+ ☎️0478/283.002](https://www.autoscout24.be/fr/offres/dacia-sandero-1-0i-sce-bluethoot-tel--0478-283-002-essence-gris-635587e9-269b-4df9-8913-42f76f5d33b0)SauverPartager
+1.0i SCe +Bluethoot tel 🎶+ ☎️0478/283.002Bluetooth, Dispositif mains libres, Radio](https://www.autoscout24.be/fr/offres/dacia-sandero-1-0i-sce-bluethoot-tel--0478-283-002-essence-gris-635587e9-269b-4df9-8913-42f76f5d33b0)SauverPartager
 
 € 5 900,-
 
