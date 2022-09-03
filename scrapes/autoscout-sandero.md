@@ -1,32 +1,9 @@
-![](https://prod.pictures.autoscout24.net/listing-images/635587e9-269b-4df9-8913-42f76f5d33b0_c742660f-631f-4fc4-89dd-9ba74b6efd34.jpg/250x188.webp)
-
-PrécédentSuivant
-
-1 / 12
-
-Nouveau
-
 [
 
 Dacia Sandero 
 --------------
 
-1.0i SCe +Bluethoot tel 🎶+ ☎️0478/283.002Bluetooth, Dispositif mains libres, Radio](https://www.autoscout24.be/fr/offres/dacia-sandero-1-0i-sce-bluethoot-tel--0478-283-002-essence-gris-635587e9-269b-4df9-8913-42f76f5d33b0)SauverPartager
-
-€ 5 900,-
-
-Très bon prix
-
-60 000 km05/201854 kW (73 CH)Occasion1 Propriétaires préc.Boîte manuelleEssence5,2 l/100 km (mixte)\- (g/km)
-
-![](https://prod.pictures.autoscout24.net/dealer-info/24306557-original-dcb7c579-d678-4d97-98e6-4e2570b0dee9/resize/100x50%3E/quality/90)OK Automobiles(45)BE-1080 Bruxelles
-
-[
-
-Dacia Sandero 
---------------
-
-0.9 TCe Stepway](https://www.autoscout24.be/fr/offres/dacia-sandero-0-9-tce-stepway-essence-noir-58747af1-51af-4616-9d64-d404cd27bdeb)
+0.9 TCe Stepway](https://www.autoscout24.be/fr/offres/dacia-sandero-0-9-tce-stepway-essence-noir-58747af1-51af-4616-9d64-d404cd27bdeb)SauverPartager
 
 € 4 400,-
 
@@ -35,6 +12,12 @@ Pas d'information
 110 000 km05/201666 kW (90 CH)Occasion\- (Propriétaires préc.)Boîte manuelleEssence5,4 l/100 km (mixte)124 g/km (mixte)
 
 Particuliers,BE-7090 Hennuyere
+
+![](https://prod.pictures.autoscout24.net/listing-images/eaa5a43e-5094-4832-81ca-717b7e71c178_2cb686ce-817a-4edf-8465-a3d254fef67a.jpg/250x188.webp)
+
+PrécédentSuivant
+
+1 / 15
 
 [
 
