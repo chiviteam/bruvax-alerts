@@ -28,7 +28,7 @@ Dacia Sandero 
 
 € 5 000,-
 
-Pas d'information
+Bon prix
 
 156 000 km02/201566 kW (90 CH)Occasion1 Propriétaires préc.Boîte manuelleDiesel3,8 l/100 km (mixte)99 g/km (mixte)
 
@@ -43,7 +43,7 @@ Dacia Sandero 
 
 € 5 950,-
 
-Pas d'information
+Prix correct
 
 134 000 km07/201555 kW (75 CH)Occasion\- (Propriétaires préc.)Boîte manuelleDiesel3,8 l/100 km (mixte)\- (g/km)
 
@@ -58,7 +58,7 @@ Dacia Sandero 
 
 € 5 950,-
 
-Pas d'information
+Prix correct
 
 83 000 km09/201555 kW (75 CH)Occasion2 Propriétaires préc.Boîte manuelleEssence5,8 l/100 km (mixte)135 g/km (mixte)
 
@@ -73,7 +73,7 @@ Sce](https://www.autoscout24.be/fr/offres/dacia-sandero-sce-essence-bleu-b33b2f7
 
 € 5 495,-
 
-Pas d'information
+Prix correct
 
 127 981 km06/201754 kW (73 CH)Occasion\- (Propriétaires préc.)Boîte manuelleEssence5,2 l/100 km (mixte)117 g/km (mixte)
 
@@ -118,7 +118,7 @@ Dacia Sandero 
 
 € 4 500,-
 
-Pas d'information
+Très bon prix
 
 80 350 km06/201654 kW (73 CH)Occasion1 Propriétaires préc.Boîte manuelleEssence5,8 l/100 km (mixte)130 g/km (mixte)
 
