@@ -124,6 +124,21 @@ Très bon prix
 
 Particuliers,BE-1348 Louvain-la-Neuve
 
+[
+
+Dacia Sandero 
+--------------
+
+SCe 75 Acces](https://www.autoscout24.be/fr/offres/dacia-sandero-sce-75-acces-essence-argent-468f9be7-e20a-4836-a04f-a9c9116719ee)
+
+€ 4 350,-
+
+Pas d'information
+
+55 457 km03/201854 kW (73 CH)Occasion\- (Propriétaires préc.)Boîte manuelleEssence4,9 l/100 km (mixte)112 g/km (mixte)
+
+![](https://prod.pictures.autoscout24.net/dealer-info/3214207-original-84bbb09b-6c0d-4d50-90b2-2772eb8858c6.jpg/resize/100x50%3E/quality/90)Aramex Auto sprl(14)Simon Chokr • BE-6001 Marcinelle
+
 [Dacia Sandero 
 --------------](https://www.autoscout24.be/fr/offres/dacia-sandero-essence-gris-2378736f-37ad-444a-adfb-8e634035d5f0) 
 
