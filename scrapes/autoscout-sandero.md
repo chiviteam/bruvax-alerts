@@ -1,9 +1,32 @@
+![](https://prod.pictures.autoscout24.net/listing-images/7e120e2a-6091-48eb-b1b3-fd128d7ca0a8_4b9877e5-2eda-4477-bd0d-112218cb4747.jpg/250x188.webp)
+
+PrécédentSuivant
+
+1 / 7
+
+Nouveau
+
 [
 
 Dacia Sandero 
 --------------
 
-0.9 TCe Stepway](https://www.autoscout24.be/fr/offres/dacia-sandero-0-9-tce-stepway-essence-noir-58747af1-51af-4616-9d64-d404cd27bdeb)SauverPartager
+1.5 dCi Ambiance](https://www.autoscout24.be/fr/offres/dacia-sandero-1-5-dci-ambiance-diesel-gris-7e120e2a-6091-48eb-b1b3-fd128d7ca0a8)SauverPartager
+
+€ 2 500,-
+
+Pas d'information
+
+85 000 km09/201555 kW (75 CH)Occasion1 Propriétaires préc.Boîte manuelleDiesel3,8 l/100 km (mixte)99 g/km (mixte)
+
+TUTAR AUTO(2)Orhan Tutar • BE-1130 HAREN BRUXELLES
+
+[
+
+Dacia Sandero 
+--------------
+
+0.9 TCe Stepway](https://www.autoscout24.be/fr/offres/dacia-sandero-0-9-tce-stepway-essence-noir-58747af1-51af-4616-9d64-d404cd27bdeb)
 
 € 4 400,-
 
@@ -12,12 +35,6 @@ Pas d'information
 110 000 km05/201666 kW (90 CH)Occasion\- (Propriétaires préc.)Boîte manuelleEssence5,4 l/100 km (mixte)124 g/km (mixte)
 
 Particuliers,BE-7090 Hennuyere
-
-![](https://prod.pictures.autoscout24.net/listing-images/eaa5a43e-5094-4832-81ca-717b7e71c178_2cb686ce-817a-4edf-8465-a3d254fef67a.jpg/250x188.webp)
-
-PrécédentSuivant
-
-1 / 15
 
 [
 
