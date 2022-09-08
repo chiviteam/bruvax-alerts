@@ -179,15 +179,4 @@ Pas d'information
 
 ![](https://prod.pictures.autoscout24.net/dealer-info/3214207-original-84bbb09b-6c0d-4d50-90b2-2772eb8858c6.jpg/resize/100x50%3E/quality/90)Aramex Auto sprl(14)Simon Chokr • BE-6001 Marcinelle
 
-[Dacia Sandero 
---------------](https://www.autoscout24.be/fr/offres/dacia-sandero-essence-gris-2378736f-37ad-444a-adfb-8e634035d5f0) 
-
-€ 5 950,-
-
-Pas d'information
-
-146 000 km03/201555 kW (75 CH)Occasion\- (Propriétaires préc.)Boîte manuelleEssence5,8 l/100 km (mixte)\- (g/km)
-
-UZ CARSali uz • BE-1730 Asse
-
 [Source](https://www.autoscout24.be/fr/lst/dacia/sandero?fregfrom=2015&sort=age&desc=1&cy=B&atype=C&ustate=N%2CU&powertype=kw&priceto=6000)
