@@ -36,7 +36,7 @@ Dacia Sandero 
 
 1.5 dCi Ambiance](https://www.autoscout24.be/fr/offres/dacia-sandero-1-5-dci-ambiance-diesel-gris-7e120e2a-6091-48eb-b1b3-fd128d7ca0a8)
 
-€ 2 500,-
+€ 2 200,-
 
 Pas d'information
 
