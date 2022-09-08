@@ -86,21 +86,6 @@ JB-Automotive(1)Jay Brown • BE-8800 roeselare
 Dacia Sandero 
 --------------
 
-Sce](https://www.autoscout24.be/fr/offres/dacia-sandero-sce-essence-bleu-b33b2f72-d0aa-4476-8411-193e4fd96e59)
-
-€ 5 495,-
-
-Prix correct
-
-127 981 km06/201754 kW (73 CH)Occasion\- (Propriétaires préc.)Boîte manuelleEssence5,2 l/100 km (mixte)117 g/km (mixte)
-
-![](https://prod.pictures.autoscout24.net/dealer-info/5404479-original-5c800e82-21ae-470a-b46e-a693324d9160/resize/100x50%3E/quality/90)Renault - Garage Nationale 7(3)Bernard Canonne • BE-1480 Tubize
-
-[
-
-Dacia Sandero 
---------------
-
 !!!!UNIQUEMENT EXPORTATION En DEHORS L'EUROPE!!!!](https://www.autoscout24.be/fr/offres/dacia-sandero-uniquement-exportation-en-dehors-l-europe-diesel-noir-0d749140-db69-47c6-9265-58a0b985e05d)
 
 € 5 999,-
