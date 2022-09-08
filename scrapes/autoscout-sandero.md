@@ -1,3 +1,26 @@
+![](https://prod.pictures.autoscout24.net/listing-images/c5d92549-8cc2-4d9f-868b-9a3c523eabe2_ec842b17-9aa2-491b-a8fa-490bd0d241dc.jpg/250x188.webp)
+
+PrécédentSuivant
+
+1 / 8
+
+Nouveau
+
+[
+
+Dacia Sandero 
+--------------
+
+1.0i SCe](https://www.autoscout24.be/fr/offres/dacia-sandero-1-0i-sce-essence-gris-c5d92549-8cc2-4d9f-868b-9a3c523eabe2)SauverPartager
+
+€ 5 800,-
+
+Pas d'information
+
+21 149 km03/201754 kW (73 CH)Occasion\- (Propriétaires préc.)Boîte manuelleEssence5,2 l/100 km (mixte)117 g/km (mixte)
+
+Particuliers,BE-5590 Ciney
+
 ![](https://prod.pictures.autoscout24.net/listing-images/7e120e2a-6091-48eb-b1b3-fd128d7ca0a8_4b9877e5-2eda-4477-bd0d-112218cb4747.jpg/250x188.webp)
 
 PrécédentSuivant
@@ -11,7 +34,7 @@ Nouveau
 Dacia Sandero 
 --------------
 
-1.5 dCi Ambiance](https://www.autoscout24.be/fr/offres/dacia-sandero-1-5-dci-ambiance-diesel-gris-7e120e2a-6091-48eb-b1b3-fd128d7ca0a8)SauverPartager
+1.5 dCi Ambiance](https://www.autoscout24.be/fr/offres/dacia-sandero-1-5-dci-ambiance-diesel-gris-7e120e2a-6091-48eb-b1b3-fd128d7ca0a8)
 
 € 2 500,-
 
