@@ -39,21 +39,6 @@ Particuliers,BE-7090 Hennuyere
 Dacia Sandero 
 --------------
 
-1.5 dCi Laureate](https://www.autoscout24.be/fr/offres/dacia-sandero-1-5-dci-laureate-diesel-rouge-eaa5a43e-5094-4832-81ca-717b7e71c178)
-
-€ 5 000,-
-
-Bon prix
-
-156 000 km02/201566 kW (90 CH)Occasion1 Propriétaires préc.Boîte manuelleDiesel3,8 l/100 km (mixte)99 g/km (mixte)
-
-Particuliers,BE-6230 Buzet
-
-[
-
-Dacia Sandero 
---------------
-
 1.5 dCi AIRCO CARPASS GARANTIE ✅](https://www.autoscout24.be/fr/offres/dacia-sandero-1-5-dci-airco-carpass-garantie--diesel-blanc-57872d38-3f47-4449-8922-6c1a027ded22)
 
 € 5 950,-
