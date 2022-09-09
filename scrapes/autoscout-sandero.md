@@ -137,6 +137,21 @@ Said Car(20)BE-8791 Waregem
 Dacia Sandero 
 --------------
 
+1.2i](https://www.autoscout24.be/fr/offres/dacia-sandero-1-2i-essence-blanc-65187253-b294-470f-8460-606742c53654)
+
+€ 4 500,-
+
+Très bon prix
+
+80 350 km06/201654 kW (73 CH)Occasion1 Propriétaires préc.Boîte manuelleEssence5,8 l/100 km (mixte)130 g/km (mixte)
+
+Particuliers,BE-1348 Louvain-la-Neuve
+
+[
+
+Dacia Sandero 
+--------------
+
 SCe 75 Acces](https://www.autoscout24.be/fr/offres/dacia-sandero-sce-75-acces-essence-argent-468f9be7-e20a-4836-a04f-a9c9116719ee)
 
 € 4 350,-
