@@ -27,8 +27,6 @@ PrécédentSuivant
 
 1 / 7
 
-Nouveau
-
 [
 
 Dacia Sandero 
