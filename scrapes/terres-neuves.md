@@ -139,8 +139,8 @@ Pour les enfants de 4 à 7 ans, les activités liées à la pratique de l’esca
 
 Pour chaque stage, les thèmes varient (masques, Chine, jeux africains, cirque, théâtre d’ombres…).
 
-Stage n°1
----------
+Stage n°1 complet
+-----------------
 
 du 24 au 28 octobre 2022 Pour les enfants de **4 à 7 ans** pour les 5 jours 150€. Avec Cécile et Marc
 
