@@ -11,7 +11,7 @@
   "author": "",
   "license": "ISC",
   "devDependencies": {
-    "playwright-firefox": "^1.6.1"
+    "playwright": "^1.6.1"
   },
   "dependencies": {
     "turndown": "^7.0.0"
