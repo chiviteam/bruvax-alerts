@@ -1,12 +1,12 @@
-[](https://www.bozar.be/fr/calendrier/nils-frahm-music-brussels)
+[](https://www.bozar.be/fr/calendrier/metropolis-rebooted-cine-concert)
 
-Derniers tickets ![](https://www.bozar.be/sites/default/files/styles/small_card_landscape/public/efficy/images/2819638_nils_frahm_web_c_gr-dr.jpg?h=2a71c125&itok=aRj4tGZR) 
+Derniers tickets ![](https://www.bozar.be/sites/default/files/styles/small_card_landscape/public/efficy/images/2852278_metropolis_preference.jpeg?h=ddb1ad0c&itok=UlAn5Obi) 
 
 Sold out Annulé Reporté
 
-14 Oct.'22  
-\- 20:30
+18 Nov.'22  
+\- 20:00
 
-#### Nils Frahm Music for Brussels
+#### Metropolis Rebooted : Ciné-concert
 
 [Source](https://www.bozar.be/fr/search?contentType=event&searchQuery=kang)
