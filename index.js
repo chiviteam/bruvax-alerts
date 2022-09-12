@@ -20,8 +20,11 @@ const lib = require("./lib");
             scrapeUrl: "https://www.bozar.be/fr/search?contentType=event&searchQuery=hahn",
             selector: '.search-page__results-list > article:not(.hidden)',
             multiple: true,
+            multipleItemId: (el) => {
+                return await el.getAttribute('about');
+            },
             id: "bozar-hilary-hahn"
-        },
+        }/*,
         {
             scrapeUrl: "https://www.bozar.be/fr/search?contentType=event&searchQuery=chen",
             selector: '.search-page__results-list > article:not(.hidden)',
@@ -100,6 +103,7 @@ const lib = require("./lib");
             multiple: true,
             id: "bozar-savall"
         }
+        */
     ]
 
     lib.grabAll(checks);

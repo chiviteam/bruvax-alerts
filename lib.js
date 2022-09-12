@@ -21,20 +21,26 @@ async function grab(turndownService, context, page, check) {
         })
     });
 
-    var innerHtml = '';
-
     if (multiple) {
 
         const elementHandles = await page.$$(selector);
         for(const el of elementHandles) {
-            innerHtml += await el.innerHTML();
+            const itemId = check.multipleItemId(el);
+            const innerHtml = await el.innerHTML();
+            const mdFilePath = `scrapes/${id}/${itemId}.md`;
+            writeMarkdownFile(turndownService, mdFilePath, innerHtml, scrapeUrl);
         }
+        
     } else {
         const elementHandle = await page.$(selector);
-        innerHtml = await elementHandle.innerHTML();
+        const innerHtml = await elementHandle.innerHTML();
+        const mdFilePath = `scrapes/${id}.md`;
+        writeMarkdownFile(turndownService, mdFilePath, innerHtml, scrapeUrl);
     }
 
-    const mdFilePath = `scrapes/${id}.md`;
+}
+
+function writeMarkdownFile(turndownService, mdFilePath, innerHtml, scrapeUrl) {
     ensureDirectoryExistence(mdFilePath);
     fs.writeFileSync(mdFilePath, turndownService.turndown(`<div><div>${innerHtml}</div><p><a href="${scrapeUrl}">Source</a></p></div>`));
 }

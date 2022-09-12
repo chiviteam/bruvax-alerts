@@ -27,6 +27,7 @@ jobs:
           git commit -m "Latest checks data: ${timestamp}" || exit 0
           git push
           additions="$(git diff -w HEAD^ HEAD ':*.md')"
+                    additions="$(git diff HEAD^ HEAD --name-only --diff-filter=AM --exit-code ':*.md' | sed -r 's/(.*)\.md$/https\:\/\/github\.com\/chiviteam\/web-alerts\/blob\/main\/\1\.md/')"
           additions="${additions//'%'/'%25'}"
           additions="${additions//$'\n'/'%0A'}"
           additions="${additions//$'\r'/'%0D'}"
@@ -38,5 +39,5 @@ jobs:
         with:
           to: ${{ secrets.TELEGRAM_TO }}
           token: ${{ secrets.TELEGRAM_TOKEN }}
-          message: "[Check alert - changes](${{steps.try-commit-push.outputs.checks-url}}):\n```diff\n${{steps.try-commit-push.outputs.checks-changes}}\n```\n[See changes on github](${{steps.try-commit-push.outputs.checks-url}})"
+          message: "[Check alert - changes](${{steps.try-commit-push.outputs.checks-url}}):\n${{steps.try-commit-push.outputs.checks-changes}}\n[See changes on github](${{steps.try-commit-push.outputs.checks-url}})"
           format: markdown
