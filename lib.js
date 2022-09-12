@@ -1,10 +1,16 @@
 //@ts-check
 const {firefox} = require('playwright');
 const fs = require('fs');
+const path = require('path');
 const TurndownService = require('turndown');
 
-async function grab(turndownService, context, page, scrapeUrl, selector, id, multiple) {
+async function grab(turndownService, context, page, check) {
     
+    const scrapeUrl = check.scrapeUrl;
+    const selector = check.selector;
+    const id = check.id;
+    const multiple =  check.multiple;
+
     await context.clearCookies();
     await page.goto(scrapeUrl);
 
@@ -25,12 +31,12 @@ async function grab(turndownService, context, page, scrapeUrl, selector, id, mul
         }
     } else {
         const elementHandle = await page.$(selector);
-        //await elementHandle.screenshot({ path: `scrapes/${id}.png` });
         innerHtml = await elementHandle.innerHTML();
     }
-    
-    //fs.writeFileSync(`scrapes/${id}.md`, turndownService.turndown(`<div><div>${innerHtml}</div><img src="scrapes/${id}.png"><p><a href="${scrapeUrl}">Source</a></p></div>`));
-    fs.writeFileSync(`scrapes/${id}.md`, turndownService.turndown(`<div><div>${innerHtml}</div><p><a href="${scrapeUrl}">Source</a></p></div>`));
+
+    const mdFilePath = `scrapes/${id}.md`;
+    ensureDirectoryExistence(mdFilePath);
+    fs.writeFileSync(mdFilePath, turndownService.turndown(`<div><div>${innerHtml}</div><p><a href="${scrapeUrl}">Source</a></p></div>`));
 }
 
 async function grabAll(checks) {
@@ -46,7 +52,7 @@ async function grabAll(checks) {
 
         for (const check of checks) {
             try {
-                await grab(turndownService, context, page, check.scrapeUrl, check.selector, check.id, check.multiple);   
+                await grab(turndownService, context, page, check);   
             } catch (e) {
                 failed = true;
                 console.error(`Something failed for check ${check.id}`, e);
@@ -61,6 +67,15 @@ async function grabAll(checks) {
         }
         console.log("Finished.");
     }
+}
+
+function ensureDirectoryExistence(filePath) {
+    var dirname = path.dirname(filePath);
+    if (fs.existsSync(dirname)) {
+      return true;
+    }
+    ensureDirectoryExistence(dirname);
+    fs.mkdirSync(dirname);
 }
 
 module.exports = {grabAll};
