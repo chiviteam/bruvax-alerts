@@ -9,7 +9,7 @@ async function grab(turndownService, context, page, check) {
     const scrapeUrl = check.scrapeUrl;
     const selector = check.selector;
     const id = check.id;
-    const multiple =  check.multiple;
+    const multipleItemId =  check.multipleItemId;
 
     await context.clearCookies();
     await page.goto(scrapeUrl);
@@ -21,12 +21,12 @@ async function grab(turndownService, context, page, check) {
         })
     });
 
-    if (multiple) {
+    if (multipleItemId) {
 
         const elementHandles = await page.$$(selector);
         for(const el of elementHandles) {
             const innerHtml = await el.innerHTML();
-            const itemId = await check.multipleItemId(el);
+            const itemId = await multipleItemId(el);
             const mdFilePath = `scrapes/${id}/${itemId}.md`;
             writeMarkdownFile(turndownService, mdFilePath, innerHtml, scrapeUrl);
         }
