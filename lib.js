@@ -25,12 +25,12 @@ async function grab(turndownService, context, page, check) {
 
         const elementHandles = await page.$$(selector);
         for(const el of elementHandles) {
-            const itemId = check.multipleItemId(el);
             const innerHtml = await el.innerHTML();
+            const itemId = await check.multipleItemId(el);
             const mdFilePath = `scrapes/${id}/${itemId}.md`;
             writeMarkdownFile(turndownService, mdFilePath, innerHtml, scrapeUrl);
         }
-        
+
     } else {
         const elementHandle = await page.$(selector);
         const innerHtml = await elementHandle.innerHTML();
