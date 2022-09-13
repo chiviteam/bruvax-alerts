@@ -193,6 +193,6 @@ du 17 au 21 juillet 2023 Pour les enfants de **4 à 7 ans** pour les 5 jours 150
 Nous continuons l’aventure avec [« un pas de côté »](https://artnature.be/)
 ===========================================================================
 
-[![](https://terresneuves.be/wp-content/uploads/journee-27-septembre-1-660x1024.jpg)](https://artnature.be/)
+[![](https://terresneuves.be/wp-content/uploads/journee-27-septembre22-1-scaled.jpg)](https://artnature.be/)
 
 [Source](https://terresneuves.be/enfants/)
