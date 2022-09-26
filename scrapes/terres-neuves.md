@@ -147,7 +147,7 @@ du 24 au 28 octobre 2022 Pour les enfants de **4 à 7 ans** pour les 5 jours 150
 Stage n°2
 ---------
 
-du 02 au 04 novembre 2022 Pour les enfants de **9 à 13 ans** pour les 3 jours 90€. Avec Fred et Wouter
+du 02 au 04 novembre 2022 Pour les enfants de **8 à 13 ans** pour les 3 jours 90€. Avec Fred et Wouter
 
 Stage n°3 (Noël)
 ----------------
