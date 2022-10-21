@@ -4,7 +4,7 @@ Derniers tickets ![](https://www.bozar.be/sites/default/files/styles/small_card_
 
 Sold out Annulé Reporté
 
-21 Oct. →  
+Now →  
 4 Déc.'22
 
 #### Faces of Water
