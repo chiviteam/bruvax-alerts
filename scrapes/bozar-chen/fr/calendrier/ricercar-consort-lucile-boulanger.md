@@ -7,6 +7,6 @@ Sold out Annulé Reporté
 6 Nov.'22  
 \- 19:00
 
-#### Ricercar Consort & Lucile Boulanger
+#### Ricercar Consort - Lucile Boulanger
 
 [Source](https://www.bozar.be/fr/search?contentType=event&searchQuery=chen)
