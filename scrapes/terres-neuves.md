@@ -139,23 +139,13 @@ Pour les enfants de 4 à 7 ans, les activités liées à la pratique de l’esca
 
 Pour chaque stage, les thèmes varient (masques, Chine, jeux africains, cirque, théâtre d’ombres…).
 
-Stage n°1 complet
------------------
-
-du 24 au 28 octobre 2022 Pour les enfants de **4 à 7 ans** pour les 5 jours 150€. Avec Cécile et Marc
-
-Stage n°2
----------
-
-du 02 au 04 novembre 2022 Pour les enfants de **8 à 13 ans** pour les 3 jours 90€. Avec Fred et Wouter
-
 Stage n°3 (Noël)
 ----------------
 
 du 27 au 29 décembre 2022 Pour les enfants de **9 à 13 ans** pour les 3 jours 90€. Avec Fred et Wouter
 
-Stage n°4 (Noël)
-----------------
+Stage n°4 (Noël) **COMPLET**
+----------------------------
 
 du 02 au 06 janvier 2023 Pour les enfants de **5 à 8 ans** pour les 5 jours 150€. Avec Cécile et Marc
 
