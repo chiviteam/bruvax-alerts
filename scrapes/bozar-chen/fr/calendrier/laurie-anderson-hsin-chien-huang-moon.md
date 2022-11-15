@@ -4,7 +4,7 @@ Derniers tickets ![](https://www.bozar.be/sites/default/files/styles/small_card_
 
 Sold out Annulé Reporté
 
-15 Nov.'22 →  
+Now →  
 8 Jan.'23
 
 #### Laurie Anderson & Hsin-Chien Huang, To the Moon
